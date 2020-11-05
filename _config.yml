@@ -10,9 +10,9 @@ author: Martin Malý
 navbar-links:
   Zápisník na Medium: "https://medium.com/@adent"
   Knihy:
-    "Hradla, volty, jednočipy": "https://elektrokniha.cz"
-    "Porty, bajty, osmibity": "https://osmibity.cz"
-    "Data, čipy, procesory": "https://datacipy.cz"
+    Hradla volty jednočipy: "https://elektrokniha.cz"
+    Porty bajty osmibity: "https://osmibity.cz"
+    Data čipy procesory: "https://datacipy.cz"
   Autor: "https://maly.cz"
 
 # --- Logo --- #
