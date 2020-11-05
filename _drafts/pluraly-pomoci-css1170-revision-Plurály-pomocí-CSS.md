@@ -1,0 +1,46 @@
+---
+id: 1172
+title: Plurály pomocí CSS
+date: 2013-03-15T14:23:00+01:00
+author: Martin Malý
+layout: revision
+guid: http://www.misantrop.info/1170-revision/
+permalink: /1170-revision/
+---
+Takový pěkný CSS hack na páteční odpoledne, aneb Jak vyřešit plurály, když máte v ruce jen CSS a HTML?
+
+<!--more-->
+
+Představte si redakční systém, kde máte přístup jen k HTML šablonám a k CSS. Obsah do nich vkládáte pomocí nějakých speciálních značek. A teď chcete vypsat počet komentářů.
+
+S počtem komentářů je ten problém, že v češtině máme dvě množná čísla. Podívejte se sami:
+
+  * 1 komentář
+  * 2 komentáře
+  * 3 komentáře
+  * 4 komentáře
+  * 5 komentářů
+  * 6 komentářů
+
+&#8230;atakdál. Podle starých pravidel se řídil tvar podle poslední číslice i v případech jako je 21, 22, 23&#8230; (21 komentář, 22 komentáře), ale nová pravidla kodifikují jako přijatelný i tvar &#8222;21 komentářů&#8220;. (Důvod je prostý &#8211; představte si větu &#8222;4721 divák nadšeně aplaudoval&#8220; &#8211; viz [Šílený korektor](http://interval.cz/clanky/hrichy-pro-sileneho-korektora-clovek-versus-psani-cislovek/)).
+
+Takže tedy řešíme stavy 0, 1, 2-4 a 5+ a patřičný tvar.
+
+A teď si představte, že redakční systém umí odlišit situaci, kdy nejsou žádné komentáře (a tu ošetří), no a pro všechno ostatní tu je jedna HTML šablona a v ní je:
+
+<pre>&lt;p&gt;Diskuse obsahuje $CommentNum$ příspěvků&lt;/p&gt;</pre>
+
+Ne, žádné podmínky šablona nenabízí. Takže výsledkem jsou hlášky &#8222;Diskuse obsahuje 3 příspěvků&#8220;, nemluvě o &#8222;Diskuse obsahuje 1 příspěvků&#8220;.
+
+Jak to pořešit? Jedna z možností je využít JavaScript, no a druhá možnost, kterou mi dneska ukázal kolega Honza Drda, využívá CSS. Já takové řešení nenašel, tak ho zveřejňuju s nadějí, že se může někomu hodit (a s Honzovým souhlasem, samozřejmě).
+
+HTML kód je:
+
+<pre>&lt;p&gt;Diskuse obsahuje $CommentNum$ &lt;span class="none ek$CommentNum$"&gt;příspěvek&lt;/span&gt;&lt;span class="none ky$CommentNum$"&gt;příspěvky&lt;/span&gt;&lt;span class="none ku$CommentNum$"&gt;příspěvků&lt;/span&gt;&lt;/p&gt;</pre>
+
+a k tomu patří jednoduchá CSS pravidla:
+
+<pre>.none,.ku1,.ku2,.ku3,.ku4 { display: none; } 
+.ek1,.ky2,.ky3,.ky4 { display: inline;}</pre>
+
+A to je celé&#8230;

@@ -1,0 +1,38 @@
+---
+id: 2611
+title: Očkování
+date: 2016-12-21T18:15:03+01:00
+author: Martin Malý
+layout: revision
+guid: http://www.misantrop.info/2610-revision-v1/
+permalink: /2610-revision-v1/
+---
+(Vyšlo na IHNED.cz, leden 2016)
+
+<span style="font-weight: 400;">Kdybych byl sportovní redaktor, tak napíšu něco jako “Ústavní soud hlásí: Špaldamatky vs Farmalobby &#8211; 1:0”</span>
+
+<span style="font-weight: 400;">Samozřejmě, je to závažné téma, o kterém by měli diskutovat odborníci a přinášet argumenty, že? Ironii stranou, není na místě, že? Cha! </span>
+
+<span style="font-weight: 400;">Zatímco farmaceutická lobby sčítá škody, způsobené poklesem příjmů za chemtrails, z druhé strany utržila další zdrcující úder, tentokrát od špaldamatek, čakrabáb a jiných biolesan, které vysoudily rodičům právo rozhodnout o tom, zda nechají svoje dítě naočkovat.</span>
+
+<span style="font-weight: 400;">Poté, co se ukázalo, že onen slavný výzkum, který prokázal škodlivost vakcín a jejich souvislost s autismem, stojí na vodě, respektive na penězích od konkurenční farmaceutické společnosti, a že se tedy jaksi nelze houfovat kolem argumentu “něco si o tom přečti, vědci to dokázali, ale nesmí se to říkat”, sáhli odpůrci (tedy většinou spíš odpůrkyně) očkování ke kalibru nejtěžšímu, totiž ke svědomí. Argument tedy nyní zní “nebyla prokázána škodlivost, ale my si myslíme, že to škodit může, protože se o tom už psalo, ono bůhví jak to bylo, a tak podezření zůstává, takže prosím pěkně ne.”</span>
+
+<span style="font-weight: 400;">Ústavní soud se nezabýval podložeností či nepodložeností tvrzení o škodlivosti očkování, to by asi nebylo dlouhé jednání; místo toho zkoumal důvody svědomí, a došel k závěru, že v konkrétním případě má matka opravdu obavy, které nepramení z její “zpovykanosti”, a la “přečetla jsem si to na internetu a holky to taky říkají, něco si o tom přečtěte”. Tak.</span>
+
+<span style="font-weight: 400;">Zatímco odpůrci očkování jásají, že jim soud dal potvrzení správnosti jejich přesvědčení, tak střízlivým okem vypadá situace jinak. Očkování dál zůstává povinné, dál platí, že rodiče nemohou své dítě odmítnout nechat očkovat z nějakých důvodů a la “myslím si, že to je škodlivé”, ale je potřeba mít vyfutrované to svědomí. Zároveň se tím jaksi posunula rovina debaty o očkování &#8211; už nejde o racionální debatu s argumenty, ale o věc víry, proti níž se argumentovat nedá, neboť ta začíná tam, kde argumenty končí. Jehovistům zakazuje víra přijmout transfúzi krve, špaldamatkám nechat očkovat dítě, rozdíl mezi tím, z hlediska soudu, není. Jen si říkám, jaké to je, být sám očkováním ochráněn, a vlastnímu dítěti říct, že pro něj ta ochrana vhodná není… Ale co, tomu nerozumím, to je otázka svědomí. Že?</span>
+
+<span style="font-weight: 400;">Bylo by samozřejmě hloupé smát se špaldamatkám, že to jsou potrhlé ženštiny, jen kvůli jejich víře. Takže jsem se podíval do debaty pod statusem o nálezu ústavního soudu, a našel jsem jiný materiál k posměškům:</span>
+
+<span style="font-weight: 400;">&#8222;Neco si o Tom nejprve nastudujte. Ze byly nemoci a vakciny je vymitily je mytus&#8220;</span>
+
+<span style="font-weight: 400;">Tohle musí být troll. Že by vakcíny vymýtily nějaké nemoci je mýtus. Aha. Takže to, že tu teď nejsou, zatímco v takzvaných zemích třetího světa ano, to je způsobeno čím? Hygienickými podmínkami? Ano, ty odstranily velké množství chorob, včetně třeba moru, ale co ty ostatní? Záškrt, tetanus, neštovice…? No, třeba se to dozvíme z další odborné diskuse&#8230;</span>
+
+<span style="font-weight: 400;">Do té vstoupil pan Vratislav: “Nezlobte se,ale mám zdravotnické vzdělání, ale to co tvrdíte je opravdu takový nesmysl, že nemá cenu o tom dále hovořit.”</span>
+
+<span style="font-weight: 400;">A na to mu další diskutující, paní Zuzana, kontruje: “Tak to je potom jasné,ten váš názor,když máte zdravotnické vzdělání,to se pak neni čemu divit.”</span>
+
+<span style="font-weight: 400;">Bim ho, Svatá emitní miska víry ve škodlivost medicíny objevena: Nějaké nemoci a očkování sice spadají do zdravotnictví a medicíny, ale na rozdíl od jiné problematiky tady platí, že ten, kdo má vzdělání v oboru, je z diskuse diskvalifikován, protože byl během studia jistě indoktrinován farmaceutickou lobby a starými lékaři a proto říká to, co říkají všichni doktoři. Ergo jsi-li doktor, nerozumíš tomu, a pokud říkáš, že se mýlíme, tak je to proto, že jsi sám vymyt; něco si o tom přečti, kámo. Q.E.D.</span>
+
+<span style="font-weight: 400;">Je zcela zjevné, že největší odborník na šíření chorob v populaci nebude nějaký trapný lékař, natož třeba epidemiolog, ale matka na mateřské s přístupem k internetu a dostatečnou zásobou historek o tom, jak doktoři někoho málem zabili a zničili, ale on na poslední chvíli začal dlabat dýňová semínka a tím se zachránil. K tomu přidají nějaké ty ověřené informace z webů, psaných jinými špaldamatkami, a už to jede: “Doktoři předepisují léky, ale nikdo neví, jak ty léky fungují,” třeba. Na co studium medicíny, biochemie, farmacie, víra nám odpoví na vše!</span>
+
+<span style="font-weight: 400;">A vůbec, pane Čapek, vy byste si měl přečíst něco o robotech dřív, než budete psát takové nesmysly, jako je to vaše R. U. R.!</span>

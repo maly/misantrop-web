@@ -1,0 +1,25 @@
+---
+id: 1840
+title: ACTA Pirát
+date: 2013-12-09T14:00:49+01:00
+layout: revision
+guid: http://www.misantrop.info/864-revision-v1/
+permalink: /864-revision-v1/
+---
+&#8222;_Copak autor článku vydal nějaké NEsvolení?_&#8220; ptá se Martin Brož z Pirátských novin, přistižen při zveřejňování článků a fotografií bez souhlasu autorů.
+
+Samozřejmě. Každý autor dává automaticky NEsouhlas &#8211; je to základní ustanovení autorského zákona. Když chce dát souhlas, použije k tomu takzvanou licenci, kterou jiným umožní s jeho dílem nakládat. Opět ze zákona.
+
+Konstrukce &#8222;implicitního souhlasu&#8220;, který by bylo potřeba popírat &#8222;nesvolením&#8220;, je pomatenost.
+
+&#8212;
+
+Plně chápu lidi, kteří jsou proti ACTA, ale nechtějí podpořit protestní akce, v nichž se angažují Piráti. Obzvlášť když si přečtu páně Brožovy výklady autorského práva.
+
+Vyzývám proto všechny, kterým vadí ACTA, ale nehodlají podporovat Piráty: **Nebojte se vystoupit proti ACTA za sebe! Udělejte to, prosím! Pošlete dopis poslancům. Publikujte. Informujte. Přidejte se například k apolitickému [AgainstACTA](http://againstacta.cz)** (akce Josefa Šlerky a dalších).
+
+Děkuji.
+
+PS &#8211; můžete použít badge pro web: 
+
+<https://gist.github.com/1729679></p>

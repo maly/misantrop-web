@@ -1,0 +1,32 @@
+---
+id: 2773
+title: Patreon
+date: 2017-02-23T10:52:34+01:00
+author: Martin Malý
+layout: revision
+guid: http://www.misantrop.info/2681-revision-v1/
+permalink: /2681-revision-v1/
+---
+Že neznáte [Patreon](https://patreon.com/invite/xybrok)? Si z toho nic nedělejte, já ho objevil taky až nedávno, když se o něm v jedné diskusi o Pianu zmínil Riki Fridrich. O co jde? O nic víc a míň než o kombinaci mikroplateb, donate buttonu a Kickstarteru, speciálně pro tvůrce obsahu. Díky Patreonu je možné oslovit fanoušky a proměnit je na Patrony.
+
+<div id="attachment_2682" style="width: 510px" class="wp-caption aligncenter">
+  <img aria-describedby="caption-attachment-2682" class="size-medium wp-image-2682" src="http://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308-500x375.jpg" alt="" width="500" height="375" srcset="https://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308-500x375.jpg 500w, https://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308-200x150.jpg 200w, https://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308-768x576.jpg 768w, https://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308-1024x768.jpg 1024w, https://www.misantrop.info/wp-content/uploads/2017/01/9.3X62-30-06-8X57-6.5X55-308.jpg 2048w" sizes="(max-width: 500px) 100vw, 500px" />
+  
+  <p id="caption-attachment-2682" class="wp-caption-text">
+    Ne na tyhle, samozřejmě. Na patrony ve smyslu &#8222;ochránce, příznivec&#8220;&#8230;
+  </p>
+</div>
+
+<!--more-->
+
+Patroni, podobně jako na Kickstarteru, přispívají tvůrci na jeho tvorbu. Je na něm, jestli zvolí příspěvky za každé dílo, nebo měsíční. Některému autorovi třeba vyhovuje, když mu lidé přispějí za natočené video, jiný toho tvoří tolik, že raději nastaví platbu za období.
+
+Zatím to vypadá jako Flattr, že? Ale je tu pár rozdílů: Ti, co jsou patrony (sakra, zase&#8230; Je to &#8222;být patronem&#8220;, ne &#8222;být patrona&#8220;!), získávají, podobně jako na Kickstarteru, drobné odměny podle toho, kolik přispějí. Třeba můžete získat obrázek s věnováním, nebo se o vás autor zmíní ve svém dalším videu, nebo tak něco. Což je fajn, ne? Zároveň má autor nějaké cíle, goals, třeba podle toho, kolik patronů sežene, nebo kolik peněz měsíčně získá, a podle toho slíbí, že udělá to či ono.
+
+Chcete příklad? Tak třeba já: Pokud se stanete mým patronem, získáte přístup k obsahu, který je označen &#8222;pouze pro patrony&#8220;. Tedy určité články, videa, schémata, zapojení, tutoriály, software atd., který nechci z nejrůznějších důvodů dávat úplně všem. Další úroveň patrona získá možnost být zmíněn třeba v textu. Ještě vyšší level patronů má přístup k pracovním verzím mých textů před tím, než vyjde &#8211; většinou tedy tak o dva dny dřív. Zlatý patron získá i přístup k textům nevydaným, a zároveň dostane informaci o nově spouštěných službách nebo chystaném software před tím, než to oficiálně uvolním, takže může vesele betatestovat. Ještě vyšší úrovně patronství jsou omezené &#8211; třeba Edushield Patron (maximálně tři) získá jako poděkování jeden ze tří prototypů [EduShieldu](https://iotta.cz/vyukovy-shield-pro-arduino-dil-prvni/) s podpisem, a ten nej nej patron (který může být jen jeden) má unikátní nabídku &#8211; [však se podívejte sami](https://www.patreon.com/adent).
+
+Jak to funguje? Takový tvůrce obsahu (grafik, autor videí, autor hudby, textů,  ale třeba i software&#8230;) se [zaregistruje na Patreon](https://patreon.com/invite/xybrok) a napíše něco o sobě. Co dělá, kde to dělá a jak. Bohužel jen anglicky. Pak si rozumně rozvrhnete úrovně patronství, rozmyslíte si, jestli chcete od svých příznivců získávat příspěvky _per dílo_, nebo měsíčně, a pak už jen tvoříte!
+
+Vy, jako něčí příznivec, se podíváte na jeho [profil na Patreonu](https://www.patreon.com/adent), rozmyslíte si, kolik chcete přispět (většina autorů začíná na jednom dolaru za měsíc, popřípadě za dílo), zaregistrujete se (pokud už nejste), a zadáte platební údaje, podobně jako na Kickstarteru. Svůj patronát můžete samozřejmě kdykoli odvolat. Můžete si taky u plateb &#8222;per dílo&#8220; určit, že třeba přispějete jeden dolar za každé video, ale maximálně pět dolarů měsíčně&#8230;
+
+Připadá mi to jako docela šikovná služba, kde můžete podpořit oblíbeného autora, a přispět mu ne snad přímo na živobytí, ale třeba na radostnější tvorbu. _Já třeba příspěvky od lidí používám k tomu, abych jednou za čas koupil třeba nějaký pěkný devkit. Ne že bych na to normálně neměl, to samozřejmě mám, ale připadá mi to tak nějak rozumné: vy mi fandíte, a já vám to vrátím tím, že za to koupím něco, díky čemu můžu napsat pro vás zase něco nového, zajímavého, něco vytvořit&#8230;_

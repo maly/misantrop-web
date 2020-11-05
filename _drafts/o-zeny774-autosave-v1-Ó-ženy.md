@@ -1,0 +1,66 @@
+---
+id: 779
+title: Ó, ženy!
+date: 2014-05-12T22:48:31+01:00
+author: Martin Malý
+layout: revision
+guid: http://www.misantrop.info/774-autosave/
+permalink: /774-autosave-v1/
+---
+Typický příklad klamavého titulku. O ženách toho bude v článku jen minimálně, ve skutečnosti se bude mluvit o mužích, křupanech a o tom, jak zvládnout veřejnou diskusi a nemít z ní při morálním vítězství pocit morální kocoviny.
+
+<!--more-->
+
+Ráno jsem se probudil a našel na Facebooku odkaz od Evy (ano, od [té s whisky](http://www.misantrop.info/uslechtily-konicek/)) na článek na Games.cz &#8211; &#8222;[Dívčí válka, aneb Běda mužům, kterým žena navrhuje hry](http://games.tiscali.cz/tema/divci-valka-aneb-beda-muzum-kterym-zena-navrhuje-hry-61925)&#8220; Z článku samotného se mi zvedá kufr, ale beru to podobně jako Tlamiczka v diskusi pod ním: Ano, většina těch reakcí je z USA, a tam je žensko-mužská fronta podstatně vyhraněnější, v ČR to není až tak extrémní, i když výskat si rozhodně nelze.
+
+A pak člověk vleze do diskuse pod článkem a nestačí se divit! Z mnoha geniálních názorů ocituju jen ten, že žena, co je nalíčená a má rtěnku, tak to dělá jen proto, aby zvýšila svou sexuální přitažlivost, a &#8222;někoho takového v diskusi přeci nelze brát vážně&#8220;.  Geniální. Kdy dotyčný naposledy viděl ženskou? Mno, to je vlastně jasné, včera večer když listoval časákem&#8230; ale kdy s ženskou mluvil? Ech&#8230; že?
+
+Pokud na Games nevyměknou a diskusi neutnou, tak může narůst do epických rozměrů, jako dnes už legendární [diskuse pod článkem o ženách v IT na Rootu](http://www.root.cz/clanky/it-zeny-nejsou-vitany/nazory/), kde muži zcela přesně _věděli_, koho ženy chtějí, a když jim to ženy vyvracely, tak padaly ultimátní argumenty a la &#8222;ticho, ženský, houby tomu rozumíte!&#8220;
+
+A tím jsem se hezky a nenásilně dostal k druhé perle včerejška, k Čálkovi. Ano, k tomu z Cool People; již jsem měl tu čest.
+
+<p style="padding-left: 30px;">
+  Odbočka: Pokud nečtete moje stránky soustavně, tak vězte, že Cool People někde splašili moje telefonní číslo a začali mi posílat nabídky práce. Na můj dotaz, kde telefon vzali, mi odmítli odpovědět, a když jsem se tedy zeptal výš, tak mi odpověděl jednatel Milan Čálek &#8211; arogantně se mě snažil vyfakovat, pak se zamotal do své vlastní konstrukce a nakonec mi vynadal do nevděčníků a <a href="http://www.misantrop.info/nejsme-personalni-agentura">řekl, že se se mnou už nikdy nebude bavit</a>. Samozřejmě mě z databáze nesmazali a <a href="http://strucny.misantrop.info/co-ze-se-stane-kdyz-pozadate-aby-vam-uz-nikdy">za rok volali zas</a>. No a na podzim 2012 opět. Inu, na takovéhle chování to chce mít speciální náturu, a tu Čálek zjevně má &#8211; na rozdíl od jiných lidí, jak si ukážeme dál&#8230;
+</p>
+
+Čálek totiž přišel s geniálním nápadem spojit soutěž Miss a výpočetní techniku. Vskutku originální, kdo si pamatujete na průser s Miss Internet, tak se v tomhle místě jistě jen usmějete. Myšlenka to je prostá jak jednatel personální agentury: _&#8222;Dneska je Miss kdečeho. Proč neudělat soutěž Miss ajťáků &#8211; ajťáci furt koukaj na obrázky hezkejch ženskejch, holky se předvedou, vítězce dáme ajfón, bude k tomu mediální publicita zadarmo, obkydáme to tím, jak boříme mýty o tom, že v IT jsou ženský škaredý, pak fáze 2, no a fáze 3 je profit!&#8220;_
+
+Ne že by to nefungovalo. Bude to fungovat do té doby, dokud chlapi budou ochotní koukat na hezké ženské a dokud hezké ženské budou ochotné soupeřit mezi sebou, která že je nejhezčí. Takže vlastně furt.
+
+Kdo pamatujete Miss Internet, tak si vzpomenete na výhrady: Některé holky byly IT jen tím, že dělaly sekretářku v IT firmě, tak co že to má za smysl? Nejinak tomu bylo i teď &#8211; Čálek se přišel pochlubit na LinkedIn tím, jak vyhlašovali výsledky, a lup! Hned první komentář byl od [Jeanne Trojan](http://www.jmtcz.cz/index.php/en/aboutme), takto američanky, žijící v ČR, která, jako by chtěla potvrdit Tlamiczčin postřeh, vpálila Čálkovi: _&#8222;Cože? Hodnotíte ženy v IT podle jejich přitažlivosti?&#8220;_
+
+Mno. Takový komentář zpracujete velmi dobře, pokud máte alespoň trochu cit pro komunikaci a pokud nejste Čálek. Pokud jste Čálek, opáčíte, že &#8222;podle vašich zkušeností mají se soutěžemi Miss problém pouze ženy s nízkým sebevědomím&#8220; a dodáte, že &#8222;to pouštíte jedním uchem tam, druhým ven&#8220;. Šlo to zahrát na úrovni, ale ne, vy jste si museli zlehka kopnout a museli jste zahrát, jak jste děsně cool a nad věcí.
+
+<p style="padding-left: 30px;">
+  Dovolte mi poznámku, a vězte, že o tom něco vím: Stejně jako může být humor brilantní, jiskřivý, a na druhé straně zupácky upocený a křupanský, tak i aroganci můžete prezentovat vícero způsoby &#8211; buď jako elegantní šlehnutí bičíkem, jak to umí třeba Sheldon Cooper, nebo jako silové buranství. Hodně záleží na vaší inteligenci&#8230; Ale teď zpět k diskusi.
+</p>
+
+Diskuse se totiž úspěšně rozjela a zapojili se do ní lidé jako Martin Hassman, Adam Zbiejczuk, Janek Wagner, Dušan Šimonovič či Anna Filkuková. Doporučuju přečíst celé &#8211; diskuse sice už není, ale díky Dušanovi existuje [screenshot](http://imageshack.us/f/6/missitmartincalekinacti.png/), a až si to přečtete, tak se vraťte a ukážeme si něco zajímavého.
+
+EDIT 2014: Screenshot už neexistuje, YFrog ho sežral&#8230; Zbytky jsou v článku u Dana Dočekala
+
+Už jste zpět? Dali jste to? Fajn!
+
+Tak **zaprvé**: Čálek neumí komunikovat a diskutovat. Svěřit mu třeba krizovou komunikaci by mohla být neskutečná švanda. Bez debat. V diskusi si brutálně a ukázkově pohamtal a tam, kde měl šanci celkem snadno získat plusové body, udělat pozitivní dojem a přitáhnout lidi na svou stranu, tak tam zcela zbytečně kopal a &#8222;přebíjel&#8220; jednoho oponenta po druhém.
+
+**Zadruhé**: Čálek je velmi zkušený _hadač_, zjevně ostřílený ze sporů, ve kterých nejde o to se dohodnout, ale zlikvidovat protivníka. Všimněte si, jak rutinně na věcné argumenty odpoví nějakým tmelem, _aby se zdálo, že odpověděl_, a vzápětí obrátí do protiútoku _ad hominem_, protože má viditelně zažitý model, že je (pro něj) snazší protivníka zlikvidovat, než se s ním dobrat nějakého výsledku. (_Což občas děláme všichni, ale každý máme jinak nastavenou hranici, za kterou takovéhle jednání spouštíme._)
+
+**Zatřetí**: Lidi, kteří jsou velmi zběhlí v profesionální komunikaci, jsou tváří v tvář takhle nekorektnímu oponentovi bezmocní. Nedokážou si připustit, že se nehraje fér hra, a &#8211; jak podotkl David Grudl &#8211; s přehledem skáčou na špeky a tancují, jak Čálek píská.
+
+A to je, myslím, to největší poučení, které se dá z té trapné historie vytěžit. Korektní diskusní metody jsou nefunkční, pokud je nehodlají používat obě strany. Jestliže je oponent ignoruje, musíte buď diskusi opustit (a pak poslouchat, jak jste utekli, protože nemáte argumenty), nebo musíte použít diskusní judistické techniky, hmaty a chvaty, kterými dotyčného zneutralizujete. Není to jednoduché, ne každému je dáno, a trošku si při tom umažete ruce, i když to ustojíte. Když to neustojíte, vyválíte se v tom celí. _Paralelu s demokracií, která se nedokáže ubránit tomu, když někdo zneužije její mechanismy proti demokracii samotné, si jistě domyslíte sami._
+
+Výše zmínění účastníci diskuse jsou zkušení _komunikátoři_, a přesto podlehli primitivnímu protiútoku stylem &#8222;a co jste dokázali vy?&#8220; Místo toho, aby udrželi debatu _on topic_, tak náhle začali hájit sami sebe a svůj profesní kredit, čemuž se Čálek vysmál. Stačilo málo, u někoho jen říct: &#8222;A vy jste kdo? Neznám vás&#8230;&#8220; Ó, korektnosti, tvé druhé jméno je bezbrannost!
+
+No, nakonec Čálek potvrdil můj bod číslo 1 a celou diskusi smazal. Siroty po ní zůstaly, jako ten Dušanův screenshot a troška čmoudu bezmocných nadávek na Twitteru a Facebooku. A tak paradoxně zvítězil Čálek, kterého podobné spory zjevně baví, a prohráli jeho oponenti, kteří nepochopili, jaká hra se vlastně hraje.
+
+Opravdu?
+
+Z druhého břehu nahlíženo si oponenti zachovali úroveň, a někde se už jistě vaří voda.
+
+Jenže ten první pohled je očividný a bezprostřední, zatímco ten druhý je dlouhodobý a poměrně nenápadný.
+
+&#8212;
+
+Douška: Ale no jistě, bylo možné veřejně spráskat Čálka tak, že by stáhnul ocas mezi nohy a smazal se z internetů, jenže riziko je veliké a trefně ho popisuje to rčení &#8222;nehádej se s pitomcem, lidi by vás od sebe nemuseli rozeznat&#8220;. Takové řešení by vždycky skončilo s tím, že by si valná část přihlížejících řekla: _Hle, banda krvežíznivých znuděných provokatérů z dlouhé chvíle šikanuje bezbranného člověka, co se snaží něco udělat&#8230;_
+
+Druhé rčení zase říká: &#8222;Nebojuj s prasetem v blátě. Špinaví budete oba, ale prase si to bude užívat.&#8220; Pokud chcete z podobného střetu vyjít vnitřně nepoškozeni, musíte být to prase, co si to užije. Máte na to? A stojí vám to za to? (Kdysi jsem se zúčastnil &#8222;boje v blátě&#8220; &#8211; kdo pamatujete Laca a jeho diskusní koutek s GTI a Tomíkem, tak budete vědět. Tehdy jsme s aTeem šli hodně nízko a hodně tvrdě a GTI pak asi týden mlčel, než napsal znovu svoje &#8222;Bravo, Laco!&#8220; A dlouhodobý efekt? Žádný&#8230;)
