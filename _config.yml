@@ -10,9 +10,9 @@ author: Martin Malý
 navbar-links:
   Zápisník na Medium: "https://medium.com/@adent"
   Knihy:
-    Hradlavoltyjednocipy: "https://elektrokniha.cz"
-    Portybajtyosmibity: "https://osmibity.cz"
-    Datacipyprocesory: "https://datacipy.cz"
+    "Hradla, volty, jednočipy": "https://elektrokniha.cz"
+    "Porty, bajty, osmibity": "https://osmibity.cz"
+    "Data, čipy, procesory": "https://datacipy.cz"
   Autor: "https://maly.cz"
 
 # --- Logo --- #
@@ -58,7 +58,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: "Hrách a broky!
+rss-description: "Hrách a broky!"
 
 # --- General options --- #
 
