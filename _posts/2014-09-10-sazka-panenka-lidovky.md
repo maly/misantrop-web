@@ -26,7 +26,7 @@ To jsem ani nečekal, poslyšte, to vážně nemuselo být&#8230;
 
 V pondělí dával Vilém Rubeš na svůj FB fotku předvolebního plakátu:
 
-[<img class="aligncenter size-full wp-image-2156" src="https://misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg" alt="panenka-orig" width="403" height="537" srcset="https://www.misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg 403w, https://www.misantrop.info/wp-content/uploads/2014/09/panenka-orig-150x200.jpg 150w, https://www.misantrop.info/wp-content/uploads/2014/09/panenka-orig-375x500.jpg 375w" sizes="(max-width: 403px) 100vw, 403px" />](https://misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg)
+[<img class="aligncenter size-full wp-image-2156" src="https://misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg" alt="panenka-orig" width="403" height="537" srcset="https://misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg 403w, https://misantrop.info/wp-content/uploads/2014/09/panenka-orig-150x200.jpg 150w, https://misantrop.info/wp-content/uploads/2014/09/panenka-orig-375x500.jpg 375w" sizes="(max-width: 403px) 100vw, 403px" />](https://misantrop.info/wp-content/uploads/2014/09/panenka-orig.jpg)
 
 Zaujala mě patka a knír Antonína Panenky. Taky koho by ne, že? Spustil jsem Photoshop a&#8230;
 
@@ -34,13 +34,13 @@ Kolega se smál a říkal: &#8222;Ještě dej na to triko 88!&#8220; No, trvalo 
 
 No a zde je výsledek. Najdi čtyři rozdíly:
 
-[<img class="aligncenter wp-image-2157 size-medium" src="https://misantrop.info/wp-content/uploads/2014/09/panenka-375x500.jpg" alt="panenka" width="375" height="500" srcset="https://www.misantrop.info/wp-content/uploads/2014/09/panenka-375x500.jpg 375w, https://www.misantrop.info/wp-content/uploads/2014/09/panenka-150x200.jpg 150w, https://www.misantrop.info/wp-content/uploads/2014/09/panenka.jpg 720w" sizes="(max-width: 375px) 100vw, 375px" />](https://misantrop.info/wp-content/uploads/2014/09/panenka.jpg)
+[<img class="aligncenter wp-image-2157 size-medium" src="https://misantrop.info/wp-content/uploads/2014/09/panenka-375x500.jpg" alt="panenka" width="375" height="500" srcset="https://misantrop.info/wp-content/uploads/2014/09/panenka-375x500.jpg 375w, https://misantrop.info/wp-content/uploads/2014/09/panenka-150x200.jpg 150w, https://misantrop.info/wp-content/uploads/2014/09/panenka.jpg 720w" sizes="(max-width: 375px) 100vw, 375px" />](https://misantrop.info/wp-content/uploads/2014/09/panenka.jpg)
 
 Banální fotomontáž, jakých se v klubu OLOL propere desítka denně.
 
 Nojo, jenže tentokrát Blesk i Novu předběhly Lidovky, kam ta fotomontáž přes sítě doputovala. Tam to vzala pevnou rukou redaktorka a nenapadlo ji nic lepšího, než zavolat Sazce. Nevšimla si ani divného knírku, ani zjevně okousaného loga, ani čísla &#8222;88&#8220; (a to jinak média vidí &#8222;nebezpečnou číselnou symboliku&#8220; všude), získala vyjádření a stvořila článek:
 
-[<img class="aligncenter wp-image-2158 size-large" src="https://misantrop.info/wp-content/uploads/2014/09/lidovky-252x1024.png" alt="lidovky" width="252" height="1024" srcset="https://www.misantrop.info/wp-content/uploads/2014/09/lidovky-252x1024.png 252w, https://www.misantrop.info/wp-content/uploads/2014/09/lidovky-49x200.png 49w, https://www.misantrop.info/wp-content/uploads/2014/09/lidovky-123x500.png 123w" sizes="(max-width: 252px) 100vw, 252px" />](https://misantrop.info/wp-content/uploads/2014/09/lidovky.png)
+[<img class="aligncenter wp-image-2158 size-large" src="https://misantrop.info/wp-content/uploads/2014/09/lidovky-252x1024.png" alt="lidovky" width="252" height="1024" srcset="https://misantrop.info/wp-content/uploads/2014/09/lidovky-252x1024.png 252w, https://misantrop.info/wp-content/uploads/2014/09/lidovky-49x200.png 49w, https://misantrop.info/wp-content/uploads/2014/09/lidovky-123x500.png 123w" sizes="(max-width: 252px) 100vw, 252px" />](https://misantrop.info/wp-content/uploads/2014/09/lidovky.png)
 
 Já mezitím šel k doktorovi, do lékárny, na poštu, a když jsem došel domů, tak na mne blikalo několik zpráv. A mezi nimi i zpráva od autorky článku, že by chtěla moje svolení s použitím fotografie &#8211; a u toho odkaz na článek. Rozesmál jsem se a napsal jsem jí: &#8222;Gratuluju, je to fotomontáž!&#8220; Odpověděla: &#8222;Super, to se vám povedlo&#8220;.
 
