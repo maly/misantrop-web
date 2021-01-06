@@ -4,12 +4,12 @@ title: Internet mužský a ženský
 date: 2010-03-28T10:06:56+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/internet-muzsky-a-zensky/
+guid: https://misantrop.info/internet-muzsky-a-zensky/
 permalink: /internet-muzsky-a-zensky/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14714849"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/internet-muzsky-a-zensky
+  - https://adent.posterous.com/internet-muzsky-a-zensky
 mashsb_timestamp:
   - "1573574757"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Četl jsem velmi pěknou &uacute;vahu <a href="http://www.unisona.com/?p=370" title="Permanent Link: Internet nejsou informace. Internet jsou vztahy." rel="bookmark">Internet nejsou informace. Internet jsou vztahy.</a> (a v&aacute;m to doporučuju taky), a ř&iacute;kal jsem si, že to vn&iacute;m&aacute;m podobně. Vid&iacute;m posun k &#8222;s&iacute;ťov&eacute; generaci&#8220; &#8211; jen nev&iacute;m, jestli ten posun zůstane a bude s nimi st&aacute;rnout, nebo jestli zůstane coby &#8222;generačn&iacute; rozd&iacute;l&#8220; st&aacute;le na hranici 20-30 let. S&aacute;m u sebe si nejsem jist &#8211; na webu hled&aacute;m informace, ale vět&scaron;inu běžn&yacute;ch denn&iacute;ch soci&aacute;ln&iacute;ch kontaktů zařizuju přes internet. Nakupuju přes internet, protože se nemus&iacute;m trm&aacute;cet někam do horouc&iacute;ch pekel. Ale když jsem v horouc&iacute;ch peklech, nakoup&iacute;m r&aacute;d osobně, r&aacute;d si s lidmi popov&iacute;d&aacute;m &#8222;face-to-face&#8220;, &#8230;
+Četl jsem velmi pěknou &uacute;vahu <a href="https://www.unisona.com/?p=370" title="Permanent Link: Internet nejsou informace. Internet jsou vztahy." rel="bookmark">Internet nejsou informace. Internet jsou vztahy.</a> (a v&aacute;m to doporučuju taky), a ř&iacute;kal jsem si, že to vn&iacute;m&aacute;m podobně. Vid&iacute;m posun k &#8222;s&iacute;ťov&eacute; generaci&#8220; &#8211; jen nev&iacute;m, jestli ten posun zůstane a bude s nimi st&aacute;rnout, nebo jestli zůstane coby &#8222;generačn&iacute; rozd&iacute;l&#8220; st&aacute;le na hranici 20-30 let. S&aacute;m u sebe si nejsem jist &#8211; na webu hled&aacute;m informace, ale vět&scaron;inu běžn&yacute;ch denn&iacute;ch soci&aacute;ln&iacute;ch kontaktů zařizuju přes internet. Nakupuju přes internet, protože se nemus&iacute;m trm&aacute;cet někam do horouc&iacute;ch pekel. Ale když jsem v horouc&iacute;ch peklech, nakoup&iacute;m r&aacute;d osobně, r&aacute;d si s lidmi popov&iacute;d&aacute;m &#8222;face-to-face&#8220;, &#8230;
 
 Ale zpět k čl&aacute;nku. Když jsem četl z&aacute;věrečn&eacute; charakteristiky, připadaly mi důvěrně zn&aacute;m&eacute; &#8211; dovol&iacute;m si ocitovat:
 

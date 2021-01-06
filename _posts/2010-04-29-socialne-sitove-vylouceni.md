@@ -4,12 +4,12 @@ title: 'Sociálně-síťové vyloučení&#8230;'
 date: 2010-04-29T12:00:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/socialne-sitove-vylouceni/
+guid: https://misantrop.info/socialne-sitove-vylouceni/
 permalink: /socialne-sitove-vylouceni/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "17717712"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/socialne-sitove-vylouceni
+  - https://adent.posterous.com/socialne-sitove-vylouceni
 mashsb_timestamp:
   - "1574981695"
 mashsb_shares:

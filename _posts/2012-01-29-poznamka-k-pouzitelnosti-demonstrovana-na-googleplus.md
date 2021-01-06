@@ -4,12 +4,12 @@ title: 'Poznámka k použitelnosti, demonstrovaná na #Googleplus'
 date: 2012-01-29T09:49:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
+guid: https://misantrop.info/poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
 permalink: /poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "96733811"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/poznamka-k-pouzitelnosti-demonstrovana-na-goo
+  - https://adent.posterous.com/poznamka-k-pouzitelnosti-demonstrovana-na-goo
 mashsb_timestamp:
   - "1575140496"
 mashsb_shares:
@@ -22,7 +22,7 @@ categories:
 V G+ si založíte stránku, něco tam vyplníte a dál se dozvíte, že &#8222;Nyní používáte Google+ s účtem této stránky.&#8220; Fajn, a jak to přepnout zpět?
 
 <div class="p_embed p_image_embed">
-  <a href="http://www.misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000.png"><img src="http://www.misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000-500x224.png" alt="Googleplus" width="500" height="224" /></a>
+  <a href="https://misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000.png"><img src="https://misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000-500x224.png" alt="Googleplus" width="500" height="224" /></a>
 </div>
 
 Nahoře v liště je text, kde je napsaný název stránky a který naznačuje, že TAM by se mohlo změnit. Ne, tam to není správné. Správné to je vlevo, ta roletka, kde je napsáno &#8222;1 stránka&#8220;. Nepřišel jsem na to, musel mi poradit @Medvidekpu:
@@ -37,4 +37,4 @@ Aha. _Google mi to přeci ukázal při založení stránky._ Před několika dny
 
 &#8211; by nikoho neubylo, kdyby v té hlášce &#8222;Nyní používáte Google+ s účtem této stránky&#8220; bylo krom OK taky třeba &#8222;Změnit&#8220; nebo &#8222;Přepnout&#8220;.
 
-&#8211; web, který musí v úvodním tutoriálu ukazovat, kde takové změny udělat, snad proto, že napsat &#8222;Přepnout profil&#8220; (nebo něco podobného) jim není dost kewl, je jen _o prsa korejské ženy_ lepší než [web, který potřebuje vysvětlující video](http://siderro.posterous.com/videotutorial-byva-symptom-nemoci).
+&#8211; web, který musí v úvodním tutoriálu ukazovat, kde takové změny udělat, snad proto, že napsat &#8222;Přepnout profil&#8220; (nebo něco podobného) jim není dost kewl, je jen _o prsa korejské ženy_ lepší než [web, který potřebuje vysvětlující video](https://siderro.posterous.com/videotutorial-byva-symptom-nemoci).

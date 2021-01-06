@@ -4,7 +4,7 @@ title: 'Obžalovaný nazval poškozeného Humlem&#8230;'
 date: 2014-07-11T09:04:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2074
+guid: https://misantrop.info/?p=2074
 permalink: /obzalovany-nazval-poskozeneho-humlem/
 mashsb_timestamp:
   - "1563526641"

@@ -4,12 +4,12 @@ title: Desatero firemní twitterové komunikace
 date: 2011-09-05T11:14:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/desatero-firemni-twitterove-komunikace/
+guid: https://misantrop.info/desatero-firemni-twitterove-komunikace/
 permalink: /desatero-firemni-twitterove-komunikace/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "68506895"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/desatero-firemni-twitterove-komunikace
+  - https://adent.posterous.com/desatero-firemni-twitterove-komunikace
 mashsb_timestamp:
   - "1575976466"
 mashsb_shares:
@@ -41,5 +41,5 @@ categories:
 
 &#8212;
 
-_Desatero je z&aacute;jemcům k dispozici pod licenc&iacute; [CC-BY-ND](http://creativecommons.org/licenses/by-nd/3.0/cz/) (Uveďte autora &#8211; nezasahujte do d&iacute;la)  
+_Desatero je z&aacute;jemcům k dispozici pod licenc&iacute; [CC-BY-ND](https://creativecommons.org/licenses/by-nd/3.0/cz/) (Uveďte autora &#8211; nezasahujte do d&iacute;la)  
 _

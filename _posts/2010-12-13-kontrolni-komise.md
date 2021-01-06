@@ -4,12 +4,12 @@ title: Kontrolní komise
 date: 2010-12-13T07:22:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/kontrolni-komise/
+guid: https://misantrop.info/kontrolni-komise/
 permalink: /kontrolni-komise/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "36201082"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/kontrolni-komise
+  - https://adent.posterous.com/kontrolni-komise
 mashsb_timestamp:
   - "1562406835"
 mashsb_shares:

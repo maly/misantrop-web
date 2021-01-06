@@ -4,7 +4,7 @@ title: 'Řemeslník do domu&#8230;'
 date: 2017-02-02T10:01:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2729
+guid: https://misantrop.info/?p=2729
 permalink: /remeslnik-do-domu/
 mashsb_timestamp:
   - "1576293257"
@@ -34,7 +34,7 @@ tags:
 
 <span style="font-weight: 400;">O schopnostech přijít včas, natož brzy, přivézt si s sebou materiál a ukázat aspoň nějaké základy racionálního uvažování si zkrátka velká část řemeslníků může nechat zdát. Většinu domácích prací tohoto druhu si proto dělám sám. A vy taky, nemám pravdu? Ostatně i díky tomu vznikla instituce, zvaná “hodinový manžel”, což je chlapík, co si opraví vodovodní kohoutek a vymaluje špajz, jen to udělá v cizím bytě. A nezřídka kvalitněji, než řemeslník.</span>
 
-<span style="font-weight: 400;">Což řemeslníci nemůžou nechat bez povšimnutí. Oni jim totiž “berou práci”. A tak tlačí přes legislativu s tím, <a href="http://www.rozhlas.cz/zpravy/politika/_zprava/valka-remeslniku-hodinovi-manzele-nam-berou-praci-at-smi-jen-sekat-travu-navrhuji-zivnostnici--1636502">že by hodinovým manželům rádi zakázali dělat to či ono</a></span><span style="font-weight: 400;">. Jako fakt. Řemeslníci, jejichž pověst je naprosto tragická už od socialismu (a moc se nezlepšila), nadávají na to, že jim práci bere někdo, kdo přijde dřív, má míň výmluv (“víte, my támhle děláme novostavbu, tak na vás nemáme čas”) a práci udělá mnohdy líp, než ten koncesovaný a vyučený.</span>
+<span style="font-weight: 400;">Což řemeslníci nemůžou nechat bez povšimnutí. Oni jim totiž “berou práci”. A tak tlačí přes legislativu s tím, <a href="https://www.rozhlas.cz/zpravy/politika/_zprava/valka-remeslniku-hodinovi-manzele-nam-berou-praci-at-smi-jen-sekat-travu-navrhuji-zivnostnici--1636502">že by hodinovým manželům rádi zakázali dělat to či ono</a></span><span style="font-weight: 400;">. Jako fakt. Řemeslníci, jejichž pověst je naprosto tragická už od socialismu (a moc se nezlepšila), nadávají na to, že jim práci bere někdo, kdo přijde dřív, má míň výmluv (“víte, my támhle děláme novostavbu, tak na vás nemáme čas”) a práci udělá mnohdy líp, než ten koncesovaný a vyučený.</span>
 
 <span style="font-weight: 400;">Opakuje se spor “taxikáři versus Uber” a “Hoteliéři versus AirBnB”. Zkrátka spor “koncesovaných, co si užívají teplíčka svého monopolu” a těch, co sice koncesi nemají, ale ta práce je baví.</span>
 

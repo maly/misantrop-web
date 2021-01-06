@@ -4,7 +4,7 @@ title: Věštění neúspěchu snadno a rychle
 date: 2017-01-25T11:18:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2704
+guid: https://misantrop.info/?p=2704
 permalink: /vesteni-neuspechu-snadno-a-rychle/
 mashsb_timestamp:
   - "1575145887"
@@ -24,7 +24,7 @@ tags:
 
 <span style="font-weight: 400;">Mám jednoho takového známého, který se velmi důsledně mýlí v odhadu budoucích trendů. Stačí ho chvíli sledovat, dívat se, jaké zboží kupuje, jaké značky se mu líbí a jakým značkám prorokuje světlou budoucnost, a pak to srovnat se situací po několika letech. A když se totéž stává pravidelně, tak si říkáte, že to není samo sebou.</span>
 
-<span style="font-weight: 400;">Na totéž přišli před časem i výzkumníci z amerických univerzit, ale dali tomu pevnější rámec než je empirické pozorování několika lidí. V závěrech své práce tvrdí, že zhruba 13 procent spotřebitelů, kteří koupí nějaký neúspěšný výrobek, tak činí témeř pravidelně. Neúspěšný výrobek si definovali jako takový, který do tří let zmizí z trhu. Jako příklad uváděli MP3 přehrávač Microsoft Zune, Diet Crystal Pepsi a Frito Lay Lemonade (ty příklady asi nejsou, až na Zune, u nás moc známé) &#8211; všechny tři produkty poměrně rychle zmizely z trhu a zvláštní bylo, že nemalé procento zákazníků, kteří kupovali jeden z nich, kupovali i další neúspěšný. Viz třeba <a href="http://www.chicagotribune.com/business/ct-harbingers-failure-0702-biz-20150701-story.html">článek v Chicago Tribune</a>.</span>
+<span style="font-weight: 400;">Na totéž přišli před časem i výzkumníci z amerických univerzit, ale dali tomu pevnější rámec než je empirické pozorování několika lidí. V závěrech své práce tvrdí, že zhruba 13 procent spotřebitelů, kteří koupí nějaký neúspěšný výrobek, tak činí témeř pravidelně. Neúspěšný výrobek si definovali jako takový, který do tří let zmizí z trhu. Jako příklad uváděli MP3 přehrávač Microsoft Zune, Diet Crystal Pepsi a Frito Lay Lemonade (ty příklady asi nejsou, až na Zune, u nás moc známé) &#8211; všechny tři produkty poměrně rychle zmizely z trhu a zvláštní bylo, že nemalé procento zákazníků, kteří kupovali jeden z nich, kupovali i další neúspěšný. Viz třeba <a href="https://www.chicagotribune.com/business/ct-harbingers-failure-0702-biz-20150701-story.html">článek v Chicago Tribune</a>.</span>
 
 <span style="font-weight: 400;">Obloukem se vracím k tomu svému známému, který je téměř ukázkovým “hlasatelem neúspěchu”. Navíc má ve zvyku své momentální favority vynášet do nebes a konkurenci zatracovat, takže následné stažení z trhu či úpadek značky je o to zábavnější. Už se mu to povedlo s MP3 přehrávačem Zune, s Nokií, se značkou Lumia &#8211; uvidíme, co přijde dál. Skoro se dá říct, že s neomylnou intuicí vybírá značky, kterým udělí “polibek smrti”.</span>
 

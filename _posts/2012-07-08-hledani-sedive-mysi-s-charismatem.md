@@ -4,7 +4,7 @@ title: 'Hledání šedivé myši s charismatem&#8230;'
 date: 2012-07-08T16:49:13+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=511
+guid: https://misantrop.info/?p=511
 permalink: /hledani-sedive-mysi-s-charismatem/
 dsq_thread_id:
   - "756386624"
@@ -25,7 +25,7 @@ Sedí takhle ejč ár manager, kouká se na ty Twittery a říká si: _Hele, ten
 
 &#8222;Líbí se nám váš styl, vaše osobitost, způsob, jakým komunikujete&#8230;,&#8220; povídá, protože mu je žinantní říct na férovku: &#8222;Máme firemní účet, kam píše nějaký Josef z PR a sleduje to tam asi 115 lidí, takže z vašich 5000 followerů a tun retweetů máme všichni vlhký sny.&#8220; A to si pište, že je mají.
 
-Jejich komunikace totiž vypadá tak, že někam dají obrázek smečující tenistky a píšou: &#8222;_Znáte tenisové míčky? Ty my neděláme. Neděláme ani ten chlupatý potah. My děláme stroje, které kontrolují, jestli ty chlupy mají správnou délku. Jsme Dumb Corporation._&#8220; Což je sexy mesydž jako fík. Není divu, že při představě, jak @DavidGrudl píše &#8222;_V DumbCorp jsme spustili novou linku, šli jsme zakalit a teď sedíme v indické restauraci_&#8220; a osm tisíc followerů se dozví, že v Dumb mají novou linku a že jsou cool, se takový manažer orosí jak [Jahůdková Terez při vidině nové Nokie](http://jahodajinak.blogspot.cz/2012/05/moje-ruzovka-lumie-800.html ""Pro někoho kus plastu pro mě přítelkyně" included...").
+Jejich komunikace totiž vypadá tak, že někam dají obrázek smečující tenistky a píšou: &#8222;_Znáte tenisové míčky? Ty my neděláme. Neděláme ani ten chlupatý potah. My děláme stroje, které kontrolují, jestli ty chlupy mají správnou délku. Jsme Dumb Corporation._&#8220; Což je sexy mesydž jako fík. Není divu, že při představě, jak @DavidGrudl píše &#8222;_V DumbCorp jsme spustili novou linku, šli jsme zakalit a teď sedíme v indické restauraci_&#8220; a osm tisíc followerů se dozví, že v Dumb mají novou linku a že jsou cool, se takový manažer orosí jak [Jahůdková Terez při vidině nové Nokie](https://jahodajinak.blogspot.cz/2012/05/moje-ruzovka-lumie-800.html ""Pro někoho kus plastu pro mě přítelkyně" included...").
 
 Jenže nudnost Dumb Corporation není daná tím, že to neumí, ale hlavně a především tím, že nemají koule na to, aby byli zajímaví. Vydat na facebooku tiskovou zprávu je totiž to nejbezpečnější, co mohou udělat. Taková zpráva už prošla korporátním střevem a nikdo z ní nevyvodí důsledky. Ale trochu se odvázat? To zavání průserem, a průser si žádný korporátní PR poskok s hypotékou na krku nemůže dovolit. Takže jo, odvázat se, ale nepřekročit přitom hranice, nepřibližovat se k hranicím, nejlépe o nich ani neuvažovat&#8230;
 

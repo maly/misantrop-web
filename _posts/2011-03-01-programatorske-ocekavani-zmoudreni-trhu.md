@@ -4,12 +4,12 @@ title: Programátorské očekávání zmoudření trhu
 date: 2011-03-01T08:40:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/programatorske-ocekavani-zmoudreni-trhu/
+guid: https://misantrop.info/programatorske-ocekavani-zmoudreni-trhu/
 permalink: /programatorske-ocekavani-zmoudreni-trhu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "44529673"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/programatorske-ocekavani-zmoudreni-trhu
+  - https://adent.posterous.com/programatorske-ocekavani-zmoudreni-trhu
 mashsb_timestamp:
   - "1575139384"
 mashsb_shares:
@@ -19,11 +19,11 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-To jsou zase kr&aacute;sn&eacute; exempl&aacute;ře program&aacute;torsk&eacute;ho fňuk&aacute;n&iacute; (&#8222;my jsme odborn&iacute;ci, ale ti hlup&aacute;ci d&aacute;vaj&iacute; přednost lepičům skriptů&#8230;&#8220;) v [diskusi](http://zdrojak.root.cz/clanky/konec-starych-programatorskych-casu/nazory/).
+To jsou zase kr&aacute;sn&eacute; exempl&aacute;ře program&aacute;torsk&eacute;ho fňuk&aacute;n&iacute; (&#8222;my jsme odborn&iacute;ci, ale ti hlup&aacute;ci d&aacute;vaj&iacute; přednost lepičům skriptů&#8230;&#8220;) v [diskusi](https://zdrojak.root.cz/clanky/konec-starych-programatorskych-casu/nazory/).
 
 Třeba kdosi, kdo se podepisuje jako &#8222;Zilogat0r&#8220;, je přesvědčen, že mu &#8222;ti mlad&iacute;&#8220; ale ani na paty ne&scaron;lapou, protože k tomu nemaj&iacute; potřebn&eacute; znalosti z&aacute;kladů, tj. nevěd&iacute;, jak se v procesoru překl&aacute;p&iacute; tranzistory. Nen&iacute; jedin&yacute;, takov&yacute;ch exempl&aacute;řů je tam v&iacute;c, ale tenhle mi utkvěl&#8230;
 
-Kdybych měl vybrat jednu větu, kter&aacute; je kvintesenc&iacute; omylu těhle lid&iacute;, tak použiju pr&aacute;vě jeho: &#8222;[Ale je jen otazka casu, kdy trh zmoudri, a zacne rozlisovat mezi bloatem a rozumnou implementaci za pouziti adekvatnich nastroju.](http://zdrojak.root.cz/clanky/konec-starych-programatorskych-casu/nazory/15803/)&#8222;
+Kdybych měl vybrat jednu větu, kter&aacute; je kvintesenc&iacute; omylu těhle lid&iacute;, tak použiju pr&aacute;vě jeho: &#8222;[Ale je jen otazka casu, kdy trh zmoudri, a zacne rozlisovat mezi bloatem a rozumnou implementaci za pouziti adekvatnich nastroju.](https://zdrojak.root.cz/clanky/konec-starych-programatorskych-casu/nazory/15803/)&#8222;
 
 Zaprv&eacute;: **Trh nezmoudř&iacute;.** L&eacute;pe řečeno &#8211; trh je &#8222;moudr&yacute;&#8220;, ale ne t&iacute;m způsobem, jak&yacute;m si tihle představuj&iacute;. Moudrost trhu spoč&iacute;v&aacute; ve schopnosti dodat dostatečně dobr&eacute; věci s minim&aacute;ln&iacute;mi n&aacute;klady. Ručn&iacute; pr&aacute;ce je drah&aacute;. Pro vět&scaron;inu použit&iacute; je zbytečně drah&aacute;. Pro naprostou vět&scaron;inu aplikac&iacute; si trh vybere sp&iacute;&scaron; neoptimalizovan&yacute; SW za $100 a k němu přikoup&iacute; paměť za $20, než dokonale odladěn&yacute; SW za $1000. H&aacute;dejte proč; porovnat č&iacute;sla um&iacute;te.
 

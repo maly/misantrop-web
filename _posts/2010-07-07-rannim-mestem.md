@@ -4,12 +4,12 @@ title: Ranním městem
 date: 2010-07-07T12:00:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/rannim-mestem/
+guid: https://misantrop.info/rannim-mestem/
 permalink: /rannim-mestem/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22295666"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/rannim-mestem
+  - https://adent.posterous.com/rannim-mestem
 mashsb_timestamp:
   - "1540825560"
 mashsb_shares:

@@ -4,12 +4,12 @@ title: Nepodceňujte frustraci!
 date: 2012-02-18T12:12:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nepodcenujte-frustraci/
+guid: https://misantrop.info/nepodcenujte-frustraci/
 permalink: /nepodcenujte-frustraci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "103010314"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nepodcenujte-frustraci
+  - https://adent.posterous.com/nepodcenujte-frustraci
 mashsb_timestamp:
   - "1569707314"
 mashsb_shares:

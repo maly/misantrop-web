@@ -4,7 +4,7 @@ title: 'K tématu &#8222;přehlcení informacemi&#8220;'
 date: 2012-08-30T14:39:51+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=550
+guid: https://misantrop.info/?p=550
 permalink: /k-tematu-prehlceni-informacemi/
 mashsb_timestamp:
   - "1570966551"

@@ -4,12 +4,12 @@ title: 'Idiotenfestival Raiffeisen&#8230;'
 date: 2010-03-02T14:35:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/idiotenfestival-raiffeisen/
+guid: https://misantrop.info/idiotenfestival-raiffeisen/
 permalink: /idiotenfestival-raiffeisen/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12579145"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/idiotenfestival-raiffeisen
+  - https://adent.posterous.com/idiotenfestival-raiffeisen
 mashsb_timestamp:
   - "1570699309"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Pr&aacute;vě volala &#8211; že neuhodnete kdo? Spr&aacute;vně, [telefonick&aacute; linka Raiffeisenbank](http://www.misantrop.info/tady-banka). Ano, t&eacute; RB, od kter&eacute; jsem [přes obt&iacute;že](http://strucny.misantrop.info/nehodlam-delat-raiffeisence-saska) nakonec [ode&scaron;el](http://www.misantrop.info/sbohem-raiffeisenko).
+Pr&aacute;vě volala &#8211; že neuhodnete kdo? Spr&aacute;vně, [telefonick&aacute; linka Raiffeisenbank](https://misantrop.info/tady-banka). Ano, t&eacute; RB, od kter&eacute; jsem [přes obt&iacute;že](https://strucny.misantrop.info/nehodlam-delat-raiffeisence-saska) nakonec [ode&scaron;el](https://misantrop.info/sbohem-raiffeisenko).
 
 **&#8222;Sly&scaron;&iacute;m!&#8220;**
 

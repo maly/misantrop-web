@@ -4,12 +4,12 @@ title: Bu bu bu, umřeš!
 date: 2010-05-04T08:58:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/bu-bu-bu-umres/
+guid: https://misantrop.info/bu-bu-bu-umres/
 permalink: /bu-bu-bu-umres/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "18062016"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/bu-bu-bu-umres
+  - https://adent.posterous.com/bu-bu-bu-umres
 mashsb_timestamp:
   - "1566194550"
 mashsb_shares:
@@ -27,7 +27,7 @@ Bonanza podobných šikmých ploch jsou protidrogové kampaně. Dnes už bývaj�
 
 Vyprávěla mi paní, porodní asistentka, která si šla poslechnout jakéhosi katolického osvětáře, co přednášel slečnám ve školách rodičovskou a sexuální výchovu, že jen lituje toho, že trestní zákon nepamatuje na &#8222;trestný čin indoktrinace nezletilých blbostí&#8220;.
 
-No a ze stejného soudku je úžasný počin v rámci kampaně &#8222;nemyslíš &#8211; zaplatíš&#8220;, která mi jinak připadá poměrně zdařilá. Totiž &#8222;[simulátor jízdy pod vlivem&#8230;](http://nemyslis-zaplatis.cz/simulator-jizdy)&#8220; Božemůj, to vymyslel nějaký moron, ne? Vždyť to je akorát &#8222;_simulátor autíčka co se během tří sekund rozfláká_&#8222;. Každý, kdo kdy řídil pod vlivem amfetaminu, alkoholu, THC nebo vzteku ví, že to je naprostý nesmysl! Že se nic takového nestane.
+No a ze stejného soudku je úžasný počin v rámci kampaně &#8222;nemyslíš &#8211; zaplatíš&#8220;, která mi jinak připadá poměrně zdařilá. Totiž &#8222;[simulátor jízdy pod vlivem&#8230;](https://nemyslis-zaplatis.cz/simulator-jizdy)&#8220; Božemůj, to vymyslel nějaký moron, ne? Vždyť to je akorát &#8222;_simulátor autíčka co se během tří sekund rozfláká_&#8222;. Každý, kdo kdy řídil pod vlivem amfetaminu, alkoholu, THC nebo vzteku ví, že to je naprostý nesmysl! Že se nic takového nestane.
 
 Dovedu si představit mnohem, mnohem věrnější simulátor &#8211; u alkoholu bude mít opožděné reakce a rozostřené vidění, u stimulancií přehnaně citlivé řízení a vysokou rychlost, u THC zdeformovanou krajinu, u vzteku zúžené zorné pole&#8230; To by mělo smysl, tam by tomu člověk i věřil. Ale co je proboha tohleto &#8222;_3 &#8211; 2 &#8211; 1 &#8211; Go &#8211; vrrrrr &#8211; BUM!_&#8222;???
 

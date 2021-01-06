@@ -4,7 +4,7 @@ title: 'Vývojový deníček: T-21 až T-5'
 date: 2012-06-17T10:54:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=476
+guid: https://misantrop.info/?p=476
 permalink: /vyvojovy-denicek-t-21-az-t-5/
 mashsb_timestamp:
   - "1557009135"
@@ -16,11 +16,11 @@ image: /wp-content/uploads/2012/06/592334_395695360482479_258385069_n.jpg
 categories:
   - Nezařazené
 ---
-Deníček z emigrace &#8211; co předcházelo dni D (a ano, D je &#8222;[druidly](http://druidly.com)&#8222;)
+Deníček z emigrace &#8211; co předcházelo dni D (a ano, D je &#8222;[druidly](https://druidly.com)&#8222;)
 
 <!--more-->
 
-(Česká verze úvodního článku pro ty, co nesledují [druidly blog](http://druidly.com/blog/))
+(Česká verze úvodního článku pro ty, co nesledují [druidly blog](https://druidly.com/blog/))
 
 **Nápad: checked!**
 

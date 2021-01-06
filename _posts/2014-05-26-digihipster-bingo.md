@@ -4,7 +4,7 @@ title: Digihipster Bingo
 date: 2014-05-26T15:57:10+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2041
+guid: https://misantrop.info/?p=2041
 permalink: /digihipster-bingo/
 mashsb_timestamp:
   - "1573990167"
@@ -16,11 +16,11 @@ image: /wp-content/uploads/2014/05/dhb.png
 categories:
   - Nezařazené
 ---
-Barcamp se blíží (skvělý výrok, který bude platný bez ohledu na to, kdy to čtete), a pokud jedete už poněkolikáté, snadno podlehnete dojmu, že už nic zajímavého nezažijete. Pokud si zahrajete <a href="http://www.misantrop.info/digitalni-hipster/" target="_blank">Digihipster </a>Bingo, tak to rozhodně platit nebude!
+Barcamp se blíží (skvělý výrok, který bude platný bez ohledu na to, kdy to čtete), a pokud jedete už poněkolikáté, snadno podlehnete dojmu, že už nic zajímavého nezažijete. Pokud si zahrajete <a href="https://misantrop.info/digitalni-hipster/" target="_blank">Digihipster </a>Bingo, tak to rozhodně platit nebude!
 
 <!--more-->
 
-V první řadě si připravte <a href="http://misantrop.info/bingo.php" target="_blank">hrací kartu</a>. Návod tam už je, tak jen pro jistotu připomenu:
+V první řadě si připravte <a href="https://misantrop.info/bingo.php" target="_blank">hrací kartu</a>. Návod tam už je, tak jen pro jistotu připomenu:
 
 <ol style="color: #000000;">
   <li>
@@ -50,4 +50,4 @@ V první řadě si připravte <a href="http://misantrop.info/bingo.php" target="
 
 PS: Na četné dotazy upřesňuju: Ano, můžete to hrát i doma během sledování live videostreamu z akce, ale pozor, ať si v závěru neožehnete lustr!
 
-_(Kontext: [BCBrno](http://www.barcampbrno.cz/2014/index.html), [WE014](http://webexpo.cz/konference2014/))_
+_(Kontext: [BCBrno](https://www.barcampbrno.cz/2014/index.html), [WE014](https://webexpo.cz/konference2014/))_

@@ -4,7 +4,7 @@ title: My v hubu nepracujem!
 date: 2015-08-18T19:55:28+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2415
+guid: https://misantrop.info/?p=2415
 permalink: /my-v-hubu-nepracujem/
 mashsb_timestamp:
   - "1575143425"
@@ -28,7 +28,7 @@ Takovej _folouap _po tejdnu a něco.
 
 <!--more-->
 
-Tuhle jsem si v Hubu z nudy pročítal nástěnku a všiml jsem si některých kuriozních popisků, co o sobě lidé píší. Zasmál jsem se, vyfotil a vydal [minizápisek](http://www.misantrop.info/my-pracujem-v-hubu/), jen s těmi fotkami a komentářem, poskládaným z těch popisků. Nijak jsem nehodnotil konkrétní lidi. Neznám je, nemohu hodnotit. Nehodnotil jsem jejich práci. Nevím o ní nic, takže &#8211; zase &#8211; nemůžu hodnotit. Jediné, co jsem viděl, byly ty popisky, které, a to se na mne nezlobte, jsou z jistého úhlu pohledu kuriozní a připadají mi svým způsobem zábavné. A nejen mně, ale i dalším lidem.
+Tuhle jsem si v Hubu z nudy pročítal nástěnku a všiml jsem si některých kuriozních popisků, co o sobě lidé píší. Zasmál jsem se, vyfotil a vydal [minizápisek](https://misantrop.info/my-pracujem-v-hubu/), jen s těmi fotkami a komentářem, poskládaným z těch popisků. Nijak jsem nehodnotil konkrétní lidi. Neznám je, nemohu hodnotit. Nehodnotil jsem jejich práci. Nevím o ní nic, takže &#8211; zase &#8211; nemůžu hodnotit. Jediné, co jsem viděl, byly ty popisky, které, a to se na mne nezlobte, jsou z jistého úhlu pohledu kuriozní a připadají mi svým způsobem zábavné. A nejen mně, ale i dalším lidem.
 
 Rozumějte: zažil jsem éru, kdy si kdejaký webař psal na vizitky &#8222;SEO guru&#8220; a &#8222;CSS ninja&#8220; a tak. Byla taková doba, kdy to bylo populární, a jak rychle se to stalo populárním, tak rychle si z toho začali ostatní dělat legraci. Někteří guruové a ninjové to nesli těžce, jiní se zasmáli taky a ještě jiní se tak pojmenovali schválně, protože na to prostě měli koule a celej svět jim mohl&#8230; že&#8230; A po nich přišla éra koučů a motivátorů a motivačních příruček, jejíž nejsilnější vlnu zažíváme právě teď. Věrozvěsti jsou tak hezky _namotivovaní_ a _pozitivní_ a _proaktivní_, že stačí projít Barcampem a večer se vám zvedá z těch slov kyblíček.
 

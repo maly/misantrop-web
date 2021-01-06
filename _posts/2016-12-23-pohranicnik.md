@@ -4,7 +4,7 @@ title: Pohraničník
 date: 2016-12-23T18:05:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2602
+guid: https://misantrop.info/?p=2602
 permalink: /pohranicnik/
 mashsb_timestamp:
   - "1575932370"
@@ -37,7 +37,7 @@ tags:
 
 <span style="font-weight: 400;">A opravdu tomu věří.</span>
 
-<span style="font-weight: 400;">Přečetl jsem si rozhovor s tehdejším pohraničníkem. Vůbec zvláštní sorta lidí, kteří dodneška věří, že chránili republiku před agenty NATO, kteří by tu páchali teroristické činy a ničili naši republiku. (</span>[<span style="font-weight: 400;">http://www.rozhlas.cz/plus/proaproti/_zprava/lide-z-ceskoslovenska-utikali-prevazne-z-kriminalnich-duvodu-tvrdi-byvaly-pohranicnik&#8211;1536142</span>](http://www.rozhlas.cz/plus/proaproti/_zprava/lide-z-ceskoslovenska-utikali-prevazne-z-kriminalnich-duvodu-tvrdi-byvaly-pohranicnik--1536142)<span style="font-weight: 400;">)</span>
+<span style="font-weight: 400;">Přečetl jsem si rozhovor s tehdejším pohraničníkem. Vůbec zvláštní sorta lidí, kteří dodneška věří, že chránili republiku před agenty NATO, kteří by tu páchali teroristické činy a ničili naši republiku. (</span>[<span style="font-weight: 400;">https://www.rozhlas.cz/plus/proaproti/_zprava/lide-z-ceskoslovenska-utikali-prevazne-z-kriminalnich-duvodu-tvrdi-byvaly-pohranicnik&#8211;1536142</span>](https://www.rozhlas.cz/plus/proaproti/_zprava/lide-z-ceskoslovenska-utikali-prevazne-z-kriminalnich-duvodu-tvrdi-byvaly-pohranicnik--1536142)<span style="font-weight: 400;">)</span>
 
 <span style="font-weight: 400;">Ocituju: “(&#8230;) je přesvědčen, že k útěku přes hranice nikdo nemohl mít ospravedlnitelný důvod. „Ti, kteří chránili hranice, plnili zákonné úkoly a ti, kteří je narušovali, byli narušitelé a tedy i zločinci. (&#8230;) Tady přece byl od roku 1948 legálně lidově demokratický stát, který vznikl ústavní demokratickou cestou, na rozdíl od státu, který vznikl v roce 1989,“ tvrdí Richter. „Komunistický stát byl mezinárodně uznán a měl svoji ústavu. Byl nucen nejen budovat společnost, ale také ji bránit, když se proti tomuto státu vedly vnitřně i zahraničně tvrdé útoky,“ obhajoval poslání pohraničníků místopředseda.“</span>
 

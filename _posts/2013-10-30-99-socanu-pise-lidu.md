@@ -4,7 +4,7 @@ title: 99 socanů píše lidu
 date: 2013-10-30T12:53:22+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1607
+guid: https://misantrop.info/?p=1607
 permalink: /99-socanu-pise-lidu/
 dsq_thread_id:
   - "1918448092"
@@ -30,7 +30,7 @@ Před chvílí se na FB profilu Michala Haška objevilo [kulervoucí prohlášen
 > 
 > Michal Hašek, Zdeněk Škromach, Jeroným Tejc, Jiří Zimola
 
-Pro kontext jen připomenu včerejší zprávy: &#8222;Hašek, který byl v ČT s Chovancovými slovy konfrontován, na dotaz, co si o tom myslet, řekl. „Nevím, pozvěte si Chovance.“ Na otázku, zda trvá na svých slovech, že ke schůzce nedošlo a že na schůzce nebyl, dodal: „Já o žádné takové schůzce nevím“.&#8220; [Video prosím&#8230;](http://www.youtube.com/watch?v=5MoYVx1D-c4)
+Pro kontext jen připomenu včerejší zprávy: &#8222;Hašek, který byl v ČT s Chovancovými slovy konfrontován, na dotaz, co si o tom myslet, řekl. „Nevím, pozvěte si Chovance.“ Na otázku, zda trvá na svých slovech, že ke schůzce nedošlo a že na schůzce nebyl, dodal: „Já o žádné takové schůzce nevím“.&#8220; [Video prosím&#8230;](https://www.youtube.com/watch?v=5MoYVx1D-c4)
 
 Takže úhrnem:
 
@@ -43,4 +43,4 @@ Takže úhrnem:
 _Fakt chcete, aby tomuhle někdo uvěřil?_
 
 PS:  
-<a href="http://www.misantrop.info/99-socanu-pise-lidu/1381183_10151689193401314_1473027803_n/" rel="attachment wp-att-1611"><img class="aligncenter size-medium wp-image-1611" alt="" src="http://www.misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-500x299.jpg" width="500" height="299" srcset="https://www.misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-500x299.jpg 500w, https://www.misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-200x119.jpg 200w, https://www.misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n.jpg 960w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.info/99-socanu-pise-lidu/1381183_10151689193401314_1473027803_n/" rel="attachment wp-att-1611"><img class="aligncenter size-medium wp-image-1611" alt="" src="https://misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-500x299.jpg" width="500" height="299" srcset="https://misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-500x299.jpg 500w, https://misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n-200x119.jpg 200w, https://misantrop.info/wp-content/uploads/2013/10/1381183_10151689193401314_1473027803_n.jpg 960w" sizes="(max-width: 500px) 100vw, 500px" /></a>

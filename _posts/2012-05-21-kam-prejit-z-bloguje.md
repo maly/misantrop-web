@@ -4,7 +4,7 @@ title: Kam přejít z Bloguje?
 date: 2012-05-21T08:41:39+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=405
+guid: https://misantrop.info/?p=405
 permalink: /kam-prejit-z-bloguje/
 dsq_thread_id:
   - "698203516"
@@ -17,7 +17,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Provozovatel Bloguje vydal před malou chvílí [Zprávu uživatelům](http://bloguje.bloguje.cz/929135-zprava-uzivatelum.php), která vyslala jasné poselství&#8230;
+Provozovatel Bloguje vydal před malou chvílí [Zprávu uživatelům](https://bloguje.bloguje.cz/929135-zprava-uzivatelum.php), která vyslala jasné poselství&#8230;
 
 <!--more-->
 

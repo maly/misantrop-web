@@ -4,12 +4,12 @@ title: Kdo má právo rozhodnout se, komu pomůže?
 date: 2010-01-16T08:33:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/kdo-ma-pravo-rozhodnout-se-komu-pomuze/
+guid: https://misantrop.info/kdo-ma-pravo-rozhodnout-se-komu-pomuze/
 permalink: /kdo-ma-pravo-rozhodnout-se-komu-pomuze/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10024883"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/kdo-ma-pravo-rozhodnout-se-komu-pomuze
+  - https://adent.posterous.com/kdo-ma-pravo-rozhodnout-se-komu-pomuze
 mashsb_timestamp:
   - "1546021686"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Včerej&scaron;&iacute; př&iacute;spěvek někter&yacute;m &#8222;promluvil z du&scaron;e&#8220;, někter&eacute; nakrkl tak, že začali bl&aacute;bolit korektnick&eacute; a pseudohumanistick&eacute; soudy o moj&iacute; povaze, a jin&eacute; přiměl k zamy&scaron;len&iacute;, což je dobře. Zamyslel se i katalyz&aacute;tor včerej&scaron;&iacute;ho textu Simindr a sepsal [odpověď](http://www.simindr.cz/ma-smysl-posilat-penize-pro-haiti/). J&aacute; jeho stanovisko ch&aacute;pu, on je Simindr povahou mil&yacute; a hodn&yacute; člověk, kter&yacute; to opravdu vid&iacute; tak jak to p&iacute;&scaron;e &#8211; je pohnut ne&scaron;těst&iacute;m a chce pomoci, protože pomoc člověku je pro něj mor&aacute;ln&iacute;m imperativem (aspoň tak to vn&iacute;m&aacute;m j&aacute;). J&aacute; s mor&aacute;ln&iacute;m imperativem nepolemizuju, jen se na něj d&iacute;v&aacute;m z druh&eacute; strany. Zde je moje roz&scaron;&iacute;řen&aacute; odpověď Simindrovi:
+Včerej&scaron;&iacute; př&iacute;spěvek někter&yacute;m &#8222;promluvil z du&scaron;e&#8220;, někter&eacute; nakrkl tak, že začali bl&aacute;bolit korektnick&eacute; a pseudohumanistick&eacute; soudy o moj&iacute; povaze, a jin&eacute; přiměl k zamy&scaron;len&iacute;, což je dobře. Zamyslel se i katalyz&aacute;tor včerej&scaron;&iacute;ho textu Simindr a sepsal [odpověď](https://www.simindr.cz/ma-smysl-posilat-penize-pro-haiti/). J&aacute; jeho stanovisko ch&aacute;pu, on je Simindr povahou mil&yacute; a hodn&yacute; člověk, kter&yacute; to opravdu vid&iacute; tak jak to p&iacute;&scaron;e &#8211; je pohnut ne&scaron;těst&iacute;m a chce pomoci, protože pomoc člověku je pro něj mor&aacute;ln&iacute;m imperativem (aspoň tak to vn&iacute;m&aacute;m j&aacute;). J&aacute; s mor&aacute;ln&iacute;m imperativem nepolemizuju, jen se na něj d&iacute;v&aacute;m z druh&eacute; strany. Zde je moje roz&scaron;&iacute;řen&aacute; odpověď Simindrovi:
 
 R&aacute;d vid&iacute;m, že ti to vrt&aacute; v hlavě, ostatně vrt&aacute; to i mně. Nic nen&iacute; černob&iacute;l&eacute;, ale na spoustu věc&iacute; mus&iacute;&scaron; nakonec odpovědět ANO nebo NE, nelze st&aacute;t a ř&iacute;kat &#8222;_Nev&iacute;m, možn&aacute;, mělo by se to zv&aacute;žit ze v&scaron;ech stran&#8230;_&#8222;
 

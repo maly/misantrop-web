@@ -4,7 +4,7 @@ title: Máte chřipku!
 date: 2015-02-06T11:58:38+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2213
+guid: https://misantrop.info/?p=2213
 permalink: /mate-chripku/
 mashsb_timestamp:
   - "1563451897"
@@ -24,7 +24,7 @@ Mám chřipku. Začalo to ve středu ráno a nástup příznaků byl skoro učeb
 
 1. **Chřipka není legrace**. Já vím, smrtelná mužská nemoc rýmička, přece jsi chlap, něco vydržíš, vždyť je to jen banální nachlazení&#8230; Tak aby bylo jasno: Chřipka v ČR každý rok zabije skoro 2000 lidí. Když ji přechodíte, nejlépe několikrát, zaděláte si na zánět osrdečníku, nedomykavost chlopní a taky můžete skončit na transplantaci srdce. Jo, z blbý chřipky!
 
-2. **Chřipka je vysoce nakažlivá**. Snažte se vyhýbat davům, posilovat imunitu a všechno tohle, ale když už ji, krucipísek, máte, tak buďte doma a nikam netrajdejte! Nemusíte nakazit všechny svoje kolegy! (viz [Chřipková etiketa](http://www.forbes.cz/chripkova-etiketa-co-delat-kdyz-v-kancelari-vsichni-posmrkavaji/))
+2. **Chřipka je vysoce nakažlivá**. Snažte se vyhýbat davům, posilovat imunitu a všechno tohle, ale když už ji, krucipísek, máte, tak buďte doma a nikam netrajdejte! Nemusíte nakazit všechny svoje kolegy! (viz [Chřipková etiketa](https://www.forbes.cz/chripkova-etiketa-co-delat-kdyz-v-kancelari-vsichni-posmrkavaji/))
 
 Já vím, já vím, _kdo si v dnešní době může dovolit být nemocný? My musíme makat, jinak nás vyrazej na dlažbu, obyčejnej člověk to musí nějak přechodit, Kradousku octup!_, ale tu samou výmluvu slýchám od dobře postavených lidí: Já do té práce musím, mám tam toho spoustu, to nemůžu&#8230; Hm. Prosím pěkně, nebuďte kokoti, to neodkladné vyřídíte i po telefonu či mailu z domova, když nebude zbytí.
 

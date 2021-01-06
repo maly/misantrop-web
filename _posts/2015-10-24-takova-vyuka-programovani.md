@@ -4,7 +4,7 @@ title: 'Taková výuka programování&#8230;'
 date: 2015-10-24T19:38:23+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2518
+guid: https://misantrop.info/?p=2518
 permalink: /takova-vyuka-programovani/
 mashsb_timestamp:
   - "1574374647"
@@ -23,13 +23,13 @@ Reakce na reakci na reakci&#8230;
 
 <!--more-->
 
-[Povinná výuka programování na školách](http://archiv.ihned.cz/c1-64734570-deti-se-budou-ucit-programovat-novinka-ve-vyuce-ma-byt-povinna-uz-od-prvni-tridy) je samozřejmě nonsens jak vrata, na tom se asi všichni shodneme. Ironie je, že povinné programování nevzešlo ani v hlavách experního týmu a minsterstva, ani nikde jinde, ale taknějak se složilo dohromady v myšlenkových pochodech autorek předmětného článku. Toto podezření se mi samozřejmě potvrdilo chvíli poté, co jsem [na Lupu poslal článek](http://www.lupa.cz/clanky/senzory-martina-maleho-nechte-povinne-programovani-byt/). Ozval se mi totiž Dan Lessner a chvíli jsme si spolu povídali o tom, co to vlastně znamená.
+[Povinná výuka programování na školách](https://archiv.ihned.cz/c1-64734570-deti-se-budou-ucit-programovat-novinka-ve-vyuce-ma-byt-povinna-uz-od-prvni-tridy) je samozřejmě nonsens jak vrata, na tom se asi všichni shodneme. Ironie je, že povinné programování nevzešlo ani v hlavách experního týmu a minsterstva, ani nikde jinde, ale taknějak se složilo dohromady v myšlenkových pochodech autorek předmětného článku. Toto podezření se mi samozřejmě potvrdilo chvíli poté, co jsem [na Lupu poslal článek](https://www.lupa.cz/clanky/senzory-martina-maleho-nechte-povinne-programovani-byt/). Ozval se mi totiž Dan Lessner a chvíli jsme si spolu povídali o tom, co to vlastně znamená.
 
 Došli jsme, nepřekvapivě, k tomu, že se shodujeme téměř ve všem, až na jednu věc. Totiž samozřejmě, výuka &#8222;programování&#8220; je nesmysl, ani ta koncepce o ničem takovém nehovoří. Hovoří o &#8222;informatickém myšlení&#8220;, což není vůbec &#8222;myslete jako IT technik, co vám vyměňuje monitor&#8220;, ale, pokud mohu vlastními slovy, tak: naučte se žít ve světě nadbytku informací, naučte se informace hledat, vyhodnocovat, zpracovávat, vytvářet, naučte se myslet trošku algoritmicky, protože to jsou schopnosti, které v této společnosti využijete.
 
 Tedy naprosto a doslova totéž, co si taknějak představuju já.
 
-Dan Lessner to dnes moc pěkně [shrnul ve svém článku](http://ucime-informatiku.blogspot.cz/2015/10/povinne-programovani-od-prvni-tridy.html). Možná by bylo velmi pěkné, kdyby Hospodářky vydaly tenhle článek, ale to jen tak mimochodem. V tom článku se totiž dostáváme k jedinému spornému bodu, na který jsme s panem Lessnerem přišli.
+Dan Lessner to dnes moc pěkně [shrnul ve svém článku](https://ucime-informatiku.blogspot.cz/2015/10/povinne-programovani-od-prvni-tridy.html). Možná by bylo velmi pěkné, kdyby Hospodářky vydaly tenhle článek, ale to jen tak mimochodem. V tom článku se totiž dostáváme k jedinému spornému bodu, na který jsme s panem Lessnerem přišli.
 
 Ocituju:
 

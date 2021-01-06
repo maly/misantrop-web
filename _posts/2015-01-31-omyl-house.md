@@ -4,7 +4,7 @@ title: Omyl House
 date: 2015-01-31T17:07:33+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2210
+guid: https://misantrop.info/?p=2210
 permalink: /omyl-house/
 mashsb_timestamp:
   - "1565816082"

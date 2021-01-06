@@ -4,12 +4,12 @@ title: 'Ad &#8222;Kriticky akci hodnotí vlastně jen ti, kdo tam nebyli.&#8220;
 date: 2011-02-16T06:47:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
+guid: https://misantrop.info/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
 permalink: /ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "43208183"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-t
+  - https://adent.posterous.com/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-t
 mashsb_timestamp:
   - "1575525050"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Když podobnou dojmologi&iacute; operuj&iacute; nad&scaron;en&iacute; startupist&eacute;, nech&aacute;v&aacute; mě to chladn&yacute;m, maxim&aacute;lně se zasměju &#8222;he he&#8220;. Ale když [tento kalibr vyt&aacute;hne i David Grudl](http://www.latrine.cz/nadsen-z-ipo48-i-po-48-hodinach), kter&yacute; obvykle _b&yacute;v&aacute; kritick&yacute;_, je zle.
+Když podobnou dojmologi&iacute; operuj&iacute; nad&scaron;en&iacute; startupist&eacute;, nech&aacute;v&aacute; mě to chladn&yacute;m, maxim&aacute;lně se zasměju &#8222;he he&#8220;. Ale když [tento kalibr vyt&aacute;hne i David Grudl](https://www.latrine.cz/nadsen-z-ipo48-i-po-48-hodinach), kter&yacute; obvykle _b&yacute;v&aacute; kritick&yacute;_, je zle.
 
 David totiž objevil ani ne Ameriku &#8211; objevil možn&aacute; tak Ben&aacute;tky. Nad Jizerou. Jeho tvrzen&iacute; vlastně ř&iacute;k&aacute;, že _ti, kdo tam byli, jsou v hodnocen&iacute; akce nekritičt&iacute;._
 

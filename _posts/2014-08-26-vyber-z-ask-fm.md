@@ -4,7 +4,7 @@ title: Výběr z Ask.fm
 date: 2014-08-26T11:20:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2148
+guid: https://misantrop.info/?p=2148
 permalink: /vyber-z-ask-fm/
 mashsb_timestamp:
   - "1576243319"
@@ -161,4 +161,4 @@ Proč ne? Když chcete, tak můžete i z televize
 **Člověk si občas mnoho let (desetiletí) pamatuje nějakou naprostou kravinu, u které si říká: &#8222;Pane bože, proč si pamatuju zrovna TOHLE a ne něco užitečného?!&#8220; Máš nějakou takovou věc, která se občas vynoří z hlubin mozku a u které nechápeš, proč to ty mozkové buňky pořád schovávají?**  
 Milý pane, skoro všechny! Jak říkával můj kamarád: &#8222;Jsi hluboká studnice naprosto neužitečných vědomostí!&#8220; Netuším, proč to mám takhle zařízené, ale věřím, že když mi příroda tuhle schopnost nadělila, tak pro ni jistě najde i nějaké rozumné využití.
 
-(Pokud chcete přispět do sbírky, tak [tudy](http://ask.fm/arthrdnt))
+(Pokud chcete přispět do sbírky, tak [tudy](https://ask.fm/arthrdnt))

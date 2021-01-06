@@ -4,7 +4,7 @@ title: Anonymous
 date: 2016-12-25T18:06:44+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2604
+guid: https://misantrop.info/?p=2604
 permalink: /anonymous/
 mashsb_timestamp:
   - "1575917062"

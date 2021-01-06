@@ -4,7 +4,7 @@ title: 'Dobře to dopadne&#8230;'
 date: 2015-09-29T07:01:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2498
+guid: https://misantrop.info/?p=2498
 permalink: /dobre-to-dopadne/
 mashsb_timestamp:
   - "1575137434"
@@ -42,7 +42,7 @@ James Thurber v jedné své povídce popisuje paniku, kdy lidé v Columbusu v Oh
 
 Jsem přesvědčený, a neptejte se mě proč, o tom, že celonárodní útěk z letošního léta dopadne stejně. Že prostě panika pomine, lidé se zastaví, potřesou hlavama a vrátí se k tomu, co dělali ještě letos na jaře. Jen jak se budou rozcházet, tak se budou vyhýbat pohledům do očí.
 
-Můj nejasný pocit velmi pěkně [sepsal a příklady podepřel Peter Lelovič](http://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html): to, co prožíváme, je jev sociologii známý jako “morální panika”. A morální panika nakonec odezní tak rychle jak začala. Všechny strachy o kulturu, o “naše děti”, o sociální dávky pominou, největší radikálové se opět ocitnou na okraji, imigrace se stane standardní součástí politického života a přesune se z kategorie “emocionální problém” do kategorie “věcný problém”&#8230;  
+Můj nejasný pocit velmi pěkně [sepsal a příklady podepřel Peter Lelovič](https://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html): to, co prožíváme, je jev sociologii známý jako “morální panika”. A morální panika nakonec odezní tak rychle jak začala. Všechny strachy o kulturu, o “naše děti”, o sociální dávky pominou, největší radikálové se opět ocitnou na okraji, imigrace se stane standardní součástí politického života a přesune se z kategorie “emocionální problém” do kategorie “věcný problém”&#8230;  
 Podobnou paniku známe z té “vyspělé západní evropy”, kde se báli hord z necivilizovaného východu, co po otevření trhu přijdou k nim domů a budou jim brát práci (“polský instalatér”, pamatujete?), nebudou mít základní civilizační návyky, budou bít ženy a ty se budou živit prostitucí, protože tak to přeci ve východní evropě chodí. Jak se vám to čte? Čtete o sobě, aby bylo jasno. Tohle o nás psala média ve “staré EU”.
 
 Výsledek je známý: nic takového se nestalo, ačkoli média statečně dělala z každého kriminálního činu “imigrantský zločin”. Totéž se stane i se syřany. Projdou, většinou se ani nezastaví, a pokud někteří ano a usadí se u nás, zvykneme si na ně. Vážně. Však kdo si myslíte, že ti lidé jsou? Pasáčkové ovcí a negramotní beduíni? A víte, že v Sýrii jsou i lékaři, právníci, inženýři, programátoři, podnikatelé…? Myslíte, že ti tam zůstávají a posílají sem ty nejchudší a nevzdělané? Myslet si to je jako myslet si, že všichni přistěhovalci z východu jsou jen pasáci a šlapky. Právě jste podlehli mediální zkratce.

@@ -4,7 +4,7 @@ title: Nebojím se vás
 date: 2014-11-17T20:16:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2185
+guid: https://misantrop.info/?p=2185
 permalink: /nebojim-se-vas/
 mashsb_timestamp:
   - "1575662509"

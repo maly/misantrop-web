@@ -4,7 +4,7 @@ title: Pojďme se sejít
 date: 2016-12-29T18:15:07+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2612
+guid: https://misantrop.info/?p=2612
 permalink: /pojdme-se-sejit/
 mashsb_timestamp:
   - "1575533599"

@@ -4,7 +4,7 @@ title: Veřejný zájem
 date: 2017-01-09T16:20:30+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2650
+guid: https://misantrop.info/?p=2650
 permalink: /verejny-zajem/
 mashsb_timestamp:
   - "1575807095"
@@ -22,7 +22,7 @@ tags:
 
 <span style="font-weight: 400;">Poslední dny je sousloví “veřejný zájem” skloňováno velmi často, i na těchto stránkách, a to především v souvislosti s únikem, či jak to nazvat, informací ze soukromého mailu Bohuslava Sobotky.</span>
 
-<span style="font-weight: 400;">Já jsem shodou okolností před dvěma týdny psal na server IHNED <a href="http://www.misantrop.info/odposlechnuto/">glosu</a>, jejímž tématem byly odposlechy a jejich role v české společnosti, a v této glose jsem se zabýval také veřejným zájmem. Konkrétně zda je veřejným zájmem vědět, kdo komu říká “Ivánku, kamaráde”, kdo je Kolibřík, co přesně si holí poslanec Kott a tak dále. Ne, nepovažuju to za veřejný zájem &#8211; pokud tedy nepředefinujeme pojem “veřejný zájem” tak, aby zahrnoval vše, co veřejnost zajímá.</span>
+<span style="font-weight: 400;">Já jsem shodou okolností před dvěma týdny psal na server IHNED <a href="https://misantrop.info/odposlechnuto/">glosu</a>, jejímž tématem byly odposlechy a jejich role v české společnosti, a v této glose jsem se zabýval také veřejným zájmem. Konkrétně zda je veřejným zájmem vědět, kdo komu říká “Ivánku, kamaráde”, kdo je Kolibřík, co přesně si holí poslanec Kott a tak dále. Ne, nepovažuju to za veřejný zájem &#8211; pokud tedy nepředefinujeme pojem “veřejný zájem” tak, aby zahrnoval vše, co veřejnost zajímá.</span>
 
 <span style="font-weight: 400;">Jenže “zajímá mě to” a “je to v mém zájmu” je docela velký rozdíl.</span>
 

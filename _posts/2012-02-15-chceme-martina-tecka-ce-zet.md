@@ -4,12 +4,12 @@ title: Chceme Martina. Tečka. (Cé zet)
 date: 2012-02-15T12:22:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/chceme-martina-tecka-ce-zet/
+guid: https://misantrop.info/chceme-martina-tecka-ce-zet/
 permalink: /chceme-martina-tecka-ce-zet/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "102131418"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/chceme-martina-tecka-ce-zet
+  - https://adent.posterous.com/chceme-martina-tecka-ce-zet
 mashsb_timestamp:
   - "1575139439"
 mashsb_shares:
@@ -31,6 +31,6 @@ Ne, v&yacute;zva nen&iacute; dělat v devětatřiceti kl&aacute;vesnicov&eacute;
 
 Ne, v&yacute;zva nen&iacute; &#8222;mlad&yacute; dynamick&yacute; kolektiv&#8220;, tam si vezměte mlad&yacute; dynamick&yacute; kan&oacute;nenfutr z person&aacute;ln&iacute;ch agentur.
 
-Rozmyslete si poř&aacute;dně, než řeknete &#8222;[Chceme Martina. Tečka.](http://chcememartina.cz/)&#8222;
+Rozmyslete si poř&aacute;dně, než řeknete &#8222;[Chceme Martina. Tečka.](https://chcememartina.cz/)&#8222;
 
 **Rozmyslete si, jestli mi m&aacute;te co nab&iacute;dnout! A jestli ano, tak nab&iacute;dněte!**

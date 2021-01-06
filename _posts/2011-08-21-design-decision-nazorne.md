@@ -4,12 +4,12 @@ title: Design Decision názorně
 date: 2011-08-21T11:46:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/design-decision-nazorne/
+guid: https://misantrop.info/design-decision-nazorne/
 permalink: /design-decision-nazorne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66410155"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/design-decision-nazorne
+  - https://adent.posterous.com/design-decision-nazorne
 mashsb_timestamp:
   - "1565786299"
 mashsb_shares:
@@ -27,9 +27,9 @@ Aha, t&aacute;mhle to je, vpravo nahoře jsou v&scaron;echny informace, zkop&iac
 
 A dnes vid&iacute;m, že i o tom proběhla nějak&aacute; TwDiskuse
 
-  * Kouk&aacute;m na web [#webexpo](http://www.klaboseni.cz/result.php?hledane=%23webexpo) a přem&yacute;&scaron;l&iacute;m, zda je hor&scaron;&iacute; neobvykl&eacute; p&iacute;smo vkl&aacute;dat jako obr&aacute;zky nebo jako canvas+JS. <a href="http://twitter.com/font-face" target="_blank">@font-face</a> je tu 13 let,v&iacute;te to?- [Jirka Kosek](http://twitter.com/jirkakosek/status/103755744955998208)
-  * <a href="http://twitter.com/jirkakosek" target="_blank">@jirkakosek</a> Fascinuje mě, když někdo hodnot&iacute; druh&yacute; absentuj&iacute;c byť zrnko empatie &ndash; <a href="http://twitter.com/vbulant" target="_blank">@vbulant</a> musel touhle cestou na př&aacute;n&iacute; p&iacute;smolijny &#8211; [Luk&aacute;&scaron; Pl&iacute;hal](https://twitter.com/#!/browser/status/103763057020375040) 
-  * <a href="http://twitter.com/pixycz" class="  twitter-atreply" rel="nofollow"><span class="at">@</span><span class="at-text">pixycz</span></a> <a href="http://twitter.com/jirkakosek" class="  twitter-atreply" rel="nofollow"><span class="at">@</span><span class="at-text">jirkakosek</span></a> Panove, zrovna od vas bych cekal trochu empatie a zamysleni nad &#8222;design decisions&#8220;, ktere musel designer delat. &#8211; [Ondřej V&aacute;lka](https://twitter.com/#!/ondrejvalka/status/103959511747932160)
+  * Kouk&aacute;m na web [#webexpo](https://www.klaboseni.cz/result.php?hledane=%23webexpo) a přem&yacute;&scaron;l&iacute;m, zda je hor&scaron;&iacute; neobvykl&eacute; p&iacute;smo vkl&aacute;dat jako obr&aacute;zky nebo jako canvas+JS. <a href="https://twitter.com/font-face" target="_blank">@font-face</a> je tu 13 let,v&iacute;te to?- [Jirka Kosek](https://twitter.com/jirkakosek/status/103755744955998208)
+  * <a href="https://twitter.com/jirkakosek" target="_blank">@jirkakosek</a> Fascinuje mě, když někdo hodnot&iacute; druh&yacute; absentuj&iacute;c byť zrnko empatie &ndash; <a href="https://twitter.com/vbulant" target="_blank">@vbulant</a> musel touhle cestou na př&aacute;n&iacute; p&iacute;smolijny &#8211; [Luk&aacute;&scaron; Pl&iacute;hal](https://twitter.com/#!/browser/status/103763057020375040) 
+  * <a href="https://twitter.com/pixycz" class="  twitter-atreply" rel="nofollow"><span class="at">@</span><span class="at-text">pixycz</span></a> <a href="https://twitter.com/jirkakosek" class="  twitter-atreply" rel="nofollow"><span class="at">@</span><span class="at-text">jirkakosek</span></a> Panove, zrovna od vas bych cekal trochu empatie a zamysleni nad &#8222;design decisions&#8220;, ktere musel designer delat. &#8211; [Ondřej V&aacute;lka](https://twitter.com/#!/ondrejvalka/status/103959511747932160)
 
 Takže jestli tomu dobře rozum&iacute;m, design&eacute;r chtěl nějak&yacute; neotřel&yacute; font, ov&scaron;em p&iacute;smolijna nedala souhlas s jeho použit&iacute;m ve @font-face, tak před webdesign&eacute;rem st&aacute;lo rozhodnut&iacute;, _desižn_, jestli půjde cestou použiteln&eacute;ho webu, kter&yacute; umožn&iacute; zkop&iacute;rovat si text, byť třeba s graficky ne zcela &uacute;plně ide&aacute;ln&iacute;m fontem, nebo jestli půjde cestou &#8222;_design over usability_&#8222;. &Scaron;el tou druhou&#8230;
 
@@ -41,7 +41,7 @@ Budiž, j&aacute; to rozhodnut&iacute; dělat nemusel. Ale st&aacute;le si mysl&
 
 <span style="color: #0000ff;">TL;DR: Na webu WebExpo nelze zkop&iacute;rovat datum ani m&iacute;sto kon&aacute;n&iacute;. Kosek a Stan&iacute;ček to kritizuj&iacute;, Pl&iacute;hal p&iacute;&scaron;e, že to je dan&eacute; podm&iacute;nkami použit&iacute; p&iacute;sma, V&aacute;lka rad&iacute; vc&iacute;tit se do situace design&eacute;ra Bulanta, kter&yacute; musel udělat rozhodnut&iacute;. Podot&yacute;k&aacute;m, že IMHO na webu konference je to z&aacute;sadn&iacute; chyba použitelnosti a pt&aacute;m se, jak&yacute; je ten argument, proč v tomhle př&iacute;padě upřednostnit design před použitelnost&iacute;. Odpovědi n&iacute;že.</span>
 
-UPDATE 19.27: _zmiňovan&yacute; @vbulant na Twitteru odpov&iacute;d&aacute;: &#8222;@adent A co když si chci zkop&iacute;rovat va&scaron;e jm&eacute;no na <http://maly.cz>? Proč hlavičku nepřečtou čtečky?&#8220; Kruci, to vypukla v t&yacute;mu WebExpo nějak&aacute; epidemie, kter&aacute; jim zabraňuje odpov&iacute;dat věcně na ot&aacute;zky a v&yacute;hrady? Jak souvis&iacute; moje osobn&iacute; str&aacute;nka s t&iacute;m, že m&aacute; web &#8222;mezin&aacute;rodn&iacute; konference o webdesignu&#8220; probl&eacute;m s použitelnost&iacute;?_ 
+UPDATE 19.27: _zmiňovan&yacute; @vbulant na Twitteru odpov&iacute;d&aacute;: &#8222;@adent A co když si chci zkop&iacute;rovat va&scaron;e jm&eacute;no na <https://maly.cz>? Proč hlavičku nepřečtou čtečky?&#8220; Kruci, to vypukla v t&yacute;mu WebExpo nějak&aacute; epidemie, kter&aacute; jim zabraňuje odpov&iacute;dat věcně na ot&aacute;zky a v&yacute;hrady? Jak souvis&iacute; moje osobn&iacute; str&aacute;nka s t&iacute;m, že m&aacute; web &#8222;mezin&aacute;rodn&iacute; konference o webdesignu&#8220; probl&eacute;m s použitelnost&iacute;?_ 
 
 <span style="text-decoration: line-through;">Pros&iacute;m tedy někoho př&iacute;četněj&scaron;&iacute;ho, kdo je schopen mi odpovědět na ot&aacute;zku&#8230;</span>
 

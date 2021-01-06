@@ -4,7 +4,7 @@ title: Neviditelná ruka trhu
 date: 2013-02-13T14:30:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=838
+guid: https://misantrop.info/?p=838
 permalink: /neviditelna-ruka-trhu/
 mashsb_timestamp:
   - "1575610547"
@@ -24,7 +24,7 @@ Cože? To téma? Nojo, myslím to zcela vážně! Pokud máte na tohle slovní s
 </p>
 
 <p style="text-align: right;">
-  <em>(<a href="http://www.nohavica.cz/cz/tvorba/texty/podzimni.htm">Jarek Nohavica</a>)</em>
+  <em>(<a href="https://www.nohavica.cz/cz/tvorba/texty/podzimni.htm">Jarek Nohavica</a>)</em>
 </p>
 
 Za komunistů se vůbec, milé děti, děly věci. Například centrálně plánované hospodářství.

@@ -4,12 +4,12 @@ title: Nepřítel revoluce
 date: 2012-01-31T06:49:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nepritel-revoluce/
+guid: https://misantrop.info/nepritel-revoluce/
 permalink: /nepritel-revoluce/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97070899"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nepritel-revoluce
+  - https://adent.posterous.com/nepritel-revoluce
 mashsb_timestamp:
   - "1575146596"
 mashsb_shares:
@@ -41,7 +41,7 @@ První citát:
 
 Druhý citát, velmi čerstvý:
 
-> Ve \***** na Karlově náměstí předají členové Anonymous [Praha](http://www.stehovani-praha.com/) firmě Phillip Morris jako reprezentantovi nadnárodního koncernu svůj protestní dopis, ve kterém stanovují další požadavky Anonymous, které dosud nezazněly.
+> Ve \***** na Karlově náměstí předají členové Anonymous [Praha](https://www.stehovani-praha.com/) firmě Phillip Morris jako reprezentantovi nadnárodního koncernu svůj protestní dopis, ve kterém stanovují další požadavky Anonymous, které dosud nezazněly.
 > 
 > Žádáme všechny příznivce Anonymous, kteří chtějí podpořit naše požadavky na další chování nadnárodních koncernů, aby přišli na Karlovo náměstí v maskách, nevytvářeli shromáždění, aby policie neměla důvod zasáhnout, ale v maskách volně korzovali po chodníku před číslem 10. V \**** se pokusí reprezentant Anonymous Praha předat firmě dopis. </p> 
 > 

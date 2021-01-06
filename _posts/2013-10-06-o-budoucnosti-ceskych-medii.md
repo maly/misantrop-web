@@ -4,7 +4,7 @@ title: O budoucnosti českých médií
 date: 2013-10-06T10:55:23+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1537
+guid: https://misantrop.info/?p=1537
 permalink: /o-budoucnosti-ceskych-medii/
 dsq_thread_id:
   - "1829471985"
@@ -18,11 +18,11 @@ image: /wp-content/uploads/2013/10/recycling-689575-m.jpg
 categories:
   - Nezařazené
 ---
-Navázal bych na výborný [rozhovor s Milanem Krumlem](http://www.mediaguru.cz/2013/10/propousteni-novinaru-je-projevem-bezradnosti/), na pomoc si vezmu i [rozhovor s Vladimírem Piskáčkem](http://www.ceskatelevize.cz/ivysilani/1096898594-udalosti-komentare/213411000370930/) a jednu ze svých starších prezentací na téma &#8222;Jak vydělat ve světě open source&#8220;.
+Navázal bych na výborný [rozhovor s Milanem Krumlem](https://www.mediaguru.cz/2013/10/propousteni-novinaru-je-projevem-bezradnosti/), na pomoc si vezmu i [rozhovor s Vladimírem Piskáčkem](https://www.ceskatelevize.cz/ivysilani/1096898594-udalosti-komentare/213411000370930/) a jednu ze svých starších prezentací na téma &#8222;Jak vydělat ve světě open source&#8220;.
 
 <!--more-->
 
-_Disclaimer: Pracuji ve vydavatelství Economia a v následujícím textu se **nevyjadřuju** ke svému zaměstnavateli, [ani mezi řádky](http://www.misantrop.info/sdeleni-bileho-papiru/), ale k českým médiím obecně._
+_Disclaimer: Pracuji ve vydavatelství Economia a v následujícím textu se **nevyjadřuju** ke svému zaměstnavateli, [ani mezi řádky](https://misantrop.info/sdeleni-bileho-papiru/), ale k českým médiím obecně._
 
 Milan Kruml velmi přesně pojmenovává situaci posledních let v českých médiích. Zmiňuje v první řadě změny složení redakcí, ze kterých jsou propouštěny &#8222;hvězdy&#8220; (staří zkušení novináři), aby byly vzápětí nahrazeny nějakými _generátory textu o čemkoli, model &#8222;20 za 20&#8220;_ (tady je ta spojka &#8222;aby&#8220; snad i na místě). Jenže, jak správně podotýká Kruml, redakce potřebuje vyvážený mix starých matadorů, s kontakty a zkušenostmi, a mladých nadějí, které přinášejí energii. A k tomu zkušené editory (protože editor je ten, kdo dělá novinám tvář) a kvalitní rešerši, která ověří tvrzení v článcích a je schopná dodat podpůrné materiály. Kruml vidí současné změny jako _změny z bezradnosti._
 

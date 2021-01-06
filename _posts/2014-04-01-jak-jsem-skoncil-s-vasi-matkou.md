@@ -4,7 +4,7 @@ title: Jak jsem skončil s vaší matkou
 date: 2014-04-01T08:10:51+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1957
+guid: https://misantrop.info/?p=1957
 permalink: /jak-jsem-skoncil-s-vasi-matkou/
 dsq_thread_id:
   - "2570709123"
@@ -34,7 +34,7 @@ Ne, promiňte, dělám si legraci. Zase. Ve skutečnosti se v posledním díle u
 
 Promiňte, nedělám si legraci.
 
-Nejdřív jsem ucedil něco hrozně neuctivého. Pak jsem si řekl, že je to vlastně dobrý příběh. Vzpomněl jsem si u toho na předposlední epizodu první série (&#8222;Mléko&#8220;), kdy si na konci Ted uvědomí, že nechce &#8222;perfektní ženu svého života&#8220;, ale Robin, a [hraje k tomu Roxy Music](http://youtu.be/t7qTYObjr_s?t=5m20s) (&#8222;Oh mother of pearl, I wouldn&#8217;t trade you for another girl!&#8220;) Až jsem se skoro dojal. A pak jsem opět cedil něco hrozně neuctivého, protože kdyby to takhle skončilo po čtvrté sezóně, vzpomínal bych na HIMYM jako na skvělý inovativní seriál.
+Nejdřív jsem ucedil něco hrozně neuctivého. Pak jsem si řekl, že je to vlastně dobrý příběh. Vzpomněl jsem si u toho na předposlední epizodu první série (&#8222;Mléko&#8220;), kdy si na konci Ted uvědomí, že nechce &#8222;perfektní ženu svého života&#8220;, ale Robin, a [hraje k tomu Roxy Music](https://youtu.be/t7qTYObjr_s?t=5m20s) (&#8222;Oh mother of pearl, I wouldn&#8217;t trade you for another girl!&#8220;) Až jsem se skoro dojal. A pak jsem opět cedil něco hrozně neuctivého, protože kdyby to takhle skončilo po čtvrté sezóně, vzpomínal bych na HIMYM jako na skvělý inovativní seriál.
 
 Takhle na něj vzpomínám jako na skvělý inovativní seriál, který se pak neskutečně rozbředl ve scénáristické bezradnosti, a u něhož skalní fanoušci po každé zprávě &#8222;bude ještě jedna sezóna&#8220; volali houfně Neeee!
 

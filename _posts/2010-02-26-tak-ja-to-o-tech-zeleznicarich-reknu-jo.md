@@ -4,12 +4,12 @@ title: Tak já to o těch železničářích řeknu, jo?
 date: 2010-02-26T13:34:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/tak-ja-to-o-tech-zeleznicarich-reknu-jo/
+guid: https://misantrop.info/tak-ja-to-o-tech-zeleznicarich-reknu-jo/
 permalink: /tak-ja-to-o-tech-zeleznicarich-reknu-jo/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12351640"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/tak-ja-to-o-tech-zeleznicarich-reknu-jo
+  - https://adent.posterous.com/tak-ja-to-o-tech-zeleznicarich-reknu-jo
 mashsb_timestamp:
   - "1562449735"
 mashsb_shares:

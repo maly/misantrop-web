@@ -4,7 +4,7 @@ title: Pornootec, pornodcera
 date: 2018-02-01T18:52:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2887
+guid: https://misantrop.info/?p=2887
 permalink: /pornootec-pornodcera/
 mashsb_timestamp:
   - "1576307683"
@@ -36,7 +36,7 @@ To samé platí i pro IT. Kdysi, když jsem pracoval jako ajťák na úřadu, p�
 
 Ano, vím, byla to moje chyba, měl jsem to paní tajemnici říct, ona by se urazila, protože zpochybňuju její kvalifikaci a vysokou inteligenci, ale já bych měl čisté svědomí. Dneska už jsem o dost starší, dnes už to tak dělám. A měli by to dělat i novináři a měli by se ptát lidí, s nimiž mluví, jestli opravdu vědí, co říkají, i kdyby to byl nižší státní úředník, tajemnice úřadu, nebo nedej bože samotný prezident!
 
-Když to totiž dělat nebudou, tak budou v novinách vycházet a v éteru zaznívat takové hověziny jako ta, kterou jsem nastínil v úvodu. Pro ty, koho to minulo, celou záležitost ve stručnosti sepíšu tak, jak ji Zeman podal médiím: Prezident Zeman našel v Lánech na svém počítači dětské porno. Celých deset sekund na to hleděl, což mu stačilo k bystré dedukci, že to je opravdu dětské porno a ne třeba [fotka jeho dcery z nějakého natáčení](http://revue.idnes.cz/katerina-zemanova-na-udajne-porno-party-f03-/lidicky.aspx?c=A131008_133331_lidicky_zar). Zavolal hradní IT, ptal se, kde se tam porno vzalo, a hodlal podat trestní oznámení. Ajťáci mu oznámili, že se jedná o útok z Alabamy, takže podávat trestní oznámení je jaksi pasy. Pardon, pasé.
+Když to totiž dělat nebudou, tak budou v novinách vycházet a v éteru zaznívat takové hověziny jako ta, kterou jsem nastínil v úvodu. Pro ty, koho to minulo, celou záležitost ve stručnosti sepíšu tak, jak ji Zeman podal médiím: Prezident Zeman našel v Lánech na svém počítači dětské porno. Celých deset sekund na to hleděl, což mu stačilo k bystré dedukci, že to je opravdu dětské porno a ne třeba [fotka jeho dcery z nějakého natáčení](https://revue.idnes.cz/katerina-zemanova-na-udajne-porno-party-f03-/lidicky.aspx?c=A131008_133331_lidicky_zar). Zavolal hradní IT, ptal se, kde se tam porno vzalo, a hodlal podat trestní oznámení. Ajťáci mu oznámili, že se jedná o útok z Alabamy, takže podávat trestní oznámení je jaksi pasy. Pardon, pasé.
 
 Tolik pravil pro média inženýr ekonomie Zeman, jehož erudice v IT je pověstná už od dob “softwarových kuliček”. Tentýž, který před pár měsíci tvrdil, že hackerské útoky jsou jen takové žvásty. Naštěstí přispěchal věrný Ovčáček, který ve snaze ochránit prezidenta občas řekne víc, než by chtěl. Tentokrát prohlásil, že pan prezident na počítači nemá žádné materiály jakéhokoli charakteru, že počítač používá pouze k prohlížení. Jsou tedy dvě možnosti: Buď prezident nechává přístroj vypnutý a v lesklé ploše monitoru si prohlíží sám sebe, což zní pravděpodobně vzhledem k jeho samolibosti, ale nevysvětluje to, jak mohl najít v zrcadlovém odrazu porno &#8211; pokud tedy nebyl ve stejné místnosti někde za ním Forejt. No a druhá možnost je taková, že si pan prezident sjížděl své oblíbené stránky, kliknul si na odkazy z nějakých “nevládních nestátních alternativních” webů, z nichž občas cituje, a nestačil se divit.
 

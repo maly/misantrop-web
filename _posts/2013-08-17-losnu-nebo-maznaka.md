@@ -4,7 +4,7 @@ title: Losnu, nebo Mažňáka?
 date: 2013-08-17T10:03:33+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1395
+guid: https://misantrop.info/?p=1395
 permalink: /losnu-nebo-maznaka/
 dsq_thread_id:
   - "1612450782"
@@ -40,7 +40,7 @@ ODS neexistuje. Ta strana se skládá z Kuby, což je satrapa Dlouhého z Hlubok
 
 Lidovci? Co? Kdo?
 
-Strana svobodných mě za pět (či kolik) let své existence nepřesvědčila o ničem. Z mého pohledu je v téhle straně jen Mach, který se exponuje vydáváním článků, blogger Matějka, a Martin Pánek ([MMister](http://mmister.com/)), což je jediný příčetný volič téhle strany, kterého znám. A to je dost málo na to, abych jim věřil, že mají nějakou relevantní sílu změnit stát. Jejich program a myšlenky jsou OK, konvenují mi, ale nebudu je volit z jednoho jednoduchého důvodu: Buď svůj hlas tím zahodím (ano, zahodím &#8211; v tom volebním systému, jaký máme, je to hlas zahozený, nikoli _hlas rozumu a srdce_), nebo se opravdu do parlamentu dostanou, a budou buď stranou jednoho či dvou hlasů (a tedy marginální silou), nebo stranou pěti poslanců, kteří se nakonec rozštěpí na šest různých stran (příkladů máme&#8230;) Nemám sebemenší důvod věřit tomu, že zrovna Svobodní by měli být mezi malými stranami tou zářnou výjimkou.
+Strana svobodných mě za pět (či kolik) let své existence nepřesvědčila o ničem. Z mého pohledu je v téhle straně jen Mach, který se exponuje vydáváním článků, blogger Matějka, a Martin Pánek ([MMister](https://mmister.com/)), což je jediný příčetný volič téhle strany, kterého znám. A to je dost málo na to, abych jim věřil, že mají nějakou relevantní sílu změnit stát. Jejich program a myšlenky jsou OK, konvenují mi, ale nebudu je volit z jednoho jednoduchého důvodu: Buď svůj hlas tím zahodím (ano, zahodím &#8211; v tom volebním systému, jaký máme, je to hlas zahozený, nikoli _hlas rozumu a srdce_), nebo se opravdu do parlamentu dostanou, a budou buď stranou jednoho či dvou hlasů (a tedy marginální silou), nebo stranou pěti poslanců, kteří se nakonec rozštěpí na šest různých stran (příkladů máme&#8230;) Nemám sebemenší důvod věřit tomu, že zrovna Svobodní by měli být mezi malými stranami tou zářnou výjimkou.
 
 K Babišovi jen tři slova: Železný, Okamura, Bárta.
 

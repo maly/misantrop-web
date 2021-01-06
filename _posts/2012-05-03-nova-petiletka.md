@@ -4,12 +4,12 @@ title: Nová pětiletka
 date: 2012-05-03T11:28:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nova-petiletka/
+guid: https://misantrop.info/nova-petiletka/
 permalink: /nova-petiletka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "128331894"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nova-petiletka
+  - https://adent.posterous.com/nova-petiletka
 dsq_thread_id:
   - "1087650497"
 mashsb_timestamp:
@@ -45,4 +45,4 @@ Třet&iacute; věc: Doděl&aacute;m a spust&iacute;m rozpracovan&eacute; weby, a
 
 A jedem!
 
-(Jo, za tohle taky může [John V.](http://podnikanivusa.com))
+(Jo, za tohle taky může [John V.](https://podnikanivusa.com))

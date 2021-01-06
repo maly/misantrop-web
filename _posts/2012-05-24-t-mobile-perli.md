@@ -4,12 +4,12 @@ title: 'T-Mobile perlí&#8230;'
 date: 2012-05-24T09:57:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/t-mobile-perli/
+guid: https://misantrop.info/t-mobile-perli/
 permalink: /t-mobile-perli/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "133128727"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/t-mobile-perli
+  - https://adent.posterous.com/t-mobile-perli
 mashsb_timestamp:
   - "1575147150"
 mashsb_shares:

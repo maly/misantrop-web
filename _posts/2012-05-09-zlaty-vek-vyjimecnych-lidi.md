@@ -4,7 +4,7 @@ title: Zlatý věk výjimečných lidí
 date: 2012-05-09T12:21:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=344
+guid: https://misantrop.info/?p=344
 permalink: /zlaty-vek-vyjimecnych-lidi/
 dsq_thread_id:
   - "682281722"

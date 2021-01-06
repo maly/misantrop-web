@@ -4,7 +4,7 @@ title: 'Napsal mi finanční úřad&#8230;'
 date: 2014-03-15T11:55:30+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1934
+guid: https://misantrop.info/?p=1934
 permalink: /napsal-mi-financni-urad/
 dsq_thread_id:
   - "2435427229"
@@ -26,7 +26,7 @@ Loni v březnu po mně chtěla banka daňové přiznání za posledních iks let
 
 Pak mi, celá vynervovaná, volala, že prý přiznání za roky 2009 a 2011 dobrý, ale za rok 2010 že na finančáku nemají! Takže to berou jako opožděné podání, ale že mi paní ještě zavolá.
 
-Paní zavolala, já jí vysvětlil, že jsem podal přiznání datovou schránkou (jako ostatně pokaždé, [i když to poprvé skřípalo](http://www.lupa.cz/clanky/datova-schranka-kontra-urednik/)), ona pravila, že tedy aha, takže to možná u nich někdo, že to ještě prověří. Pro jistotu jsem napsal zprávu na vnitro, které systém datových schránek spravuje, aby mi vytáhli doručenku pro zprávu poslanou z mojí schránky v březnu 2011 na adresu finančáku. Za měsíc přišlo potvrzení &#8211; vida, měl jsem pravdu, daňové přiznání bylo doručeno, jupí. Pouštím z hlavy, paní to jistě prověřila.
+Paní zavolala, já jí vysvětlil, že jsem podal přiznání datovou schránkou (jako ostatně pokaždé, [i když to poprvé skřípalo](https://www.lupa.cz/clanky/datova-schranka-kontra-urednik/)), ona pravila, že tedy aha, takže to možná u nich někdo, že to ještě prověří. Pro jistotu jsem napsal zprávu na vnitro, které systém datových schránek spravuje, aby mi vytáhli doručenku pro zprávu poslanou z mojí schránky v březnu 2011 na adresu finančáku. Za měsíc přišlo potvrzení &#8211; vida, měl jsem pravdu, daňové přiznání bylo doručeno, jupí. Pouštím z hlavy, paní to jistě prověřila.
 
 Říjen loňského roku: volá mi vynervovaná žena, že ve schránce je výzva k vyzvednutí zásilky do vlastních rukou, odesilatel: Finanční úřad České Budějovice! Co s tím má dělat?! No &#8211; nic! Finanční úřad mi nemá co posílat dopisy do vlastních rukou, když mám datovou schránku. Navíc, jak známo, pokud občan má prokazatelně datovou schránku (a to mám, když z ní od roku 2010 posílám státu i finančáku veškerou komunikaci) a úřad mu přesto pošle nějaký líbesbríf poštou, tak byť by byla stokrát fikce doručení, udělali to špatně. Tralala. §17 odst. 1 zákona 300/2008 Sb.
 

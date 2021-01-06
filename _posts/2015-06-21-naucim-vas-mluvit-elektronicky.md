@@ -4,7 +4,7 @@ title: Naučím vás mluvit elektronicky!
 date: 2015-06-21T12:31:05+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2320
+guid: https://misantrop.info/?p=2320
 permalink: /naucim-vas-mluvit-elektronicky/
 mashsb_timestamp:
   - "1576258648"
@@ -24,9 +24,9 @@ Chcete?
 
 <!--more-->
 
-Před nějakou dobou jsem si tak trošku postěžoval ([tady třeba](http://kcc.misantrop.info/2015/05/15/literatura/), nebo [tady](http://kcc.misantrop.info/2015/05/22/didaktika/), nepřímo i [tady](http://kcc.misantrop.info/2015/05/21/jednoduche/)), že mi připadá trochu nevyužitý potenciál současné elektroniky. Když to srovnám s dobou před třiceti lety, kdy jsem nesehnal skoro nic, ale zato jsem měl knížky s návody na stavbu lecčeho, tak mi přijde, že dneska máme skvělé a levné možnosti naučit se pracovat s elektronikou (kity za hubičku, součástky za půl darma, nástroje za cenu jednoho obědu s polévkou a limonádou), máme i lidi, které by to bavilo, ale nemáme k tomu _notičky_.
+Před nějakou dobou jsem si tak trošku postěžoval ([tady třeba](https://kcc.misantrop.info/2015/05/15/literatura/), nebo [tady](https://kcc.misantrop.info/2015/05/22/didaktika/), nepřímo i [tady](https://kcc.misantrop.info/2015/05/21/jednoduche/)), že mi připadá trochu nevyužitý potenciál současné elektroniky. Když to srovnám s dobou před třiceti lety, kdy jsem nesehnal skoro nic, ale zato jsem měl knížky s návody na stavbu lecčeho, tak mi přijde, že dneska máme skvělé a levné možnosti naučit se pracovat s elektronikou (kity za hubičku, součástky za půl darma, nástroje za cenu jednoho obědu s polévkou a limonádou), máme i lidi, které by to bavilo, ale nemáme k tomu _notičky_.
 
-Co tím myslím: Není problém vzít do ruky Arduino, podle barevného obrázku propojit dráty, napsat sketch a spustit. Pokud neuděláte někde chybu, bude to fungovat. Jenže tomu něco chybí. Chybí tomu ten přístup &#8222;tak, teď víš všechno potřebné, zkus si udělat to a to a to&#8220; &#8211; tedy cvičení adekvátní probraným znalostem. Trochu se o to snaží příručka Začínáme s Arduinem ([zdarma na Arduino.cz](http://arduino.cz/))
+Co tím myslím: Není problém vzít do ruky Arduino, podle barevného obrázku propojit dráty, napsat sketch a spustit. Pokud neuděláte někde chybu, bude to fungovat. Jenže tomu něco chybí. Chybí tomu ten přístup &#8222;tak, teď víš všechno potřebné, zkus si udělat to a to a to&#8220; &#8211; tedy cvičení adekvátní probraným znalostem. Trochu se o to snaží příručka Začínáme s Arduinem ([zdarma na Arduino.cz](https://arduino.cz/))
 
 Na něco podobného jsme kdysi narazili s Patrickem Zandlem při diskusi o tom, jak naučit děti programovat. Patrick měl děti ve věku, kdy už mohly začít s programováním, dokonce je to zajímalo, tak tehdy našel [Scratch](https://scratch.mit.edu/) a nechal děti, aby si hrály. Ideální nástroj pro edukační aktivity &#8222;otec &#8211; dítě&#8220;, ale problém je v tom, co Patrick pojmenoval &#8222;nedostatek metodických materiálů&#8220;. Tedy to, že ho nenapadaly vhodné příklady, co s dětma dělat, aby byly adekvátní znalostem, aby je nepřetížil nějakými složitostmi na začátku (a neotrávil je tím), nebo aby po nich nechtěl trapně jednoduché věci, zároveň aby to bylo dostatečně zábavné a poutavé&#8230;
 
@@ -43,20 +43,20 @@ Totiž &#8211; co to takhle vzít ještě z jiného konce? Představuju si člov
   * hradla a logické výrazy (asi jen na úrovni fungování, de Morganovy zákony ano, Karnaughovy mapy spíš už ne)
   * jak se z hradel poskládají klopné obvody
   * &#8230; a ještě složitější obvody (paměti, dekodéry, čítače) &#8211; k tomu vždycky reprezentaci v &#8222;programátorském světě&#8220;
-  * procesory, procesory, procesory! Jaké jsou, jak jsou uvnitř zapojené, jak se programují, k tomu [stroják](http://strojak.cz) čili assembler&#8230; Na úrovni osmibitových strojů
+  * procesory, procesory, procesory! Jaké jsou, jak jsou uvnitř zapojené, jak se programují, k tomu [stroják](https://strojak.cz) čili assembler&#8230; Na úrovni osmibitových strojů
   * Arduino. Když už máme ten procesor, tak ať taky pracuje!
   * víc Arduina. Jak zapojit sofistikované shieldy (Ethernet, Bluetooth, Cojávímcoještě) a jak je rozchodit
   * internet věcí, věci na internetu&#8230;
   * jak si z procesoru a dalších věcí okolo poskládat počítač. Osmibit, jak jinak
   * jak fungují počítačové periferie, jak je postavit, jak využít existující
   * jak se pracuje s displejem. Textový displej, grafický displej, sprity, vlastní akcelerátor&#8230; Jak vzniká obraz, jak udělat výstup na TV i VGA
-  * jak se dělá zvuk &#8211; od [jednobitového](http://retrocip.cz/symfonie-na-jednom-bitu/) po všechny ty SIDy a AY
+  * jak se dělá zvuk &#8211; od [jednobitového](https://retrocip.cz/symfonie-na-jednom-bitu/) po všechny ty SIDy a AY
   * jak se programují osmibity, prakticky a názorně na Z80, 6502, 6809, AVR, a k tomu i nějaké kuriozity
-  * [VHDL](http://vhdl.cz), Verilog a [FPGA](http://fpga.cz)
-  * jak si ve [VHDL](http://vhdl.cz) navrhnout vlastní mikroprocesor
+  * [VHDL](https://vhdl.cz), Verilog a [FPGA](https://fpga.cz)
+  * jak si ve [VHDL](https://vhdl.cz) navrhnout vlastní mikroprocesor
   * jak ten vlastní mikroprocesor rozchodit
-  * jak ten vlastní mikroprocesor [emulovat](http://webscript.cz/emulujeme-osmibit-javascriptem/)
-  * [jak emulovat celé počítače](http://webscript.cz/emulujeme-osmibit-javascriptem-dil-druhy/)
+  * jak ten vlastní mikroprocesor [emulovat](https://webscript.cz/emulujeme-osmibit-javascriptem/)
+  * [jak emulovat celé počítače](https://webscript.cz/emulujeme-osmibit-javascriptem-dil-druhy/)
 
 Slušná nálož, co? V podstatě to je to, čemu jsem se věnoval posledních cca osm let, doplněné o znalosti, které sbírám od dětství. Možná bych to rozdělil na dva díly&#8230;
 

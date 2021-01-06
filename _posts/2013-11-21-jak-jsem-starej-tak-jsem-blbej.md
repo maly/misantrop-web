@@ -4,7 +4,7 @@ title: 'Jak jsem starej, tak jsem blbej&#8230;'
 date: 2013-11-21T11:51:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1665
+guid: https://misantrop.info/?p=1665
 permalink: /jak-jsem-starej-tak-jsem-blbej/
 dsq_thread_id:
   - "1985375835"
@@ -26,7 +26,7 @@ Před mnoha a mnoha lety jsem po krátkém flirtu s Vistama nainstaloval Windows
 
 A dobře jsem udělal. Marcel měl, jako vždycky, pravdu, osmičky fungovaly jako víno a problémů jsem moc nezaznamenal. Vlastně žádné. Až do toho osudného okamžiku, kdy jsem, já bloud, aktualizoval na Windows 8.1.
 
-Zpočátku to vypadalo, že s tím moc problémů nebude. Pár ovladačů protestovalo, ale to se dá vyřešit. A pak to začalo zamrzat. Nejdřív při hrách. Pak při HD videu. Pak i při běžné práci. Hledal jsem v logách, začal jsem laborovat s nastavením, přetaktoval, podtaktoval, komponenty testoval &#8211; nic. Jen ten blbej systém zamrzal jak [voda v reportáži TV Nova](http://www.youtube.com/watch?v=LK87xOODkYU).
+Zpočátku to vypadalo, že s tím moc problémů nebude. Pár ovladačů protestovalo, ale to se dá vyřešit. A pak to začalo zamrzat. Nejdřív při hrách. Pak při HD videu. Pak i při běžné práci. Hledal jsem v logách, začal jsem laborovat s nastavením, přetaktoval, podtaktoval, komponenty testoval &#8211; nic. Jen ten blbej systém zamrzal jak [voda v reportáži TV Nova](https://www.youtube.com/watch?v=LK87xOODkYU).
 
 Takže jsem se opět zeptal Marcela na jeho zkušenosti. Povídám mu: Hele, mně ty vosumjedničky furt tuhnou a spíš restartuju, než pracuju. A Marcel povídá: &#8222;Nojo, to osmjedničky dělaj. Tuhnou. Proto jsem taky neaktualizoval!&#8220; Po krátkém zhodnocení možností (&#8222;&#8230; a tu dementní aktualizaci ani neodinstaluješ!&#8220;) jsem se v duchu proklel, nahlas jsem se nazval kreténem, a dnes večer budu instalovat sedmičky.
 

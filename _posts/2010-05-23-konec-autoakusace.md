@@ -4,12 +4,12 @@ title: Konec autoakusace
 date: 2010-05-23T12:48:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/konec-autoakusace/
+guid: https://misantrop.info/konec-autoakusace/
 permalink: /konec-autoakusace/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19117284"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/konec-autoakusace
+  - https://adent.posterous.com/konec-autoakusace
 mashsb_timestamp:
   - "1575149063"
 mashsb_shares:

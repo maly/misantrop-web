@@ -4,7 +4,7 @@ title: 'Píár a marketing, moji milí&#8230;'
 date: 2015-09-21T11:28:30+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2482
+guid: https://misantrop.info/?p=2482
 permalink: /piar-a-marketing-moji-mili/
 mashsb_timestamp:
   - "1576153156"

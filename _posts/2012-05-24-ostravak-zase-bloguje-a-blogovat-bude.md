@@ -4,7 +4,7 @@ title: Ostravak (zase) bloguje a blogovat bude!
 date: 2012-05-24T19:20:55+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=440
+guid: https://misantrop.info/?p=440
 permalink: /ostravak-zase-bloguje-a-blogovat-bude/
 dsq_thread_id:
   - "702377040"
@@ -35,7 +35,7 @@ Ostravak si zatím vybral šablonu, která se mu líbila, já mu ji nahrál do s
 
 No a po tom všem a po doladění drobnosti (video z YouTube) funguje nový Ostravak, v novém a na novém.
 
-Zde je, prosím, nový [Denik Ostravaka](http://denik.ostravaka.cz/).
+Zde je, prosím, nový [Denik Ostravaka](https://denik.ostravaka.cz/).
 
 _A já si jdu dát zaslouženého panáka. Všechny ostatní blogy už budou jenom jednodušší 🙂 Snad jen Šumavák se těmhle počtům bude blížit&#8230;_
 

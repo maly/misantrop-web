@@ -4,7 +4,7 @@ title: Boj za značku na sociální síti
 date: 2014-05-10T17:09:36+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1998
+guid: https://misantrop.info/?p=1998
 permalink: /boj-za-znacku-na-socialni-siti/
 dsq_thread_id:
   - "2675102414"
@@ -23,7 +23,7 @@ tags:
   - Marketing
   - sociální sítě
 ---
-[Desatero firemní komunikace](http://www.misantrop.info/desatero-firemni-twitterove-komunikace/) platí stále, ale koukám, že si zaslouží oprášit&#8230;
+[Desatero firemní komunikace](https://misantrop.info/desatero-firemni-twitterove-komunikace/) platí stále, ale koukám, že si zaslouží oprášit&#8230;
 
 <!--more-->
 
@@ -45,11 +45,11 @@ Zrovna před pár dny jsem viděl naštvaného zákazníka CZC, který byl rozho
 
 **&#8222;Boj o značku&#8220; je boj s nenulovým součtem**: když vyhrajete, tak vlastně získá i váš protihráč. Pokud tu hru ale protihráč chce hrát a hraje jako hru s nulovým součtem, tj. &#8222;vyhraju jen když vy prohrajete&#8220;, tak ho nelze vyhrát a je lepší boj včas skončit.
 
-Když &#8222;končíte boj&#8220; a vyklízíte bitevní pole, tak **nepodléhejte pokušení** dělat &#8222;[jubilare](http://www.misantrop.info/trvale-udrzitelna-krava/#jubilare)&#8222;, tj. **odejít s nějakou poznámkou o ubohosti protivníkově**. Odpusťte si všechny ty řeči typu &#8222;nemá to cenu, necháme vás žít ve vašem bludu, svou energii raději věnujeme jiným zákazníkům, nemáme čas se s vámi dohadovat, místo toho budeme pracovat na dalším rozvoji našich služeb&#8230;&#8220; [a la Čupr](http://www.misantrop.info/kubik-marketing/). **Prohráli jste, tak odejděte se ctí a nepindejte, tím to už nespravíte ani to nezměníte na plichtu.**
+Když &#8222;končíte boj&#8220; a vyklízíte bitevní pole, tak **nepodléhejte pokušení** dělat &#8222;[jubilare](https://misantrop.info/trvale-udrzitelna-krava/#jubilare)&#8222;, tj. **odejít s nějakou poznámkou o ubohosti protivníkově**. Odpusťte si všechny ty řeči typu &#8222;nemá to cenu, necháme vás žít ve vašem bludu, svou energii raději věnujeme jiným zákazníkům, nemáme čas se s vámi dohadovat, místo toho budeme pracovat na dalším rozvoji našich služeb&#8230;&#8220; [a la Čupr](https://misantrop.info/kubik-marketing/). **Prohráli jste, tak odejděte se ctí a nepindejte, tím to už nespravíte ani to nezměníte na plichtu.**
 
 Druhý problém v boji za značku je následující: Ne každý to umí. Úspěšně vedený boj za značku znamená trochu ubrat ze své hrdosti &#8211; ale nesklouznout k podlézání. Ubrat na nesmiřitelnosti &#8211; ale ne k popření sebe sama. Znamená to být otevřený, osobní &#8211; ale ne trapný. Je to tanec mezi vejci, každý takový boj je jedinečný, protože na každého rozhořčeného platí něco jiného (a na někoho nic, viz výše).
 
-Tak, dejme tomu, že jste se rozhodli naštvaného člověka, modelově paní Hanku, zpacifikovat. Samozřejmě že to jde, a komunikační eso takovou situaci zahraje tak, že paní Hanka nakonec bude všem svým známým tu službu doporučovat. Ale to nemusí být cílem, tady bohatě stačilo dodržet [desatero](http://www.misantrop.info/desatero-firemni-twitterove-komunikace/) a naštvaná Hanka mohla být nakonec spokojená Hanka.
+Tak, dejme tomu, že jste se rozhodli naštvaného člověka, modelově paní Hanku, zpacifikovat. Samozřejmě že to jde, a komunikační eso takovou situaci zahraje tak, že paní Hanka nakonec bude všem svým známým tu službu doporučovat. Ale to nemusí být cílem, tady bohatě stačilo dodržet [desatero](https://misantrop.info/desatero-firemni-twitterove-komunikace/) a naštvaná Hanka mohla být nakonec spokojená Hanka.
 
 Jak bych tuhle komunikaci vedl já?
 
@@ -71,7 +71,7 @@ V tom konkrétním případu, který řešil Adam, nebylo na samotném počátku
 
 **Když vedu komunikaci za značku&#8230;**
 
-  1. Nelžu, nemlžím, nevymlouvám se, dodržuju [desatero firemní komunikace](http://www.misantrop.info/desatero-firemni-twitterove-komunikace/).
+  1. Nelžu, nemlžím, nevymlouvám se, dodržuju [desatero firemní komunikace](https://misantrop.info/desatero-firemni-twitterove-komunikace/).
   2. V boji za značku nejde o to, kdo má pravdu, ale jestli bude zákazník nakonec spokojený.
   3. Když zákazník opravdu chce, abych prohrál, tak prohraju.
   4. Když prohraju, tak prohraju, žádné řeči potom to už nespraví.

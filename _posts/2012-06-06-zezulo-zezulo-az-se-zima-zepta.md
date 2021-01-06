@@ -4,12 +4,12 @@ title: 'Zezulo, Zezulo, až se zima zeptá&#8230;'
 date: 2012-06-06T09:20:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/zezulo-zezulo-az-se-zima-zepta/
+guid: https://misantrop.info/zezulo-zezulo-az-se-zima-zepta/
 permalink: /zezulo-zezulo-az-se-zima-zepta/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "136295143"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/zezulo-zezulo-az-se-zima-zepta
+  - https://adent.posterous.com/zezulo-zezulo-az-se-zima-zepta
 mashsb_timestamp:
   - "1564946828"
 mashsb_shares:

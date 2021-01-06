@@ -4,12 +4,12 @@ title: 'Ad &#8222;Dvacet let budování sítí&#8220;'
 date: 2009-12-27T13:04:42+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/ad-dvacet-let-budovani-siti/
+guid: https://misantrop.info/ad-dvacet-let-budovani-siti/
 permalink: /ad-dvacet-let-budovani-siti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "9142882"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/ad-dvacet-let-budovani-siti
+  - https://adent.posterous.com/ad-dvacet-let-budovani-siti
 mashsb_timestamp:
   - "1570170294"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Kl&aacute;ra Vesel&aacute;-Samkov&aacute; zveřejnila pěknou [&uacute;vahu o společensk&eacute;m marasmu](http://blog.aktualne.centrum.cz/blogy/klara-samkova-vesela-.php?itemid=8440). Nemohu si pomoct, ale nesouhlas&iacute;m s t&iacute;m, že, jak p&iacute;&scaron;e:
+Kl&aacute;ra Vesel&aacute;-Samkov&aacute; zveřejnila pěknou [&uacute;vahu o společensk&eacute;m marasmu](https://blog.aktualne.centrum.cz/blogy/klara-samkova-vesela-.php?itemid=8440). Nemohu si pomoct, ale nesouhlas&iacute;m s t&iacute;m, že, jak p&iacute;&scaron;e:
 
 _To, co je př&iacute;činou ud&aacute;losti s katastrof&aacute;ln&iacute;mi n&aacute;sledky, a to, co se zač&iacute;n&aacute; bortit, jsou klientelistick&eacute; s&iacute;tě spředen&eacute; pr&aacute;vě ze vz&aacute;jemn&yacute;ch z&aacute;vazků, protislužeb, synergick&yacute;ch či antagonistick&yacute;ch z&aacute;jmů. Jimi je na&scaron;e společnost pros&iacute;ťov&aacute;na neroz&scaron;ifrovateln&yacute;m způsobem.  
 Tuto klientelistickou s&iacute;ť jsme/jste budovali dvacet let. J&aacute; na br&aacute;chu, br&aacute;cha na mě._ 

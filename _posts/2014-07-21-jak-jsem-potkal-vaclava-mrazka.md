@@ -4,7 +4,7 @@ title: Jak jsem potkal Václava Mrázka
 date: 2014-07-21T11:24:07+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2084
+guid: https://misantrop.info/?p=2084
 permalink: /jak-jsem-potkal-vaclava-mrazka/
 dsq_thread_id:
   - "2860728539"
@@ -28,7 +28,7 @@ Pár postřehů ze setkání s jedním kriminálním případem&#8230;
 
 <!--more-->
 
-_Doprovodný text, který jsem napsal k datažurnalistickému experimentu &#8222;případu Mrázek&#8220;, na němž jsme pracovali s kolegou Honzou Cibulkou. Cílem bylo ověřit algoritmus z kriminalistického software, který umožňuje tipovat bydliště pachatele. Toto je vedlejší produkt, takové osobněji laděné vyznání nad případem, který je dneska už skoro zapomenutý. Text se proto nezabývá chronologicky Mrázkovými trestnými činy, ty jsou notoricky známé a mnohokrát [popsané](http://cs.wikipedia.org/wiki/V%C3%A1clav_Mr%C3%A1zek) &#8211; viz též dokument Hrdelní zločiny ([díl 1](https://www.youtube.com/watch?v=gYrygr5adQ8), [díl 2](https://www.youtube.com/watch?v=jJJpxHlyocM)) nebo moje shrnutí [Mrázek &#8211; zloděj, násilník a sériový vrah](http://www.misantrop.info/vaclav-mrazek-zlodej-nasilnik-a-seriovy-vrah/ "Václav Mrázek – zloděj, násilník a sériový vrah")._
+_Doprovodný text, který jsem napsal k datažurnalistickému experimentu &#8222;případu Mrázek&#8220;, na němž jsme pracovali s kolegou Honzou Cibulkou. Cílem bylo ověřit algoritmus z kriminalistického software, který umožňuje tipovat bydliště pachatele. Toto je vedlejší produkt, takové osobněji laděné vyznání nad případem, který je dneska už skoro zapomenutý. Text se proto nezabývá chronologicky Mrázkovými trestnými činy, ty jsou notoricky známé a mnohokrát [popsané](https://cs.wikipedia.org/wiki/V%C3%A1clav_Mr%C3%A1zek) &#8211; viz též dokument Hrdelní zločiny ([díl 1](https://www.youtube.com/watch?v=gYrygr5adQ8), [díl 2](https://www.youtube.com/watch?v=jJJpxHlyocM)) nebo moje shrnutí [Mrázek &#8211; zloděj, násilník a sériový vrah](https://misantrop.info/vaclav-mrazek-zlodej-nasilnik-a-seriovy-vrah/ "Václav Mrázek – zloděj, násilník a sériový vrah")._
 
 Venku je jeden z prvních teplých jarních dnů a lidé si nadšeně užívají sluníčka. V kamenném domě, v němž sídlí kadaňský archiv, je ale docela zima. S kolegou Cibulkou ji moc nevnímáme. Tísníme se u jednoho stolu nad zažloutlými a rozpadajícími se průklepáky se strojopisem, nad černobílými fotografiemi a nad kaligraficky vyvedenými situačními plánky, uloženými v deskách, nadepsaných “TRESTNÍ SPIS &#8211; Václav Mrázek.”
 
@@ -118,7 +118,7 @@ Přesto se tlak vyšších míst na Mrázkově vyšetřování podepsal a stejn�
 
 * * *
 
-[<img class="alignleft size-full wp-image-2096" src="http://www.misantrop.info/wp-content/uploads/2014/07/mrazek.jpg" alt="mrazek" width="200" height="450" />](http://www.misantrop.info/wp-content/uploads/2014/07/mrazek.jpg)“Prosímvás, jestli si budete něco fotit, tak mi ukažte, co si fotíte, víte, aby tam nebyly nějaké osobní údaje svědků,” prosí nás paní v archivu. Pak se dívá na to, jak si fotíme plánky. Na vedlejší stránce je fotodokumentace z místa činu. “Tohle ale do toho článku dávat nebudete, že ne? Vždyť to jsou strašné fotky, hrůza!”
+[<img class="alignleft size-full wp-image-2096" src="https://misantrop.info/wp-content/uploads/2014/07/mrazek.jpg" alt="mrazek" width="200" height="450" />](https://misantrop.info/wp-content/uploads/2014/07/mrazek.jpg)“Prosímvás, jestli si budete něco fotit, tak mi ukažte, co si fotíte, víte, aby tam nebyly nějaké osobní údaje svědků,” prosí nás paní v archivu. Pak se dívá na to, jak si fotíme plánky. Na vedlejší stránce je fotodokumentace z místa činu. “Tohle ale do toho článku dávat nebudete, že ne? Vždyť to jsou strašné fotky, hrůza!”
 
 Musím paní přitakat. Obnažená mrtvá těla, detaily průstřelů, podrobné fotografie hlavy rozmlácené sekerou, to možná zní na první poslech dráždivě a může to vzbudit bulvární zvědavost, ale ten pohled není dráždivý, zajímavý ani hezký. Ani na fotografiích. Je z nich cítit &#8211; ne, nedá se říct “smrt”, to by bylo příliš laciné. Je z nich cítit absurdno. Zmařené životy lidí, které spojovalo jen to, že potkali Mrázka v nešťastnou, nesvatou hodinu.
 
@@ -136,7 +136,7 @@ Občas Mrázkův případ vytáhnou nějaké noviny či web a titulky křičí: 
 
 V kaleidoskopu informací z celého případu si nemůžu oddělit jednotlivé součásti. Nedokážu se dívat na Mrázka jako na přírodní kuriozitu, vždycky ho budu mít zasazeného do kontextu. Sedm mrtvých lidí (jejich jména mi asi z paměti nevymizí: Chloubová, Pajúrková, Dvořáková, Helmichová, Trlifaj, Dufková, Beranová), několik znásilněných malých děvčátek, několik pokusů o znásilnění, desítky okradených, nepočítaně zničených životů, strach, který paralyzoval celý kraj, obraz mapy s křížkama, fotka vraha Mrázka v baretce…
 
-<a href="http://www.misantrop.info/jak-jsem-potkal-vaclava-mrazka/produkt-1189443454-2/" rel="attachment wp-att-2085"><img class="aligncenter size-full wp-image-2085" src="http://www.misantrop.info/wp-content/uploads/2014/07/produkt-1189443454.jpg" alt="" width="300" height="203" srcset="https://www.misantrop.info/wp-content/uploads/2014/07/produkt-1189443454.jpg 300w, https://www.misantrop.info/wp-content/uploads/2014/07/produkt-1189443454-200x135.jpg 200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href="https://misantrop.info/jak-jsem-potkal-vaclava-mrazka/produkt-1189443454-2/" rel="attachment wp-att-2085"><img class="aligncenter size-full wp-image-2085" src="https://misantrop.info/wp-content/uploads/2014/07/produkt-1189443454.jpg" alt="" width="300" height="203" srcset="https://misantrop.info/wp-content/uploads/2014/07/produkt-1189443454.jpg 300w, https://misantrop.info/wp-content/uploads/2014/07/produkt-1189443454-200x135.jpg 200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
 Odjíždíme z Kadaně a cestu si trošku prodlužujeme &#8211; Údlice, Přečáply, … Na kraji Přečápel stále stojí transformátor, u kterého spáchal Mrázek svou třetí vraždu. Fotografie téhle silnice s transformátorem, která je součástí spisů, se objevila i v dokumentu “Oběti a vrazi”, a pro mne osobně zůstává nejvýraznějším obrazem, který se mi vybaví, když se řekne “Václav Mrázek”. Snad proto, že na té fotografii není vidět oběť, která by vzbuzovala soucit nebo zlost na vraha. Je tam jen silnice lemovaná stromy a transformátor. Zlo není vidět, ale pokud o něm víte, dýchne na vás: Tady se to stalo, tady ji zastřelil, sem ji odtáhl… Pokud o něm nevíte, je to pro vás jen nenápadná fotografie.
 

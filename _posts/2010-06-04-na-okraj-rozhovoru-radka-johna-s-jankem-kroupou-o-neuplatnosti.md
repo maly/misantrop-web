@@ -4,12 +4,12 @@ title: Na okraj rozhovoru Radka Johna s Jankem Kroupou o neúplatnosti
 date: 2010-06-04T20:14:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
+guid: https://misantrop.info/na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
 permalink: /na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19713792"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/na-okraj-rozhovoru-radka-johna-s-jankem-kroup
+  - https://adent.posterous.com/na-okraj-rozhovoru-radka-johna-s-jankem-kroup
 mashsb_timestamp:
   - "1546023538"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Dnešní [rozhovor Janka Kroupy s Radkem Johnem](http://zpravy.idnes.cz/kampani-a-sliby-jsme-si-trochu-zavarili-priznal-sef-veckaru-john-p8u-/domaci.asp?c=A100603_222057_domaci_vel) je až děsivý. Kroupa hovořil o třech tématech Věcí Veřejných a z Johna celkem elegantně udělal kašpara, když mu bod po bodu ukázal, že jejich předvolební sliby jsou nesmyslné, nelogické, protiústavní nebo jen nemožné. Moc se mi to líbilo, jen je mi trošku líto, že nezazněla jedna věc.
+Dnešní [rozhovor Janka Kroupy s Radkem Johnem](https://zpravy.idnes.cz/kampani-a-sliby-jsme-si-trochu-zavarili-priznal-sef-veckaru-john-p8u-/domaci.asp?c=A100603_222057_domaci_vel) je až děsivý. Kroupa hovořil o třech tématech Věcí Veřejných a z Johna celkem elegantně udělal kašpara, když mu bod po bodu ukázal, že jejich předvolební sliby jsou nesmyslné, nelogické, protiústavní nebo jen nemožné. Moc se mi to líbilo, jen je mi trošku líto, že nezazněla jedna věc.
 
 John uvedl k _protikorupčním provokatérům_ tento &#8222;pozitivní příklad&#8220;:
 

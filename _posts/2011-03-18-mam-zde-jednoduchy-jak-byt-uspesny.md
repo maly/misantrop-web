@@ -4,12 +4,12 @@ title: Mám zde jednoduchý jak být úspěšný
 date: 2011-03-18T06:58:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/mam-zde-jednoduchy-jak-byt-uspesny/
+guid: https://misantrop.info/mam-zde-jednoduchy-jak-byt-uspesny/
 permalink: /mam-zde-jednoduchy-jak-byt-uspesny/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "46369447"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/mam-zde-jednoduchy-jak-byt-uspesny
+  - https://adent.posterous.com/mam-zde-jednoduchy-jak-byt-uspesny
 mashsb_timestamp:
   - "1574123212"
 mashsb_shares:

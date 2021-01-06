@@ -4,12 +4,12 @@ title: '&#8222;Oščádal rule&#8220;'
 date: 2010-10-25T08:14:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/oscadal-rule/
+guid: https://misantrop.info/oscadal-rule/
 permalink: /oscadal-rule/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "31487688"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/oscadal-rule
+  - https://adent.posterous.com/oscadal-rule
 mashsb_timestamp:
   - "1575999658"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Někter&eacute; věci neza&scaron;kod&iacute; čas od času připomenout. Např&iacute;klad toto pravidlo (viz [můj star&scaron;&iacute; z&aacute;pisek](http://www.misantrop.info/tri-duvody-proc-vas-blokuju-na-twitteru)).
+Někter&eacute; věci neza&scaron;kod&iacute; čas od času připomenout. Např&iacute;klad toto pravidlo (viz [můj star&scaron;&iacute; z&aacute;pisek](https://misantrop.info/tri-duvody-proc-vas-blokuju-na-twitteru)).
 
 Pravidlo dostalo jm&eacute;no po člověku, kter&yacute; r&aacute;d a často komentuje u lid&iacute;, kteř&iacute; ho neznaj&iacute;, a komentuje přitom jako by se znali dlouh&aacute; l&eacute;ta. Důvěrně, k&aacute;mo&scaron;sky, furt a nav&iacute;c bez znalosti kontextu. P&iacute;&scaron;e koment&aacute;ře k va&scaron;im zpr&aacute;v&aacute;m na Facebooku, p&iacute;&scaron;e koment&aacute;ře k va&scaron;im zpr&aacute;v&aacute;m na Twitteru, p&iacute;&scaron;e koment&aacute;ře k blognut&iacute;m, zkr&aacute;tka ke v&scaron;emu. Ne že by jeho koment&aacute;ře byly nesouhlasn&eacute;, ne &#8211; jsou prostě jen z kategorie &#8222;blb&yacute; kecy&#8220;, jestli v&iacute;te, co t&iacute;m m&aacute;m na mysli. Hemzy. Nevhodn&eacute; koment&aacute;ře ke v&scaron;emu, nevhodn&eacute; formou i obsahem. Zkr&aacute;tka člověk s ne zcela standardn&iacute; m&iacute;rou soci&aacute;ln&iacute; inteligence &#8211; jako že nev&iacute; kdy je vhodn&eacute; něco podot&yacute;kat, a co je vhodn&eacute; podot&yacute;kat.
 

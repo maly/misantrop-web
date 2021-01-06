@@ -4,7 +4,7 @@ title: Zima, tma a politbyro
 date: 2015-02-18T12:33:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2229
+guid: https://misantrop.info/?p=2229
 permalink: /zima-tma-a-politbyro/
 mashsb_timestamp:
   - "1576236814"

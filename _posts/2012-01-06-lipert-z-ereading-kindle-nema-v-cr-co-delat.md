@@ -4,7 +4,7 @@ title: 'Lipert z eReading: &#8222;Kindle nemá v ČR co dělat&#8220;'
 date: 2012-01-06T18:22:46+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=31
+guid: https://misantrop.info/?p=31
 permalink: /lipert-z-ereading-kindle-nema-v-cr-co-delat/
 dsq_thread_id:
   - "529243982"
@@ -44,7 +44,7 @@ Mám z toho radost.
 
 Elektronické čtečky vtrhly na český trh s brutální silou a donutily vydavatele a nakladatele se k elektronickému obsahu nějak postavit. Bez Kindle 3 a jeho razantního nástupu bychom dneska stále poslouchali od českých vydavatelů řeči o tom, že _je nejdřív potřeba nastavit obchodní modely a vyřešit prodej a vyřešit ochranu, a to pro tak minoritní trh zatím není aktuální otázka&#8230;_
 
-A dneska jsem si přečetl [rozhovor s Martinem Lipertem z eReading](http://www.reflex.cz/clanek/zpravy/44679/ctecka-kindle-nema-v-ceskem-prostredi-co-delat-rika-spoluzakladatel-obchodu-s-elektronickymi-knihami-ereading-cz.html).
+A dneska jsem si přečetl [rozhovor s Martinem Lipertem z eReading](https://www.reflex.cz/clanek/zpravy/44679/ctecka-kindle-nema-v-ceskem-prostredi-co-delat-rika-spoluzakladatel-obchodu-s-elektronickymi-knihami-ereading-cz.html).
 
 > V době, kdy tady bylo jen pár Kindlů, přišel server Aktuálně.cz s tím, že do nich bude zasílat periodika. Jakmile to začalo dělat Aktuálně, tak se polekali všichni ostatní vydavatelé a řekli si: „No to musíme také.“ A potom začala ta masáž iDnes a dalších. To je obrovská síla. A mě to mrzí, protože rozšíření Kindlu velmi škodí českým elektronickým knihám.
 
@@ -68,7 +68,7 @@ Lipert zkrátka hlavně láteří, že jim **Kindle narušil trh, který by tu b
 
 Jsem rád, že jsem do toho Kindlu v ČR na začátku pomohl trošku šťouchnout. Na rozdíl od pana Liperta si totiž nemyslím, že budoucnost elektronického placeného obsahu je v tom, že budu mít hafo čteček, pro každého vydavatele či nakladatele jednu, jen proto, že distributoři nehodlají měnit svůj obchodní model. _Ne, nenapadá mě jiný. Ale to není moje starost, hru &#8222;a co byste jako navrhoval vy?&#8220; nehraju &#8211; já jsem zákazník, a obchodní model je věc prodejce._ 
 
-PS: [Kindle za 109USD](http://www.amazon.com/gp/product/B0051QVF7A/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051QVF7A) (s daní, clem a poštovným za 156USD komplet), de facto světový standard pro čtečky za, _ať nežeru a dám dolar za dvacet_, bratru 3100, a proti tomu eReading čtečka, speciální pro český trh, kvalitativní úrovně &#8222;pro český trh to bude dobrý, můžou bejt rádi, že něco mají&#8220; (viz [recenze na Rootu](http://www.root.cz/clanky/ctecka-ereading-nedokonala-prvni-vlastovka/) *) s doručením za 3800? _Srsly?_
+PS: [Kindle za 109USD](https://www.amazon.com/gp/product/B0051QVF7A/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051QVF7A) (s daní, clem a poštovným za 156USD komplet), de facto světový standard pro čtečky za, _ať nežeru a dám dolar za dvacet_, bratru 3100, a proti tomu eReading čtečka, speciální pro český trh, kvalitativní úrovně &#8222;pro český trh to bude dobrý, můžou bejt rádi, že něco mají&#8220; (viz [recenze na Rootu](https://www.root.cz/clanky/ctecka-ereading-nedokonala-prvni-vlastovka/) *) s doručením za 3800? _Srsly?_
 
 *) Vyzkouším si sám a zhodnotím; podle pana Liperta se v případě téhle recenze jednalo o shodu neblahých okolností, které utvořily první špatný dojem.
 

@@ -4,7 +4,7 @@ title: Anketu, anketu!
 date: 2013-05-16T14:26:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1290
+guid: https://misantrop.info/?p=1290
 permalink: /anketu-anketu/
 dsq_thread_id:
   - "1292325041"
@@ -24,7 +24,7 @@ categories:
 
 Pokud se pohybujete na Twitteru, možná jste zaznamenali (ale spíš ne&#8230;) anketu Tweet roku. Pořádají to rukou společnou a nerozdílnou chlápci z Lupy, ACCPR a Klábosení. Její konání oznámili na &#8222;konferenci o českém Twitteru&#8220;, což byla úžasná akce, pořádaná, tuším, TBN, kam jste mohli za lidovku (3500 Kč) přijít a poslouchat, hmmm&#8230; No, ocituji: _Na celodenní konferenci #CZTwitter vystoupí PR a marketingoví manažeři, správci firemních účtů, vlastníci populárních twitter účtů._ Super! Kdo by si nepřál poslouchat marketingové manažery za 3,5K?!
 
-Vlastně ani tak nešlo o Twitter a o lidi, co tvoří onu &#8222;masu uživatelů&#8220;, šlo o firmy, marketing a PR ve spojení s Twitterem. Nemám s tím problém, každý nechť si udělá konferenci o čem chce a jak chce, ale musím říct, že chápu rozčarování některých &#8222;privátních&#8220; Twitteristů, když zjistili, že &#8222;to není o nich ani pro ně&#8220;. [Pěkně to shrnula Žirafka](http://zirafka.blogspot.cz/2013/04/zprava-o-dvou-konferencich-ktere-nikdy.html) (a přiznám se, že mě nachytala levým sloupcem a chvilku jsem hledal, kde bylo to pravidlo o 1500 followerech). Jeden z přednášejících, který není ani PR a marketingový manažer, natož správce firemního účtu, jen vlastní účet populárnější než ty nejpopulárnější  firemní účty, mi pak říkal, že ta konference měla jednu tragickou vadu, kterou zjistil až když se postavil před publikum: většina z nich o Twitteru nevěděla vůbec nic, neznala ho, nepoužívala ho, a když ano, tak stylem &#8222;někdo to u nás ve firmě dělat musel&#8220;&#8230; Tak dalo se to čekat.
+Vlastně ani tak nešlo o Twitter a o lidi, co tvoří onu &#8222;masu uživatelů&#8220;, šlo o firmy, marketing a PR ve spojení s Twitterem. Nemám s tím problém, každý nechť si udělá konferenci o čem chce a jak chce, ale musím říct, že chápu rozčarování některých &#8222;privátních&#8220; Twitteristů, když zjistili, že &#8222;to není o nich ani pro ně&#8220;. [Pěkně to shrnula Žirafka](https://zirafka.blogspot.cz/2013/04/zprava-o-dvou-konferencich-ktere-nikdy.html) (a přiznám se, že mě nachytala levým sloupcem a chvilku jsem hledal, kde bylo to pravidlo o 1500 followerech). Jeden z přednášejících, který není ani PR a marketingový manažer, natož správce firemního účtu, jen vlastní účet populárnější než ty nejpopulárnější  firemní účty, mi pak říkal, že ta konference měla jednu tragickou vadu, kterou zjistil až když se postavil před publikum: většina z nich o Twitteru nevěděla vůbec nic, neznala ho, nepoužívala ho, a když ano, tak stylem &#8222;někdo to u nás ve firmě dělat musel&#8220;&#8230; Tak dalo se to čekat.
 
 Na konferenci vyhlásili anketu Tweet roku, která se blíží v těchto dnech svému vyvrcholení. Celá ta akce je aplikací byznys modelu &#8222;uděláme kombo anketa + konference + vyhlášení&#8220;. Jestli znáte Křišťálovou Lupu, tak znáte tenhle model. Je jedno, o čem se kombo udělá; o tématu stejně rozhodne jen to, jestli se podaří sehnat dostatek solventních sponzorů a partnerů. Nikoli snad že by pořadatel měl vnitřní potřebu věnovat se Twitteru a na to konto udělal konferenci. Což je kolem a kolem vzato taky OK &#8211; pořadatel není charita, je to komerční subjekt.
 
@@ -56,7 +56,7 @@ Zkusím si tipnout, jak na takovou formu pozvání přišli: &#8222;_Twitter je 
 
 Slyšel jsem názor, že celá anketa je vlastně jen způsob, jak si pár nejznámějších twitteristů navzájem předá ceny a poplácá se po ramenou, jak jsou dobří. Skutečnost bude asi mnohem prozaičtější &#8211; nejznámějším twitteristům je anketa (budu slušný) ukradená. Viz výše. A tak to vážně vzaly asi jen firmy, které vyzývají na svých twitterech k tomu, aby pro ně lidé hlasovali.
 
-Teď snad i Tengu53 zná odpověď na svou [otázku](http://twitter.com/tengu53/status/330606432695234562): &#8222;_WTF? To pořád geekové potřebují nějaké žebříčky?_&#8220; Nepotřebují. A už vůbec je nepotřebují ti nominovaní &#8211; alespoň ti &#8222;privátní&#8220;. Tweet roku není akce, o které by se psalo &#8222;Ano, to tady dlouho chybělo&#8220;, protože nechybělo. A dovolím si zaprorokovat: ani po jejím skončení se nebude říkat: &#8222;Konečně to proběhlo a bylo vidět, že jsme to potřebovali.&#8220; Myslím, že se o ní nebude mluvit vůbec. Je totiž z hlediska českého Twitteru naprosto zbytečná.
+Teď snad i Tengu53 zná odpověď na svou [otázku](https://twitter.com/tengu53/status/330606432695234562): &#8222;_WTF? To pořád geekové potřebují nějaké žebříčky?_&#8220; Nepotřebují. A už vůbec je nepotřebují ti nominovaní &#8211; alespoň ti &#8222;privátní&#8220;. Tweet roku není akce, o které by se psalo &#8222;Ano, to tady dlouho chybělo&#8220;, protože nechybělo. A dovolím si zaprorokovat: ani po jejím skončení se nebude říkat: &#8222;Konečně to proběhlo a bylo vidět, že jsme to potřebovali.&#8220; Myslím, že se o ní nebude mluvit vůbec. Je totiž z hlediska českého Twitteru naprosto zbytečná.
 
 Pomůže někomu se zviditelnit? Těžko. Zvýší někomu počty followerů? Těžko. Budou díky ní firmy a značky na Twitteru menší dřeváci? Pochybuju. Zahřeje vítězství někoho u srdce? Mno, dost možná, a možná u jiné části těla (viz výše).
 

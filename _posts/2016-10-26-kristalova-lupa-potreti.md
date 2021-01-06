@@ -4,7 +4,7 @@ title: 'Křišťálová Lupa potřetí&#8230;'
 date: 2016-10-26T09:55:30+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2590
+guid: https://misantrop.info/?p=2590
 permalink: /kristalova-lupa-potreti/
 mashsb_timestamp:
   - "1507017423"
@@ -17,4 +17,4 @@ categories:
 tags:
   - křišťálová lupa
 ---
-Tušíte správně! [Dokud nepošlete svůj hlas](http://tinyurl.com/klupa16), bude to tu pořád! 🙂
+Tušíte správně! [Dokud nepošlete svůj hlas](https://tinyurl.com/klupa16), bude to tu pořád! 🙂

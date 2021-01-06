@@ -4,12 +4,12 @@ title: 'Vysvětlení &#8222;Kurev bezectných a ohejralých&#8230;&#8220;'
 date: 2010-06-02T14:35:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/vysvetleni-kurev-bezectnych-a-ohejralych/
+guid: https://misantrop.info/vysvetleni-kurev-bezectnych-a-ohejralych/
 permalink: /vysvetleni-kurev-bezectnych-a-ohejralych/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19607201"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/vysvetleni-kurev-bezectnych-a-ohejralych
+  - https://adent.posterous.com/vysvetleni-kurev-bezectnych-a-ohejralych
 mashsb_timestamp:
   - "1575147805"
 mashsb_shares:
@@ -31,4 +31,4 @@ Roztomilé. _Cože, já že jsem nestydatá kurva? Já jsem cti dbalý rytíř, 
 
 Dneska by mu to napsal do komentářů na blog.
 
-[Zdroj](http://www.e-stredovek.cz/forum/viewtopic.php?p=18633)
+[Zdroj](https://www.e-stredovek.cz/forum/viewtopic.php?p=18633)

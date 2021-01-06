@@ -4,12 +4,12 @@ title: Taky se těšíte na horké a slunečné léto?
 date: 2011-03-16T13:58:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/taky-se-tesite-na-horke-a-slunecne-leto/
+guid: https://misantrop.info/taky-se-tesite-na-horke-a-slunecne-leto/
 permalink: /taky-se-tesite-na-horke-a-slunecne-leto/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "46170501"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/taky-se-tesite-na-horke-a-slunecne-leto
+  - https://adent.posterous.com/taky-se-tesite-na-horke-a-slunecne-leto
 mashsb_timestamp:
   - "1505555427"
 mashsb_shares:

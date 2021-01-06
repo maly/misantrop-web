@@ -4,7 +4,7 @@ title: 'Předchozí články&#8230;?'
 date: 2012-01-02T08:53:43+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=12
+guid: https://misantrop.info/?p=12
 permalink: /predchozi-clanky/
 mashsb_timestamp:
   - "1564657968"
@@ -15,4 +15,4 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Tudy, prosím: [Archiv 09-11](http://www.misantrop.info/index11)
+Tudy, prosím: [Archiv 09-11](https://misantrop.info/index11)

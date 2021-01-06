@@ -4,7 +4,7 @@ title: Polarizace
 date: 2015-06-20T23:18:39+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2313
+guid: https://misantrop.info/?p=2313
 permalink: /polarizace/
 mashsb_timestamp:
   - "1574074679"
@@ -44,7 +44,7 @@ Nevědomost je vůbec mocná věc. Daří se v ní fámám, hoaxům, konspiračn
 
 Na druhou stranu je boj s nevědomostí jediné rozumné, co se dá dělat.
 
-Nelze situaci ignorovat. Výsměch a nálepkování jen zesilují frustraci a přilévají olej do ohně. Zákazy taky. Zákaz má smysl jako &#8222;společenské odmítnutí extrému&#8220; &#8211; ale teď se z extrému stává běžný názorový směr. Ovládnout strach nelze. Nelze racionálně ovládnout dav &#8211; dav sám sebe zesiluje. Násilí plodí jen násilí a potlačit strach davu mocí přinese jen problémy. Opravdu věřím, [podobně jako např. Jan Macháček](http://www.lidovky.cz/machacek-cesi-uprchlici-migrace-d3j-/monitor-jana-machacka.aspx?c=A150611_124252_monitor-jana-machacka_rof), že jediný způsob, jak cokoli změnit, je **informovat**.
+Nelze situaci ignorovat. Výsměch a nálepkování jen zesilují frustraci a přilévají olej do ohně. Zákazy taky. Zákaz má smysl jako &#8222;společenské odmítnutí extrému&#8220; &#8211; ale teď se z extrému stává běžný názorový směr. Ovládnout strach nelze. Nelze racionálně ovládnout dav &#8211; dav sám sebe zesiluje. Násilí plodí jen násilí a potlačit strach davu mocí přinese jen problémy. Opravdu věřím, [podobně jako např. Jan Macháček](https://www.lidovky.cz/machacek-cesi-uprchlici-migrace-d3j-/monitor-jana-machacka.aspx?c=A150611_124252_monitor-jana-machacka_rof), že jediný způsob, jak cokoli změnit, je **informovat**.
 
 Tady vidím fatální selhání. Elita a představitelé společnosti víceméně rezignovali na to, aby jaksi vysvětlili lidem, co se děje a proč. To je dlouhodobý problém &#8211; u nás se tradičně vůbec málo vysvětluje a informuje. Když už, tak se jedou &#8222;přesvědčovací kampaně&#8220;. Vzpomeňte si na vstup do EU. Totéž mohu říct o většině reforem (snad s čestnou výjimkou dua Julínek &#8211; Cikrt): nikdy se nikdo nenamáhal vysvětlit lidem jasně a srozumitelně, co se bude dít a proč. Jen nějaké mlhavé, s prominutím, kydy, _bonmoty_, argumentace stylem &#8222;EU to tak chce a my to musíme dodržet, přeci nechceme, aby se nám celý svět smál&#8220;, popřípadě &#8222;odpůrci jsou komunisti / odpůrci jsou Kalousek&#8220;.
 
@@ -52,7 +52,7 @@ Místo toho, aby někdo odpovědný vyložil karty na stůl a věrohodně řekl:
 
 Slyšeli jste někdo jasné a střízlivé vysvětlení celého problému s uprchlíky? Takové, kterému porozumí i mí známí, leckdy vzdělaní a rozumní, u kterých se teď nestačím divit, jaké veletoče předvádějí? Máte dojem, že takové vysvětlování je nějak výrazně slyšet? Já moc ne.
 
-Elity jako by vyklidily pole médiím, která jdou po senzacích. Pro ně je zajímavější fotka _podmračenýho negra_, než řádově míň akční analýza toho, co se vlastně děje ve světě a proč ti lidé utíkají. A ruku v ruce s nimi jdou _polomédia_, která se [neštítí publikovat hoaxy](https://dennikn.sk/165049/falosne-bilbordy-stare-fotky-nie-kazdy-status-utecencoch-pravdivy/), fotomontáže, staré fotky vydávat za nové, nebo [prachsprostě bájit a lhát](http://www.misantrop.info/stop-medialni-manipulaci/)&#8230; Díky za [každou výjimku](https://dennikn.sk/161366/utecenci-europa/?ref=in). (Skvělý věcný článek na webu ČRo: [Jak je to v EU s imigrací a ochranou hranic](http://www.rozhlas.cz/zpravy/data/_zprava/1502982))
+Elity jako by vyklidily pole médiím, která jdou po senzacích. Pro ně je zajímavější fotka _podmračenýho negra_, než řádově míň akční analýza toho, co se vlastně děje ve světě a proč ti lidé utíkají. A ruku v ruce s nimi jdou _polomédia_, která se [neštítí publikovat hoaxy](https://dennikn.sk/165049/falosne-bilbordy-stare-fotky-nie-kazdy-status-utecencoch-pravdivy/), fotomontáže, staré fotky vydávat za nové, nebo [prachsprostě bájit a lhát](https://misantrop.info/stop-medialni-manipulaci/)&#8230; Díky za [každou výjimku](https://dennikn.sk/161366/utecenci-europa/?ref=in). (Skvělý věcný článek na webu ČRo: [Jak je to v EU s imigrací a ochranou hranic](https://www.rozhlas.cz/zpravy/data/_zprava/1502982))
 
 Jít se dohadovat s davem na demonstraci nebo s lidmi ve skupinách typu IvČRN opravdu nemá smysl. Rozjetému davu je lepší uhnout a svést jeho agresi tam, kde nadělá nejmíň škod. Ale opravdu silně se přimlouvám za to, abyste každý jeden šli a mluvili s lidmi ve svém okolí, s těmi, co vám ještě trochu důvěřují a se kterými je rozumná řeč. Vrhnout se do nejprudší vřavy v davu naprosto neznámých lidí, dostat pár facek a utvrdit se v názoru, že se s _nima_ nedá bavit, protože _oni_ jsou agresivní a nedodržují pravidla slušnosti, je počínání, jemně řečeno, naivní a kontraproduktivní. Stejně jako stěžování si, že _oni_ si začali, nebo že je správné _jim_ nadávat, protože jejich chování je přeci jasná a očividná příčina, nadávky jen následek (chtěl bych mít tuhle jistotu!)
 

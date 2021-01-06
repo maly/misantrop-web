@@ -4,7 +4,7 @@ title: Android 4 a Kindle Fire na dva pokusy
 date: 2012-02-23T17:48:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=188
+guid: https://misantrop.info/?p=188
 permalink: /android-4-a-kindle-fire-na-dva-pokusy/
 dsq_thread_id:
   - "586756661"
@@ -17,11 +17,11 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Zkusil jsem na [Fire](http://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) nainstalovat dostupné alfaverze Androidu 4, především kvůli testu prohlížeče Chrome. Na co jsem narazil?
+Zkusil jsem na [Fire](https://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) nainstalovat dostupné alfaverze Androidu 4, především kvůli testu prohlížeče Chrome. Na co jsem narazil?
 
 <!--more-->
 
-První test na čistém [Fire](http://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2): CM9, build z 19.2.2012. Flash byl OK, po restartu ale rebootovací animace trvala nepřirozeně dlouho. Podle [informací na fórech](http://t.co/vC2mJ2jV) prý může trvat až 20 minut, takže jsem byl trpělivý.
+První test na čistém [Fire](https://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2): CM9, build z 19.2.2012. Flash byl OK, po restartu ale rebootovací animace trvala nepřirozeně dlouho. Podle [informací na fórech](https://t.co/vC2mJ2jV) prý může trvat až 20 minut, takže jsem byl trpělivý.
 
 Po půl hodině jsem zkusil MIUI verze 4. Flash, restart, nenabootoval (animace animovala&#8230;)
 

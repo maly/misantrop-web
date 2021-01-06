@@ -4,7 +4,7 @@ title: Proč Misantropův zápisník?
 date: 2013-05-09T12:23:42+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1281
+guid: https://misantrop.info/?p=1281
 permalink: /proc-misantropuv-zapisnik/
 dsq_thread_id:
   - "1274778673"
@@ -24,7 +24,7 @@ Občas se mi stane, že se seznámím v reálu s někým, kdo čte tyhle stránk
 
 Ale ne, teď vážně &#8211; proč Misantropův zápisník?
 
-Může za to jeden [článek z bloggerského pravěku](http://blog.maly.cz/index.php?cmt=796).
+Může za to jeden [článek z bloggerského pravěku](https://blog.maly.cz/index.php?cmt=796).
 
 &#8222;Skoro týden mě bolí koleno a za pět dní mi bude jednatřicet. Ženu mám v Německu na školení, špatně usínám a probouzím se jak zmlácený.&#8220;
 

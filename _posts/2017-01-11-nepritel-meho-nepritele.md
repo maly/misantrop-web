@@ -4,7 +4,7 @@ title: Nepřítel mého nepřítele
 date: 2017-01-11T13:11:37+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2662
+guid: https://misantrop.info/?p=2662
 permalink: /nepritel-meho-nepritele/
 mashsb_timestamp:
   - "1575622509"
@@ -24,7 +24,7 @@ Začátek května je období, kdy si člověk vzpomene na Rusko, i kdyby nechtě
 
 Nic. Na úctě k padlým vojákům není špatného nic.
 
-Velice záludnou vlastností tohoto argumentačního faulu ([Hastroš](http://www.misantrop.info/trvale-udrzitelna-krava/#hastros)) je, že celý problém zredukuje na jednoduchý nesmysl, který pak snadno vyvrátí. Pokud člověk nedává pozor, tak ani neví jak, a už se veze na šikmé ploše a diskutuje o tom, proč se Američani neomluvili za lži o Vietnamu (či co to teď v těch nových notičkách bylo, že to všechny kremrole vytáhly). Tady ale nejde o uctění památky vojáků, tady jde o jinou věc. Totiž o zabetonování komunistické lži.
+Velice záludnou vlastností tohoto argumentačního faulu ([Hastroš](https://misantrop.info/trvale-udrzitelna-krava/#hastros)) je, že celý problém zredukuje na jednoduchý nesmysl, který pak snadno vyvrátí. Pokud člověk nedává pozor, tak ani neví jak, a už se veze na šikmé ploše a diskutuje o tom, proč se Američani neomluvili za lži o Vietnamu (či co to teď v těch nových notičkách bylo, že to všechny kremrole vytáhly). Tady ale nejde o uctění památky vojáků, tady jde o jinou věc. Totiž o zabetonování komunistické lži.
 
 Komunistické lži o druhé světové válce jsou tak často opakované, že se staly součástí českého národního povědomí. Všichni přeci ty historky známe, tak nám to říkali ve škole, tak je to pravda. A těch partyzánů, co nám to na besídkách vyprávěli! Jak je možné, že dneska děcka ve škole učí něco jiného? No to je přeci ta propaganda z EU a USA, našeptává ochotný hlas, a lid papouškuje: Propaganda USA! Američani nehnuli prstem, Rudá armáda nás osvobodila, a oni teď chtějí tvrdit opak, že nás osvobodili jen Američané, aspoň vidíte, jak se tu překrucuje historie!
 

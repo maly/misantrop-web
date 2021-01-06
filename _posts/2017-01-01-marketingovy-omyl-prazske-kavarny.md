@@ -4,7 +4,7 @@ title: Marketingový omyl pražské kavárny
 date: 2017-01-01T11:30:02+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2622
+guid: https://misantrop.info/?p=2622
 permalink: /marketingovy-omyl-prazske-kavarny/
 mashsb_timestamp:
   - "1574979425"

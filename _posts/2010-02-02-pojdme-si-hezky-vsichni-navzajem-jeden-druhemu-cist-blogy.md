@@ -4,12 +4,12 @@ title: 'Pojďme si hezky všichni navzájem jeden druhému&#8230; číst blogy!'
 date: 2010-02-02T22:48:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
+guid: https://misantrop.info/pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
 permalink: /pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11008034"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/pojdme-si-hezky-vsichni-navzajem-jeden-druhem
+  - https://adent.posterous.com/pojdme-si-hezky-vsichni-navzajem-jeden-druhem
 mashsb_timestamp:
   - "1575533562"
 mashsb_shares:

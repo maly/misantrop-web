@@ -4,7 +4,7 @@ title: Google Reader končí, kam přejít?
 date: 2013-03-14T09:46:20+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1156
+guid: https://misantrop.info/?p=1156
 permalink: /google-reader-konci-kam-prejit/
 dsq_thread_id:
   - "1136449677"
@@ -18,7 +18,7 @@ image: /wp-content/uploads/2013/03/Google_Reader_logo.png
 categories:
   - Nezařazené
 ---
-Google Reader, čtečka ze zlaté éry blogů, [brzy skončí](http://googleblog.blogspot.cz/2013/03/a-second-spring-of-cleaning.html). Pokud ji využíváte, budete se muset, jako já, poohlédnout po alternativě.
+Google Reader, čtečka ze zlaté éry blogů, [brzy skončí](https://googleblog.blogspot.cz/2013/03/a-second-spring-of-cleaning.html). Pokud ji využíváte, budete se muset, jako já, poohlédnout po alternativě.
 
 <!--more-->
 
@@ -30,10 +30,10 @@ Máte v zásadě tři možnosti:
 
 Při migraci využijete nástroj [Google Takeout for Reader](https://www.google.com/takeout/?pli=1#custom:reader). Jeho výsledkem je ZIP soubor, ve kterém najdete _subscriptions.xml_, což je soubor který by většina čteček měla dokázat naimportovat.
 
-Já zvolil čtečku [Feedly](http://feedly.com/), která nabízí [přímý přechod z Google Readeru](http://blog.feedly.com/2013/03/14/google-reader/). Otevřel jsem úvodní stránku, přihlásil se stejným účtem, jaký používám v Google Readeru, a otevřela se čtečka, v níž byly naimportované feedy z GReaderu, včetně informací o tom, co jsem zatím nepřečetl. Rozhraní lze přepnout do &#8222;Reader-like&#8220; vzhledu, ale defaultně používá něco, co se trochu blíží Flipboardu.
+Já zvolil čtečku [Feedly](https://feedly.com/), která nabízí [přímý přechod z Google Readeru](https://blog.feedly.com/2013/03/14/google-reader/). Otevřel jsem úvodní stránku, přihlásil se stejným účtem, jaký používám v Google Readeru, a otevřela se čtečka, v níž byly naimportované feedy z GReaderu, včetně informací o tom, co jsem zatím nepřečetl. Rozhraní lze přepnout do &#8222;Reader-like&#8220; vzhledu, ale defaultně používá něco, co se trochu blíží Flipboardu.
 
-Další možnosti najdete například v článcích na [Mashable](http://mashable.com/2013/03/14/google-reader-alternatives/) nebo [LifeHacker](http://lifehacker.com/5990456/google-reader-is-getting-shut-down-here-are-the-best-alternatives).
+Další možnosti najdete například v článcích na [Mashable](https://mashable.com/2013/03/14/google-reader-alternatives/) nebo [LifeHacker](https://lifehacker.com/5990456/google-reader-is-getting-shut-down-here-are-the-best-alternatives).
 
 Máte vy nějaký tip? Podělte se v komentářích&#8230;
 
-[<img class="aligncenter size-medium wp-image-1159" alt="Feedly" src="http://www.misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png" width="500" height="288" srcset="https://www.misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png 500w, https://www.misantrop.info/wp-content/uploads/2013/03/f-Hry-200x115.png 200w, https://www.misantrop.info/wp-content/uploads/2013/03/f-Hry-1024x591.png 1024w, https://www.misantrop.info/wp-content/uploads/2013/03/f-Hry.png 1242w" sizes="(max-width: 500px) 100vw, 500px" />](http://www.misantrop.info/wp-content/uploads/2013/03/f-Hry.png)
+[<img class="aligncenter size-medium wp-image-1159" alt="Feedly" src="https://misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png" width="500" height="288" srcset="https://misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png 500w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry-200x115.png 200w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry-1024x591.png 1024w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry.png 1242w" sizes="(max-width: 500px) 100vw, 500px" />](https://misantrop.info/wp-content/uploads/2013/03/f-Hry.png)

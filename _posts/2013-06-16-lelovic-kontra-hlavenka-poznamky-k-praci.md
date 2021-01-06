@@ -4,7 +4,7 @@ title: 'Lelovič kontra Hlavenka: poznámky k práci'
 date: 2013-06-16T14:28:10+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1359
+guid: https://misantrop.info/?p=1359
 permalink: /lelovic-kontra-hlavenka-poznamky-k-praci/
 dsq_thread_id:
   - "1405290986"
@@ -26,8 +26,8 @@ Ať to máme na úvod za sebou: Nezávidím Davidu Slížkovi jeho pozici šéfr
 
 Ostatně to krásně uvidíte (pokud na to máte žaludek) v diskusích u dvou článků, které na sebe logicky navazují, a kterým bych se chtěl věnovat:
 
-  * [Když práce mizí](http://www.lupa.cz/clanky/jiri-hlavenka-kdyz-prace-mizi-aneb-nici-internet-stredni-tridu/) (Jiří Hlavenka)
-  * [Když práce přibývá](http://www.lupa.cz/clanky/peter-lelovic-kdyz-prace-pribyva-aneb-znici-uz-internet-konecne-deleni-spolecnosti-na-tridy/) (Peter Lelovič)
+  * [Když práce mizí](https://www.lupa.cz/clanky/jiri-hlavenka-kdyz-prace-mizi-aneb-nici-internet-stredni-tridu/) (Jiří Hlavenka)
+  * [Když práce přibývá](https://www.lupa.cz/clanky/peter-lelovic-kdyz-prace-pribyva-aneb-znici-uz-internet-konecne-deleni-spolecnosti-na-tridy/) (Peter Lelovič)
 
 Vykopával Jiří Hlavenka. Jeho teze, ve stručnosti, je: doba je stále techničtější a ubývá pracovních příležitostí. Medián nutných schopností se stále posouvá doprava, manuální práce už skoro není a dnešní &#8222;vysoce kvalifikovaní odborníci&#8220; (správci sítí a jiní seřizovači obráběcích strojů) budou za chvíli bez práce.
 
@@ -35,7 +35,7 @@ Odpovídal Peter Lelovič. Proti Hlavenkovi staví kontraargument: pokrok. Prác
 
 Můj pohled je bližší tomu Lelovičovu.
 
-Věřím, že se objeví nové pracovní příležitosti, protože přesně to se v historii spíš stávalo než nestávalo. Vedlejším produktem pokroku je nejen zanikání pracovních míst, jak správně ukazuje Hlavenka, ale i vznik nových. K tomu bych rád podotknul myšlenku, která zazněla v [přednášce Michaela Crichtona o vědeckém šlendriánu](http://www.klimaskeptik.cz/news/globalni-oteplovani-zpusobili-mimozemstane-prednaska-michaela-crichtona-na-caltech/) (doporučuju k přečtení celou): Kdybyste se zeptali lidí z New Yorku roku 1900 na to, co podle nich bude trápit New York v roce 2000, asi byste se dozvěděli, že problémy s ustájením koní pro tolik lidí a problémy s odklízením koňského trusu z ulic. V roce 2000 získávala Francie 80 % elektřiny ze zdroje, který byl v roce 1900 neznámý. A teď řekněte: co bude ten největší problém v roce 2100?
+Věřím, že se objeví nové pracovní příležitosti, protože přesně to se v historii spíš stávalo než nestávalo. Vedlejším produktem pokroku je nejen zanikání pracovních míst, jak správně ukazuje Hlavenka, ale i vznik nových. K tomu bych rád podotknul myšlenku, která zazněla v [přednášce Michaela Crichtona o vědeckém šlendriánu](https://www.klimaskeptik.cz/news/globalni-oteplovani-zpusobili-mimozemstane-prednaska-michaela-crichtona-na-caltech/) (doporučuju k přečtení celou): Kdybyste se zeptali lidí z New Yorku roku 1900 na to, co podle nich bude trápit New York v roce 2000, asi byste se dozvěděli, že problémy s ustájením koní pro tolik lidí a problémy s odklízením koňského trusu z ulic. V roce 2000 získávala Francie 80 % elektřiny ze zdroje, který byl v roce 1900 neznámý. A teď řekněte: co bude ten největší problém v roce 2100?
 
 Všechny tyto předpovědi trpí  závažným zkreslením &#8211; protože nikdo neví, jakým směrem se bude společnost vyvíjet, tak pouze berou nedávný vývoj a lineárně ho promítají do budoucnosti. Neodpovídají tedy na otázku &#8222;jak bude v budoucnosti&#8220;, ale &#8222;jak by bylo v budoucnosti, kdyby se odteď neodehrála žádná technologická ani společenská změna?&#8220; A to je přesně problém Hlavenkova tvrzení.
 
@@ -45,7 +45,7 @@ V antice používali bohatí lidé nosítka. Později se z nosítek staly kočá
 
 V historii se v podstatě bez přestání opakuje situace, že pro ty nejméně vzdělané není žádná práce, natož smysluplná. V rámci něčeho, co můžu nazvat &#8222;sociálním smírem&#8220;, se vždy ti bohatší a produktivnější snažili pro tuhle proletářskou masu nalézt nějakou práci, protože bez práce se snadno transformuje v lumpenproletariát, a ten dělá problémy, rebeluje, ničí&#8230; Na druhou stranu taková rebelie &#8222;nejnepotřebnějších&#8220; (a teď se korektní povahy poserou a napíšou mi, že mnou pohrdají, že žebrák je stejně hodnotným člověkem jako univerzitní profesor a další kecy, protože korektníci nečtou významy, jen slova, a tak jim nedojde, že nesnižuju ničí vážnost, jen konstatuju, že to jsou lidé, pro které společnost v tu dobu nemá jiné využití, nepotřebuje je, a tak je vytlačí na okraj&#8230;) jejich počet snížila, a pro zbytek přinesla práci na opravách toho, co bylo předtím poničeno. Takže i při posunu mediánu doprava je v zájmu těch vpravo, aby ti vlevo měli co dělat, protože jinak roste masa nicnedělajících, nezaměstnatelných, a tedy potenciálně destruktivních lidí.
 
-Do velmi zajímavého světla staví tyto teorie závěry některých sociologických výzkumů, které [shrnul Petr Hampl v článku na Psu](http://neviditelnypes.lidovky.cz/spolecnost-spiknuti-vzdelanych-dax-/p_spolecnost.asp?c=A130211_215132_p_spolecnost_wag) (opět doporučuju přečíst celé). Vyplývá z nich například, že korporace v USA během 20. století zrušily miliony pracovních míst (následek automatizace a mechanizace), ale přesto počet pracovních příležitostí vzroztl. Kuriozní dodatek, který mírní fatalismus a technocentrismus debaty na Lupě: technologické firmy vytvářejí sice hezké novinové titulky, ale pracovních míst moc nedělají. Jádrem ekonomiky jsou stále pracovní místa v restauracích, stavebnictví či výrobních podnicích.
+Do velmi zajímavého světla staví tyto teorie závěry některých sociologických výzkumů, které [shrnul Petr Hampl v článku na Psu](https://neviditelnypes.lidovky.cz/spolecnost-spiknuti-vzdelanych-dax-/p_spolecnost.asp?c=A130211_215132_p_spolecnost_wag) (opět doporučuju přečíst celé). Vyplývá z nich například, že korporace v USA během 20. století zrušily miliony pracovních míst (následek automatizace a mechanizace), ale přesto počet pracovních příležitostí vzroztl. Kuriozní dodatek, který mírní fatalismus a technocentrismus debaty na Lupě: technologické firmy vytvářejí sice hezké novinové titulky, ale pracovních míst moc nedělají. Jádrem ekonomiky jsou stále pracovní místa v restauracích, stavebnictví či výrobních podnicích.
 
 Mé shrnutí?
 

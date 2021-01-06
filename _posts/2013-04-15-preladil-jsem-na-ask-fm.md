@@ -4,7 +4,7 @@ title: Přeladil jsem na ask.fm!
 date: 2013-04-15T19:32:34+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1241
+guid: https://misantrop.info/?p=1241
 permalink: /preladil-jsem-na-ask-fm/
 dsq_thread_id:
   - "1213059738"
@@ -24,7 +24,7 @@ Taková podivná síť, kde vám může každý položit otázku a vy na ni mů�
 
 <!--more-->
 
-Ani nevím, jak jsem se tam dostal. Někdo někde odkázal, tak jsem si založil [účet](http://ask.fm/arthrdnt), tvítnul to, a začaly chodit dotazy. Pár jsem si jich vzal ze &#8222;systémového zásobníku&#8220;, to jsou takové ty obecné, no a zbytek je od lidí.
+Ani nevím, jak jsem se tam dostal. Někdo někde odkázal, tak jsem si založil [účet](https://ask.fm/arthrdnt), tvítnul to, a začaly chodit dotazy. Pár jsem si jich vzal ze &#8222;systémového zásobníku&#8220;, to jsou takové ty obecné, no a zbytek je od lidí.
 
 Smazal jsem jen jednu jedinou, tu Kolesovskou &#8222;Kolik bazénů uplavete&#8230;&#8220;, ale na ostatní jsem poctivě odpovídal. Po chvíli přišla jedna metaotázka: &#8222;K čemu to je dobré?&#8220; Upřímně jsem odpověděl, že netuším, ale od té chvíle mi to začalo vrtat v hlavě: K čemu by takováhle věc, jejíž celý princip (!) jsem popsal v perexu (a to hned v té první větě), mohla být?
 
@@ -40,4 +40,4 @@ Třeba jsem o sobě zjistil, že opravdu nemám &#8222;tři nejoblíbenější&#
 
 Některé otázky byly ale dobré, když jsem se nad nima zamyslel. &#8222;Co chceš vědět o budoucnosti?&#8220; nebo &#8222;Které dětské sny sis splnil?&#8220; Hmmm&#8230; Jaké dětské sny jsem měl? Splnil jsem si je? A co když si pamatuju jen ty, co jsem si nesplnil? A chci vůbec vědět něco o budoucnosti? A co odpovědět, když vám anonym položí dotaz: &#8222;Máš mě rád?&#8220;
 
-Takže jsem se na [ask.fm](http://ask.fm/) nakonec něco dozvěděl o sobě. ne z dotazů, ale z toho, jak jsem nad nima přemýšlel. A k čemu že to jinak je? No nevím k čemu to bude vám; já z toho uvařil blogpost. Ale klidně se [ptejte](http://ask.fm/arthrdnt).
+Takže jsem se na [ask.fm](https://ask.fm/) nakonec něco dozvěděl o sobě. ne z dotazů, ale z toho, jak jsem nad nima přemýšlel. A k čemu že to jinak je? No nevím k čemu to bude vám; já z toho uvařil blogpost. Ale klidně se [ptejte](https://ask.fm/arthrdnt).

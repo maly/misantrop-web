@@ -4,7 +4,7 @@ title: Pracuj a kuš, hubu suš!
 date: 2017-11-10T11:30:19+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2882
+guid: https://misantrop.info/?p=2882
 permalink: /pracuj-a-kus-hubu-sus/
 mashsb_timestamp:
   - "1575143178"

@@ -4,7 +4,7 @@ title: Moje mládí v devadesátkách
 date: 2017-05-19T10:45:03+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2844
+guid: https://misantrop.info/?p=2844
 permalink: /moje-mladi-v-devadesatkach/
 mashsb_timestamp:
   - "1575966667"
@@ -27,7 +27,7 @@ tags:
   - Posilovny
   - veksláci
 ---
-([Tento článek jste už četli](https://www.patreon.com/posts/moje-mladi-v-8793733), pokud jste mými patrony na [Patreonu](http://www.misantrop.info/patreon/).)
+([Tento článek jste už četli](https://www.patreon.com/posts/moje-mladi-v-8793733), pokud jste mými patrony na [Patreonu](https://misantrop.info/patreon/).)
 
 Já nevím, co si pamatujete vy z 90. let. Muziku, kluby, párty, nebývalou svobodu, kdy se “mohlo všechno”, víru, že už bude jen líp, divné politické debaty v televizi, první cesty “na Západ”&#8230;? Jo, jasně, tohle všechno. Někdo si pamatuje zcela přesně, jak Klaus rozkradl republiku a jak se rozprodalo “české bohatství” a rozdělila federace a objevili se oficiální nezaměstnaní. To všechno je pravda, ale já si vzpomínám na jeden velmi specifický rys.
 

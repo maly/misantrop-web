@@ -4,7 +4,7 @@ title: Papíroví čerti
 date: 2016-12-30T18:16:43+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2614
+guid: https://misantrop.info/?p=2614
 permalink: /papirovi-certi/
 mashsb_timestamp:
   - "1575398001"
@@ -22,7 +22,7 @@ tags:
 
 <span style="font-weight: 400;">Tuhle jsem měl diskusi s jedním známým. Že prý terorismus není papírový čert, jak jsem minule psal. Že to je skutečná hrozba. Nemůžu s ním tak úplně souhlasit…</span>
 
-<span style="font-weight: 400;">Počty obětí teroristických útoků v naší civilizaci jsou ve srovnání s jinými způsoby úmrtí velmi nízké. Statistiky hovoří jasně, třeba zde: </span>[<span style="font-weight: 400;">http://data.blog.ihned.cz/c1-59711580-sto-tisic-teroristickych-utoku-za-ctyricet-let-co-lze-vycist-z-dat</span>](http://data.blog.ihned.cz/c1-59711580-sto-tisic-teroristickych-utoku-za-ctyricet-let-co-lze-vycist-z-dat) <span style="font-weight: 400;">V západní Evropě od roku 1970 do roku 2011 zemřelo v důsledku teroristických útoků 6200 lidí. Chřipka má každoročně víc obětí!</span>
+<span style="font-weight: 400;">Počty obětí teroristických útoků v naší civilizaci jsou ve srovnání s jinými způsoby úmrtí velmi nízké. Statistiky hovoří jasně, třeba zde: </span>[<span style="font-weight: 400;">https://data.blog.ihned.cz/c1-59711580-sto-tisic-teroristickych-utoku-za-ctyricet-let-co-lze-vycist-z-dat</span>](https://data.blog.ihned.cz/c1-59711580-sto-tisic-teroristickych-utoku-za-ctyricet-let-co-lze-vycist-z-dat) <span style="font-weight: 400;">V západní Evropě od roku 1970 do roku 2011 zemřelo v důsledku teroristických útoků 6200 lidí. Chřipka má každoročně víc obětí!</span>
 
 <span style="font-weight: 400;">Jenže v tom, jak hodnotíme terorismus, hrají větší roli emoce než racionální úvahy.</span>
 

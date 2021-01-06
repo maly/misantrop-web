@@ -4,12 +4,12 @@ title: 'Nechci být laciný, ale: Kocáb'
 date: 2010-02-11T22:09:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nechci-byt-laciny-ale-kocab/
+guid: https://misantrop.info/nechci-byt-laciny-ale-kocab/
 permalink: /nechci-byt-laciny-ale-kocab/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11538152"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nechci-byt-laciny-ale-kocab
+  - https://adent.posterous.com/nechci-byt-laciny-ale-kocab
 mashsb_timestamp:
   - "1564445682"
 mashsb_shares:

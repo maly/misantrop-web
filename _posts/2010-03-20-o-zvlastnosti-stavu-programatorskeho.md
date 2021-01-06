@@ -4,12 +4,12 @@ title: O zvláštnosti stavu programátorského
 date: 2010-03-20T16:23:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/o-zvlastnosti-stavu-programatorskeho/
+guid: https://misantrop.info/o-zvlastnosti-stavu-programatorskeho/
 permalink: /o-zvlastnosti-stavu-programatorskeho/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14034178"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/o-zvlastnosti-stavu-programatorskeho
+  - https://adent.posterous.com/o-zvlastnosti-stavu-programatorskeho
 dsq_thread_id:
   - "1096949596"
 mashsb_timestamp:
@@ -23,9 +23,9 @@ categories:
 ---
 Čist&iacute;m diskuse na Zdroj&aacute;ku od balastu, a přitom jsem si v&scaron;iml zaj&iacute;mav&eacute; věci&#8230;
 
-Napsal jsem čl&aacute;nek o tom, že si [v&yacute;voj&aacute;ř si jen s programov&aacute;n&iacute;m nevystač&iacute;](http://zdrojak.root.cz/clanky/vyvojar-si-jen-s-programovanim-nevystaci/); že pokud chce uspět na trhu pr&aacute;ce, mus&iacute; nab&iacute;dnout něco v&iacute;c, ide&aacute;lně &#8222;soft skills&#8220;, jako je schopnost organizovat pr&aacute;ci, schopnost komunikovat s kolegy z jin&yacute;ch oborů či schopnost &#8222;obchodn&iacute;ho my&scaron;len&iacute;&#8220; &#8211; tedy věci, co s programov&aacute;n&iacute;m př&iacute;mo nesouvisej&iacute;, ale d&aacute;vaj&iacute; nadhled. &Oacute;, to jsem si dal!
+Napsal jsem čl&aacute;nek o tom, že si [v&yacute;voj&aacute;ř si jen s programov&aacute;n&iacute;m nevystač&iacute;](https://zdrojak.root.cz/clanky/vyvojar-si-jen-s-programovanim-nevystaci/); že pokud chce uspět na trhu pr&aacute;ce, mus&iacute; nab&iacute;dnout něco v&iacute;c, ide&aacute;lně &#8222;soft skills&#8220;, jako je schopnost organizovat pr&aacute;ci, schopnost komunikovat s kolegy z jin&yacute;ch oborů či schopnost &#8222;obchodn&iacute;ho my&scaron;len&iacute;&#8220; &#8211; tedy věci, co s programov&aacute;n&iacute;m př&iacute;mo nesouvisej&iacute;, ale d&aacute;vaj&iacute; nadhled. &Oacute;, to jsem si dal!
 
-<span style="color: #0000ff;">Pokud ode mne budete chtit delat obchodni plany, seru Vam na programovani, nebo se prezamestnam se jako lepe placeny manager jinde. Vedouci by porad chteli vic a vic aby clovek zvladal, ve skutecnosti ale je to jenom problem firmy, ze neumi tak jak je vydelavat, a protoze ma nadstav manazeru, nejsou ji schopni programatori uzivit a proto vymysli chujoviny, viz. clanek. Zdar ! &bdquo;Programatorovi programovani a svini pomyje&ldquo;! (<a href="http://zdrojak.root.cz/clanky/vyvojar-si-jen-s-programovanim-nevystaci/nazory/8118/">viz</a>)</span>
+<span style="color: #0000ff;">Pokud ode mne budete chtit delat obchodni plany, seru Vam na programovani, nebo se prezamestnam se jako lepe placeny manager jinde. Vedouci by porad chteli vic a vic aby clovek zvladal, ve skutecnosti ale je to jenom problem firmy, ze neumi tak jak je vydelavat, a protoze ma nadstav manazeru, nejsou ji schopni programatori uzivit a proto vymysli chujoviny, viz. clanek. Zdar ! &bdquo;Programatorovi programovani a svini pomyje&ldquo;! (<a href="https://zdrojak.root.cz/clanky/vyvojar-si-jen-s-programovanim-nevystaci/nazory/8118/">viz</a>)</span>
 
 Jojo, _seru v&aacute;m na programov&aacute;n&iacute;, nic jin&eacute;ho hodlat neděl&aacute;m_, co byste chtěli?! J&aacute; jsem přeci program&aacute;tor, tak budu jen programovat, nějak&yacute; obchodn&iacute; my&scaron;len&iacute; a ch&aacute;p&aacute;n&iacute; z&aacute;kazn&iacute;ků či trhu, to je věc těch manažerů, vyž&iacute;rků, &#8230;
 

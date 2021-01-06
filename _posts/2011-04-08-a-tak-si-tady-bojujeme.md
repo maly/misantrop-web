@@ -4,12 +4,12 @@ title: 'A tak si tady bojujeme&#8230;'
 date: 2011-04-08T08:55:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/a-tak-si-tady-bojujeme/
+guid: https://misantrop.info/a-tak-si-tady-bojujeme/
 permalink: /a-tak-si-tady-bojujeme/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "48859159"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/a-tak-si-tady-bojujeme
+  - https://adent.posterous.com/a-tak-si-tady-bojujeme
 mashsb_timestamp:
   - "1575145202"
 mashsb_shares:

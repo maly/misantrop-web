@@ -4,12 +4,12 @@ title: O psech a městech
 date: 2010-04-15T21:28:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/o-psech-a-mestech/
+guid: https://misantrop.info/o-psech-a-mestech/
 permalink: /o-psech-a-mestech/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "16420607"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/o-psech-a-mestech
+  - https://adent.posterous.com/o-psech-a-mestech
 mashsb_timestamp:
   - "1575147632"
 mashsb_shares:

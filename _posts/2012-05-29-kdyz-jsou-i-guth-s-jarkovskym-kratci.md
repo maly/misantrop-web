@@ -4,12 +4,12 @@ title: 'Když jsou i Guth s Jarkovským krátcí&#8230;'
 date: 2012-05-29T09:55:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/kdyz-jsou-i-guth-s-jarkovskym-kratci/
+guid: https://misantrop.info/kdyz-jsou-i-guth-s-jarkovskym-kratci/
 permalink: /kdyz-jsou-i-guth-s-jarkovskym-kratci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "134339306"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/kdyz-jsou-i-guth-s-jarkovskym-kratci
+  - https://adent.posterous.com/kdyz-jsou-i-guth-s-jarkovskym-kratci
 mashsb_timestamp:
   - "1575140098"
 mashsb_shares:

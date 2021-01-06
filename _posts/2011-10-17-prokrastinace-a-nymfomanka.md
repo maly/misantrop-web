@@ -4,12 +4,12 @@ title: Prokrastinace a nymfomanka
 date: 2011-10-17T06:41:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/prokrastinace-a-nymfomanka/
+guid: https://misantrop.info/prokrastinace-a-nymfomanka/
 permalink: /prokrastinace-a-nymfomanka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "75787452"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/prokrastinace-a-nymfomanka
+  - https://adent.posterous.com/prokrastinace-a-nymfomanka
 dsq_thread_id:
   - "1093257083"
 mashsb_timestamp:

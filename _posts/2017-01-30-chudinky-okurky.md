@@ -4,7 +4,7 @@ title: Chudinky okurky
 date: 2017-01-30T12:37:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2720
+guid: https://misantrop.info/?p=2720
 permalink: /chudinky-okurky/
 mashsb_timestamp:
   - "1567884286"

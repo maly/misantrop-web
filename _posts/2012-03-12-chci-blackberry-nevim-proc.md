@@ -4,12 +4,12 @@ title: Chci BlackBerry. Nevím proč.
 date: 2012-03-12T07:37:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/chci-blackberry-nevim-proc/
+guid: https://misantrop.info/chci-blackberry-nevim-proc/
 permalink: /chci-blackberry-nevim-proc/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "110161680"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/chci-blackberry-nevim-proc
+  - https://adent.posterous.com/chci-blackberry-nevim-proc
 mashsb_timestamp:
   - "1546163358"
 mashsb_shares:

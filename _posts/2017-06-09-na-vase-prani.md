@@ -4,7 +4,7 @@ title: 'Na vaše přání&#8230;'
 date: 2017-06-09T14:48:32+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2849
+guid: https://misantrop.info/?p=2849
 permalink: /na-vase-prani/
 mashsb_timestamp:
   - "1575890687"

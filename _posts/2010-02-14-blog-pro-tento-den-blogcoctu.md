@@ -4,12 +4,12 @@ title: 'Blog pro tento den &#8211; #blogcoctu'
 date: 2010-02-14T17:10:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/blog-pro-tento-den-blogcoctu/
+guid: https://misantrop.info/blog-pro-tento-den-blogcoctu/
 permalink: /blog-pro-tento-den-blogcoctu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11673342"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/blog-pro-tento-den-blogcoctu
+  - https://adent.posterous.com/blog-pro-tento-den-blogcoctu
 mashsb_timestamp:
   - "1517385278"
 mashsb_shares:
@@ -31,4 +31,4 @@ Ale na tohle v&aacute;m ka&scaron;lu. J&aacute; se v&aacute;s pt&aacute;m, napro
 
 (Nejde o nějakou soutěž, jen mě to prostě zaj&iacute;m&aacute;.)
 
-A napi&scaron;te URL sv&eacute;ho obl&iacute;ben&eacute;ho blogu na Twitter s hashtagem [#blogcoctu](http://search.twitter.com/search?q=%23blogcoctu). D&iacute;ky!
+A napi&scaron;te URL sv&eacute;ho obl&iacute;ben&eacute;ho blogu na Twitter s hashtagem [#blogcoctu](https://search.twitter.com/search?q=%23blogcoctu). D&iacute;ky!

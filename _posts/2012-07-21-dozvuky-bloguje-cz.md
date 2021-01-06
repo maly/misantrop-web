@@ -4,7 +4,7 @@ title: Dozvuky Bloguje.cz
 date: 2012-07-21T12:12:34+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=516
+guid: https://misantrop.info/?p=516
 permalink: /dozvuky-bloguje-cz/
 mashsb_timestamp:
   - "1576151776"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Rád bych ocitoval něco málo ze své pošty, čistě pro dokreslení [článku o Bloguje](http://www.misantrop.info/bloguje-naruby/)&#8230;
+Rád bych ocitoval něco málo ze své pošty, čistě pro dokreslení [článku o Bloguje](https://misantrop.info/bloguje-naruby/)&#8230;
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Rád bych ocitoval něco málo ze své pošty, čistě pro dokreslení [článku
 > 
 > &#8230; ráda bych se Vás zeptala na jednu věc. Teidu je mikroblog od bloguje.cz (pokud nejsem úplně vedle), nemáte náhodou ponětí, případně informace, jak se bude celá situace vyvíjet dál (ať už s mikroblogem nebo tak nějak celkově)? Snažila jsem se zkontaktovat LAAR, a.s., ovšem jejich webová adresa nejede, na e-maily nikdo neodpovídá a telefony jsou zřejmě uvedeny z čistého sarkasmu. Pakliže byste pro mě měl nějakou, jakoukoliv radu, ačkoliv vím, že toto již delší dobu není Vaší starostí, budu velmi ráda za jakoukoliv odpověď.
 > 
-> &#8230; nezaregistroval jsem včas, že <a href="http://bloguje.cz/" target="_blank">bloguje.cz</a> k 30.6. končí. V médiích jsem se dočetl, že LAAR bude do konce roku zajišťovat přesměrování starých blogů na nové domény. Moc by mi pomohlo vědět o tomto víc. Firma nemá na stránkách žádné informace.
+> &#8230; nezaregistroval jsem včas, že <a href="https://bloguje.cz/" target="_blank">bloguje.cz</a> k 30.6. končí. V médiích jsem se dočetl, že LAAR bude do konce roku zajišťovat přesměrování starých blogů na nové domény. Moc by mi pomohlo vědět o tomto víc. Firma nemá na stránkách žádné informace.
 
 &#8212;
 

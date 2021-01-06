@@ -4,7 +4,7 @@ title: Jak se nepíše text. Podívejte se pod ruce copywriterovi
 date: 2013-10-13T09:13:42+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=194
+guid: https://misantrop.info/?p=194
 permalink: /jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/
 dsq_thread_id:
   - "1851802796"
@@ -20,7 +20,7 @@ categories:
 tags:
   - Copywriting
 ---
-Narazil jsem na tuhle svou kritiku v archivu rozepsaných článků a rozhodl se, že ji přeci jen zveřejním, i s obrovským časovým odstupem, protože moje připomínky jsou dostatečně obecné&#8230; Článek [Jak se píše headline? Podívejte se pod ruce copywriterovi](http://web.archive.org/web/20120227194416/http://dictum.cz/jak-se-pise-headline-podivejte-se-pod-ruce-copywriterovi/) je názornou ukázkou toho, jak se text psát nemá (a, bohužel, přesto často píše). Vyměnili jsme si s autorem pár mailů a myslím, že nakonec sám naznal, že článek je opravdu špatný, takže ho stáhnul &#8211; proto vede odkaz do archivu. Vůči autorovi osobně nic nemám, to, že uznal chybu, mu slouží ke cti, ale přesto bych jeho text použil jako memento pro další copywritery.
+Narazil jsem na tuhle svou kritiku v archivu rozepsaných článků a rozhodl se, že ji přeci jen zveřejním, i s obrovským časovým odstupem, protože moje připomínky jsou dostatečně obecné&#8230; Článek [Jak se píše headline? Podívejte se pod ruce copywriterovi](https://web.archive.org/web/20120227194416/https://dictum.cz/jak-se-pise-headline-podivejte-se-pod-ruce-copywriterovi/) je názornou ukázkou toho, jak se text psát nemá (a, bohužel, přesto často píše). Vyměnili jsme si s autorem pár mailů a myslím, že nakonec sám naznal, že článek je opravdu špatný, takže ho stáhnul &#8211; proto vede odkaz do archivu. Vůči autorovi osobně nic nemám, to, že uznal chybu, mu slouží ke cti, ale přesto bych jeho text použil jako memento pro další copywritery.
 
 <!--more-->
 
@@ -67,7 +67,7 @@ Bodycount: 8. Už to nevypadá neotřele, ale jako zlozvyk, u kterého autor ani
 
 Je to o tom, o tom, o tom&#8230; A je to o tom, že to je o tom. I když se nechce, tak se je o tom!
 
-<a href="http://www.misantrop.info/jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/attachment/15231998/" rel="attachment wp-att-209"><img class="aligncenter size-full wp-image-209" title="15231998" alt="" src="http://www.misantrop.info/wp-content/uploads/2012/02/15231998.jpg" width="400" height="300" srcset="https://www.misantrop.info/wp-content/uploads/2012/02/15231998.jpg 400w, https://www.misantrop.info/wp-content/uploads/2012/02/15231998-200x150.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+<a href="https://misantrop.info/jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/attachment/15231998/" rel="attachment wp-att-209"><img class="aligncenter size-full wp-image-209" title="15231998" alt="" src="https://misantrop.info/wp-content/uploads/2012/02/15231998.jpg" width="400" height="300" srcset="https://misantrop.info/wp-content/uploads/2012/02/15231998.jpg 400w, https://misantrop.info/wp-content/uploads/2012/02/15231998-200x150.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 
 > Nápad, který stál za to, aby byl rozvíjen, byl tady. (&#8230;) Když jsem vycítil, že to klaplo, přestal jsem. A jak jsem vycítil, že je to „tak akorát“? No, prostě jsem to vycítil.
 
@@ -80,9 +80,9 @@ Větou &#8222;_Co říci závěrem?_&#8220; autor obvykle naznačuje (většinou
 
 &#8212;
 
-Mimochodem, přečetl jsem si [tu recenzi](http://sourcouf.blogspot.cz/2012/02/kdyz-harry-potkal-spasitele-jo-nesb.html). Zaplakal jsem už u věty &#8222;_Harry Hole, hlavní postava Spasitele a vrchní komisař oslovské policie &#8230;_&#8222;, ale přečetl jsem to (i přes slzy) celé. Dostal jsem se přes &#8222;vrchní komisař oslovské kriminálky&#8220; (znovu!), proklopýtal přes bezpřísudkové věty, vykulil oči na &#8222;_Nesbø se jen těžce odkládá a člověk by někdy raději přejel stanici, kam ho veze jeho vlak&#8230;_&#8220; a dospěl jsem k závěru, že ve výše rozebíraném textu jde spíš o &#8211; detektivkářsky řečeno &#8211; &#8222;oslovský modus operandi&#8220;, než o indispozici&#8230; (Poznámka po roce: Autor už &#8222;oslovské&#8220; opravil na &#8222;osloské&#8220;, čímž to dle mého soudu moc nenarovnal.)
+Mimochodem, přečetl jsem si [tu recenzi](https://sourcouf.blogspot.cz/2012/02/kdyz-harry-potkal-spasitele-jo-nesb.html). Zaplakal jsem už u věty &#8222;_Harry Hole, hlavní postava Spasitele a vrchní komisař oslovské policie &#8230;_&#8222;, ale přečetl jsem to (i přes slzy) celé. Dostal jsem se přes &#8222;vrchní komisař oslovské kriminálky&#8220; (znovu!), proklopýtal přes bezpřísudkové věty, vykulil oči na &#8222;_Nesbø se jen těžce odkládá a člověk by někdy raději přejel stanici, kam ho veze jeho vlak&#8230;_&#8220; a dospěl jsem k závěru, že ve výše rozebíraném textu jde spíš o &#8211; detektivkářsky řečeno &#8211; &#8222;oslovský modus operandi&#8220;, než o indispozici&#8230; (Poznámka po roce: Autor už &#8222;oslovské&#8220; opravil na &#8222;osloské&#8220;, čímž to dle mého soudu moc nenarovnal.)
 
-_(Pro jazykově méně důvtipné [ocituju Pravidla](http://prirucka.ujc.cas.cz/?id=380):_ **Zvláštním případem je jméno _Oslo_. Lze je buď skloňovat pravidelně podle vzoru „město“ (2. p. _Osla_, 3., 6. p. _Oslu_, 7. p. _Oslem_), nebo ponechat nesklonné, aby se předešlo případným nežádoucím významovým asociacím.&#8220;** _Ano, &#8222;oslovské&#8220; je právě ta významově nežádoucí asociace, protože toto slovo v češtině označuje věci hloupé, pro hlupáky. Oslovská lavice, oslovská čepice, oslovská léta, &#8230; Pokud vám to pořád není jasné, dosaďte si Píčov (dnes [vesnice Suchý](http://mapy.cz/s/3a3J)) a tamní policii. Opravdu napíšete &#8222;strážmistr píčovské policie&#8220;? Pokud ano, nedělejte copywritera!)_
+_(Pro jazykově méně důvtipné [ocituju Pravidla](https://prirucka.ujc.cas.cz/?id=380):_ **Zvláštním případem je jméno _Oslo_. Lze je buď skloňovat pravidelně podle vzoru „město“ (2. p. _Osla_, 3., 6. p. _Oslu_, 7. p. _Oslem_), nebo ponechat nesklonné, aby se předešlo případným nežádoucím významovým asociacím.&#8220;** _Ano, &#8222;oslovské&#8220; je právě ta významově nežádoucí asociace, protože toto slovo v češtině označuje věci hloupé, pro hlupáky. Oslovská lavice, oslovská čepice, oslovská léta, &#8230; Pokud vám to pořád není jasné, dosaďte si Píčov (dnes [vesnice Suchý](https://mapy.cz/s/3a3J)) a tamní policii. Opravdu napíšete &#8222;strážmistr píčovské policie&#8220;? Pokud ano, nedělejte copywritera!)_
 
 &#8212;
 

@@ -4,12 +4,12 @@ title: Funkcionální blaho
 date: 2012-07-05T13:21:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/funkcionalni-blaho/
+guid: https://misantrop.info/funkcionalni-blaho/
 permalink: /funkcionalni-blaho/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "143723065"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/funkcionalni-blaho
+  - https://adent.posterous.com/funkcionalni-blaho
 mashsb_timestamp:
   - "1575135272"
 mashsb_shares:
@@ -25,7 +25,7 @@ Po letech mě to zase bav&iacute;.
 
 Zvolit Node.js byl vysloveně proz&iacute;rav&yacute; krok. Psan&iacute; pro Node mě &scaron;ouplo &uacute;plně někam jinam, než kde jsem se před t&iacute;m pohyboval, a je to &uacute;žasn&eacute;.
 
-Psal jsem prvn&iacute; modul pro [druidly](http://druidly.com). &Scaron;lo to pomalu, a ačkoli jsem si za posledn&iacute; dobu už na JavaScript a funkcion&aacute;ln&iacute; paradigma trochu zvyknul, bylo to nepohodln&eacute;. Naprosto rozum&iacute;m v&scaron;em těm nasran&yacute;m program&aacute;torům od Javy či PHP, co sed&iacute; a bu&scaron;&iacute; JavaScript se stejn&yacute;m př&iacute;stupem. A ono to nejde.
+Psal jsem prvn&iacute; modul pro [druidly](https://druidly.com). &Scaron;lo to pomalu, a ačkoli jsem si za posledn&iacute; dobu už na JavaScript a funkcion&aacute;ln&iacute; paradigma trochu zvyknul, bylo to nepohodln&eacute;. Naprosto rozum&iacute;m v&scaron;em těm nasran&yacute;m program&aacute;torům od Javy či PHP, co sed&iacute; a bu&scaron;&iacute; JavaScript se stejn&yacute;m př&iacute;stupem. A ono to nejde.
 
 Najednou, po p&aacute;r dnech, jako by se v&scaron;echno pohnulo, pootočilo, jedno kolo zapadlo do druh&eacute;ho a věci byly najednou naprosto jasn&eacute;. &#8222;AHA&#8220; okamžik.&nbsp;
 

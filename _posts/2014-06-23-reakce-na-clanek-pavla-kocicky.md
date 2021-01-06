@@ -4,7 +4,7 @@ title: Reakce na článek Pavla Kočičky
 date: 2014-06-23T16:02:09+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2071
+guid: https://misantrop.info/?p=2071
 permalink: /reakce-na-clanek-pavla-kocicky/
 mashsb_timestamp:
   - "1574982435"
@@ -22,7 +22,7 @@ Naprosto interní sdělení, reakce na reakci&#8230;
 
 <!--more-->
 
-[Pavel Kočička odpověděl](http://kocicka.blog.idnes.cz/c/414836/Online-media-nezakazuji-odkazovat.html) (prý) na [můj článek](http://www.misantrop.info/online-media-a-odkazy-kapitola-68/ "Online média a odkazy, kapitola 68"). Ve skutečnosti předvedl [hastroše](http://www.misantrop.info/trvale-udrzitelna-krava/#hastros), tedy odpověděl na něco vzdáleně podobného mému článku, a slavně to vyvrátil.
+[Pavel Kočička odpověděl](https://kocicka.blog.idnes.cz/c/414836/Online-media-nezakazuji-odkazovat.html) (prý) na [můj článek](https://misantrop.info/online-media-a-odkazy-kapitola-68/ "Online média a odkazy, kapitola 68"). Ve skutečnosti předvedl [hastroše](https://misantrop.info/trvale-udrzitelna-krava/#hastros), tedy odpověděl na něco vzdáleně podobného mému článku, a slavně to vyvrátil.
 
 Pavel použil formu jakýchsi FAQ, tedy odpovědí na mnou vyřčené i nevyřčené otázky. Ve skutečnosti ani vyřčené, ani moje.
 

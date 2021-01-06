@@ -4,7 +4,7 @@ title: Mluv, mluv, zajímáš mě!
 date: 2014-05-25T12:48:01+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2006
+guid: https://misantrop.info/?p=2006
 permalink: /mluv-mluv-zajimas-me/
 mashsb_timestamp:
   - "1575135662"
@@ -24,7 +24,7 @@ Tenhle zápisek (opět o firemní komunikaci) vznikl původně jako komentář n
 <!--more-->
 
 <p style="color: #141823;">
-  Dan <a class="profileLink" style="color: #3b5998;" href="https://www.facebook.com/Daniel.Docekal" data-hovercard="/ajax/hovercard/user.php?id=570949930">Dočekal</a> na <a href="http://www.lupa.cz/clanky/wedos-ma-od-patku-problemy-s-vypadky-i-komunikaci/">aktuálním příkladu spadlého Wedosu</a> ukazuje častý problém firemní komunikace, který je velmi dobře vidět zejména u hostingů.
+  Dan <a class="profileLink" style="color: #3b5998;" href="https://www.facebook.com/Daniel.Docekal" data-hovercard="/ajax/hovercard/user.php?id=570949930">Dočekal</a> na <a href="https://www.lupa.cz/clanky/wedos-ma-od-patku-problemy-s-vypadky-i-komunikaci/">aktuálním příkladu spadlého Wedosu</a> ukazuje častý problém firemní komunikace, který je velmi dobře vidět zejména u hostingů.
 </p>
 
 <p style="color: #141823;">
@@ -44,9 +44,9 @@ Tenhle zápisek (opět o firemní komunikaci) vznikl původně jako komentář n
 </p>
 
 <p style="color: #141823;">
-  Post Scriptum: Obzvlášť pikantní je to v případě Wedosu, který si na sociálních sítích často servítky moc nebere a mlátí do konkurence hlava nehlava. Což se může <a href="http://www.misantrop.info/hacknuty-banan">taky vymstít</a>.
+  Post Scriptum: Obzvlášť pikantní je to v případě Wedosu, který si na sociálních sítích často servítky moc nebere a mlátí do konkurence hlava nehlava. Což se může <a href="https://misantrop.info/hacknuty-banan">taky vymstít</a>.
 </p>
 
 <p style="color: #141823;">
-  K tématu též moje články na Lupě: <a href="http://www.lupa.cz/clanky/otazky-okolo-hacku-banan-cz-zustavaji/">Otazníky okolo hacku Banánu</a> a <a href="http://www.lupa.cz/clanky/pr-neni-sproste-slovo-to-z-nej-delaji-firmy-samy/">PR není sprosté slovo</a> (druhá polovina je věnována obdobné situaci, tj. komunikaci problémů hostingové firmy)
+  K tématu též moje články na Lupě: <a href="https://www.lupa.cz/clanky/otazky-okolo-hacku-banan-cz-zustavaji/">Otazníky okolo hacku Banánu</a> a <a href="https://www.lupa.cz/clanky/pr-neni-sproste-slovo-to-z-nej-delaji-firmy-samy/">PR není sprosté slovo</a> (druhá polovina je věnována obdobné situaci, tj. komunikaci problémů hostingové firmy)
 </p>

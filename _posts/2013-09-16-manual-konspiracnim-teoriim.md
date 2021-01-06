@@ -4,7 +4,7 @@ title: Manuál ke konspiračním teoriím
 date: 2013-09-16T12:01:55+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1480
+guid: https://misantrop.info/?p=1480
 permalink: /manual-konspiracnim-teoriim/
 dsq_thread_id:
   - "1765539042"
@@ -22,7 +22,7 @@ Jak poznat konspirační teorii a rozpoznat správně okamžik, kdy přestává 
 
 <!--more-->
 
-K tomuto zápisku mě trošku [vyprovokovala Tlamiczka](http://www.tlamiczka.com/2013/09/pche-tihleti-konspiratori.html). Ona je rozumné a inteligentní děvče, takže když píše něco, s čím nesouhlasím, tak se zamyslím, protože zkrátka není blbá a má cenu ji poslouchat.
+K tomuto zápisku mě trošku [vyprovokovala Tlamiczka](https://www.tlamiczka.com/2013/09/pche-tihleti-konspiratori.html). Ona je rozumné a inteligentní děvče, takže když píše něco, s čím nesouhlasím, tak se zamyslím, protože zkrátka není blbá a má cenu ji poslouchat.
 
 Psala o tom, jak každé &#8222;jiné než oficiální&#8220; vysvětlení bývá šmahem označeno za konspirační teorii a jeho hlasatelé za pošuky. Dehonestací se zároveň tahle neoficiální teorie dostane do sféry &#8222;netřeba o tom diskutovat&#8230;&#8220;, nazdar bazar.
 
@@ -54,7 +54,7 @@ Neexistuje důkaz, který by mohl vyvrátit tuhle teorii. Pokud neexistuje, je t
 
 V případě letu na Měsíc vyjde levněji vyslání posádky Apolla, než uplacení celého světa a nákladné maskovací operace. Proč by tedy Američané dělali tak riskantní podnik? Protože potřebovali ukázat Rusům svou převahu, přeci&#8230; Oblbli síť ruských špionážních družic, observatoří, radioobservatoří, celý svět přesvědčili o tom, že vidí něco, co není, všem astronomům namalovali tečku před objektiv, která vypadala jako Apollo, protože všechno tohle je přeci logičtější, než poslat tři maníky do vesmíru!
 
-**6. Argumentace zastánců stojí mnohdy na důmyslně použitých [logických klamech](http://www.misantrop.info/trvale-udrzitelna-krava/). **
+**6. Argumentace zastánců stojí mnohdy na důmyslně použitých [logických klamech](https://misantrop.info/trvale-udrzitelna-krava/). **
 
 _Vidíte, nelze najít důkaz, který by naši teorii vyvrátil! Je tedy jasné, že je pravdivá!_
 

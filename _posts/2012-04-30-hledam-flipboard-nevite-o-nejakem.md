@@ -4,7 +4,7 @@ title: Hledám Flipboard, nevíte o nějakém?
 date: 2012-04-30T09:28:05+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=331
+guid: https://misantrop.info/?p=331
 permalink: /hledam-flipboard-nevite-o-nejakem/
 dsq_thread_id:
   - "669905741"
@@ -35,7 +35,7 @@ Tyto body jsou pro mě zásadní, a v téhle kombinaci jsem je nenašel nikde ji
 
 Takže hledám takovou aplikaci. Primární účel je ten, že sbírám informace z různých pramenů, a určitý výběr posílám dál různými kanály. Flipboard to umožňuje bez velkého zdržování a nutnosti klikat kvůli každé pitomině na nějaká kůl tlačítka&#8230;
 
-Máte vhodnou alternativu? A rovnou říkám, že [tyhle alternativy pro Flipboard](http://alternativeto.net/software/flipboard/) jsou pro mne na prd, jedna jako druhá.
+Máte vhodnou alternativu? A rovnou říkám, že [tyhle alternativy pro Flipboard](https://alternativeto.net/software/flipboard/) jsou pro mne na prd, jedna jako druhá.
 
 Ideálně webová aplikace, desktopová, nebo pro Android.
 

@@ -4,12 +4,12 @@ title: Ještě jednou, stručně, k utajení a sčítání
 date: 2011-04-22T07:31:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/jeste-jednou-strucne-k-utajeni-a-scitani/
+guid: https://misantrop.info/jeste-jednou-strucne-k-utajeni-a-scitani/
 permalink: /jeste-jednou-strucne-k-utajeni-a-scitani/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "50405312"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/jeste-jednou-strucne-k-utajeni-a-scitani
+  - https://adent.posterous.com/jeste-jednou-strucne-k-utajeni-a-scitani
 mashsb_timestamp:
   - "1575149814"
 mashsb_shares:
@@ -19,9 +19,9 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Tuhle jsem [psal o f&iacute;zlovsk&eacute; společnosti](http://www.misantrop.info/politicka-krize-kez), kter&aacute; bere odposlech, tajnou nahr&aacute;vku, &#8222;ucho na dveř&iacute;ch&#8220; jako norm&aacute;ln&iacute;, legitimn&iacute; způsob z&iacute;sk&aacute;v&aacute;n&iacute; informac&iacute;.
+Tuhle jsem [psal o f&iacute;zlovsk&eacute; společnosti](https://misantrop.info/politicka-krize-kez), kter&aacute; bere odposlech, tajnou nahr&aacute;vku, &#8222;ucho na dveř&iacute;ch&#8220; jako norm&aacute;ln&iacute;, legitimn&iacute; způsob z&iacute;sk&aacute;v&aacute;n&iacute; informac&iacute;.
 
-Včera mě znechutil [zveřejněn&yacute; z&aacute;znam z v&yacute;slechu Otakara Tomka](http://www.novinky.cz/krimi/231413-videozaznam-vyslechu-otakara-tomka-podezreleho-z-vrazdy-anicky.html?ref=zpravy-dne) (jo, toho od Aničky). Ne, ne&scaron;lo o obsah.
+Včera mě znechutil [zveřejněn&yacute; z&aacute;znam z v&yacute;slechu Otakara Tomka](https://www.novinky.cz/krimi/231413-videozaznam-vyslechu-otakara-tomka-podezreleho-z-vrazdy-anicky.html?ref=zpravy-dne) (jo, toho od Aničky). Ne, ne&scaron;lo o obsah.
 
 Nikomu nejde o obsah. Čten&aacute;ři Novinek nejsou forenzn&iacute; psychologov&eacute;, aby z toho dok&aacute;zali vyč&iacute;st něco validn&iacute;ho. Čten&aacute;ři jsou &#8222;dav spoř&aacute;dan&yacute;ch občanů&#8220;, a tenhle materi&aacute;l jim byl předhozen jak mr&scaron;ina supům. Jako matro&scaron;, ze kter&eacute;ho se vydoj&iacute; ty &#8222;spr&aacute;vn&eacute;&#8220; davov&eacute; emoce.
 

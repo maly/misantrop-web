@@ -4,7 +4,7 @@ title: 'Pochvalná středa: T-Mobile a Magistrát Českých Budějovic'
 date: 2012-05-30T13:17:08+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=465
+guid: https://misantrop.info/?p=465
 permalink: /pochvalna-streda-t-mobile-a-magistrat-ceskych-budejovic/
 dsq_thread_id:
   - "708244511"

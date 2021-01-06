@@ -4,12 +4,12 @@ title: 'K &#8222;vypínání telefonů&#8220; a jiným patetickým gestům'
 date: 2011-08-18T05:40:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/k-vypinani-telefonu-a-jinym-patetickym-gestum/
+guid: https://misantrop.info/k-vypinani-telefonu-a-jinym-patetickym-gestum/
 permalink: /k-vypinani-telefonu-a-jinym-patetickym-gestum/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66076008"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/k-vypinani-telefonu-a-jinym-patetickym-gestum
+  - https://adent.posterous.com/k-vypinani-telefonu-a-jinym-patetickym-gestum
 dsq_thread_id:
   - "1100193974"
 mashsb_timestamp:
@@ -27,7 +27,7 @@ Summa: _Volání v mobilních sítích je tu, po přepočtu cen dle parity kupn�
 
 Prý se tak tři operátoři domluvili. Včetně ČTÚ. A nedosti na tom, ČTÚ chystá další moudré rozhodnutí, a podle toho, co jsem slyšel, jde o hodně peněz, které KDOSI nutně potřebuje, ale to nechme stranou. Mě zajímá způsob, jakým se na to upozorňuje.
 
-Kdepak, nikdo nesebral relevantní a podložené argumenty, aby napadl pohádky z ČTÚ, třeba soudně. (Snad krom [Kamojedova](http://vucako.wordpress.com/2011/06/01/na-cenove-fronte-klid/), kterému jde spíš o princip, než o nějaká gesta typu &#8222;Zlevněte!&#8220;) Ne. Držkuje se proti operátorům. Na rovinu &#8211; oni účtují ceny takové, jaké jim &#8222;projdou&#8220; a jaké zákazníci zaplatí. Kdyby to nedělali, tak je akcionáři poženou. Pokud za tyhle ceny zákazníci kupují, tak proč zlevňovat?
+Kdepak, nikdo nesebral relevantní a podložené argumenty, aby napadl pohádky z ČTÚ, třeba soudně. (Snad krom [Kamojedova](https://vucako.wordpress.com/2011/06/01/na-cenove-fronte-klid/), kterému jde spíš o princip, než o nějaká gesta typu &#8222;Zlevněte!&#8220;) Ne. Držkuje se proti operátorům. Na rovinu &#8211; oni účtují ceny takové, jaké jim &#8222;projdou&#8220; a jaké zákazníci zaplatí. Kdyby to nedělali, tak je akcionáři poženou. Pokud za tyhle ceny zákazníci kupují, tak proč zlevňovat?
 
 Fajn, v republice je mobilů snad už víc než lidí, takže zjevně zákazníci kupujou. Asi jim tedy uspokojují potřeby, které mají větší hodnotu než peníze, co za ně zaplatí. Jste obchodník, taxikář, kdokoli, jehož čas je drahý &#8211; mobil vám umožňuje získat zakázky, rita, rychleji reagovat &#8211; tyhle benefity se dají vyjádřit v penězích &#8211; jejich hodnota bude vyšší než cena za volání >>> PROFIT!
 

@@ -4,7 +4,7 @@ title: 'Tablet, co mi konečně vyhovuje, nese jméno&#8230;'
 date: 2012-05-14T13:03:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=371
+guid: https://misantrop.info/?p=371
 permalink: /tablet-co-mi-konecne-vyhovuje-nese-jmeno/
 mashsb_timestamp:
   - "1574281586"
@@ -15,11 +15,11 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-&#8230; [BlackBerry Playbook](http://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY). Proč že to?
+&#8230; [BlackBerry Playbook](https://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY). Proč že to?
 
 <!--more-->
 
-[Kindle Fire](http://www.misantrop.info/flashujeme-kindle-fire-krok-za-krokem/) není špatný, jen nastal drobný problém: pořídil jsem si [Playbook](http://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY) a jeden tablet musel z domu.<img style="border: none !important; margin: 0px !important;" src="http://www.misantrop.info/wp-content/uploads/2012/05/irtdein-20amplas2ampo1ampaB0051VVOB2" alt="" width="1" height="1" border="0" />
+[Kindle Fire](https://misantrop.info/flashujeme-kindle-fire-krok-za-krokem/) není špatný, jen nastal drobný problém: pořídil jsem si [Playbook](https://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY) a jeden tablet musel z domu.<img style="border: none !important; margin: 0px !important;" src="https://misantrop.info/wp-content/uploads/2012/05/irtdein-20amplas2ampo1ampaB0051VVOB2" alt="" width="1" height="1" border="0" />
 
 Fire má Android a dobře se flashuje. Výhoda. Zároveň má nevýhodu: je v něm Android. Po hardwarové stránce to je skvělý tablet, který je o míle před všemi těmi &#8222;Android Tablet Huang Hutong za 3000&#8220;. Nechybělo mi nic zásadního.
 
@@ -33,6 +33,6 @@ OS nabízí standardní sadu aplikací, jakou najdeme všude. Zvláštní zmínk
 
 Aplikace k dispozici jsou, a nabídka je slušná. Playbook má samosebou taky obchod s aplikacemi, ten zdejší se jmenuje AppWorld. A pokud by vám byla nabídka malá, tak vězte, že v Playbooku je Androidí runtime, takže na něm spustíte spoustu aplikací z Androidů.
 
-Takže hned po oznámení betaverze Flipboardu jsem sedl a zkonvertoval ho do [Flipboardu pro BlackBerry Playbook](http://www.misantrop.info/flipboard-for-blackberry-playbook/). A víte co? Funguje!
+Takže hned po oznámení betaverze Flipboardu jsem sedl a zkonvertoval ho do [Flipboardu pro BlackBerry Playbook](https://misantrop.info/flipboard-for-blackberry-playbook/). A víte co? Funguje!
 
-K tomu si připočítejte posedlost bezpečností, která je u BlackBerry pověstná, přidejte možnost výborné spolupráce s telefony od BB (včetně dálkového ovládání, to se hodí na prezentace&#8230;), a pochopíte, proč jsem si nechal právě [Playbook](http://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY).
+K tomu si připočítejte posedlost bezpečností, která je u BlackBerry pověstná, přidejte možnost výborné spolupráce s telefony od BB (včetně dálkového ovládání, to se hodí na prezentace&#8230;), a pochopíte, proč jsem si nechal právě [Playbook](https://www.amazon.com/gp/product/B004UL34EY/ref=as_li_ss_il?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004UL34EY).

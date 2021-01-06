@@ -4,7 +4,7 @@ title: Dealbreaker Alza
 date: 2014-04-14T18:39:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1972
+guid: https://misantrop.info/?p=1972
 permalink: /dealbreaker-alza/
 mashsb_timestamp:
   - "1575143848"

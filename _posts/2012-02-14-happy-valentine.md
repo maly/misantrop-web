@@ -4,7 +4,7 @@ title: 'Happy Valentine&#8217;s Day!'
 date: 2012-02-14T14:28:18+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=140
+guid: https://misantrop.info/?p=140
 permalink: /happy-valentine/
 dsq_thread_id:
   - "575719479"
@@ -32,7 +32,7 @@ Naznačoval jsem, že _Zdroják v roce 2012 zažije výraznou změnu_. Změna je
 
 S Internet Info, provozovatelem Zdrojáku, jsme se dohodli na ukončení spolupráce.
 
-Když Martin Hassman před třemi (a něco) lety napsal, že pod hlavičkou Internet Infa začíná vycházet magazín o webových technologiích, [popřál jsem mu (a celému magazínu)](http://www.misantrop.info/728614-hodne-stesti-zdrojaku.php) hodně zdaru _a neprozřetelně slíbil článek_. Netušil jsem, že za šest měsíců budu, obrazně řečeno, sedět na jeho židli. Teď je načase se zase zvednout a jít dál&#8230;
+Když Martin Hassman před třemi (a něco) lety napsal, že pod hlavičkou Internet Infa začíná vycházet magazín o webových technologiích, [popřál jsem mu (a celému magazínu)](https://misantrop.info/728614-hodne-stesti-zdrojaku.php) hodně zdaru _a neprozřetelně slíbil článek_. Netušil jsem, že za šest měsíců budu, obrazně řečeno, sedět na jeho židli. Teď je načase se zase zvednout a jít dál&#8230;
 
 _Na tomhle místě by měly být takové ty řeči o dlouhé plodné spolupráci v dělné atmosféře soudružského kolektivu. Ale nebudou._ Zmíním výslovně jen Petra Krčmáře, který mi byl nejbližším _de facto_ nadřízeným, a se kterým jsme se vždy domluvili a rozuměli si (dokonce jsme byli spolu i v Paříži, heč!) Petře, díky za skvělou spolupráci, bylo to fajn a _zas někdy!_
 
@@ -52,5 +52,5 @@ A co budu dál dělat já?
 
 **To se (doufám, že brzy) dozvíme!** 
 
-_[Očekávám nabídky, vážení&#8230;](http://chcememartina.cz/)**  
+_[Očekávám nabídky, vážení&#8230;](https://chcememartina.cz/)**  
 **_

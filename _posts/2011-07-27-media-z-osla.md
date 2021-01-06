@@ -4,12 +4,12 @@ title: Média z osla
 date: 2011-07-27T05:35:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/media-z-osla/
+guid: https://misantrop.info/media-z-osla/
 permalink: /media-z-osla/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "62660103"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/media-z-osla
+  - https://adent.posterous.com/media-z-osla
 mashsb_timestamp:
   - "1546026862"
 mashsb_shares:
@@ -21,13 +21,13 @@ categories:
 ---
 K samotn&eacute;mu činu se nechci vyjadřovat. Chci se vyj&aacute;dřit k pr&aacute;ci m&eacute;di&iacute;.
 
-Něco na tohle t&eacute;ma sepsal Filip &#8211; [Dobře propečen&aacute; kachna z Twitteru](http://rozanek.posterous.com/dobre-propecena-kachna-z-twitteru). V z&aacute;sadě nen&iacute; nic moc dodat &#8211; snad jen to, že &#8222;džih&aacute;disti&#8220; viseli na iDnesu i dal&scaron;&iacute; den.
+Něco na tohle t&eacute;ma sepsal Filip &#8211; [Dobře propečen&aacute; kachna z Twitteru](https://rozanek.posterous.com/dobre-propecena-kachna-z-twitteru). V z&aacute;sadě nen&iacute; nic moc dodat &#8211; snad jen to, že &#8222;džih&aacute;disti&#8220; viseli na iDnesu i dal&scaron;&iacute; den.
 
 Vůbec se n&aacute;m &#8222;nejdůvěryhodněj&scaron;&iacute; iDnes na česk&eacute;m trhu&#8220; (a nejen on) překon&aacute;val! Prvn&iacute; mapky s ostrovem, kter&yacute; byl vyznačen kdesi na pol&aacute;rn&iacute;m kruhu (a v textu popisek &#8222;nedaleko Osla&#8220;). Předevč&iacute;rem zpr&aacute;vy o Breivikovi tvrdily, že jeho pl&aacute;nem bylo &#8222;nakoupit velk&eacute; množstv&iacute; hnoje na v&yacute;robu v&yacute;bu&scaron;niny&#8220; (hnůj nebo hnojivo, co?) Mohli jsme si přeč&iacute;st, že &#8222;střelec stř&iacute;lel na ostrově na t&aacute;boru socdem / strany pr&aacute;ce / př&iacute;znivců dělnick&eacute; strany / př&iacute;znivců soci&aacute;ln&iacute;ch demokratů / mlad&yacute;ch soci&aacute;ln&iacute;ch demokratů&#8220;. M&iacute;sto zpr&aacute;v (kdo, kdy, kde, co) nastoupilo žd&iacute;m&aacute;n&iacute; emoc&iacute; a hled&aacute;n&iacute; Hlubok&yacute;ch Lidsk&yacute;ch Př&iacute;běhů v kupě hnojiva.
 
-Pas&aacute;ž sama pro sebe je &#8222;online prezentace&#8220;. Breivikův Twitter (je-li to tedy Breivikův Twitter) obsahuje jedin&yacute; z&aacute;znam &#8211; cit&aacute;t: &#8222;One person with a belief is equal to the force of 100 000 who have only interests.&#8220; D&aacute; to hodně pr&aacute;ce přeložit to jako &#8222;hodnota jednoho věř&iacute;c&iacute;ho člověka je 100 000kr&aacute;t vět&scaron;&iacute; než hodnota lid&iacute;, kteř&iacute; jen maj&iacute; pouh&eacute; z&aacute;jmy.&#8220; ([zde](http://m.ihned.cz/c4-10029970-52371920-700000_pdadetail-blondak-zabijel-mlade-socialisty-na-norskem-ostrove-radikal-nesnasi-neverici)). Plus tvrzen&iacute; &#8222;Na jednom z twitterov&yacute;ch z&aacute;znamů napsal&#8230;&#8220; &#8211; řekněte mi, jestli se m&yacute;l&iacute;m, ale obrat &#8222;na jednom ze z&aacute;znamů&#8220; je dle m&eacute;ho kokotina, když je jeden z&aacute;znam celkem.
+Pas&aacute;ž sama pro sebe je &#8222;online prezentace&#8220;. Breivikův Twitter (je-li to tedy Breivikův Twitter) obsahuje jedin&yacute; z&aacute;znam &#8211; cit&aacute;t: &#8222;One person with a belief is equal to the force of 100 000 who have only interests.&#8220; D&aacute; to hodně pr&aacute;ce přeložit to jako &#8222;hodnota jednoho věř&iacute;c&iacute;ho člověka je 100 000kr&aacute;t vět&scaron;&iacute; než hodnota lid&iacute;, kteř&iacute; jen maj&iacute; pouh&eacute; z&aacute;jmy.&#8220; ([zde](https://m.ihned.cz/c4-10029970-52371920-700000_pdadetail-blondak-zabijel-mlade-socialisty-na-norskem-ostrove-radikal-nesnasi-neverici)). Plus tvrzen&iacute; &#8222;Na jednom z twitterov&yacute;ch z&aacute;znamů napsal&#8230;&#8220; &#8211; řekněte mi, jestli se m&yacute;l&iacute;m, ale obrat &#8222;na jednom ze z&aacute;znamů&#8220; je dle m&eacute;ho kokotina, když je jeden z&aacute;znam celkem.
 
-Pro překlad [Na internetu měl vrah napsat, že hodnota jednoho věř&iacute;c&iacute;ho člověka je 100 000kr&aacute;t vět&scaron;&iacute; než hodnota ostatn&iacute;ch lid&iacute;.](http://www.zpravy.rozhlas.cz/zpravy/evropa/_zprava/motivy-utocnika-z-norskeho-osla-stale-nejsou-znamy--925161) (via ČRo) už nem&aacute;m vysvětlen&iacute;.
+Pro překlad [Na internetu měl vrah napsat, že hodnota jednoho věř&iacute;c&iacute;ho člověka je 100 000kr&aacute;t vět&scaron;&iacute; než hodnota ostatn&iacute;ch lid&iacute;.](https://www.zpravy.rozhlas.cz/zpravy/evropa/_zprava/motivy-utocnika-z-norskeho-osla-stale-nejsou-znamy--925161) (via ČRo) už nem&aacute;m vysvětlen&iacute;.
 
 Stejn&eacute; vesel&iacute; vzbuzuje zasvěcen&aacute; anal&yacute;za Facebookov&eacute;ho profilu (a opět cimrmanovsky: &#8222;je-li to ov&scaron;em jeho profil, že&#8230;&#8220;) Ideově pochyben&aacute; a věcně nespr&aacute;vn&aacute;, ale plně v intenc&iacute;ch senzacechtiv&eacute; žurnalistiky. Je tam v&scaron;echno: Orwell, Churchill, poč&iacute;tačov&eacute; hry, zedn&aacute;ři,&#8230; V&scaron;ichni medi&aacute;ln&iacute; stra&scaron;&aacute;ci. Ide&aacute;ln&iacute; matro&scaron; pro medi&aacute;ln&iacute; zkratku, kr&aacute;tk&yacute; &uacute;činn&yacute; slogan, co se vryje davu do hlaviček: &#8222;Hry jsou zlo, kdo čte Orwella, ten může i zab&iacute;t děti!&#8220;
 

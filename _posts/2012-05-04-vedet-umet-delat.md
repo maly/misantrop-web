@@ -4,7 +4,7 @@ title: 'Vědět &#8211; Umět &#8211; Dělat'
 date: 2012-05-04T09:12:12+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=342
+guid: https://misantrop.info/?p=342
 permalink: /vedet-umet-delat/
 mashsb_timestamp:
   - "1573408910"

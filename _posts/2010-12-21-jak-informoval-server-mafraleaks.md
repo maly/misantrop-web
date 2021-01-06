@@ -4,12 +4,12 @@ title: 'Jak informoval server MafraLeaks&#8230;'
 date: 2010-12-21T14:35:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/jak-informoval-server-mafraleaks/
+guid: https://misantrop.info/jak-informoval-server-mafraleaks/
 permalink: /jak-informoval-server-mafraleaks/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "37061565"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/jak-informoval-server-mafraleaks
+  - https://adent.posterous.com/jak-informoval-server-mafraleaks
 mashsb_timestamp:
   - "1542641568"
 mashsb_shares:

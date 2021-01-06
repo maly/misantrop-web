@@ -4,7 +4,7 @@ title: Pokrytecký lhář
 date: 2013-09-29T15:54:42+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1526
+guid: https://misantrop.info/?p=1526
 permalink: /pokrytecky-lhar/
 dsq_thread_id:
   - "1808201018"
@@ -34,9 +34,9 @@ Okamurovi se znelíbili novináři. Upřímně, není divu &#8211; to, co předv
 
 Stoniš sice nemůže za to, že se nemají líp, ale posmíval se jejich zastánci.
 
-Stačilo, že o tom [napsal IHNED](http://zpravy.ihned.cz/politika/c1-60880990-nenapisete-li-to-hezky-vyporadaji-se-s-vami-mi-ctenari-varoval-okamura-redaktorku) a označil to za zastrašování novinářů. Okamura neodolal a znovu ukázal prstem! &#8222;_Sdělte jim zcela svobodně svůj názor na jejich živitele pana Bakalu a na ně samotné a napište jim přímo na jejich maily&#8230;_&#8220; Ach, ta slast, ovládat takovou sílu, co?
+Stačilo, že o tom [napsal IHNED](https://zpravy.ihned.cz/politika/c1-60880990-nenapisete-li-to-hezky-vyporadaji-se-s-vami-mi-ctenari-varoval-okamura-redaktorku) a označil to za zastrašování novinářů. Okamura neodolal a znovu ukázal prstem! &#8222;_Sdělte jim zcela svobodně svůj názor na jejich živitele pana Bakalu a na ně samotné a napište jim přímo na jejich maily&#8230;_&#8220; Ach, ta slast, ovládat takovou sílu, co?
 
-V Parlamentních listech pak pokrytecky [dodává](http://www.parlamentnilisty.cz/arena/monitor/Okamura-pry-nasel-zpusob-jak-vypraskat-prodejne-novinare-A-ono-to-funguje-287290): &#8222;_Já jen nastavil zrcadlo (&#8230;)  nechtějí pochopit, že ne já, ale čtenáři jim to vracejí stejnou mincí (&#8230;)_&#8220; Já nic, já muzikant. Já nikoho nenaváděl, to se čtenáři sami rozhodli jim to napsat&#8230; Jeho vlastní vyjádření ho ale usvědčuje ze lži.
+V Parlamentních listech pak pokrytecky [dodává](https://www.parlamentnilisty.cz/arena/monitor/Okamura-pry-nasel-zpusob-jak-vypraskat-prodejne-novinare-A-ono-to-funguje-287290): &#8222;_Já jen nastavil zrcadlo (&#8230;)  nechtějí pochopit, že ne já, ale čtenáři jim to vracejí stejnou mincí (&#8230;)_&#8220; Já nic, já muzikant. Já nikoho nenaváděl, to se čtenáři sami rozhodli jim to napsat&#8230; Jeho vlastní vyjádření ho ale usvědčuje ze lži.
 
 Podle diskuse to spousta čtenářů novin Okamurovi schvaluje. Však co taky, novinář nebo politik, v očích lidu stejná svoloč. Ale tady nejde o novináře. Tady jde o masu frustrovaných. Na ty nahoře má políčeno Babiš, na ty dole Okamura, ty intelektuální loví Janeček, no a ti nejradikálnější &#8222;pochodují proti nepřizpůsobivým&#8220;. Je to jedna a tatáž skupina, kterou spojuje společný nepřítel a společně živená frustrace. Až se ještě víc radikalizuje, bude zle.
 

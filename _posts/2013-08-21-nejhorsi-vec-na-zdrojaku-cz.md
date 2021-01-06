@@ -4,7 +4,7 @@ title: Nejhorší věc na Zdrojáku(.cz)
 date: 2013-08-21T09:51:38+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1415
+guid: https://misantrop.info/?p=1415
 permalink: /nejhorsi-vec-na-zdrojaku-cz/
 mashsb_timestamp:
   - "1572289336"

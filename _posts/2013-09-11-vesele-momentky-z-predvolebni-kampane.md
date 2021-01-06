@@ -4,7 +4,7 @@ title: Veselé momentky z předvolební kampaně
 date: 2013-09-11T09:21:47+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1465
+guid: https://misantrop.info/?p=1465
 permalink: /vesele-momentky-z-predvolebni-kampane/
 dsq_thread_id:
   - "1747791371"
@@ -28,7 +28,7 @@ Jako druhé v pořadí máme Piráty. Tahle veselá společnost vydala předvole
 
 Piráti rovněž pobavili tanečky okolo kampaně. Její přípravy byly utajované, aby se předešlo únikům připravovaných plakátů (jo, přesně těch komických), a Piráti žádají potrestání toho, kdo jim ty návrhy vynesl ven. Ano, titíž Piráti, co provozují PirateLeaks, tedy server, kam mají unikat informace, které jsou utajovány v rozporu s veřejným zájmem (o tom, co je veřejný zájem, rozhodují v takových situacích Piráti). Pirátské heslo by asi mělo být &#8222;**Co je vaše, to je všech, a co je naše, do toho vám nic není!**&#8220; &#8211; ačkoli verbálně tvrdí opak, jejich skutky je usvědčují z něčeho jiného.
 
-<a href="http://www.misantrop.info/vesele-momentky-z-predvolebni-kampane/1240545_10151781881944039_163354117_n/" rel="attachment wp-att-1467"><img class="aligncenter size-full wp-image-1467" alt="" src="http://www.misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n.jpg" width="681" height="960" srcset="https://www.misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n.jpg 681w, https://www.misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n-141x200.jpg 141w, https://www.misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n-354x500.jpg 354w" sizes="(max-width: 681px) 100vw, 681px" /></a>
+<a href="https://misantrop.info/vesele-momentky-z-predvolebni-kampane/1240545_10151781881944039_163354117_n/" rel="attachment wp-att-1467"><img class="aligncenter size-full wp-image-1467" alt="" src="https://misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n.jpg" width="681" height="960" srcset="https://misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n.jpg 681w, https://misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n-141x200.jpg 141w, https://misantrop.info/wp-content/uploads/2013/09/1240545_10151781881944039_163354117_n-354x500.jpg 354w" sizes="(max-width: 681px) 100vw, 681px" /></a>
 
 No a v neposlední řadě ODS. Tahle strana mě překvapuje tím, že stále ještě existuje &#8211; a nedosti na tom, ona má i volební kampaň! Do volební kampaně přišla s Twittrem &#8211; konkrétně s Twittroptákem, hashtagem a sloganem Volím_pravici. A k tomu ani nenapsali, že jde o ODS. Ta strana totiž totálně ztratila sebereflexi a stále je přesvědčena o tom, že je &#8222;nejsilnější pravicová strana&#8220;, takže je přeci všem jasné, že když volím pravici, tak jedině je!
 

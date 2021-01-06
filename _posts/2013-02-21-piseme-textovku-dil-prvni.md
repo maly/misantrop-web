@@ -4,7 +4,7 @@ title: Píšeme textovku, díl první
 date: 2013-02-21T18:53:38+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1082
+guid: https://misantrop.info/?p=1082
 permalink: /piseme-textovku-dil-prvni/
 wpgplus_message:
   - ""
@@ -30,13 +30,13 @@ Pro mladší generaci musím dodat: &#8222;Textovka&#8220; tu neznamená SMS! �
 
 <!--more-->
 
-Už jsem se [přiznal na Oldplayeru](http://www.oldplayer.cz/hrichy-mladi/), že jsem v mládí spáchal pár textovek. Tedy textových her, abych byl přesný.
+Už jsem se [přiznal na Oldplayeru](https://www.oldplayer.cz/hrichy-mladi/), že jsem v mládí spáchal pár textovek. Tedy textových her, abych byl přesný.
 
 Vsuvka pro ty, co nevědí: Textová hra je taková hra, kde informace o herním světě není grafická (bludiště, krajina, herní deska), ale textová. V té nejznámější podobě (Adventure) funguje tak, že hráč si přečte popis lokace, toho, co v dané lokaci vidí, a napíše, co chce dělat (někam jít, sebrat nějaký předmět, použít ho&#8230;) Hra na to nějak zareaguje, a zase mu napíše, co se děje. Typ her jak stvořený pro textové terminály.
 
 Textové hry postupem času nabídly i jednoduchou ilustrační grafiku, ikonky předmětů, grafické rozhraní, později možnost ovládání pomocí menu, ale základ je stále textová informace. Později vznikly, a jednu dobu byly velmi populární, grafické adventury, kde textový popis už nebyl, hráč pohyboval postavičkou v animovaném světě a pomocí myši zkoumal prostředí, manipuloval s ním a zadával pokyny. Určitě znáte hry jako Loom, Beneath the Steel Sky, Leisure Suit Larry, různé Police Questy a King&#8217;s Questy&#8230;
 
-Ale zpátky k textovkám. K napsání tohoto článku mě přiměla [diskuse o tvorbě textovek](http://textovky.panprase.cz/index.php?topic=168.0;prev_next=next#new). Docela mě zarazilo, co tam diskutující psali, tak jsem se rozhodl sepsat, jak taková textovka vypadá &#8222;programátorsky&#8220;. Není to obtížné, pojďme na to.  Je úplně jedno, jaký jazyk k tomu použijete, vystačíte si klidně i s BASICem&#8230;
+Ale zpátky k textovkám. K napsání tohoto článku mě přiměla [diskuse o tvorbě textovek](https://textovky.panprase.cz/index.php?topic=168.0;prev_next=next#new). Docela mě zarazilo, co tam diskutující psali, tak jsem se rozhodl sepsat, jak taková textovka vypadá &#8222;programátorsky&#8220;. Není to obtížné, pojďme na to.  Je úplně jedno, jaký jazyk k tomu použijete, vystačíte si klidně i s BASICem&#8230;
 
 Co potřebujete?
 

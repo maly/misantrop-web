@@ -4,7 +4,7 @@ title: Sám jste Hájek!
 date: 2014-06-08T21:42:04+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2047
+guid: https://misantrop.info/?p=2047
 permalink: /sam-jste-hajek/
 mashsb_timestamp:
   - "1565567820"
@@ -22,7 +22,7 @@ Od Chomskyho mám nejradši ty jeho plastiky, hlavně figurální. Je to asi nej
 
 Nedalo se tomu utéct.
 
-Začalo to [gerontofilní parasexuální patetickou fantazií](http://www.blisty.cz/art/73453.html), kde se autor vyznal z toho, jak úžasné bylo jít na Jeho přednášku, poslouchat Jeho teplý hlas a dívat se na Jeho velké chlupaté ucho:
+Začalo to [gerontofilní parasexuální patetickou fantazií](https://www.blisty.cz/art/73453.html), kde se autor vyznal z toho, jak úžasné bylo jít na Jeho přednášku, poslouchat Jeho teplý hlas a dívat se na Jeho velké chlupaté ucho:
 
 > <span style="color: #000000;">Ale potom jsem ho drze oběhl a oslovil přímo Chomského: &#8222;Noam!&#8220; Nasadil okamžitě svůj dětský úsměv. Má talent být bezprostřední a upřímný až připomíná malé dítěte. &#8222;Vyměnili jsme si nedávno emaily, psali jsme si mimo jiné o Bělorusku.&#8220; udýchaně jsem mu povídal. &#8222;Ja, ja, ja.&#8220; Přikyvoval tak, že bylo jasné, že si přece jenom nakonec určitě nevzpomněl. Ptal jsem se ho, jestli by mu nevadilo, když bych někde vzadu postával a poslouchal ho. Nakláněl na mě ucho, velké a s chlupy. Začalo se mi chtít brečet. Uvědomil jsem si, že mluvím s člověkem, jaký se nenarodí ani jednou za století. Nejcitovanější žijící člověk planety, který nejenom přispěl k rozvoji humanitních věd, ale zároveň je nejvlivnějším společenským a politickým komentátorem. Aktivistou s morální integritou prokázanou mnohými hodinami nesobecké práce mimo jeho povolání. Vnímal jsem jeho teplý hlas, který jsem do té doby slyšel jenom přes mikrofon. </span>
 

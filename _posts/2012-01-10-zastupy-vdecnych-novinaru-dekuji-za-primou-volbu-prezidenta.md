@@ -4,12 +4,12 @@ title: Zástupy vděčných novinářů děkují za přímou volbu prezidenta.
 date: 2012-01-10T08:04:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
+guid: https://misantrop.info/zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
 permalink: /zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "93177852"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/zastupy-vdecnych-novinaru-dekuji-za-primou-vo
+  - https://adent.posterous.com/zastupy-vdecnych-novinaru-dekuji-za-primou-vo
 mashsb_timestamp:
   - "1564671864"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Slovenský soud tvrdí, že [novinařina není autorská činnost](http://aktualne.centrum.cz/zahranici/evropa/clanek.phtml?id=728116). Ocituju:
+Slovenský soud tvrdí, že [novinařina není autorská činnost](https://aktualne.centrum.cz/zahranici/evropa/clanek.phtml?id=728116). Ocituju:
 
 <blockquote class="posterous_medium_quote">
   <p>
@@ -53,7 +53,7 @@ Tady odbočím: pražská kapela Majklův Strýček hrála už v roce 1990 písn
 
 Ano, ročně se ztrácí mnoho dětí, některé z nich jsou pak zavražděné. K tomu nemám slov. Ale o to víc mi vrtá hlavou, proč právě TENTO PŘÍPAD, proč právě tahle jedna jediná Anička vyvolala zájem</a>, zatímco jiné mrtvé děti plynou jen jako čísla ve statistikách. Docela dobře si umím představit, že to je celé vymyšlené, že to je &#8222;řízená dramatizace&#8220;. Orsone Wellesi, ty to vidíš!
 
-Mám připomenout &#8222;kauzu vlčích dětí&#8220;? Celá je pitomá, až to bolí. Fajn, dejme tomu: sektářských magorů je víc než dost a lidí s akcentovaným vztahem k realitě taky. Jasně. Když se o někom v médiích prokecne, že používá antikoncepční metodu kroucení prsů, je to k pousmání. V &#8222;kauze vlčích dětí&#8220; ne, tam se k tomu dokonce [VYJÁDŘÍ GYNEKOLOŽKA](http://ona.idnes.cz/krouzive-pohyby-prsou-poceti-zabranit-nemuzou-rika-gynekolozka-phw-/zdravi.aspx?c=A120104_120818_zdravi_job)! Opravdu? Kdy se vyjádří Okamura k tomu, že vyfukováním tabákového dýmu do sójovky zlato nevznikne?
+Mám připomenout &#8222;kauzu vlčích dětí&#8220;? Celá je pitomá, až to bolí. Fajn, dejme tomu: sektářských magorů je víc než dost a lidí s akcentovaným vztahem k realitě taky. Jasně. Když se o někom v médiích prokecne, že používá antikoncepční metodu kroucení prsů, je to k pousmání. V &#8222;kauze vlčích dětí&#8220; ne, tam se k tomu dokonce [VYJÁDŘÍ GYNEKOLOŽKA](https://ona.idnes.cz/krouzive-pohyby-prsou-poceti-zabranit-nemuzou-rika-gynekolozka-phw-/zdravi.aspx?c=A120104_120818_zdravi_job)! Opravdu? Kdy se vyjádří Okamura k tomu, že vyfukováním tabákového dýmu do sójovky zlato nevznikne?
 
 Již brzy, přátelé. Jen co dostaly noviny sladký bonbónek &#8222;přímé volby prezidenta&#8220;, tak &#8222;vlčí děti&#8220; skončily. Velmi rychle dospěly k soudu a k rozsudku (zatímco běžné spory se táhnou léta&#8230;) Máme novou hračku!
 

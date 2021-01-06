@@ -4,12 +4,12 @@ title: 'Můj kanonický názor na #webexpo (pro ty, co můj názor komentují, a
 date: 2011-08-20T09:04:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
+guid: https://misantrop.info/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
 permalink: /muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66257069"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj
+  - https://adent.posterous.com/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj
 mashsb_timestamp:
   - "1564947276"
 mashsb_shares:
@@ -35,11 +35,11 @@ _Pro lidi se zrychleným metabolismem a zpomaleným chápáním opět překlad: 
 
 Pak proběhla nějaká přestřelka a hádka, kterou jsem nesledoval a dozvěděl jsem se o ní až od Dana Dočekala (@medvidekpu). V jeho článku jsem teprve zjistil, co probíhalo na pozadí, reakci @webexpo, roli @necodymiconer, @pixycz, @davidgrudl. Danovy komentáře konvenují s mým pocitem, proto jsem retweetoval s poznámkou:
 
-  * RT @Medvidekpu: Webexpo nebude tlumočit cizojazyčné přednášky.  #webexpo #fail \*** <http://t.co/lKuoOgV> // Dan přesně trefil.
+  * RT @Medvidekpu: Webexpo nebude tlumočit cizojazyčné přednášky.  #webexpo #fail \*** <https://t.co/lKuoOgV> // Dan přesně trefil.
 
 Takže, moji milí, **kde přesně jsem se vyjadřoval k jazyku?** Správně &#8211; nikde. S Miro @hroncok jsme si to chvilku ujasňovali; u dalších už mi to za to nestálo. Z nějakého důvodu jsem byl zkrátka započítán mezi &#8222;ty, co jim vadí angličtina&#8220;, a následným přenesením vlastností mezi starce, zapšklé hlupáky, co se vymlouvají atd., aniž bych kdykoli kdekoli tvrdil cokoli o jazyce. Inu, kdo mě tam chce vidět, ten mě tam uvidí, pro ostatní jen vzkaz: **Nejdu na WebExpo, ale s angličtinou to nemá co do činění.**
 
-(PiDiBi Bureš dokonce ulevil svému svrbění perlou &#8222;<span class="tweet_text"><em>koukam ze paprdove a &#8222;celebrity&#8220; (grudl, maly) porad nemuzou rozdejchat jak je ostatni s cestinou vyfuckovali <a href="http://search.twitter.com/search?q=&tag=webexpo&lang=all&from=webexpo">#webexpo</a></em>&#8220; &#8211; to potěší, když člověk vidí, že tyhlety typy vycuká, aniž by musel hnout prstem. Good job, Arthure!)<br /></span>
+(PiDiBi Bureš dokonce ulevil svému svrbění perlou &#8222;<span class="tweet_text"><em>koukam ze paprdove a &#8222;celebrity&#8220; (grudl, maly) porad nemuzou rozdejchat jak je ostatni s cestinou vyfuckovali <a href="https://search.twitter.com/search?q=&tag=webexpo&lang=all&from=webexpo">#webexpo</a></em>&#8220; &#8211; to potěší, když člověk vidí, že tyhlety typy vycuká, aniž by musel hnout prstem. Good job, Arthure!)<br /></span>
 
 &#8212;
 

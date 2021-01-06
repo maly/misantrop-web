@@ -4,7 +4,7 @@ title: Vysedávání u počítačů
 date: 2017-07-14T13:02:34+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2868
+guid: https://misantrop.info/?p=2868
 permalink: /vysedavani-u-pocitacu/
 mashsb_timestamp:
   - "1574713486"

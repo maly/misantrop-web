@@ -4,12 +4,12 @@ title: Rozdíly v prioritách
 date: 2010-05-27T07:42:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/rozdily-v-prioritach/
+guid: https://misantrop.info/rozdily-v-prioritach/
 permalink: /rozdily-v-prioritach/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19317254"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/rozdily-v-prioritach
+  - https://adent.posterous.com/rozdily-v-prioritach
 mashsb_timestamp:
   - "1575148753"
 mashsb_shares:

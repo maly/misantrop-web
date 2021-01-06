@@ -4,7 +4,7 @@ title: Zátah na growshopy
 date: 2015-11-26T10:08:02+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2532
+guid: https://misantrop.info/?p=2532
 permalink: /zatah-na-growshopy/
 mashsb_timestamp:
   - "1573749771"
@@ -26,9 +26,9 @@ tags:
 
 <!--more-->
 
-(Psáno pro IHNED, vyšlo 21.10. s titulkem [Země, kde mají policejní zátahy vybudovanou tradici](http://nazory.ihned.cz/komentare/c1-64764770-zeme-kde-maji-policejni-zatahy-vybudovanou-tradici).)
+(Psáno pro IHNED, vyšlo 21.10. s titulkem [Země, kde mají policejní zátahy vybudovanou tradici](https://nazory.ihned.cz/komentare/c1-64764770-zeme-kde-maji-policejni-zatahy-vybudovanou-tradici).)
 
-<span style="font-weight: 400;">Minulý týden se konalo třeba první líčení s Richardem Klečkou, majitelem jednoho z growshopů. Obviněn z šíření toxikomanie. Prodával ve svém květinářství zahradnické potřeby. </span>[<span style="font-weight: 400;">http://domaci.ihned.cz/cesko/c1-61170560-policejni-zatah-na-growshopy</span>](http://domaci.ihned.cz/cesko/c1-61170560-policejni-zatah-na-growshopy)
+<span style="font-weight: 400;">Minulý týden se konalo třeba první líčení s Richardem Klečkou, majitelem jednoho z growshopů. Obviněn z šíření toxikomanie. Prodával ve svém květinářství zahradnické potřeby. </span>[<span style="font-weight: 400;">https://domaci.ihned.cz/cesko/c1-61170560-policejni-zatah-na-growshopy</span>](https://domaci.ihned.cz/cesko/c1-61170560-policejni-zatah-na-growshopy)
 
 <span style="font-weight: 400;">Podle médií, která se odvolávají na rozhodnutí soudů, se šíření toxikomanie dopustili “už jen tím, že informovali o pozitivních účincích marihuany, prodávali různé potřeby a pomůcky k jejímu pěstování i aplikaci,” což mi připadá nehorázné.</span>
 
@@ -42,7 +42,7 @@ tags:
 
 <span style="font-weight: 400;">Před časem jsem se koukal na televizní vystoupení ministra Chovance. Vždycky si připomenu, že to je ten člověk, co byl po volbách v Lánech na té schůzce se Zemanem, kterou všichni účastníci popírali. Chovanec ji pak “propíchnul”. Dneska jsou všichni, kdo tem tehdy byli, odstavení z hlavního proudu dění, jen Chovanec je ministrem… Tak tenhle Chovanec hřímal cosi o válce proti drogám a já si říkal: Ví ten člověk, že není rok 1988 a on není guvernér v Texasu? Ví, že “válka proti drogám” skončila patem a víceméně se hledá způsob, jak necouvnout, ale taky v tom neutápět úplně zbytečně miliardy? Nebo si připadá jako poslední spravedlivý, co ji vybojuje?</span>
 
-<span style="font-weight: 400;">Lup ho, pár dní nato policajti naběhnou na lidi, co sbírají technické konopí </span>[<span style="font-weight: 400;">http://domaci.ihned.cz/c1-64678360-policiste-zbili-romske-sberace-technickeho-konopi-podle-majitele-si-policie-nejspis-spletla-rostlinu-s-marihuanou</span>](http://domaci.ihned.cz/c1-64678360-policiste-zbili-romske-sberace-technickeho-konopi-podle-majitele-si-policie-nejspis-spletla-rostlinu-s-marihuanou) <span style="font-weight: 400;">a podle výpovědí se u toho chovají, jako by právě dopadli pašerácký gang, co veze dvacet tun kokainu z Medellínu. A zase: technické konopí! Ten chlápek, co ho tam pěstuje, má kvůli tomu haldy papírů od všemožných úřadů, celníkama počínaje. Určitě i policajti mají informace, že na tom a tom místě… A pak jedou okolo a hrajou si v poli na kovboje, protože s nima “podezřelé osoby nespolupracovaly”. Myslíte si, že by takhle vyváděli, kdyby na tom poli byly brambory?</span>
+<span style="font-weight: 400;">Lup ho, pár dní nato policajti naběhnou na lidi, co sbírají technické konopí </span>[<span style="font-weight: 400;">https://domaci.ihned.cz/c1-64678360-policiste-zbili-romske-sberace-technickeho-konopi-podle-majitele-si-policie-nejspis-spletla-rostlinu-s-marihuanou</span>](https://domaci.ihned.cz/c1-64678360-policiste-zbili-romske-sberace-technickeho-konopi-podle-majitele-si-policie-nejspis-spletla-rostlinu-s-marihuanou) <span style="font-weight: 400;">a podle výpovědí se u toho chovají, jako by právě dopadli pašerácký gang, co veze dvacet tun kokainu z Medellínu. A zase: technické konopí! Ten chlápek, co ho tam pěstuje, má kvůli tomu haldy papírů od všemožných úřadů, celníkama počínaje. Určitě i policajti mají informace, že na tom a tom místě… A pak jedou okolo a hrajou si v poli na kovboje, protože s nima “podezřelé osoby nespolupracovaly”. Myslíte si, že by takhle vyváděli, kdyby na tom poli byly brambory?</span>
 
 <span style="font-weight: 400;">Vůbec je, konopí stranou, těch zátahů, či slovy Ivo Ištvana “realizací”, nějak moc, a výsledky jsou docela tristní. Já se musím přiznat, že mám k Policii docela pozitivní vztah. Hodně se zlepšila, a když si srovnám policisty dnes a před dvaceti, pětadvaceti lety… Ideální to není, občas to skřípe, ale pokrok je evidentní. Tu práci jim nezávidím, a protože občas trošku nakouknu pod pokličku, tak vidím, jaké neskutečné věci dokážou třeba v kriminalistickém ústavu. Jenže pak ten dobrý obraz, co si o nich snažím držet, hatí nějací moulové, co kopou do ležícího motorkáře, třeba. Nebo právě ti, co “realizují realizace”&#8230;</span>
 

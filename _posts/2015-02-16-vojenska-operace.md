@@ -4,7 +4,7 @@ title: Vojenská operace
 date: 2015-02-16T19:36:55+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2223
+guid: https://misantrop.info/?p=2223
 permalink: /vojenska-operace/
 mashsb_timestamp:
   - "1572971626"
@@ -43,4 +43,4 @@ Víte, že můžete odmítnout výkon vojenské služby? V ČR to lze v případ
 
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-2224" src="http://www.misantrop.info/wp-content/uploads/2015/02/odopreti-422x500.jpg" alt="odopreti" width="422" height="500" srcset="https://www.misantrop.info/wp-content/uploads/2015/02/odopreti-422x500.jpg 422w, https://www.misantrop.info/wp-content/uploads/2015/02/odopreti-168x200.jpg 168w, https://www.misantrop.info/wp-content/uploads/2015/02/odopreti.jpg 811w" sizes="(max-width: 422px) 100vw, 422px" />](http://www.misantrop.info/wp-content/uploads/2015/02/odopreti.jpg)
+[<img class="aligncenter size-medium wp-image-2224" src="https://misantrop.info/wp-content/uploads/2015/02/odopreti-422x500.jpg" alt="odopreti" width="422" height="500" srcset="https://misantrop.info/wp-content/uploads/2015/02/odopreti-422x500.jpg 422w, https://misantrop.info/wp-content/uploads/2015/02/odopreti-168x200.jpg 168w, https://misantrop.info/wp-content/uploads/2015/02/odopreti.jpg 811w" sizes="(max-width: 422px) 100vw, 422px" />](https://misantrop.info/wp-content/uploads/2015/02/odopreti.jpg)

@@ -4,12 +4,12 @@ title: Proč je dějepis tak otravný?
 date: 2011-01-07T12:59:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/proc-je-dejepis-tak-otravny/
+guid: https://misantrop.info/proc-je-dejepis-tak-otravny/
 permalink: /proc-je-dejepis-tak-otravny/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "38881175"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/proc-je-dejepis-tak-otravny
+  - https://adent.posterous.com/proc-je-dejepis-tak-otravny
 mashsb_timestamp:
   - "1567612577"
 mashsb_shares:

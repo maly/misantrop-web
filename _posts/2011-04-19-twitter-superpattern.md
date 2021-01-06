@@ -4,12 +4,12 @@ title: Twitter Superpattern
 date: 2011-04-19T07:43:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/twitter-superpattern/
+guid: https://misantrop.info/twitter-superpattern/
 permalink: /twitter-superpattern/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "50069480"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/twitter-superpattern
+  - https://adent.posterous.com/twitter-superpattern
 dsq_thread_id:
   - "1104142515"
 mashsb_timestamp:

@@ -4,7 +4,7 @@ title: Lumia versus WP7.5 versus recenzent
 date: 2012-01-30T11:36:16+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=124
+guid: https://misantrop.info/?p=124
 permalink: /lumia-versus-wp7-5-versus-recenzent/
 dsq_thread_id:
   - "557534315"
@@ -25,7 +25,7 @@ Hlásí se Kancelář pro uvádění recenzentských příběhů na pravou míru
 
 <!--more-->
 
-David Polesný sepsal své výhrady vůči Lumii 800 a nazval je &#8222;[Co mi vadí na Nokii Lumia 800](http://www.mobilmania.cz/default.aspx?section=3&article=1319442)&#8222;. Naše Kancelář pro uvádění recenzentských příběhů na pravou míru k tomu podotýká: _Pan Polesný míchá jablka se sadem, resp. výtky vůči operačnímu systému připisuje telefonu, aniž by rozlišil_. Ve specializovaném médiu by ale rozlišit měl &#8211; předejde tím dojmu, že _problém je v konkrétním modelu telefonu a jiný těmito problémy netrpí_. Protože trpí, a naprostou většinu výhrad lze vznést i proti [dalším WP7.5 telefonům](http://www.mobilmania.cz/katalog-mobilu/sc-63-c-1/default.aspx?catalog=1&advsrch=1&section=63). Proto, když dovolíte, lehké upřesnění některých námitek v sekci Software:
+David Polesný sepsal své výhrady vůči Lumii 800 a nazval je &#8222;[Co mi vadí na Nokii Lumia 800](https://www.mobilmania.cz/default.aspx?section=3&article=1319442)&#8222;. Naše Kancelář pro uvádění recenzentských příběhů na pravou míru k tomu podotýká: _Pan Polesný míchá jablka se sadem, resp. výtky vůči operačnímu systému připisuje telefonu, aniž by rozlišil_. Ve specializovaném médiu by ale rozlišit měl &#8211; předejde tím dojmu, že _problém je v konkrétním modelu telefonu a jiný těmito problémy netrpí_. Protože trpí, a naprostou většinu výhrad lze vznést i proti [dalším WP7.5 telefonům](https://www.mobilmania.cz/katalog-mobilu/sc-63-c-1/default.aspx?catalog=1&advsrch=1&section=63). Proto, když dovolíte, lehké upřesnění některých námitek v sekci Software:
 
   * Málo paměti (&#8230;) – _Problém WP obecně, nikoli pouze Lumie, respektive: výrobce ovlivní, kolik paměti do přístroje dá; to, že si WP zabere významnou část je zase záležitost systému  
 _ 

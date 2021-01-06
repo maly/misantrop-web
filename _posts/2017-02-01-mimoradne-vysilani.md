@@ -4,7 +4,7 @@ title: Mimořádné vysílání
 date: 2017-02-01T10:44:28+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2726
+guid: https://misantrop.info/?p=2726
 permalink: /mimoradne-vysilani/
 mashsb_timestamp:
   - "1575146471"

@@ -4,7 +4,7 @@ title: 'Náborový inzerát, který vaše HR oddělení nenapíše&#8230;'
 date: 2013-04-26T10:35:05+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1258
+guid: https://misantrop.info/?p=1258
 permalink: /naborovy-inzerat-ktery-vase-hr-oddeleni-nenapise/
 mashsb_timestamp:
   - "1576241000"
@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/04/computer.jpg
 categories:
   - Nezařazené
 ---
-Rikiho článek [Ako korporácie lákajú zamestnancov (a prečo im to nejde)](http://content.fczbkk.com/ako-korporacie-lakaju-zamestnancov-a-preco-im-to-nejde/) vzbudil menší vlnu diskusí. Jedni tvrdí, že přesně tak to je, druzí se smějí tomu, co čtou mezi řádky. Já bych k tomu, s dovolením, něco podotknul a zkusil takový inzerát naformulovat.
+Rikiho článek [Ako korporácie lákajú zamestnancov (a prečo im to nejde)](https://content.fczbkk.com/ako-korporacie-lakaju-zamestnancov-a-preco-im-to-nejde/) vzbudil menší vlnu diskusí. Jedni tvrdí, že přesně tak to je, druzí se smějí tomu, co čtou mezi řádky. Já bych k tomu, s dovolením, něco podotknul a zkusil takový inzerát naformulovat.
 
 <!--more-->
 
@@ -53,7 +53,7 @@ No a teď zkusím takový jeden neoficiální inzerát napsat&#8230;
 
 ## Hledáme kodéry a vývojáře
 
-Do nově vznikajícího týmu hledám HTML kodéry a vývojáře. Tým bude úzce spolupracovat s redakcí iHNed a dalších internetových magazínů, které vydává Economia. Úkolem týmu bude zajišťovat běžnou denní agendu, tj. připravovat redakční speciály apod., ale taky třeba vytvářet úplně nové webové nástroje, vizualizace, interaktivní aplikace atd. Když přijdeme na nějakou novou skvělou technologii, která by se dala v novinách použít, tak si s ní můžeme dosytosti pohrát (co třeba online přenosy pomocí WebRTC?) Budeme spolupracovat s týmem datových žurnalistů (jo, to jsou [tihleti](http://data.blog.ihned.cz/c1-59756280-datablog-v-cislech) &#8211; parta skvělých bláznů, co se vrtají v datech), s lidma z redakce (v naprosté většině pohodoví jedinci s lehce cynickým smyslem pro humor), s vizuálním oddělením&#8230;
+Do nově vznikajícího týmu hledám HTML kodéry a vývojáře. Tým bude úzce spolupracovat s redakcí iHNed a dalších internetových magazínů, které vydává Economia. Úkolem týmu bude zajišťovat běžnou denní agendu, tj. připravovat redakční speciály apod., ale taky třeba vytvářet úplně nové webové nástroje, vizualizace, interaktivní aplikace atd. Když přijdeme na nějakou novou skvělou technologii, která by se dala v novinách použít, tak si s ní můžeme dosytosti pohrát (co třeba online přenosy pomocí WebRTC?) Budeme spolupracovat s týmem datových žurnalistů (jo, to jsou [tihleti](https://data.blog.ihned.cz/c1-59756280-datablog-v-cislech) &#8211; parta skvělých bláznů, co se vrtají v datech), s lidma z redakce (v naprosté většině pohodoví jedinci s lehce cynickým smyslem pro humor), s vizuálním oddělením&#8230;
 
 Do týmu potřebujeme pár lidí, kteří umí HTML / CSS / JS. Znalosti dalších technologií (PHP, Python, Node.js, CoffeeScript, Less, Git, &#8230;) jsou příjemným bonusem, ale nejsou nezbytné &#8211; máme tam místo i pro juniora, kterého zaučíme, naučíme, dáme potřebnou praxi&#8230; Důležité je, aby to byli normální lidé. Lidi, kteří se bojí promluvit s kolegou nebo říct, že je problém, jsou pro nás nepoužitelní. Stejně jako vývojáři, kteří považují uživatele za obtížný hmyz. Prostě &#8211; normální geek.
 

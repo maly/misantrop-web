@@ -4,7 +4,7 @@ title: 3d bomba na Barrandově
 date: 2017-01-07T15:48:56+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2653
+guid: https://misantrop.info/?p=2653
 permalink: /3d-bomba-na-barrandove/
 mashsb_timestamp:
   - "1569702402"
@@ -22,7 +22,7 @@ tags:
 
 <span style="font-weight: 400;">Muž si v Nevadě vytisknul na 3D tiskárně termonukleární bombu. Policie ho zatkla a další informace tají!</span><span style="font-weight: 400;"><br /> </span>
 
-<span style="font-weight: 400;">Tak takovouhle <a href="http://nationalreport.net/nevada-man-arrested-successful-test-3d-printed-thermonuclear-bomb/">zprávu</a></span><span style="font-weight: 400;">  přinesl loni internetový magazín National Report. Nemusíte být investigativní žurnalista, abyste zjistili, že <a href="https://en.wikipedia.org/wiki/National_Report">National Report je něco jako český Infobaden</a>. Tedy recesistický a parodický server plný jako že pravdivých zpráv, u nichž je nesmyslnost patrná na první pohled každému jen trochu bystřejšímu a kritičtějšímu čtenáři.</span>
+<span style="font-weight: 400;">Tak takovouhle <a href="https://nationalreport.net/nevada-man-arrested-successful-test-3d-printed-thermonuclear-bomb/">zprávu</a></span><span style="font-weight: 400;">  přinesl loni internetový magazín National Report. Nemusíte být investigativní žurnalista, abyste zjistili, že <a href="https://en.wikipedia.org/wiki/National_Report">National Report je něco jako český Infobaden</a>. Tedy recesistický a parodický server plný jako že pravdivých zpráv, u nichž je nesmyslnost patrná na první pohled každému jen trochu bystřejšímu a kritičtějšímu čtenáři.</span>
 
 <span style="font-weight: 400;">Eva Střihavková z TV Barrandov pravděpodobně nepatří k bystřejším a kritičtějším čtenářům, protože na tuhle kachnu skočila a, jak se říká, slupla ji i s chlupama. Dokonce ji neváhala uvést na konci své reportáže. Ostatně, podívejte se na to svěží dílko sami:</span>
 
@@ -30,7 +30,7 @@ tags:
 
 &nbsp;
 
-<span style="font-weight: 400;">Nevyčítal bych autorce, že neví, jak funguje 3D tisk a k čemu ta technologie může být zatím reálně použita. Když neví, tak se zeptá, v tom přeci není problém. Ale rozhodně bych jí vyčítal jiné věci. Třeba její naprostou neprofesionalitu, se kterou operuje s hoaxy a vyloženými legráckami, aniž by se namáhala cokoli ověřit. Její bezelstné “našla jsem to během pěti minut na internetu” by se mohlo učit na žurnalistice jako ukázka špatné práce. Kde je “&#8230; a další půl hodiny jsem si to ověřovala?” Nebo aspoň kdyby si <a href="http://hackaday.com/2015/11/21/building-a-better-3d-printed-gun/">ten článek</a></span><span style="font-weight: 400;"> přečetla, že? Našla by tam, mimo jiné, větu, že se jedná o první experimenty, že technologie odpovídá zhruba druhé polovině 19. století a že je zatím mnoho povyku pro nic (<em>“For all the media hubbub, for all the concerned legislators, the first 3D printed pistol was much ado about nothing.”</em>)</span>
+<span style="font-weight: 400;">Nevyčítal bych autorce, že neví, jak funguje 3D tisk a k čemu ta technologie může být zatím reálně použita. Když neví, tak se zeptá, v tom přeci není problém. Ale rozhodně bych jí vyčítal jiné věci. Třeba její naprostou neprofesionalitu, se kterou operuje s hoaxy a vyloženými legráckami, aniž by se namáhala cokoli ověřit. Její bezelstné “našla jsem to během pěti minut na internetu” by se mohlo učit na žurnalistice jako ukázka špatné práce. Kde je “&#8230; a další půl hodiny jsem si to ověřovala?” Nebo aspoň kdyby si <a href="https://hackaday.com/2015/11/21/building-a-better-3d-printed-gun/">ten článek</a></span><span style="font-weight: 400;"> přečetla, že? Našla by tam, mimo jiné, větu, že se jedná o první experimenty, že technologie odpovídá zhruba druhé polovině 19. století a že je zatím mnoho povyku pro nic (<em>“For all the media hubbub, for all the concerned legislators, the first 3D printed pistol was much ado about nothing.”</em>)</span>
 
 <span style="font-weight: 400;">Navíc když už autorka něco neví a zeptá se, tak o odpovědi (opravdu fundované, asi nikdo nebude pochybovat o tom, že Pepa Průša 3D tisku rozumí velmi dobře) pochybuje slovy, která by mohla rovněž vstoupit do zlatého fondu: “Jenže nejrůznější videa jasně dokazují…!” Po pravdě řečeno nejrůznější videa jasně dokazují nejrůznější věci, třeba že <a href="https://www.youtube.com/watch?v=wZZ7oFKsKzY">kočky za sebou nechávají duhovou stopu</a></span><span style="font-weight: 400;">, ale novinář by měl mít alespoň elementární schopnost práce s informací. A když ne redaktor, tak alespoň editor, vedoucí vydání, nebo jak se ta pozice v TV Barrandov jmenuje.</span>
 

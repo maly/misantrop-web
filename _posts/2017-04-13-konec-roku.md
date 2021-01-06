@@ -4,7 +4,7 @@ title: Konec roku
 date: 2017-04-13T09:33:44+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2840
+guid: https://misantrop.info/?p=2840
 permalink: /konec-roku/
 mashsb_timestamp:
   - "1573913771"

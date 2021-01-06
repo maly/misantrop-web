@@ -4,7 +4,7 @@ title: Rozumíme jenom hrubý síle
 date: 2013-12-01T12:27:33+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1707
+guid: https://misantrop.info/?p=1707
 permalink: /rozumime-jenom-hruby-sile/
 dsq_thread_id:
   - "2014445124"

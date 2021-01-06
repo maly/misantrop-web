@@ -4,7 +4,7 @@ title: 'Kurz číslicové techniky &#8211; vaše názory'
 date: 2017-02-23T12:16:27+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2774
+guid: https://misantrop.info/?p=2774
 permalink: /kurz-cislicove-techniky-vase-nazory/
 mashsb_timestamp:
   - "1575140403"
@@ -21,7 +21,7 @@ tags:
   - elektronika
   - Kurz
 ---
-Díky všem, co [vyplnili anketu](http://www.misantrop.info/kurz-zakladu-cislicove-techniky/). Zatím se sešlo 74 odpovědí, takže klidně odpovídejte dál&#8230; Z dosud došlých reakcí usuzuju následující:
+Díky všem, co [vyplnili anketu](https://misantrop.info/kurz-zakladu-cislicove-techniky/). Zatím se sešlo 74 odpovědí, takže klidně odpovídejte dál&#8230; Z dosud došlých reakcí usuzuju následující:
 
 <!--more-->
 
@@ -65,6 +65,6 @@ Přesně to zazní. Třeba konkrétně u těch pamětí: začneme tím, jak vlas
 
 Nezapomněl jsem na něco? Nebylo tam v té anketě ještě něco? Bylo, a nezapomněl. Nechal jsem si to na konec. Otázka zněla: **Přispěju na vytvoření dalších dílů?**
 
-10 % respondentů uvedlo odpověď _Ne, je to zbytečné_. Třetina respondentů by přispěla nějakým drobným příspěvkem v rozsahu desetikoruny za díl. Rovná polovina pak je ochotna zaplatit několik stokorun za ucelený kurz. Což mě potěšilo &#8211; lidé si uvědomují, že s tím mám nějakou práci a že na psaní věnuju svůj volný čas, a děkuju za to. Zároveň si říkám, jestli by nebylo na místě využít třeba [Patreon](http://www.misantrop.info/patreon/), kde je možnost přispívat na tvorbu obsahu, a to třeba od jednoho dolaru, což je cca dvacka. Některé díly by tak mohly být přístupné nejprve pro přispěvatele a veřejné až po čase, některé speciální by mohly být pouze pro přispěvatele&#8230; Co myslíte, je to dobrý nápad? Druhá možnost je nechat kurz veřejný a příspěvky ponechat dobrovolné s tím, že některé nepovinné lekce budou pouze pro přispěvatele.
+10 % respondentů uvedlo odpověď _Ne, je to zbytečné_. Třetina respondentů by přispěla nějakým drobným příspěvkem v rozsahu desetikoruny za díl. Rovná polovina pak je ochotna zaplatit několik stokorun za ucelený kurz. Což mě potěšilo &#8211; lidé si uvědomují, že s tím mám nějakou práci a že na psaní věnuju svůj volný čas, a děkuju za to. Zároveň si říkám, jestli by nebylo na místě využít třeba [Patreon](https://misantrop.info/patreon/), kde je možnost přispívat na tvorbu obsahu, a to třeba od jednoho dolaru, což je cca dvacka. Některé díly by tak mohly být přístupné nejprve pro přispěvatele a veřejné až po čase, některé speciální by mohly být pouze pro přispěvatele&#8230; Co myslíte, je to dobrý nápad? Druhá možnost je nechat kurz veřejný a příspěvky ponechat dobrovolné s tím, že některé nepovinné lekce budou pouze pro přispěvatele.
 
 Mimochodem, troška datového porna: Ve skupině &#8222;přispěju i v řádech stokorun za kurz&#8220; jsou lidé ochotni zaplatit za sadu součástek 500, 1000 i více Kč. Skupina &#8222;desetikoruny per lekce&#8220; zase nabízela nejčastější odpověď &#8222;součástky do 200, do 500 Kč&#8220;.

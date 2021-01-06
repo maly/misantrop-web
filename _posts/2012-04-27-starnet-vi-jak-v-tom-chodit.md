@@ -4,7 +4,7 @@ title: 'Starnet ví, jak v tom chodit&#8230; &#8211; AKTUALIZACE'
 date: 2012-04-27T09:07:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=319
+guid: https://misantrop.info/?p=319
 permalink: /starnet-vi-jak-v-tom-chodit/
 dsq_thread_id:
   - "665994632"
@@ -25,7 +25,7 @@ To víte, to byly doby divokého osidlování wifi frekvencí v Česku, kdy kolt
 
 <!--more-->
 
-Se společností Starnet z Českých Budějovic (poskytovatel připojení) mám zkušenost nepřímou, z doby, kdy jsem pracoval v telekomunikacích. Jak říkám &#8211; divoké začátky. Stavěla se infrastruktura [načerno bez povolení](http://www.regionalninoviny.cz/detail.php?kraj=jck&okres=STR&zid=1202408930&tid=1202408899), mezi konkurencí zuřil lítý boj, kdy se antény konkurence otáčely do země a tak, vlastní anténu firma nainstalovala kamkoli, kde něco trčelo do výšky, a když se k tomu nedostala, tak [přeštípala zámky](http://ispforum.cz/viewtopic.php?f=4&t=5742&start=45#p56056)&#8230; Jojo, staré divoké doby.
+Se společností Starnet z Českých Budějovic (poskytovatel připojení) mám zkušenost nepřímou, z doby, kdy jsem pracoval v telekomunikacích. Jak říkám &#8211; divoké začátky. Stavěla se infrastruktura [načerno bez povolení](https://www.regionalninoviny.cz/detail.php?kraj=jck&okres=STR&zid=1202408930&tid=1202408899), mezi konkurencí zuřil lítý boj, kdy se antény konkurence otáčely do země a tak, vlastní anténu firma nainstalovala kamkoli, kde něco trčelo do výšky, a když se k tomu nedostala, tak [přeštípala zámky](https://ispforum.cz/viewtopic.php?f=4&t=5742&start=45#p56056)&#8230; Jojo, staré divoké doby.
 
 A teď mám i jednu zkušenost přímou, která jako by z oka vypadla těm z divokých osidlovacích časů&#8230;
 
@@ -49,7 +49,7 @@ Zbystřil jsem: &#8222;_Moment! Takže ta škatule, co visí na našem anténní
 
 Volal za dva dny. Že zjistil, že ta anténa byla namontovaná v roce 2008, ale že ji montoval technik, co už u společnosti nepracuje, a v záznamech není, jak se tam dostal. V záznamech není ani žádný souhlas. &#8222;_To víte, tehdy se to tak dělalo&#8230;_&#8220; ještě povídal. A kdy že tedy mohou přijít.
 
-(K &#8222;technikovi, co už u Starnetu nepracuje&#8220; přidám [odkaz na diskusi](http://ispforum.cz/viewtopic.php?f=4&t=5742&start=150#p79483). Vůbec celá stojí za to&#8230; Ještě že mě nemůžou nařknout, že jsem od závistivé konkurence!)
+(K &#8222;technikovi, co už u Starnetu nepracuje&#8220; přidám [odkaz na diskusi](https://ispforum.cz/viewtopic.php?f=4&t=5742&start=150#p79483). Vůbec celá stojí za to&#8230; Ještě že mě nemůžou nařknout, že jsem od závistivé konkurence!)
 
 &#8222;_Moment! A co s tím teda budeme dělat? Vy máte svoje zařízení na mém majetku bez souhlasu, takže nejdřív vyřešíme tohle!_&#8220; Prý ano, prý že pošlou návrh smlouvy.
 
@@ -120,7 +120,7 @@ Pak jsem to odložil, protože jsem měl spoustu jiné práce, ale teď je vhodn
 
 Jejich zástupce prý říkal klientům, co v našem domě mají, že &#8222;_Malý dělá problémy a že nevědí tedy jak to bude, jestli je třeba nedá k soudu&#8230;_&#8220; Buhehe. Místo toho, aby se snažili domluvit a přijít s nějakým řešením (proč? Žádné závazky necítí!), tak říkají, že jim dělám problémy. Mezitím si namontovali na stojan další škatuli&#8230; Tralala. A zase přišli bůhvíjak a bůhvíkudy.
 
-[<img class="aligncenter size-full wp-image-325" title="Starnet" src="http://www.misantrop.info/wp-content/uploads/2012/04/101_2038.jpg" alt="" width="700" height="517" srcset="https://www.misantrop.info/wp-content/uploads/2012/04/101_2038.jpg 700w, https://www.misantrop.info/wp-content/uploads/2012/04/101_2038-200x147.jpg 200w, https://www.misantrop.info/wp-content/uploads/2012/04/101_2038-500x369.jpg 500w" sizes="(max-width: 700px) 100vw, 700px" />](http://www.misantrop.info/?attachment_id=325)A takhle prasí dál a dál &#8211; viz třeba tohle [rozhodnutí magistrátu o správním řízení ve věci odstranění stavby](http://www.c-budejovice.cz/cz/magistrat/stranky/uredni-deska.aspx?detail=7763).
+[<img class="aligncenter size-full wp-image-325" title="Starnet" src="https://misantrop.info/wp-content/uploads/2012/04/101_2038.jpg" alt="" width="700" height="517" srcset="https://misantrop.info/wp-content/uploads/2012/04/101_2038.jpg 700w, https://misantrop.info/wp-content/uploads/2012/04/101_2038-200x147.jpg 200w, https://misantrop.info/wp-content/uploads/2012/04/101_2038-500x369.jpg 500w" sizes="(max-width: 700px) 100vw, 700px" />](https://misantrop.info/?attachment_id=325)A takhle prasí dál a dál &#8211; viz třeba tohle [rozhodnutí magistrátu o správním řízení ve věci odstranění stavby](https://www.c-budejovice.cz/cz/magistrat/stranky/uredni-deska.aspx?detail=7763).
 
 A teď otázka pro vás: **Jak byste to řešili?**
 

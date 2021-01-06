@@ -4,12 +4,12 @@ title: 'Wanted: hledá se člověk, co by se chtěl podílet na vývoji her // d
 date: 2010-11-17T12:12:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
+guid: https://misantrop.info/wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
 permalink: /wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "33703938"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/wanted-hleda-se-clovek-co-by-se-chtel-podilet-0
+  - https://adent.posterous.com/wanted-hleda-se-clovek-co-by-se-chtel-podilet-0
 mashsb_timestamp:
   - "1575533501"
 mashsb_shares:
@@ -37,7 +37,7 @@ _V zasade kdyz to bude genius, tak to muze byt i jen jeden clovek._<span class="
 
 <p />
 Takže: Pokud splňujete v&yacute;&scaron;e uveden&eacute; požadavky a m&aacute;te z&aacute;jem, ozvěte se na 
-<a href="http://www.google.com/recaptcha/mailhide/d?k=010QOwC9MjxDlKvnLcq16z0w==&c=dHMGDy-l9tnICIlR6AgxAODp9aO-vSPGbxVeHio55dQ=">tento mail</a>.</p> 
+<a href="https://www.google.com/recaptcha/mailhide/d?k=010QOwC9MjxDlKvnLcq16z0w==&c=dHMGDy-l9tnICIlR6AgxAODp9aO-vSPGbxVeHio55dQ=">tento mail</a>.</p> 
 
 <p />
 Konec hl&aacute;&scaron;en&iacute;, d&iacute;ky&#8230;

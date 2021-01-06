@@ -4,12 +4,12 @@ title: 'Zavírám Facebook&#8230;'
 date: 2010-01-26T12:38:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/zaviram-facebook/
+guid: https://misantrop.info/zaviram-facebook/
 permalink: /zaviram-facebook/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10596006"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/zaviram-facebook
+  - https://adent.posterous.com/zaviram-facebook
 mashsb_timestamp:
   - "1568724185"
 mashsb_shares:

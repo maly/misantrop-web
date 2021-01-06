@@ -4,7 +4,7 @@ title: Milá Jenny
 date: 2015-05-25T09:20:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2281
+guid: https://misantrop.info/?p=2281
 permalink: /mila-jenny/
 mashsb_timestamp:
   - "1576247352"
@@ -22,7 +22,7 @@ tags:
   - Verbež
   - Zeman
 ---
-aneb Prezidentova otevřená odpověď na [otevřený dopis](http://svobodneforum.cz/osobni-otevreny-dopis-prezidentu-zemanovi/). _Kdyby se s tím Ovčáčkovi nechtělo psát&#8230;_
+aneb Prezidentova otevřená odpověď na [otevřený dopis](https://svobodneforum.cz/osobni-otevreny-dopis-prezidentu-zemanovi/). _Kdyby se s tím Ovčáčkovi nechtělo psát&#8230;_
 
 <!--more-->
 

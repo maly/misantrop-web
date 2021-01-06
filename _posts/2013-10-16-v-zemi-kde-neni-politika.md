@@ -4,7 +4,7 @@ title: V zemi, kde není politika
 date: 2013-10-16T12:52:11+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1590
+guid: https://misantrop.info/?p=1590
 permalink: /v-zemi-kde-neni-politika/
 dsq_thread_id:
   - "1863626258"

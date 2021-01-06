@@ -4,12 +4,12 @@ title: Nedělní lekce objektivity a nezaujatosti
 date: 2011-01-23T12:44:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nedelni-lekce-objektivity-a-nezaujatosti/
+guid: https://misantrop.info/nedelni-lekce-objektivity-a-nezaujatosti/
 permalink: /nedelni-lekce-objektivity-a-nezaujatosti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "40705569"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nedelni-lekce-objektivity-a-nezaujatosti
+  - https://adent.posterous.com/nedelni-lekce-objektivity-a-nezaujatosti
 mashsb_timestamp:
   - "1546160361"
 mashsb_shares:

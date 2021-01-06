@@ -4,7 +4,7 @@ title: 'Když jsem ještě programoval&#8230;'
 date: 2015-08-10T08:18:35+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2370
+guid: https://misantrop.info/?p=2370
 permalink: /kdyz-jsem-jeste-programoval/
 mashsb_timestamp:
   - "1576157530"
@@ -30,7 +30,7 @@ Týž den jsem seděl s Davidem Grudlem a bavili jsme se o tom, jaká je obrovsk
 
 Až jsem na chvíli podlehl takovému tomu omamnému pocitu, že bych se vlastně mohl trochu jako zapřít, přemoci, a za dostatečně velký obnos zase programovat. Ne, rozhodně bych se nehrbil nad klávesnicí a datloval kód se sluchátkama na uších v kanceláři plné programátorů, to pro mne není. Jednak to dělat nechci, a druhak na bušení kódu jsou jiní, mladší, vhodnější&#8230; S mými zkušenostmi a lety to fakt není pozice pro mne. Tam bych nebyl k užitku a velmi brzo bych odešel. Tohle mě nebaví.
 
-Stejně jako psát padesátý šestý CRUD nad [nějakým ORMem](http://www.misantrop.info/orm-z-druhe-strany). Jako psát sto osmnáctou [validaci formuláře](http://www.misantrop.info/myslete-kdyz-navrhujete-formular).
+Stejně jako psát padesátý šestý CRUD nad [nějakým ORMem](https://misantrop.info/orm-z-druhe-strany). Jako psát sto osmnáctou [validaci formuláře](https://misantrop.info/myslete-kdyz-navrhujete-formular).
 
 Když už, tak někde na seniorní / architektonické pozici.
 
@@ -44,4 +44,4 @@ Jako kámo, spíš fakt ne. Když to bude fakt hodně zajímavé, tak vám ten t
 
 Možná to je škoda, možná bych měl pragmaticky rozhodnout, že vyjdu poptávce vstříc&#8230; Jenže já jsem v letech, kdy nechci vycházet vstříc poptávce a _zapřít se_ a _překonat odpor_. Chci, aby mě práce bavila, aby měla vnitřní náboj a smysl. Nechci dělat někde za spoustu peněz něco, co mě nenaplňuje.
 
-(Mimochodem, našel jsem článek [Kdybych měl zase psát webové aplikace&#8230;](http://www.misantrop.info/kdybych-mel-od-zitrka-zase-psat-webove-aplikace), a docela jsem se před těmi čtyřmi lety trefil.)
+(Mimochodem, našel jsem článek [Kdybych měl zase psát webové aplikace&#8230;](https://misantrop.info/kdybych-mel-od-zitrka-zase-psat-webove-aplikace), a docela jsem se před těmi čtyřmi lety trefil.)

@@ -4,12 +4,12 @@ title: Je skvělé být divný
 date: 2010-07-13T14:25:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/je-skvele-byt-divny/
+guid: https://misantrop.info/je-skvele-byt-divny/
 permalink: /je-skvele-byt-divny/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22816311"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/je-skvele-byt-divny
+  - https://adent.posterous.com/je-skvele-byt-divny
 dsq_thread_id:
   - "1104757393"
 mashsb_timestamp:

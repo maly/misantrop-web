@@ -4,12 +4,12 @@ title: 'Dopsal jsem článek o #webexpo na @zdrojak &#8211; a co subjektivně?'
 date: 2010-09-28T16:15:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/dopsal-jsem-clanek-o-webexpo-na-zdrojak-a-co-subjektivne/
+guid: https://misantrop.info/dopsal-jsem-clanek-o-webexpo-na-zdrojak-a-co-subjektivne/
 permalink: /dopsal-jsem-clanek-o-webexpo-na-zdrojak-a-co-subjektivne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "29171405"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/dopsal-jsem-clanek-o-webexpo-na-zdrojak-a-co
+  - https://adent.posterous.com/dopsal-jsem-clanek-o-webexpo-na-zdrojak-a-co
 mashsb_timestamp:
   - "1546160330"
 mashsb_shares:

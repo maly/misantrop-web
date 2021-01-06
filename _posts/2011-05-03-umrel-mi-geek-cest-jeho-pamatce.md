@@ -4,12 +4,12 @@ title: Umřel mi geek, čest jeho památce
 date: 2011-05-03T10:18:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/umrel-mi-geek-cest-jeho-pamatce/
+guid: https://misantrop.info/umrel-mi-geek-cest-jeho-pamatce/
 permalink: /umrel-mi-geek-cest-jeho-pamatce/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "51664464"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/umrel-mi-geek-cest-jeho-pamatce
+  - https://adent.posterous.com/umrel-mi-geek-cest-jeho-pamatce
 mashsb_timestamp:
   - "1554104459"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-M&aacute;m v ruce d&iacute;ky Sunnysoftu nejnověj&scaron;&iacute; [LG P990](http://www.sunnysoft.cz/zbozi/069ZLG-073/lg-optimus-2x.html) (jo, ten s dvouj&aacute;drov&yacute;m procesorem, zn&aacute;měj&scaron;&iacute; jako [Optimus-2X](http://www.sunnysoft.cz/zbozi/069ZLG-073/lg-optimus-2x.html)). Nejrychlej&scaron;&iacute; mobil na planetě atd., v&scaron;ak zn&aacute;te. Prostě hračka, gadget, se kter&yacute;m si chce každ&yacute; spr&aacute;vn&yacute; geek pohr&aacute;t (až ke geekasmu)!
+M&aacute;m v ruce d&iacute;ky Sunnysoftu nejnověj&scaron;&iacute; [LG P990](https://www.sunnysoft.cz/zbozi/069ZLG-073/lg-optimus-2x.html) (jo, ten s dvouj&aacute;drov&yacute;m procesorem, zn&aacute;měj&scaron;&iacute; jako [Optimus-2X](https://www.sunnysoft.cz/zbozi/069ZLG-073/lg-optimus-2x.html)). Nejrychlej&scaron;&iacute; mobil na planetě atd., v&scaron;ak zn&aacute;te. Prostě hračka, gadget, se kter&yacute;m si chce každ&yacute; spr&aacute;vn&yacute; geek pohr&aacute;t (až ke geekasmu)!
 
 Jenže holt s věkem glibido kles&aacute;&#8230; Představte si toho p&aacute;na, co sed&iacute; na pl&aacute;ži pln&eacute; kr&aacute;sek v bikin&aacute;ch, rozhl&iacute;ž&iacute; se kolem sebe a ř&iacute;k&aacute; si: _V ml&aacute;d&iacute; jsme za takov&yacute;ma holkama běhali furt &#8211; ale už si nevzpom&iacute;n&aacute;m, co jsme jim chtěli!_ Tak podobně to m&aacute;m j&aacute; ve chv&iacute;li, kdy drž&iacute;m v ruce gadget snů (takov&yacute; ekvivalent nějak&yacute; silikonov&yacute; pamely) a uvědom&iacute;m si, že můžu &scaron;m&aacute;trat jak chci, ale vzru&scaron;en&iacute; se nedostavuje.
 
@@ -35,7 +35,7 @@ Umřel mi vnitřn&iacute; geek.
 
 Proch&aacute;z&iacute;m se eshopem s vědom&iacute;m, že si mohu koupit cokoli, ale u každ&eacute; věci, co mě zaujme, si polož&iacute;m ot&aacute;zku: Opravdu to chci? Použiju to k něčemu? Budu z toho m&iacute;t aspoň trochu radost? Ne, nechci, nepoužiju a nebudu.
 
-Nov&yacute; Optimus 2X je &uacute;žasn&yacute; &#8211; rychl&yacute;, pohodln&yacute; atd., ale chyb&iacute; mi p&aacute;r praktick&yacute;ch věc&iacute; (kromě HW kl&aacute;vesnice hlavně &#8222;př&iacute;pad použit&iacute;&#8220;). [Zhruba takhle nějak to m&aacute;m taky](http://podhledem.blogspot.com/2011/04/nexus-s-android-pohled-stareho.html). Fakt si nedovedu představit, že bych ho použil m&iacute;sto t&eacute; N900 jako pracovn&iacute; telefon, a na z&aacute;bavu&#8230; no&#8230; sorry, na z&aacute;bavu m&aacute;m jin&eacute; věci, ne telefon.
+Nov&yacute; Optimus 2X je &uacute;žasn&yacute; &#8211; rychl&yacute;, pohodln&yacute; atd., ale chyb&iacute; mi p&aacute;r praktick&yacute;ch věc&iacute; (kromě HW kl&aacute;vesnice hlavně &#8222;př&iacute;pad použit&iacute;&#8220;). [Zhruba takhle nějak to m&aacute;m taky](https://podhledem.blogspot.com/2011/04/nexus-s-android-pohled-stareho.html). Fakt si nedovedu představit, že bych ho použil m&iacute;sto t&eacute; N900 jako pracovn&iacute; telefon, a na z&aacute;bavu&#8230; no&#8230; sorry, na z&aacute;bavu m&aacute;m jin&eacute; věci, ne telefon.
 
 Ale protože smartfon dělaj&iacute; aplikace, tak jsem se zeptal včera sv&yacute;ch followerů na to, co oni maj&iacute; na sv&yacute;ch Androidech nejrad&scaron;i. Dostal jsem spoustu tipů (d&iacute;ky), z nichž vět&scaron;ina se uk&aacute;zala, řekněme to kulantně, jako nepř&iacute;li&scaron; užitečn&aacute; v moj&iacute; situaci. Ale b&yacute;t ten geek naživu, j&aacute;sal bych nad&scaron;en&iacute;m a věř&iacute;m, že bych to cpal kolegům pod nos a nad&scaron;eně ř&iacute;kal: &#8222;Vid&iacute;&scaron;, vid&iacute;&scaron;, skvěl&yacute;, co?&#8220;
 

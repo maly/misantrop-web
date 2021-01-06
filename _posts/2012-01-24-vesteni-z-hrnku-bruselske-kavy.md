@@ -4,7 +4,7 @@ title: Věštění z hrnku bruselské kávy
 date: 2012-01-24T10:44:16+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=112
+guid: https://misantrop.info/?p=112
 permalink: /vesteni-z-hrnku-bruselske-kavy/
 dsq_thread_id:
   - "550661847"
@@ -24,7 +24,7 @@ Typickým rysem právně pozitivistické společnosti je, že se vrtá i do věc
 
 <!--more-->
 
-Dokud se v Bruselu zasedá, není si nikdo jist majetkem ani životem, ale přesto se dopustím předpovědi na základě [indicií](http://ec.europa.eu/ceskarepublika/press/press_releases/11_575_cs.htm).
+Dokud se v Bruselu zasedá, není si nikdo jist majetkem ani životem, ale přesto se dopustím předpovědi na základě [indicií](https://ec.europa.eu/ceskarepublika/press/press_releases/11_575_cs.htm).
 
 > Evropská komise shromažďuje názory občanů, podniků, veřejných správ a dalších zúčastněných stran na otázku, jak plně využít výpočetní technologie založené na internetu k poskytování řady různých služeb („cloud computing“). Cloud computing umožňuje, aby společnosti, veřejné správy i jednotlivci, kteří jsou uživateli sítí jako je internet, měly přístup ke svým údajům a softwaru z počítačů nacházejících se na jiném místě. Může pomoci podnikům – zejména malým a středním – výrazně snížit náklady na informační technologie, vládám poskytovat služby za nižší cenu a ušetřit energii tím, že se hardware využije efektivněji.  Cloud computing se již běžně používá například u emailových služeb prostřednictvím internetu.
 

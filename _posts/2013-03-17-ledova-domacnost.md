@@ -4,7 +4,7 @@ title: LEDová domácnost
 date: 2013-03-17T11:48:28+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1180
+guid: https://misantrop.info/?p=1180
 permalink: /ledova-domacnost/
 dsq_thread_id:
   - "1144014062"
@@ -40,4 +40,4 @@ A spokojený zákazník se vrací. Další LEDka putovala do mojí lampičky, t�
 
 Zbývá už jen koupelna (ale tam jsou nějaké extra halogeny), ložnice a schody. Až zas bude vhodná příležitost, tak do toho půjdu.
 
-PS: Jelikož jsem spokojený, tak předám referenci dál &#8211; tady je ten [obchod s LED žárovkama](http://www.led-zarovky-cz.cz/), kde nakupuju.
+PS: Jelikož jsem spokojený, tak předám referenci dál &#8211; tady je ten [obchod s LED žárovkama](https://www.led-zarovky-cz.cz/), kde nakupuju.

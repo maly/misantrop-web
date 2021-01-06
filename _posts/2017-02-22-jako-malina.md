@@ -4,7 +4,7 @@ title: 'Jako malina&#8230;'
 date: 2017-02-22T10:10:31+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2762
+guid: https://misantrop.info/?p=2762
 permalink: /jako-malina/
 mashsb_timestamp:
   - "1573937424"

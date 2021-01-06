@@ -4,7 +4,7 @@ title: Comedia Script
 date: 2013-02-25T11:34:11+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1088
+guid: https://misantrop.info/?p=1088
 permalink: /comedia-script/
 wpgplus_message:
   - ""
@@ -29,7 +29,7 @@ Dohadům okolo nového písma se moc nevěnuju, jen čas od času ke mně něco 
 
 <!--more-->
 
-_(BTW, Novinky, hraju počítačové hry 28 let, a přesto nevyhazuju do povětří paneláky. Jestli mám z něčeho chuť vraždit, tak to jsou zážitky ze základní školy&#8230; Ale to jen tak na okraj, až zase napíšete [nějakou takovou vocasárnu](http://www.novinky.cz/krimi/294217-vrah-z-frenstatu-mel-zalibu-v-nasilnych-pocitacovych-hrach.html).)_
+_(BTW, Novinky, hraju počítačové hry 28 let, a přesto nevyhazuju do povětří paneláky. Jestli mám z něčeho chuť vraždit, tak to jsou zážitky ze základní školy&#8230; Ale to jen tak na okraj, až zase napíšete [nějakou takovou vocasárnu](https://www.novinky.cz/krimi/294217-vrah-z-frenstatu-mel-zalibu-v-nasilnych-pocitacovych-hrach.html).)_
 
 Učil jsem se psát tou &#8222;starou dobrou&#8220; metodou&#8230; Totiž ještě před nástupem do školy jsem se naučil číst tiskací písmena, a &#8211; logicky &#8211; jsem se je naučil i psát. Pak jsem přišel do školy a musel jsem se naučit něco úplně jiného, totiž psací písmo. Inkoustovým perem. Ano, to psací písmo, které (udělejte si anketu mezi přáteli) naprostá většina už nepoužívá, úspěšně ho zapomíná (jak se píše psací velké Q?) a nemá příležitost ho číst?
 
@@ -55,6 +55,6 @@ To není jedna schopnost, to je mix mnoha dovedností: člověk musí umět mluv
 
 Když jsem učil na VŠ, viděl jsem to i na studentech &#8211; nebyli zvyklí říct souvislejší projev třeba na deset vět. Někteří to ani nedokázali. Nikdo to po nich nikdy nechtěl. Nikdo po nich nikdy nechtěl, aby si stoupli před lidi a něco říkali. Tohle tedy zjevně nechybělo jen &#8222;za nás&#8220;, ale chybí to ve škole furt!
 
-_Apeluju na čtenáře: pokud studujete a máte možnost zapsat si jeden semestr nějakých &#8222;prezentačních dovedností&#8220;, udělejte to, i když studujete na programátora, pyčo! Mastit kód se naučí každý, ale kdo o tom umí poučit ostatní, ten vyhraje, i kdyby nebyl nejlepší. (Názorný příklad máte před očima: David Grudl možná není úplně nejlepší PHPčkař pod českým a slovenským sluncem, ale to, že umí mluvit, ho posouvá asi tak na dvě míle před ostatní dobré vývojáře, kterým nezbývá, než [Grudlovi nadávat v komentářích na Rootu](http://www.root.cz/clanky/prehled-a-vyvoj-php-frameworku/nazory/194347/))._
+_Apeluju na čtenáře: pokud studujete a máte možnost zapsat si jeden semestr nějakých &#8222;prezentačních dovedností&#8220;, udělejte to, i když studujete na programátora, pyčo! Mastit kód se naučí každý, ale kdo o tom umí poučit ostatní, ten vyhraje, i kdyby nebyl nejlepší. (Názorný příklad máte před očima: David Grudl možná není úplně nejlepší PHPčkař pod českým a slovenským sluncem, ale to, že umí mluvit, ho posouvá asi tak na dvě míle před ostatní dobré vývojáře, kterým nezbývá, než [Grudlovi nadávat v komentářích na Rootu](https://www.root.cz/clanky/prehled-a-vyvoj-php-frameworku/nazory/194347/))._
 
 V životě by mi mnohem víc prospělo věnovat tři roky školy mluvení před lidmi, než krasopisu. A to je asi to nejdůležitější, co bych chtěl k debatám okolo Comenia Scriptu podotknout. Dle mého je poměrně jedno, jaké přesně písmo dítě používá, důležitější je, aby se umělo vyjádřit.

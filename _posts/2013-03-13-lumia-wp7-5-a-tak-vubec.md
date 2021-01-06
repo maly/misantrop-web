@@ -4,7 +4,7 @@ title: 'Lumia, WP7.5, a tak vůbec&#8230;'
 date: 2013-03-13T13:44:55+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1152
+guid: https://misantrop.info/?p=1152
 permalink: /lumia-wp7-5-a-tak-vubec/
 dsq_thread_id:
   - "1134675194"
@@ -71,4 +71,4 @@ A tak jsem vlastně spokojený, i když se Microsoft a nokia snaží, abych to m
   Teď jsem v práci dostal služební <em>dumb phone</em> a když jsem zjistil, že si z něj nedokážu ani zavolat, tak jsem SIM kartu napral do prvního smartfonu, co mi přišel pod ruku (HTC Radar). BTW, zjistil jsem, že jsem docela rychle odvykl běžným telefonům. S menu a joystickem jsem zápasil (a prohrál), a napsat SMS byl dramatický boj.
 </p>
 
-Ne, neměnil bych. _Ale jestli budou dál otálet a zmatkovat, tak možná půjdu do [BlackBerry Z10](http://z10.cz)._
+Ne, neměnil bych. _Ale jestli budou dál otálet a zmatkovat, tak možná půjdu do [BlackBerry Z10](https://z10.cz)._

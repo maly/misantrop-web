@@ -4,7 +4,7 @@ title: Na bázi floskule
 date: 2014-04-23T20:33:12+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1984
+guid: https://misantrop.info/?p=1984
 permalink: /na-bazi-floskule/
 dsq_thread_id:
   - "2633831063"
@@ -24,9 +24,9 @@ Pravidelné jazykové okénko&#8230;
 
 <!--more-->
 
-Před lety jsem napsal [článek](http://www.misantrop.info/481047-jen-pro-ten-dnesni-den.php) o naprosto nesmyslném okrašlování obyčejného _včerejška_ a _zítřka_ do podoby &#8222;včerejší den, zítřejší den&#8220;. Všiml jsem si toho tehdy na Radiožurnálu&#8230; a můžete mi stokrát říkat, že média nemají vliv na jazykové zvyklosti! Zrovna tohle se ujalo jak psí víno na kompostu.
+Před lety jsem napsal [článek](https://misantrop.info/481047-jen-pro-ten-dnesni-den.php) o naprosto nesmyslném okrašlování obyčejného _včerejška_ a _zítřka_ do podoby &#8222;včerejší den, zítřejší den&#8220;. Všiml jsem si toho tehdy na Radiožurnálu&#8230; a můžete mi stokrát říkat, že média nemají vliv na jazykové zvyklosti! Zrovna tohle se ujalo jak psí víno na kompostu.
 
-Navíc jsem se tu tuhle navážel do hejtovací sekce webu Futurum, a při té příležitosti mi hned ten [aktuální článek](http://www.futurum.cz/clanky/hejt-na-lidi-v-socce.34/) napálil kudrlinku. Perex totiž končí slovy &#8222;<span style="color: #555555;">Konkrétně pražskou MHD využívám na denní bázi a nehraju si na to, že jsem moc velká dámička na tramvaj.&#8220;</span>
+Navíc jsem se tu tuhle navážel do hejtovací sekce webu Futurum, a při té příležitosti mi hned ten [aktuální článek](https://www.futurum.cz/clanky/hejt-na-lidi-v-socce.34/) napálil kudrlinku. Perex totiž končí slovy &#8222;<span style="color: #555555;">Konkrétně pražskou MHD využívám na denní bázi a nehraju si na to, že jsem moc velká dámička na tramvaj.&#8220;</span>
 
 Bylo by příliš laciné tu poukazovat na to, že autoři na Futurum neumí pořádně psát, ale žádný učený, atakdál&#8230; Ani se navážet do toho, že takhle kokotské &#8222;hejty&#8220; připomínají drsné šestnáctileté rapery, co jsou nazlobení na celý svět. Ostatně jeden z autorů to pregnantně shrnul: &#8222;Pro tebe to je blbý hejt, pro mě to je zápočet!&#8220;
 
@@ -57,7 +57,7 @@ Podlehl jsem melancholii. Kolega je jinak česky poměrně zdatný, jen ho asi v
 Zatím se držím, ale až jednou někoho bodnu hřebíkem do prdele a zařvu SENZACEEEEE!!!!, tak budete vědět, co se mi stalo.
 
 <div id="attachment_1986" style="width: 247px" class="wp-caption aligncenter">
-  <a href="http://www.misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png"><img aria-describedby="caption-attachment-1986" class="wp-image-1986 size-full" src="http://www.misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png" alt="Aybabtu.png  240×160" width="237" height="120" srcset="https://www.misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png 237w, https://www.misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160--200x101.png 200w" sizes="(max-width: 237px) 100vw, 237px" /></a>
+  <a href="https://misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png"><img aria-describedby="caption-attachment-1986" class="wp-image-1986 size-full" src="https://misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png" alt="Aybabtu.png  240×160" width="237" height="120" srcset="https://misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160-.png 237w, https://misantrop.info/wp-content/uploads/2014/04/Aybabtu.png-240×160--200x101.png 200w" sizes="(max-width: 237px) 100vw, 237px" /></a>
   
   <p id="caption-attachment-1986" class="wp-caption-text">
     ALL YOUR DENNÍ BÁZE ARE BELONG TO US

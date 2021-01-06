@@ -4,7 +4,7 @@ title: Autorské právo 101
 date: 2013-10-22T12:40:07+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1601
+guid: https://misantrop.info/?p=1601
 permalink: /autorske-pravo-101/
 dsq_thread_id:
   - "1886501536"
@@ -18,7 +18,7 @@ image: /wp-content/uploads/2013/02/Diskuse.jpg
 categories:
   - Nezařazené
 ---
-To jsem zase včera [trefil do živého](http://www.misantrop.info/copyrighte/). Komentáře byly velmi poučné čtení, navíc Patrick připomněl svůj [tři roky starý článek](http://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat), a když jsem si ho znovu četl (a znovu nad ním kroutil hlavou), tak jsem si řekl, že bude asi nezbytné připomenout nějaké základy autorského práva. Nechci polemizovat s Patrickem, to za mne udělali jiní, ale rozhodně je na místě připomenout pár základních věcí, které se ve zjitřené debatě jaksi ztrácí ze zřetele.
+To jsem zase včera [trefil do živého](https://misantrop.info/copyrighte/). Komentáře byly velmi poučné čtení, navíc Patrick připomněl svůj [tři roky starý článek](https://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat), a když jsem si ho znovu četl (a znovu nad ním kroutil hlavou), tak jsem si řekl, že bude asi nezbytné připomenout nějaké základy autorského práva. Nechci polemizovat s Patrickem, to za mne udělali jiní, ale rozhodně je na místě připomenout pár základních věcí, které se ve zjitřené debatě jaksi ztrácí ze zřetele.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ V diskusích o autorských právech se míchá spousta věcí dohromady. Míchá
 
 **Co je vlastně předmětem ochrany?**
 
-Člověk by si myslel, že si kritici autorských práv dají aspoň tu práci, že si [autorský zákon](http://business.center.cz/business/pravo/zakony/autorsky/) přečtou. Minimálně první dva paragrafy. To přeci není takový problém. Jenže pak čtete &#8222;argumenty&#8220; proti autorskému zákonu, ze kterých je jasně vidět, že to problém je. Když tedy dovolíte, tak ocituju:
+Člověk by si myslel, že si kritici autorských práv dají aspoň tu práci, že si [autorský zákon](https://business.center.cz/business/pravo/zakony/autorsky/) přečtou. Minimálně první dva paragrafy. To přeci není takový problém. Jenže pak čtete &#8222;argumenty&#8220; proti autorskému zákonu, ze kterých je jasně vidět, že to problém je. Když tedy dovolíte, tak ocituju:
 
 > <a name="par2"></a>§ 2 Autorské dílo
 > 

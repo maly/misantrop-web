@@ -4,7 +4,7 @@ title: Jak Pan_Azathoth ovlivnil volby
 date: 2013-01-30T14:45:07+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=757
+guid: https://misantrop.info/?p=757
 permalink: /jak-pan_azathoth-ovlivnil-volby/
 dsq_thread_id:
   - "1055080226"
@@ -30,7 +30,7 @@ Husák gratuluje Fischerovi, aneb _Škromach, simtě!_
 
 Jsou vtipy, kterým se buď zasmějete, nebo je nepovažujete za vtipy. Vtípky dadaistické, absurdní, kamenné a kdovíjak ještě se jim říká. Buď jste naladěni na stejnou vlnu a smějete se jim, nebo zakroutíte hlavou: _cože?_
 
-Do stejné kategorie patří i většina internetových [memů](http://cs.wikipedia.org/wiki/Mem). Mem je kulturní obdoba genu &#8211; samoreplikující se informace, která se stěhuje z mysli do mysli, když to řeknu zjednodušeně. Příkladem můžou být třeba známé &#8222;filmové hlášky&#8220; &#8211; krátké úryvky, které si žijí vlastním životem a které zasvěcení rozeznají, zatímco nezasvěcení nechápou. Internet je pro memy ideální živnou půdou, právě díky tomu, že se na něm potkávají spousty lidí a je snadné nalézt &#8222;připravenou mysl&#8220;. Možná už jste nějaký [internetový mem](http://cs.wikipedia.org/wiki/Kategorie:Internetov%C3%A9_memy) potkali &#8211; Pedobear, All your base&#8230;, Rozum a chtíč, Ceiling cat&#8230; Memy jsou součástí určité kultury, vstupují do nejrůznějších situací a souvislostí jako &#8222;popkulturní citace&#8220;, můžete je vidět třeba v Big Bang Theory na tričkách&#8230;
+Do stejné kategorie patří i většina internetových [memů](https://cs.wikipedia.org/wiki/Mem). Mem je kulturní obdoba genu &#8211; samoreplikující se informace, která se stěhuje z mysli do mysli, když to řeknu zjednodušeně. Příkladem můžou být třeba známé &#8222;filmové hlášky&#8220; &#8211; krátké úryvky, které si žijí vlastním životem a které zasvěcení rozeznají, zatímco nezasvěcení nechápou. Internet je pro memy ideální živnou půdou, právě díky tomu, že se na něm potkávají spousty lidí a je snadné nalézt &#8222;připravenou mysl&#8220;. Možná už jste nějaký [internetový mem](https://cs.wikipedia.org/wiki/Kategorie:Internetov%C3%A9_memy) potkali &#8211; Pedobear, All your base&#8230;, Rozum a chtíč, Ceiling cat&#8230; Memy jsou součástí určité kultury, vstupují do nejrůznějších situací a souvislostí jako &#8222;popkulturní citace&#8220;, můžete je vidět třeba v Big Bang Theory na tričkách&#8230;
 
 V zahraničí vznikají internetové memy nejčastěji na nejrůznějších diskusních fórech &#8222;podobně naladěných jedinců&#8220; &#8211; 4chan, SomethingAwful a podobné. Mem vzniká tím, že je nalezen nějaký výrazný prvek (myšlenka, obličej, fotografie, písnička, &#8230;), ten je opakován, zasazován do nejrůznějších souvislostí, a pokud je životaschopný, přesáhne hranice původní skupiny a rozšíří se do světa. V českém prostředí plní tuhle roli skupina uživatelů, která se nejčastěji schází na diskusních serverech Nyx a (především) Okoun.
 
@@ -46,11 +46,11 @@ A tak to bylo i s dnes již slavnou fotomontáží &#8222;Husák a Fischer&#8220
 
 Škromachův výrok o &#8222;tvůrčí dílně TOP09&#8220; tak padl na úrodnou půdu a má rovněž šanci stát se memem. Stejně jako reakce &#8222;Nevím, ale podle mého jde o fotomontáž&#8220;.
 
-<img class="alignnone" title="OLOL, autor: Pan_Azathoth" alt="" src="http://www.misantrop.info/wp-content/uploads/2013/01/40tbd.jpg" width="658" height="400" /> 
+<img class="alignnone" title="OLOL, autor: Pan_Azathoth" alt="" src="https://misantrop.info/wp-content/uploads/2013/01/40tbd.jpg" width="658" height="400" /> 
 
 Ubohé, nevtipné, dětinské&#8230; Jak říkal Ford Prefect: _kdybych dostal jeden altairský dolar pokaždé, když vidím, jak se jedna část Vesmíru dívá na jinou a přitom říká &#8218;Ale to je strašné&#8217;&#8230; _Ne každému to bude připadat vtipné, ale to je v pořádku. Netrapte se tím.
 
-Vlastně, když už je řeč o těch memech, tak spíš: [**Se stim smřte!**](http://historje.tumblr.com/image/36601964626)
+Vlastně, když už je řeč o těch memech, tak spíš: [**Se stim smřte!**](https://historje.tumblr.com/image/36601964626)
 
 A nezapomeňte &#8211; za každý dotaz &#8222;co je vtipného na zkomolené češtině a ohavné kresbě?&#8220; dostane tvůrčí dílna TOP09 jeden altairský dolar!
 

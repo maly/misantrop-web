@@ -4,7 +4,7 @@ title: Nejtěžší krok
 date: 2012-05-29T09:16:34+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=452
+guid: https://misantrop.info/?p=452
 permalink: /nejtezsi-krok/
 dsq_thread_id:
   - "706909898"
@@ -43,6 +43,6 @@ Racionálně vzato vlastně není důvod se bát. Víte, že za tímhle úvodní
 
 Znám to. Sám tu mám několik prvních kroků, do kterých se mi nechce.
 
-Zajímavou radu jsem dostal od [Johna](http://www.podnikanivusa.com/). Povídal: &#8222;_To je tím, že ČR je malý trh. Všichni se znají, a když něco uděláš, tak to všichni okomentují a ty to všechno přečteš. Udělej to taky v angličtině a jdi s tím rovnou na světový trh. Ten je tak velký, že jsi každýmu ukradený. Nikdo o tobě nenapíše ani slovo. Takže se na všechny můžeš vykašlat a můžeš začít budovat, rozvíjet, soustředíš se na byznys, ne na názory ostatních, a když to budeš dělat dobře, tak určitě seženeš nějaké uživatele, získáš první peníze, a to tě nakopne._&#8220;
+Zajímavou radu jsem dostal od [Johna](https://www.podnikanivusa.com/). Povídal: &#8222;_To je tím, že ČR je malý trh. Všichni se znají, a když něco uděláš, tak to všichni okomentují a ty to všechno přečteš. Udělej to taky v angličtině a jdi s tím rovnou na světový trh. Ten je tak velký, že jsi každýmu ukradený. Nikdo o tobě nenapíše ani slovo. Takže se na všechny můžeš vykašlat a můžeš začít budovat, rozvíjet, soustředíš se na byznys, ne na názory ostatních, a když to budeš dělat dobře, tak určitě seženeš nějaké uživatele, získáš první peníze, a to tě nakopne._&#8220;
 
 Nakonec je možná krok ze dveři na známý vlastní dvorek mnohem těžší než skok z letadla do neznáma&#8230;

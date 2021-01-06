@@ -4,7 +4,7 @@ title: Mocný jeseter!
 date: 2014-02-18T19:56:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1923
+guid: https://misantrop.info/?p=1923
 permalink: /mocny-jeseter/
 mashsb_timestamp:
   - "1566565159"
@@ -16,7 +16,7 @@ image: /wp-content/uploads/2014/02/800px-Sturgeon.jpg
 categories:
   - Nezařazené
 ---
-Megazaklínadlo jak noha&#8230; Něco jako [zločinná vydra kapitalismu](http://www.misantrop.info/zlocinna-vydra-kapitalismu/ "Zločinná vydra kapitalismu"), ale mnohem děsivější.
+Megazaklínadlo jak noha&#8230; Něco jako [zločinná vydra kapitalismu](https://misantrop.info/zlocinna-vydra-kapitalismu/ "Zločinná vydra kapitalismu"), ale mnohem děsivější.
 
 <!--more-->
 

@@ -4,12 +4,12 @@ title: 'Instalace software do čistých Windows snadno a rychle s #ninite'
 date: 2010-02-13T13:23:15+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
+guid: https://misantrop.info/instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
 permalink: /instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11624186"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/instalace-software-do-cistych-windows-snadno
+  - https://adent.posterous.com/instalace-software-do-cistych-windows-snadno
 dsq_thread_id:
   - "1110988521"
 mashsb_timestamp:
@@ -21,7 +21,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Jestli se v&aacute;m st&aacute;v&aacute;, že instalujete v&iacute;c poč&iacute;tačů se stejnou konfigurac&iacute; nebo pokud jste vrtal, co si ten svůj syst&eacute;m co měs&iacute;c mus&iacute; přeinstalovat, tak ocen&iacute;te [ninite.com](http://www.ninite.com).
+Jestli se v&aacute;m st&aacute;v&aacute;, že instalujete v&iacute;c poč&iacute;tačů se stejnou konfigurac&iacute; nebo pokud jste vrtal, co si ten svůj syst&eacute;m co měs&iacute;c mus&iacute; přeinstalovat, tak ocen&iacute;te [ninite.com](https://www.ninite.com).
 
 Na tomhle webu si vyberete programy, kter&eacute; chcete nainstalovat (prohl&iacute;žeče, utility, kodeky, přehr&aacute;vače, &#8230;) a kliknete na &#8222;St&aacute;hnout instal&aacute;tor&#8220;. Instalačn&iacute; program m&aacute; něco přes mega. Ten spust&iacute;te na nov&eacute;m poč&iacute;tači, a on se postar&aacute; o stažen&iacute; instalac&iacute; vybran&yacute;ch programů a jejich nainstalov&aacute;n&iacute;.
 

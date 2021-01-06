@@ -4,7 +4,7 @@ title: Tady kolibřík, jak mě odposlyšíte?
 date: 2012-04-09T10:26:41+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=276
+guid: https://misantrop.info/?p=276
 permalink: /tady-kolibrik-jak-me-odposlysite/
 dsq_thread_id:
   - "641971697"

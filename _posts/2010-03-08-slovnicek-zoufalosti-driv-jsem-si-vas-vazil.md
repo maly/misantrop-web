@@ -4,12 +4,12 @@ title: 'Slovníček zoufalostí: Dřív jsem si vás vážil!'
 date: 2010-03-08T09:08:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/slovnicek-zoufalosti-driv-jsem-si-vas-vazil/
+guid: https://misantrop.info/slovnicek-zoufalosti-driv-jsem-si-vas-vazil/
 permalink: /slovnicek-zoufalosti-driv-jsem-si-vas-vazil/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12963362"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/slovnicek-zoufalosti-driv-jsem-si-vas-vazil
+  - https://adent.posterous.com/slovnicek-zoufalosti-driv-jsem-si-vas-vazil
 dsq_thread_id:
   - "1179500441"
 mashsb_timestamp:

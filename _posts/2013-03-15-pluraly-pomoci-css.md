@@ -4,7 +4,7 @@ title: Plurály pomocí CSS
 date: 2013-03-15T14:23:56+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1170
+guid: https://misantrop.info/?p=1170
 permalink: /pluraly-pomoci-css/
 dsq_thread_id:
   - "1138898891"
@@ -35,7 +35,7 @@ S počtem komentářů je ten problém, že v češtině máme dvě množná č�
   * 5 komentářů
   * 6 komentářů
 
-&#8230;atakdál. Podle starých pravidel se řídil tvar podle poslední číslice i v případech jako je 21, 22, 23&#8230; (21 komentář, 22 komentáře), ale nová pravidla kodifikují jako přijatelný i tvar &#8222;21 komentářů&#8220;. (Důvod je prostý &#8211; představte si větu &#8222;4721 divák nadšeně aplaudoval&#8220; &#8211; viz [Šílený korektor](http://interval.cz/clanky/hrichy-pro-sileneho-korektora-clovek-versus-psani-cislovek/)).
+&#8230;atakdál. Podle starých pravidel se řídil tvar podle poslední číslice i v případech jako je 21, 22, 23&#8230; (21 komentář, 22 komentáře), ale nová pravidla kodifikují jako přijatelný i tvar &#8222;21 komentářů&#8220;. (Důvod je prostý &#8211; představte si větu &#8222;4721 divák nadšeně aplaudoval&#8220; &#8211; viz [Šílený korektor](https://interval.cz/clanky/hrichy-pro-sileneho-korektora-clovek-versus-psani-cislovek/)).
 
 Takže tedy řešíme stavy 0, 1, 2-4 a 5+ a patřičný tvar.
 
@@ -60,7 +60,7 @@ A to je celé&#8230; _Vyzkoušel jsem v Chrome, funguje, ale je možné, že ně
 
 **Samozřejmě ideální řešení je využít nástroj na straně serveru, který tohle umí ošetřit (gettext např.) Ale někdy holt není&#8230;**
 
-**Update:** Krásné [řešení](http://jsfiddle.net/VLqJr/1/) navrhl v komentářích David Matějka (s použitím datových atributů a CSS3)
+**Update:** Krásné [řešení](https://jsfiddle.net/VLqJr/1/) navrhl v komentářích David Matějka (s použitím datových atributů a CSS3)
 
 HTML:
 
@@ -81,7 +81,7 @@ span[data-count='2']:after, span[data-count='3']:after, span[data-count='4']:aft
  content: attr(data-plural-2);
 }</pre>
 
-**Update 2:** [vylepšení](http://jsfiddle.net/7snZZ/) předchozího tak, že i v případě vypnutých CSS zůstane sémanticky správné sdělení, napsal Martin Keder
+**Update 2:** [vylepšení](https://jsfiddle.net/7snZZ/) předchozího tak, že i v případě vypnutých CSS zůstane sémanticky správné sdělení, napsal Martin Keder
 
 HTML:
 

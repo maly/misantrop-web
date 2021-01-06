@@ -4,7 +4,7 @@ title: Risk a retenční nabídky
 date: 2012-09-26T07:39:02+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=651
+guid: https://misantrop.info/?p=651
 permalink: /risk-a-retencni-nabidky/
 mashsb_timestamp:
   - "1550047257"
@@ -20,7 +20,7 @@ Všiml jsem si jedné zajímavé věci. Myšlenkou jsem kroužil okolo, a když 
 
 <!--more-->
 
-Retenční nabídka Vodafone se nekonala (lépe řečeno utopila se v [balastu přepojování po zákaznických linkách](http://www.misantrop.info/vodafone-odchazeni/)), ale můžu potvrdit, že se snažili. Alespoň v mém případě. Že to bylo příliš málo a příliš pozdě, to je jiná věc. Ale pro někoho to zajímavé být může &#8211; minimálně  pro všechny ostatní zákzníky.
+Retenční nabídka Vodafone se nekonala (lépe řečeno utopila se v [balastu přepojování po zákaznických linkách](https://misantrop.info/vodafone-odchazeni/)), ale můžu potvrdit, že se snažili. Alespoň v mém případě. Že to bylo příliš málo a příliš pozdě, to je jiná věc. Ale pro někoho to zajímavé být může &#8211; minimálně  pro všechny ostatní zákzníky.
 
 Vembloud na to šel z druhé strany &#8211; zavolal a zeptal se: &#8222;Když k vám přejdu, co mi nabídnete?&#8220; Ke svému údivu zjistil, že mu nabídli to, co je na webu.
 
@@ -34,7 +34,7 @@ Takže nejvýhodnější strategií je tvářit se, že výhody mají nově př�
 
 A druhá možnost je o něco prozaičtější, a o něco míň lichotivá&#8230;
 
-Odbočím: Měl jsem tuhle příležitost hrát online poker ([Partypoker](http://cz.partypoker.com/), kdyby vás to zajímalo) za cizí peníze. A jelikož jsem v těhle hrách emocionální mrzák, který nepodléhá vzrušení ze hry a je schopen odejít, když vyhrává (říká se tomu &#8222;hrát na jistotu&#8220;, ostatní tomu říkají &#8222;_přizdisráč_&#8222;), tak jsem byl zvědav, jestli se nějak fakt, že jsem nehrál za svoje, ale mohl jsem si nechat případnou výhru, projeví.
+Odbočím: Měl jsem tuhle příležitost hrát online poker ([Partypoker](https://cz.partypoker.com/), kdyby vás to zajímalo) za cizí peníze. A jelikož jsem v těhle hrách emocionální mrzák, který nepodléhá vzrušení ze hry a je schopen odejít, když vyhrává (říká se tomu &#8222;hrát na jistotu&#8220;, ostatní tomu říkají &#8222;_přizdisráč_&#8222;), tak jsem byl zvědav, jestli se nějak fakt, že jsem nehrál za svoje, ale mohl jsem si nechat případnou výhru, projeví.
 
 Projevil se. Pokud jsem hrál za cizí, byl jsem ochoten víc riskovat a sázet i na horší kartu, než když hraju za své. Byl jsem takříkajíc učebnicový příklad. Pokud má člověk možnost získat sto korun a nezíská je, snáší to mnohem, mnohem líp než když o sto korun přijde.
 

@@ -4,7 +4,7 @@ title: 'Den, Kdy Vypnuli Ve Stodůlkách Internet&#8230;'
 date: 2014-03-02T12:20:26+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1929
+guid: https://misantrop.info/?p=1929
 permalink: /den-kdy-vypnuli-ve-stodulkach-internet/
 mashsb_timestamp:
   - "1572038252"
@@ -42,7 +42,7 @@ Naštěstí mám spoustu práce offline&#8230;
 
 Dočetl jsem dvě knížky o zločinu. Na Kindlu.
 
-Zkusil jsem připojit PS/2 myš k [Atari ST](http://retrocip.cz/dva-prirustky-do-archivu/) (mám k tomu [nějaký takovýhle adaptér](http://www.ebay.com/sch/i.html?_trksid=p2047675.m570.l1313.TR0.TRC0.H0.X+Atari+ST+ps2+Mouse+Adapter&_nkw=+Atari+ST+ps2+Mouse+Adapter&_sacat=0&_from=R40)), což docela fungovalo, jen mi nedošlo, že bez nějakého SW na disketě s tím nenadělám nic.
+Zkusil jsem připojit PS/2 myš k [Atari ST](https://retrocip.cz/dva-prirustky-do-archivu/) (mám k tomu [nějaký takovýhle adaptér](https://www.ebay.com/sch/i.html?_trksid=p2047675.m570.l1313.TR0.TRC0.H0.X+Atari+ST+ps2+Mouse+Adapter&_nkw=+Atari+ST+ps2+Mouse+Adapter&_sacat=0&_from=R40)), což docela fungovalo, jen mi nedošlo, že bez nějakého SW na disketě s tím nenadělám nic.
 
 Zkusil jsem si v Eagle navrhnout plošňáky k několika zapojením, co bych tu rád realizoval, totiž jednoduchý terminál (pro retrostroje), postavený pomocí starého 15&#8243; LCD a PS/2 klávesnice, mikropočítač s 68k a mikropočítač s nejúžasnějším osmibitovým procesorem 6809 (přesněji s jeho lehce vylepšenou variantou HD6309P).
 
@@ -50,7 +50,7 @@ Chvilku jsem si připravoval základ pro emulátor 6809 v JavaScriptu, porochnil
 
 Přečetl jsem si pořádně manuál ke Sharp PC.
 
-Připravil jsem si další dva díly svého [kurzu programování osmibitů v assembleru](http://strojak.cz/). Už jsem se dostal za procesor 6502, teď probíráme základy práce s &#8222;reálným&#8220; hardware. Samozřejmě že emulátor, ale kdyby na to přišlo, postavit si ho můžete &#8211; autor Grant Searle mi dal souhlas s použitím jeho konstrukcí na mých stránkách, takže vesele používám jeho [SBC6502](http://searle.hostei.com/grant/6502/Simple6502.html). Teď jsme doprobrali výpis znaků na terminál, dokonce hned v několika různých variantách, v dalších dílech bude čtení klávesnice, dekódování, pár převodních rutin, no a skončím to jednoduchým monitorem. A pak, pak se asi vrhnu na tu Z80&#8230;
+Připravil jsem si další dva díly svého [kurzu programování osmibitů v assembleru](https://strojak.cz/). Už jsem se dostal za procesor 6502, teď probíráme základy práce s &#8222;reálným&#8220; hardware. Samozřejmě že emulátor, ale kdyby na to přišlo, postavit si ho můžete &#8211; autor Grant Searle mi dal souhlas s použitím jeho konstrukcí na mých stránkách, takže vesele používám jeho [SBC6502](https://searle.hostei.com/grant/6502/Simple6502.html). Teď jsme doprobrali výpis znaků na terminál, dokonce hned v několika různých variantách, v dalších dílech bude čtení klávesnice, dekódování, pár převodních rutin, no a skončím to jednoduchým monitorem. A pak, pak se asi vrhnu na tu Z80&#8230;
 
 No a bylo šest hodin, internet furt nefungoval, já měl tohle všechno za sebou, navíc jsem viděl asi čtyři díly Mythbusters, a pobavil mě kolega Štěpán, který volal a chtěl něco poradit s IHNEDem. Chudák. Poradil jsem mu, ale taky jsem mu třikrát zopakoval, že mi nefunguje internet a popsal celou anabázi.
 

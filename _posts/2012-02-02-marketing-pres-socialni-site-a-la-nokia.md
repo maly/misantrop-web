@@ -4,12 +4,12 @@ title: 'Marketing přes sociální sítě a la #Nokia'
 date: 2012-02-02T08:38:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/marketing-pres-socialni-site-a-la-nokia/
+guid: https://misantrop.info/marketing-pres-socialni-site-a-la-nokia/
 permalink: /marketing-pres-socialni-site-a-la-nokia/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97509629"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/marketing-pres-socialni-site-a-la-nokia
+  - https://adent.posterous.com/marketing-pres-socialni-site-a-la-nokia
 mashsb_timestamp:
   - "1575136507"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Milan &Scaron;ťastn&yacute; p&iacute;&scaron;e [a margo akce &#8222;Lumia 800 pro influencery&#8220;](http://stastny.posterous.com/adent-davidgrudl-tlamiczka-sibiranka-a-nokia) (nebo jak to/n&aacute;s/se nazvat):
+Milan &Scaron;ťastn&yacute; p&iacute;&scaron;e [a margo akce &#8222;Lumia 800 pro influencery&#8220;](https://stastny.posterous.com/adent-davidgrudl-tlamiczka-sibiranka-a-nokia) (nebo jak to/n&aacute;s/se nazvat):
 
 <blockquote class="posterous_medium_quote">
   <p>

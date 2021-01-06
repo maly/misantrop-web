@@ -4,12 +4,12 @@ title: 'Stoprocentně úspěšný den&#8230;'
 date: 2010-05-29T17:54:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/stoprocentne-uspesny-den/
+guid: https://misantrop.info/stoprocentne-uspesny-den/
 permalink: /stoprocentne-uspesny-den/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19438113"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/stoprocentne-uspesny-den
+  - https://adent.posterous.com/stoprocentne-uspesny-den
 mashsb_timestamp:
   - "1574982969"
 mashsb_shares:
@@ -43,4 +43,4 @@ Po půl osmé vystoupil Paroubek s &#8211; na jeho poměry &#8211; neobyčejně 
 
 Tak si to shrňme: Zelení mizí, lidovci mizí, komunisti až čtvrtí, Paroubek rezignuje, případná středopravá koalice by měla v Parlamentu okolo 118 křesel&#8230; Vláda byla předběžně nazvána <span style="font-family: mceinline;"><em>vládou rozpočtové kázně</em>. </span>
 
-Čekal jsem, že dvacet let po Listopadu bude nějaká poměrně razantní změna&#8230; ale [tohle](http://volby.cz/pls/ps2010/ps2?xjazyk=CZ)? Ani ve snu! Během šesti hodin se očekávaný debakl proměnil v opatrnou naději. Tyhle volby byly skvělé! Dramatické, samý zvrat a na konci takový výsledek&#8230;<span style="font-family: mceinline;"><br /></span>
+Čekal jsem, že dvacet let po Listopadu bude nějaká poměrně razantní změna&#8230; ale [tohle](https://volby.cz/pls/ps2010/ps2?xjazyk=CZ)? Ani ve snu! Během šesti hodin se očekávaný debakl proměnil v opatrnou naději. Tyhle volby byly skvělé! Dramatické, samý zvrat a na konci takový výsledek&#8230;<span style="font-family: mceinline;"><br /></span>

@@ -4,7 +4,7 @@ title: O rozumných pravidlech
 date: 2017-01-04T16:03:48+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2641
+guid: https://misantrop.info/?p=2641
 permalink: /o-rozumnych-pravidlech/
 mashsb_timestamp:
   - "1569789692"

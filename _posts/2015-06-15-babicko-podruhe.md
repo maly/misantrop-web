@@ -4,7 +4,7 @@ title: 'Babičko&#8230; podruhé'
 date: 2015-06-15T17:03:19+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2308
+guid: https://misantrop.info/?p=2308
 permalink: /babicko-podruhe/
 mashsb_timestamp:
   - "1574976573"
@@ -22,13 +22,13 @@ tags:
   - propaganda
   - Verbež
 ---
-Dobře, já možná nejsem ta správná generace, co by mohla [senilní bábu nakopnout](http://www.misantrop.info/babicko-povidej/). Ale co _reálná babička? _To [bezostyšné bolšánské lhaní](http://www.misantrop.info/babicko-povidej/) nadzdvihlo i jednu paní, kterou znám, ale nebudu ji jmenovat. Dávám jí tímto na své stránce prostor. Přivítejte prosím váženého hosta a její lehce mrazivé osobní vzpomínky.
+Dobře, já možná nejsem ta správná generace, co by mohla [senilní bábu nakopnout](https://misantrop.info/babicko-povidej/). Ale co _reálná babička? _To [bezostyšné bolšánské lhaní](https://misantrop.info/babicko-povidej/) nadzdvihlo i jednu paní, kterou znám, ale nebudu ji jmenovat. Dávám jí tímto na své stránce prostor. Přivítejte prosím váženého hosta a její lehce mrazivé osobní vzpomínky.
 
 <!--more-->
 
 _Babičko – povídej…._
 
-(MOJE DISKUZE S NEEXISTUJÍCÍ DEBILNÍ KOMUNISTICKOU BABIČKOU &#8211; odkaz zde: <http://zanechme-predsudku-vuci-komunistum.info/babicko-povidej/>)
+(MOJE DISKUZE S NEEXISTUJÍCÍ DEBILNÍ KOMUNISTICKOU BABIČKOU &#8211; odkaz zde: <https://zanechme-predsudku-vuci-komunistum.info/babicko-povidej/>)
 
 > _Když jsem se narodila, bydleli moji rodiče ve státním bytě, kde platili 70,- Kč měsíční nájem. Žádný fond oprav se neplatil, když se něco pokazilo a nebo byla potřeba větší oprava, národní výbor měl dost prostředků, aby ji zaplatil._ 
 
@@ -70,7 +70,7 @@ ANO, ale léky pro opravdu těžce nemocné (maminka kamarádky měla rakovinu) 
 
 > _V obchodech bylo všechno, co jsme potřebovali a potraviny a dětské zboží dotované státem. Za 1,- byly tři rohlíky, litr kvalitního mléka, na kterém se než jsem jej přinesla domů z obchodu usadila nahoře centimetrová vrstva smetany a bylo zcela bez konzervantů stálo 3,- Kč. Kvalitní máslo stálo 10,- a za 100,- jsem udělala nákup pro 4 člennou rodinu na tři dny._ 
 
-Tady bych jen odkázala na skvělou Pixyho tabulku, kde srovnává velice erudovaně ceny tehdy a dnes: <http://www.zakomunistu.cz/>
+Tady bych jen odkázala na skvělou Pixyho tabulku, kde srovnává velice erudovaně ceny tehdy a dnes: <https://www.zakomunistu.cz/>
 
 > _Zálohu na výplatu jsem měla 400,- a s tím jsem v pohodě vydržela 14 dnů. __Knihy stály kolem 20,- Kč a krásná pohádková obrázková kniha 38,- Kč, ale to už byl luxus._
 

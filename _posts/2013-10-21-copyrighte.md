@@ -4,7 +4,7 @@ title: Copyrighte!
 date: 2013-10-21T13:37:46+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1596
+guid: https://misantrop.info/?p=1596
 permalink: /copyrighte/
 dsq_thread_id:
   - "1882600443"

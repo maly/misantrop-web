@@ -4,12 +4,12 @@ title: 'Špekáček za pětikorunu, pivo za dvě, PR článek za kilčo&#8230;'
 date: 2010-04-27T08:26:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/spekacek-za-petikorunu-pivo-za-dve-pr-clanek-za-kilco/
+guid: https://misantrop.info/spekacek-za-petikorunu-pivo-za-dve-pr-clanek-za-kilco/
 permalink: /spekacek-za-petikorunu-pivo-za-dve-pr-clanek-za-kilco/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "17513743"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/Spekacek-za-petikorunu-pivo-za-dve-pr-clanek
+  - https://adent.posterous.com/Spekacek-za-petikorunu-pivo-za-dve-pr-clanek
 mashsb_timestamp:
   - "1572476018"
 mashsb_shares:
@@ -31,7 +31,7 @@ Taky věříte, že se o národu dozvíte hodně podle jeho vztahu k jídlu? Ně
 
 Ne, nejsme _Jediní Škrti Na Světě_ &#8211; kdo kdy zažil chování Němců při slevách, ví své, a ostatně i fakt, že západ vyrábí v Číně, říká hodně. Jen se mi zdá, že ten Němec má kromě &#8222;levného zboží&#8220; na výběr i &#8222;solidní zboží&#8220; a &#8222;luxusní zboží&#8220;, přičemž toho druhého je nejvíc, prvního o něco míň a posledního nejmíň &#8211; ale je.
 
-Navážu úplně odjinud: Plaváček se tuhle [rozohňoval nad nabídkou v PlaCle](http://plavacek.posterous.com/jak-psat-pr-clanky-a-nebyt-pritom-za-blbce) &#8211; že tam za 112 Kč poptávají naprosto nesmyslné &#8222;PR články&#8220; od naprosto irelevantních autorů. Ale ono to souvisí: Národ, který chce jíst &#8222;špekáčky&#8220; za pět korun a pít pivo za tři (za dvě na předvolební akci) bude samosebou v &#8222;PR samoobsluze&#8220; poptávat laciný šunt, který nemá s PR nic společného. Na rozdíl od té paní ze zeleniny má provozovatel Placly aspoň stále ještě touhu mířit i na ty, co chtějí kvalitu &#8211; bohužel pro &#8222;kvalitního dodavatele&#8220; není mezi poptávkou na &#8222;levné kuřecí salámy&#8220; nic, co by ho nutilo prodávat, takže ho na Placle skoro nic nedrží, a ojedinělé experimenty typu &#8222;říct si o odpovídající peníze&#8220; pravděpodobně dopadnou neúspěšně.
+Navážu úplně odjinud: Plaváček se tuhle [rozohňoval nad nabídkou v PlaCle](https://plavacek.posterous.com/jak-psat-pr-clanky-a-nebyt-pritom-za-blbce) &#8211; že tam za 112 Kč poptávají naprosto nesmyslné &#8222;PR články&#8220; od naprosto irelevantních autorů. Ale ono to souvisí: Národ, který chce jíst &#8222;špekáčky&#8220; za pět korun a pít pivo za tři (za dvě na předvolební akci) bude samosebou v &#8222;PR samoobsluze&#8220; poptávat laciný šunt, který nemá s PR nic společného. Na rozdíl od té paní ze zeleniny má provozovatel Placly aspoň stále ještě touhu mířit i na ty, co chtějí kvalitu &#8211; bohužel pro &#8222;kvalitního dodavatele&#8220; není mezi poptávkou na &#8222;levné kuřecí salámy&#8220; nic, co by ho nutilo prodávat, takže ho na Placle skoro nic nedrží, a ojedinělé experimenty typu &#8222;říct si o odpovídající peníze&#8220; pravděpodobně dopadnou neúspěšně.
 
 Závěr? Neradostný. Zeleninu jsem nakonec koupil od známého zelináře, který nějak sežene i tu první jakost &#8211; tedy zralá rajčata, velké nenahnilé papriky a okurky salátovky, co se při pádu na zem zlomí. A totéž platí i pro PR články: Nakoupíte i prodáte, ale musíte mít &#8222;známého zelináře&#8220;. V supermarketu (jakéhokoli druhu) se akorát rozčílíte.
 

@@ -4,12 +4,12 @@ title: 'ACTA right now&#8230;'
 date: 2012-01-28T12:56:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/acta-right-now/
+guid: https://misantrop.info/acta-right-now/
 permalink: /acta-right-now/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "96588286"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/acta-right-now
+  - https://adent.posterous.com/acta-right-now
 mashsb_timestamp:
   - "1564657881"
 mashsb_shares:

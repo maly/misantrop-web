@@ -4,12 +4,12 @@ title: '&#8222;Anti AdBlock&#8220; řešení pro vydavatele obsahu'
 date: 2011-11-15T13:54:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/anti-adblock-reseni-pro-vydavatele-obsahu/
+guid: https://misantrop.info/anti-adblock-reseni-pro-vydavatele-obsahu/
 permalink: /anti-adblock-reseni-pro-vydavatele-obsahu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "80234492"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/anti-adblock-reseni-pro-vydavatele-obsahu
+  - https://adent.posterous.com/anti-adblock-reseni-pro-vydavatele-obsahu
 mashsb_timestamp:
   - "1576318507"
 mashsb_shares:
@@ -26,7 +26,7 @@ Pro vydavatele obsahu je AdBlock něco jako noční můra, protože jim snižuje
 1. Skřípat zubama a trpět to  
 2. Nadávat lidem s AdBlockem do zlodějů a kurev bezecných ohejralých, kvůli kterým zanedlouho zkrachujete, <span style="font-family: mceinline;"><em>neplačte, sami si za to můžete</em>!</span>
 
-Je něco mezi tím? Ano, je. Můžete &#8222;blokovat AdBlock&#8220;. Buď technicky, tj. zakázat lidem s AdBlockem někam přístup, vykopnout je za nějakou dobu, otravovat je neustále s hlášením, nebo &#8222;psychologicky&#8220;. Já už delší dobu hlásám, že na to existuje přijatelné řešení. Teď jsem si ho na [oldplayer.cz](http://www.oldplayer.cz/) i vyzkoušel, a reakce jsou příznivé.
+Je něco mezi tím? Ano, je. Můžete &#8222;blokovat AdBlock&#8220;. Buď technicky, tj. zakázat lidem s AdBlockem někam přístup, vykopnout je za nějakou dobu, otravovat je neustále s hlášením, nebo &#8222;psychologicky&#8220;. Já už delší dobu hlásám, že na to existuje přijatelné řešení. Teď jsem si ho na [oldplayer.cz](https://www.oldplayer.cz/) i vyzkoušel, a reakce jsou příznivé.
 
 Necháte uživatele několikrát přijít, a pokud zjistíte, že má AdBlock, tak mu to po čase připomenete. Ovšem neseřvete ho, že je hajzl, to ne! Musíte k němu přistupovat jako anglosaský revizor: &#8222;_Vy nemáte označenou jízdenku? Jistě jste jen zapomněl, označte si ji, děkuji_!&#8220;
 
@@ -42,4 +42,4 @@ Rozhodně si AdBlock nevypnou všichni, ale přesto má tohle řešení velmi do
 
 **Já děkuji touto cestou všem čtenářům, kteří si AdBlock na Oldplayer vypnuli &#8211; DÍKY!**
 
-(Tuto žádost z webu [oldplayer.cz](http://www.oldplayer.cz) okomentovali veřejně asi čtyři lidé. Všechny čtyři komentáře byly pozitivní.)
+(Tuto žádost z webu [oldplayer.cz](https://www.oldplayer.cz) okomentovali veřejně asi čtyři lidé. Všechny čtyři komentáře byly pozitivní.)

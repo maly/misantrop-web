@@ -4,12 +4,12 @@ title: 'Haló, tady zase banka&#8230;!'
 date: 2010-04-28T11:29:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/halo-tady-zase-banka/
+guid: https://misantrop.info/halo-tady-zase-banka/
 permalink: /halo-tady-zase-banka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "17625161"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/halo-tady-zase-banka
+  - https://adent.posterous.com/halo-tady-zase-banka
 mashsb_timestamp:
   - "1572961457"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Už jsem o tom [psal](http://www.misantrop.info/tady-banka): Zvoní telefon, na displeji je nějaké neznámé číslo, takže to zvednu, řeknu Haló, a tam se ozve nějaký telefonista, co o sobě tvrdí, že je z banky téaté a &#8222;jen pro ověření, pane Malý, mi řekněte kód / datum narození / rok narození / poslední čtyři číslice rodného čísla&#8230;&#8220;
+Už jsem o tom [psal](https://misantrop.info/tady-banka): Zvoní telefon, na displeji je nějaké neznámé číslo, takže to zvednu, řeknu Haló, a tam se ozve nějaký telefonista, co o sobě tvrdí, že je z banky téaté a &#8222;jen pro ověření, pane Malý, mi řekněte kód / datum narození / rok narození / poslední čtyři číslice rodného čísla&#8230;&#8220;
 
 Odmítám je. Nic zásadního totiž pro mne nemají, chtějí jen otravovat s nabídkou půjčky nebo jinou podobnou koninou. Kdyby banka MĚLA něco zásadního, co se týká mých peněz, tak mi to napíše písemně. Takže to beru pomalu jako sport. Někdy je nechám projít první úrovní, někdy jim fláknu telefonem (&#8222;_pane Malý!_&#8222;), podle nálady, rozpoložení a ne/sympatičnosti hlasu.
 

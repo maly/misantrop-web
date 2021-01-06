@@ -4,7 +4,7 @@ title: Poslední den hlasování v Křišťálovce
 date: 2016-11-07T12:50:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2593
+guid: https://misantrop.info/?p=2593
 permalink: /posledni-den-hlasovani-v-kristalovce/
 mashsb_timestamp:
   - "1546104112"
@@ -17,4 +17,4 @@ categories:
 tags:
   - klupa
 ---
-Hlasujte na [tinyurl.com/klupa16](http://tinyurl.com/klupa16)
+Hlasujte na [tinyurl.com/klupa16](https://tinyurl.com/klupa16)

@@ -4,12 +4,12 @@ title: 'O dluhu, který nezavinili&#8230;'
 date: 2012-03-13T15:27:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/o-dluhu-ktery-nezavinili/
+guid: https://misantrop.info/o-dluhu-ktery-nezavinili/
 permalink: /o-dluhu-ktery-nezavinili/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "110752022"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/o-dluhu-ktery-nezavinili
+  - https://adent.posterous.com/o-dluhu-ktery-nezavinili
 mashsb_timestamp:
   - "1576130552"
 mashsb_shares:

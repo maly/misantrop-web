@@ -4,7 +4,7 @@ title: Lidi necestují
 date: 2016-12-22T18:04:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2600
+guid: https://misantrop.info/?p=2600
 permalink: /lidi-necestuji/
 mashsb_timestamp:
   - "1574979930"

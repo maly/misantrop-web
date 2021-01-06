@@ -4,7 +4,7 @@ title: Každou korunu!
 date: 2017-02-17T10:55:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2756
+guid: https://misantrop.info/?p=2756
 permalink: /kazdou-korunu/
 mashsb_timestamp:
   - "1574980283"

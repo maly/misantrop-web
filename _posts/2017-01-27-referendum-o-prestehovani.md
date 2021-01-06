@@ -4,7 +4,7 @@ title: Referendum o přestěhování
 date: 2017-01-27T11:25:08+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2710
+guid: https://misantrop.info/?p=2710
 permalink: /referendum-o-prestehovani/
 mashsb_timestamp:
   - "1566546868"

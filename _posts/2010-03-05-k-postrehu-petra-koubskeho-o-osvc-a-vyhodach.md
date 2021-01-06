@@ -4,12 +4,12 @@ title: 'K postřehu Petra Koubského o OSVČ a výhodách&#8230;'
 date: 2010-03-05T13:29:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
+guid: https://misantrop.info/k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
 permalink: /k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12765077"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/k-postrehu-petra-koubskeho-o-osvC-a-vyhodach
+  - https://adent.posterous.com/k-postrehu-petra-koubskeho-o-osvC-a-vyhodach
 mashsb_timestamp:
   - "1527988998"
 mashsb_shares:
@@ -19,8 +19,8 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Reakce na [OSVČ, zaměstnanci, př&iacute;živn&iacute;ci a odbory &#8211; pokus o souhrnnou odpověď v nejlep&scaron;&iacute;m stylu tř&iacute;dn&iacute;ho boje](http://petrkou.posterous.com/osvC-zamestnanci-prizivnici-a-odbory-pokus-o) Petra Koubsk&eacute;ho:[  
-](http://petrkou.posterous.com/osvC-zamestnanci-prizivnici-a-odbory-pokus-o) 
+Reakce na [OSVČ, zaměstnanci, př&iacute;živn&iacute;ci a odbory &#8211; pokus o souhrnnou odpověď v nejlep&scaron;&iacute;m stylu tř&iacute;dn&iacute;ho boje](https://petrkou.posterous.com/osvC-zamestnanci-prizivnici-a-odbory-pokus-o) Petra Koubsk&eacute;ho:[  
+](https://petrkou.posterous.com/osvC-zamestnanci-prizivnici-a-odbory-pokus-o) 
 
 1. Odbor&aacute;ř Du&scaron;kova form&aacute;tu by si měl d&aacute;t dvakr&aacute;t pozor, než někoho, natož celou skupinu, nazve &#8222;př&iacute;živn&iacute;ky&#8220;&#8230;
 

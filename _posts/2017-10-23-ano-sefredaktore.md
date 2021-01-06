@@ -4,7 +4,7 @@ title: Ano, šéf(redaktor)e!
 date: 2017-10-23T10:59:31+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2875
+guid: https://misantrop.info/?p=2875
 permalink: /ano-sefredaktore/
 mashsb_timestamp:
   - "1575143034"
@@ -49,7 +49,7 @@ Pokud sledujete pořad _Ano, šéfe!_, tak víte, že Pohlreich chodí do nejr�
 
 Tak jednoduché to je. Jak z mateřské školy, _cpt. Obvious_, ale divili byste se, kolik lidí na to zapomíná. Někteří vaří &#8222;levně&#8220;, z náhražek, polotovarů a dochucovadel, další zabijou kvalitní suroviny tím, že je kuchař nekvalitně zpracuje, další položí jídlo na ublemcaném talíři na špinavý ubrus s dírou&#8230; Možností, jak zabít jídlo, je spousta.
 
-<img class="aligncenter size-medium wp-image-2877" src="http://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-500x375.jpg" alt="" width="500" height="375" srcset="https://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-500x375.jpg 500w, https://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-200x150.jpg 200w, https://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-768x576.jpg 768w, https://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-1024x768.jpg 1024w, https://www.misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715.jpg 1600w" sizes="(max-width: 500px) 100vw, 500px" /> 
+<img class="aligncenter size-medium wp-image-2877" src="https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-768x576.jpg 768w, https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2017/10/columbian-restaurant-1470715.jpg 1600w" sizes="(max-width: 500px) 100vw, 500px" /> 
 
 Zpátky do médií: Možností, jak zabít informace, je spousta. **Co by asi Pohlreich řekl vydavatelům?**
 

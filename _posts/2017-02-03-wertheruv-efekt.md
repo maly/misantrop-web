@@ -4,7 +4,7 @@ title: Wertherův efekt
 date: 2017-02-03T11:05:04+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2732
+guid: https://misantrop.info/?p=2732
 permalink: /wertheruv-efekt/
 mashsb_timestamp:
   - "1576242939"

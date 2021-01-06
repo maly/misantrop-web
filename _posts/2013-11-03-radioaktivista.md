@@ -4,7 +4,7 @@ title: Radioaktivista
 date: 2013-11-03T18:01:53+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1621
+guid: https://misantrop.info/?p=1621
 permalink: /radioaktivista/
 mashsb_timestamp:
   - "1572769680"
@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/11/a-bowl-of-salad-1401249-m.jpg
 categories:
   - Nezařazené
 ---
-Tuhle jsem napsal [článek](http://www.misantrop.info/v-zemi-kde-neni-politika/), v něm jsem použil slovo &#8222;aktivista&#8220;, a to rozkývalo mé známé z řad liberálního městského voličstva natolik, že se se mnou jali diskutovat a dokazovat mi pomýlenost celého článku, protože aktivismus může být i užitečný. Dokonce padla i otázka, jestli hranice mezi chvályhodnou aktivitou a zavrženíhodným aktivismem nevede náhodou tam, co se vine hranice mezi mým zájmem a cizím zájmem. Kdepak, přátelé! Osvětlím vám svoje rozlišení těhle pojmů na příkladu&#8230;
+Tuhle jsem napsal [článek](https://misantrop.info/v-zemi-kde-neni-politika/), v něm jsem použil slovo &#8222;aktivista&#8220;, a to rozkývalo mé známé z řad liberálního městského voličstva natolik, že se se mnou jali diskutovat a dokazovat mi pomýlenost celého článku, protože aktivismus může být i užitečný. Dokonce padla i otázka, jestli hranice mezi chvályhodnou aktivitou a zavrženíhodným aktivismem nevede náhodou tam, co se vine hranice mezi mým zájmem a cizím zájmem. Kdepak, přátelé! Osvětlím vám svoje rozlišení těhle pojmů na příkladu&#8230;
 
 <!--more-->
 

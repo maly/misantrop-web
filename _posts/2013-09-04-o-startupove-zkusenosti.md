@@ -4,7 +4,7 @@ title: O startupové zkušenosti
 date: 2013-09-04T10:17:02+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1446
+guid: https://misantrop.info/?p=1446
 permalink: /o-startupove-zkusenosti/
 mashsb_timestamp:
   - "1574574482"
@@ -17,7 +17,7 @@ categories:
   - Nezařazené
 ---
 <p dir="ltr">
-  Následující článek byl napsaný pro <a href="http://ekonom.ihned.cz/">týdeník Ekonom</a>. Se souhlasem redakce ho zde zveřejňuju v původním znění (v tištěném vydání vyšel redakčně upravený a s opravenými chybami).
+  Následující článek byl napsaný pro <a href="https://ekonom.ihned.cz/">týdeník Ekonom</a>. Se souhlasem redakce ho zde zveřejňuju v původním znění (v tištěném vydání vyšel redakčně upravený a s opravenými chybami).
 </p>
 
 <p dir="ltr">

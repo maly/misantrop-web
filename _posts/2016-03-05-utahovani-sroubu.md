@@ -4,7 +4,7 @@ title: Utahování šroubů
 date: 2016-03-05T05:08:01+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2564
+guid: https://misantrop.info/?p=2564
 permalink: /utahovani-sroubu/
 mashsb_timestamp:
   - "1574980204"
@@ -42,4 +42,4 @@ Jak snadno jste uvěřili, že zlo má jedno jméno a jednu příčinu. Včera t
 
 **A jak jste si jako mysleli, že to dopadne?**
 
-(Psáno pro [IHNED.cz](http://www.ihned.cz))
+(Psáno pro [IHNED.cz](https://www.ihned.cz))

@@ -4,12 +4,12 @@ title: 'Kontroverzí ke konverzi&#8230;'
 date: 2010-12-03T07:33:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/kontroverzi-ke-konverzi/
+guid: https://misantrop.info/kontroverzi-ke-konverzi/
 permalink: /kontroverzi-ke-konverzi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "35202353"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/kontroverzi-ke-konverzi
+  - https://adent.posterous.com/kontroverzi-ke-konverzi
 mashsb_timestamp:
   - "1574982099"
 mashsb_shares:

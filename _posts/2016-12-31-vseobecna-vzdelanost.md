@@ -4,7 +4,7 @@ title: Všeobecná vzdělanost
 date: 2016-12-31T15:19:55+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2618
+guid: https://misantrop.info/?p=2618
 permalink: /vseobecna-vzdelanost/
 mashsb_timestamp:
   - "1575195177"

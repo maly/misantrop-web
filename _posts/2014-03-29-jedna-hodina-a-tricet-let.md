@@ -4,7 +4,7 @@ title: Jedna hodina a třicet let
 date: 2014-03-29T11:39:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1949
+guid: https://misantrop.info/?p=1949
 permalink: /jedna-hodina-a-tricet-let/
 mashsb_timestamp:
   - "1575567109"
@@ -24,9 +24,9 @@ Historie a anatomie jednoho tweetu&#8230;
 
 <!--more-->
 
-Může za to [Adam Javůrek](http://twitter.com/adbar).
+Může za to [Adam Javůrek](https://twitter.com/adbar).
 
-Loni před volbami jsme seděli v práci a probírali, co a jak budeme připravovat (viz [historky tady](http://economia.github.io/)). Měli jsme volby rozděleny na jaro &#8211; léto &#8211; podzim &#8211; zima, ale k tomu až někdy jindy. No a jak jsme probírali všechno možné, tak Adam zmínil: No a v neděli se navíc mění čas! Z letního na zimní.
+Loni před volbami jsme seděli v práci a probírali, co a jak budeme připravovat (viz [historky tady](https://economia.github.io/)). Měli jsme volby rozděleny na jaro &#8211; léto &#8211; podzim &#8211; zima, ale k tomu až někdy jindy. No a jak jsme probírali všechno možné, tak Adam zmínil: No a v neděli se navíc mění čas! Z letního na zimní.
 
 Což spustilo klasickou diskusi, která proběhne vždycky při takové změně. Někdo řekne: &#8222;Já vlastně ani nevím, jestli to je o hodinu dopředu, nebo dozadu&#8220;, jiný podotkne, že &#8222;dopředu a dozadu&#8220; jsou nejasné pojmy, další řekne, že ve tři hodiny si to posuneme zpátky na dvě, takže vlastně dozadu, další řekne &#8222;ne, to bylo na jaře&#8230;&#8220; a tak dál, znáte to. My se nakonec poměrně brzy shodli na tom, že to bude o hodinu dozadu. &#8222;To bude moc pěkný, až vyjdou ty noviny a tam budou vedle sebe výsledky voleb a ten obligátní titulek Posunuli jsme si ručičky o hodinu zpátky,&#8220; podotkl Adam. &#8222;No, taky by tam mohlo bejt &#8218;o dvacet let zpátky&#8216;,&#8220; povídám já. Zasmáli jsme se, a dobrý.
 

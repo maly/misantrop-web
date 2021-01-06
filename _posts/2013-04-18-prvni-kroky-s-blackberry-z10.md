@@ -4,7 +4,7 @@ title: První kroky s BlackBerry Z10
 date: 2013-04-18T09:30:41+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1245
+guid: https://misantrop.info/?p=1245
 permalink: /prvni-kroky-s-blackberry-z10/
 dsq_thread_id:
   - "1219571250"
@@ -25,7 +25,7 @@ Jak se switchuje z Windows Phone 7.x a jaké jsou první dojmy?
 
 <!--more-->
 
-**Díky [ShopBlackBerry.cz](http://www.shopblackberry.cz/) za zapůjčení Z10.**
+**Díky [ShopBlackBerry.cz](https://www.shopblackberry.cz/) za zapůjčení Z10.**
 
 Včera odpoledne jsem ho vybalil z krabičky, vzal z Lumie 900 MicroSIM a na dva týdny bude teď Z10 můj hlavní telefon.
 
@@ -47,7 +47,7 @@ WhatsApp funguje bez problémů.
 
 Nejrůznější kalkulačky, kompasy, hodiny, počasí, to je standardní výbava, o tom nemá smysl psát.
 
-Problém nastal s jízdními řády &#8211; na Lumii používám výborný CG Transit, na BB nejsou. Žádné. Podle Vojtěcha Dalekoreje z [ShopBlackBerry.cz](http://www.shopblackberry.cz/) na něčem už pracují, ale zatím nejsou.
+Problém nastal s jízdními řády &#8211; na Lumii používám výborný CG Transit, na BB nejsou. Žádné. Podle Vojtěcha Dalekoreje z [ShopBlackBerry.cz](https://www.shopblackberry.cz/) na něčem už pracují, ale zatím nejsou.
 
 Poslední aplikace, co mám na Lumii a používám, je Shazam / SoundHound. Na BB nejsou. Respektive jsou, ale v Androidí verzi. Totiž abyste rozuměli &#8211; Z10 umí (podobně jako Playbook) spustit Androidí aplikaci. Není to stoprocentní a perfektní, ale jde to. Tedy na Playbooku, na Z10 jsem měl zatím smůlu: Shazam ukáže černou obrazovku a nic. SoundHound poslouchá písničku a při odesílání na server se zhroutí. A co Instagram (jasně, Z10 dokáže spustit Instagram&#8230;)? Inu, s Instagramem se to má tak, že běží, ale já se na něj nedokážu přihlásit (ano, ani trik s resetem hesla přes FB nepomohl). Takže tady vítězí technika nad člověkem 3:0.
 
@@ -65,7 +65,7 @@ Stejná predikce funguje i u Z10. Když píšete, objevují se vám návrhy slov
 
 Na obrázku vidíte, co mám na mysli &#8211; nejen to, že vám klávesnice napovídá tvary a opravuje překlepy (to je brnkačka a samozřejmost), ale napovídá vám i celá slova podle kontextu toho, co píšete. Napsal jsem &#8222;Vzkaz pro&#8230;&#8220; &#8211; a predikce navrhuje pokračování: Tebe / sebe / mne / jistotu.
 
-[<img class="aligncenter size-medium wp-image-1254" alt="IMG_00000008" src="http://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png" width="300" height="500" srcset="https://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png 300w, https://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008-120x200.png 120w, https://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008-614x1024.png 614w, https://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png)
+[<img class="aligncenter size-medium wp-image-1254" alt="IMG_00000008" src="https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png" width="300" height="500" srcset="https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png 300w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-120x200.png 120w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-614x1024.png 614w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png)
 
 Ještě něco z prvních postřehů? No, snad jen to, že &#8222;flow&#8220; ovládání je docela příjemné a návykové.
 

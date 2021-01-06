@@ -4,12 +4,12 @@ title: Bojíme se Dělnické strany?
 date: 2010-01-19T13:39:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/bojime-se-delnicke-strany/
+guid: https://misantrop.info/bojime-se-delnicke-strany/
 permalink: /bojime-se-delnicke-strany/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10185976"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/bojime-se-delnicke-strany
+  - https://adent.posterous.com/bojime-se-delnicke-strany
 mashsb_timestamp:
   - "1575139555"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-V [klubu věnovan&eacute;m &scaron;patn&yacute;m b&aacute;sn&iacute;m](http://www.okoun.cz/old/boards/spatne_basne) jsem objevil perlu, kter&aacute; zač&iacute;nala slovy:
+V [klubu věnovan&eacute;m &scaron;patn&yacute;m b&aacute;sn&iacute;m](https://www.okoun.cz/old/boards/spatne_basne) jsem objevil perlu, kter&aacute; zač&iacute;nala slovy:
 
 _Politick&aacute; strana dnes před soudem stoj&iacute;,  
 zaplatili Sokola, tak stra&scaron;ně se j&iacute; boj&iacute;._

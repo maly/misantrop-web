@@ -4,12 +4,12 @@ title: 'Jak ulovit návštěvníka? Stejně jako rybu&#8230;'
 date: 2010-07-16T09:24:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/jak-ulovit-navstevnika-stejne-jako-rybu/
+guid: https://misantrop.info/jak-ulovit-navstevnika-stejne-jako-rybu/
 permalink: /jak-ulovit-navstevnika-stejne-jako-rybu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "23100713"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/jak-ulovit-navstevnika-stejne-jako-rybu
+  - https://adent.posterous.com/jak-ulovit-navstevnika-stejne-jako-rybu
 mashsb_timestamp:
   - "1574981107"
 mashsb_shares:
@@ -29,4 +29,4 @@ Zdá se mi, že změnit přístup k lovení ryb je pro lidi těžší než změn
 
 &#8212;
 
-Podobnost s diskusí u [článku na Zdrojáku](http://zdrojak.root.cz/clanky/kaslete-na-seo-nema-to-cenu/) není náhodná.
+Podobnost s diskusí u [článku na Zdrojáku](https://zdrojak.root.cz/clanky/kaslete-na-seo-nema-to-cenu/) není náhodná.

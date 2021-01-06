@@ -4,7 +4,7 @@ title: Jak nečíst Zdroják
 date: 2013-09-03T08:12:07+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1442
+guid: https://misantrop.info/?p=1442
 permalink: /jak-necist-zdrojak/
 dsq_thread_id:
   - "1698875382"
@@ -26,7 +26,7 @@ Vedení Zdrojáku rozhodně Martinovi nezávidím. Sám jsem si to zkusil, a ví
 
 Před časem jsme se o Zdrojáku bavili s Davidem Grudlem. Říkal jsem mu, že Zdroják nečtu, protože tam není nic, co by pro mě bylo nějak zajímavé. Jenže &#8211; co když tam něco zajímavého je, a já o tom akorát nevím, protože to nečtu? A tak když jsem včera zachytil na Facebooku odkaz na nový článek o SQLite, klikl jsem a přečetl.
 
-Článek ([SQLite: Databáze pro váš web](http://www.zdrojak.cz/clanky/sqlite-databaze-pro-vas-web/)) je špatný od začátku do konce. Zaprvé mě překvapilo, že v roce 2013 někdo &#8222;seznamuje se SQLite&#8220; &#8211; měl jsem zato, že SQLite je naprosto běžná a standardní součást výbavy webových kodérů. Poprvé jsem ji použil někdy v roce 2007 na jeden menší projekt. V roce 2010 jsem o ní psal v souvislosti s WebSQL jako o &#8222;databázi, kterou není nutné představovat&#8220;. Inu, asi je. Je to možné, přít se o to nebudu, ale pokud představit, tak trošku jinak.
+Článek ([SQLite: Databáze pro váš web](https://www.zdrojak.cz/clanky/sqlite-databaze-pro-vas-web/)) je špatný od začátku do konce. Zaprvé mě překvapilo, že v roce 2013 někdo &#8222;seznamuje se SQLite&#8220; &#8211; měl jsem zato, že SQLite je naprosto běžná a standardní součást výbavy webových kodérů. Poprvé jsem ji použil někdy v roce 2007 na jeden menší projekt. V roce 2010 jsem o ní psal v souvislosti s WebSQL jako o &#8222;databázi, kterou není nutné představovat&#8220;. Inu, asi je. Je to možné, přít se o to nebudu, ale pokud představit, tak trošku jinak.
 
 Autor (Vlastimil Pospíchal) pojal článek jako&#8230; jako&#8230; těžko hledat označení. Posuďte sami:
 
@@ -38,7 +38,7 @@ Autor pak píše o tom, že SQLite není vhodná pro sdílená úložiště (bud
 
 &#8222;Nejsou zde vnořené procedury, ale vzhledem k tomu, že mezi aplikací a databází nedochází k síťovým přenosům, nejsou ani potřebné.&#8220; Vnořenými procedurami myslí autor asi procedury &#8222;uložené&#8220; (stored). Souvislost stored procedures se síťovými přenosy je pak zcela volná&#8230;
 
-Závěr je pak velkolepý: Autor zmiňuje, že existují verze 2, 3 a 4, že verze 2 je zastaralá, tu nedoporučuje, verze 3 je používaná, tu by doporučil, a s verzí 4 se ještě pořádně neseznámil. Informační hodnota: 0.4 RTNOZ ([jednotka informační hodnoty](http://blog.maly.cz/index.php?item=841), 1 RTNOZ = informační hodnota Reportáže Televizních Novin o Zvířátkách). Pokud autor chce psát seznámení, možná by si měl dát tu práci a sepsat rozdíly mezi verzemi, když už si tedy nedá práci a neseznámí se s tím, co chystá nová verze.
+Závěr je pak velkolepý: Autor zmiňuje, že existují verze 2, 3 a 4, že verze 2 je zastaralá, tu nedoporučuje, verze 3 je používaná, tu by doporučil, a s verzí 4 se ještě pořádně neseznámil. Informační hodnota: 0.4 RTNOZ ([jednotka informační hodnoty](https://blog.maly.cz/index.php?item=841), 1 RTNOZ = informační hodnota Reportáže Televizních Novin o Zvířátkách). Pokud autor chce psát seznámení, možná by si měl dát tu práci a sepsat rozdíly mezi verzemi, když už si tedy nedá práci a neseznámí se s tím, co chystá nová verze.
 
 A tohle, prosím, bude mít pokračování. Příště o třídě PDO.
 

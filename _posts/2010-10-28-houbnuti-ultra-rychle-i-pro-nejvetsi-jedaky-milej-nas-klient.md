@@ -4,12 +4,12 @@ title: Houbnutí ultra rychle i pro největší jedáky, milej náš klient!
 date: 2010-10-28T11:15:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/
+guid: https://misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/
 permalink: /houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "31797312"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m
+  - https://adent.posterous.com/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m
 mashsb_timestamp:
   - "1572954136"
 mashsb_shares:
@@ -42,7 +42,7 @@ Asi v&iacute;te, co jsem chtěl odpovědět &#8211; až do chv&iacute;le, než j
 Tedy, ony ty strojov&eacute; překlady obecně stoj&iacute; za houby (&#8222;Drahou&scaron;ek z&aacute;kazn&iacute;k&#8220;), ale tenhle, to je fakt pomsta! **Milej n&aacute;&scaron; klient! Zhoubni 1 kilo za den**. Prostředky pro houbnut&iacute; i pro největ&scaron;&iacute; jed&aacute;ky! V&scaron;e pro tv&eacute; dobro!
 
 <div class='p_embed p_image_embed'>
-  <img alt="Houbnuti_jedaku" height="1017" src="http://www.misantrop.info/wp-content/uploads/2010/10/houbnuti_jedaku.png.scaled500-245x500.png" width="500" />
+  <img alt="Houbnuti_jedaku" height="1017" src="https://misantrop.info/wp-content/uploads/2010/10/houbnuti_jedaku.png.scaled500-245x500.png" width="500" />
 </div>
 
 Tak se hlaste &#8211; kdo chcete do datab&aacute;ze př&iacute;jemců těhle newsletterů? Pi&scaron;te s předmětem _HOUBNUT&Iacute; PRO JED&Aacute;KY_ a přiložte pětikorunu.

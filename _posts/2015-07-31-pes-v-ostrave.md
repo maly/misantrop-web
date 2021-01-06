@@ -4,7 +4,7 @@ title: Pes v Ostravě
 date: 2015-07-31T12:52:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2329
+guid: https://misantrop.info/?p=2329
 permalink: /pes-v-ostrave/
 mashsb_timestamp:
   - "1569706020"
@@ -24,7 +24,7 @@ Psa jsme vozili na hlídání přes celou republiku, až k Ostravě. Lidi se dí
 
 <!--more-->
 
-Ještě než jsme poznali [Magdalenu](http://www.koira.cz/), tak jsme podnikli několik zoufalých pokusů nechat si psa hlídat někde jinde, blíž atd. Z prvního hlídání se vrátila zaprášená a vyklepaná, z druhého si stěžovali, že &#8222;je velmi hlučná&#8220; (no, dobrman bývá&#8230;), no a pak jsme jednou vezli psa dokonce kamsi na samotu, kde paní, chovatelka a hlídačka, měla takovou chatu a svého muže.
+Ještě než jsme poznali [Magdalenu](https://www.koira.cz/), tak jsme podnikli několik zoufalých pokusů nechat si psa hlídat někde jinde, blíž atd. Z prvního hlídání se vrátila zaprášená a vyklepaná, z druhého si stěžovali, že &#8222;je velmi hlučná&#8220; (no, dobrman bývá&#8230;), no a pak jsme jednou vezli psa dokonce kamsi na samotu, kde paní, chovatelka a hlídačka, měla takovou chatu a svého muže.
 
 Ten nám přišel naproti v myslivecké uniformě, psa si i s vodítkem převzal a šli jsme. Když jsme k nim došli, tak prohlásil, že se jde se psem sžít, protože se mu zdá &#8222;problémová&#8220;. Například se po cestě divil, že nemá obojek s ostny, když je to to bojové plemeno.
 
@@ -46,4 +46,4 @@ U Magdy se pes stal součástí smečky naprosto bez problému a několik let ta
 
 &#8212;
 
-Dneska to jsou dva roky, co [Bany z Borovanských lesů zemřela](http://www.misantrop.info/zivot-dobrmanuv/).
+Dneska to jsou dva roky, co [Bany z Borovanských lesů zemřela](https://misantrop.info/zivot-dobrmanuv/).

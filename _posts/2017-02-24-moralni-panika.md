@@ -4,7 +4,7 @@ title: Morální panika
 date: 2017-02-24T10:13:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2765
+guid: https://misantrop.info/?p=2765
 permalink: /moralni-panika/
 mashsb_timestamp:
   - "1575818634"
@@ -40,7 +40,7 @@ tags:
 
 <span style="font-weight: 400;">Jsem přesvědčený, a neptejte se mě proč, o tom, že celonárodní útěk z letošního léta dopadne stejně. Že prostě panika pomine, lidé se zastaví, potřesou hlavama a vrátí se k tomu, co dělali ještě letos na jaře. Jen jak se budou rozcházet, tak se budou vyhýbat pohledům do očí.</span>
 
-<span style="font-weight: 400;">Můj nejasný pocit velmi pěkně sepsal a příklady podepřel Peter Lelovič: </span>[<span style="font-weight: 400;">http://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html</span>](http://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html) <span style="font-weight: 400;">&#8211; to, co prožíváme, je jev sociologii známý jako “morální panika”. A morální panika nakonec odezní tak rychle jak začala. Všechny strachy o kulturu, o “naše děti”, o sociální dávky pominou, největší radikálové se opět ocitnou na okraji, imigrace se stane standardní součástí politického života a přesune se z kategorie “emocionální problém” do kategorie “věcný problém”&#8230;</span>
+<span style="font-weight: 400;">Můj nejasný pocit velmi pěkně sepsal a příklady podepřel Peter Lelovič: </span>[<span style="font-weight: 400;">https://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html</span>](https://sedesako.blogspot.cz/2015/09/rozumem-strach-z-certu-nezazenes.html) <span style="font-weight: 400;">&#8211; to, co prožíváme, je jev sociologii známý jako “morální panika”. A morální panika nakonec odezní tak rychle jak začala. Všechny strachy o kulturu, o “naše děti”, o sociální dávky pominou, největší radikálové se opět ocitnou na okraji, imigrace se stane standardní součástí politického života a přesune se z kategorie “emocionální problém” do kategorie “věcný problém”&#8230;</span>
 
 <span style="font-weight: 400;">Podobnou paniku známe z té “vyspělé západní evropy”, kde se báli hord z necivilizovaného východu, co po otevření trhu přijdou k nim domů a budou jim brát práci (“polský instalatér”, pamatujete?), nebudou mít základní civilizační návyky, budou bít ženy a ty se budou živit prostitucí, protože tak to přeci ve východní evropě chodí. Jak se vám to čte? Čtete o sobě, aby bylo jasno. Tohle o nás psala média ve “staré EU”. </span>
 

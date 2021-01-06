@@ -4,12 +4,12 @@ title: Open source != Komunitní
 date: 2011-03-18T18:40:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/open-source-komunitni/
+guid: https://misantrop.info/open-source-komunitni/
 permalink: /open-source-komunitni/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "46429787"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/open-source-komunitni
+  - https://adent.posterous.com/open-source-komunitni
 mashsb_timestamp:
   - "1571864633"
 mashsb_shares:

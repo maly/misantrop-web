@@ -4,12 +4,12 @@ title: 'Že já ty diskuse o GPL čtu&#8230; :/'
 date: 2010-08-14T07:08:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/ze-ja-ty-diskuse-o-gpl-ctu/
+guid: https://misantrop.info/ze-ja-ty-diskuse-o-gpl-ctu/
 permalink: /ze-ja-ty-diskuse-o-gpl-ctu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "25706102"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/ze-ja-ty-diskuse-o-gpl-ctu
+  - https://adent.posterous.com/ze-ja-ty-diskuse-o-gpl-ctu
 mashsb_timestamp:
   - "1558453480"
 mashsb_shares:

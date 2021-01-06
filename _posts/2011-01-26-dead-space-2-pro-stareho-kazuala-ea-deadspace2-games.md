@@ -4,12 +4,12 @@ title: 'Dead Space 2 pro starého kažuála #EA #DeadSpace2 #games'
 date: 2011-01-26T07:10:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
+guid: https://misantrop.info/dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
 permalink: /dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "40989281"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/dead-space-2-pro-stareho-kazuala-ea-deadspace
+  - https://adent.posterous.com/dead-space-2-pro-stareho-kazuala-ea-deadspace
 mashsb_timestamp:
   - "1550063194"
 mashsb_shares:
@@ -19,9 +19,9 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-(Pokud nev&iacute;te, co je to kažu&aacute;l, anglicky casual, tak je to [takov&yacute; mal&yacute; p&scaron;tros s přilbou na hlavě](http://cs.wikipedia.org/wiki/Kasu%C3%A1r_p%C5%99ilbov%C3%BD), a z nějak&eacute;ho důvodu tak přezd&iacute;vaj&iacute; n&aacute;m, lidem bez beďarů s ukončenou &scaron;koln&iacute; doch&aacute;zkou, co nemaj&iacute; čas tr&aacute;vit denně hran&iacute;m několik hodin, ale hraj&iacute; jen p&aacute;r hodin t&yacute;dně.)
+(Pokud nev&iacute;te, co je to kažu&aacute;l, anglicky casual, tak je to [takov&yacute; mal&yacute; p&scaron;tros s přilbou na hlavě](https://cs.wikipedia.org/wiki/Kasu%C3%A1r_p%C5%99ilbov%C3%BD), a z nějak&eacute;ho důvodu tak přezd&iacute;vaj&iacute; n&aacute;m, lidem bez beďarů s ukončenou &scaron;koln&iacute; doch&aacute;zkou, co nemaj&iacute; čas tr&aacute;vit denně hran&iacute;m několik hodin, ale hraj&iacute; jen p&aacute;r hodin t&yacute;dně.)
 
-Spolu s několika obl&iacute;ben&yacute;mi autory hern&iacute;ch magaz&iacute;nů, co čtu (to jsou ty, kde se &scaron;estn&aacute;ctilet&iacute; netv&aacute;ř&iacute; jako v&scaron;eznal&iacute; recenzenti her a nepadaj&iacute; v nich slova jako &#8222;rotač&aacute;k&#8220;), s několika dal&scaron;&iacute;mi lidmi, co nečtu, a s [Tlamiczkou](http://www.tlamiczka.com/), kterou jsem pot&eacute; č&iacute;st začal, jsem se před p&aacute;r dny z&uacute;častnil, a to p&eacute;č&iacute; sv&aacute;řeče kytarov&yacute;ch strun Jardy F., jeho kolegy Mirka B. a hern&iacute;ho pečovatele Slavom&iacute;ra B., d&iacute;ky ho&scaron;i, předv&aacute;děčky nov&eacute;ho horroru, totiž Dead Space 2. ([Již brzy na va&scaron;ich stroj&iacute;ch.](http://www.xzone.cz/nahledgame.php3?idg=2579&a_aid=gamer&a_bid=df0fae5f))
+Spolu s několika obl&iacute;ben&yacute;mi autory hern&iacute;ch magaz&iacute;nů, co čtu (to jsou ty, kde se &scaron;estn&aacute;ctilet&iacute; netv&aacute;ř&iacute; jako v&scaron;eznal&iacute; recenzenti her a nepadaj&iacute; v nich slova jako &#8222;rotač&aacute;k&#8220;), s několika dal&scaron;&iacute;mi lidmi, co nečtu, a s [Tlamiczkou](https://www.tlamiczka.com/), kterou jsem pot&eacute; č&iacute;st začal, jsem se před p&aacute;r dny z&uacute;častnil, a to p&eacute;č&iacute; sv&aacute;řeče kytarov&yacute;ch strun Jardy F., jeho kolegy Mirka B. a hern&iacute;ho pečovatele Slavom&iacute;ra B., d&iacute;ky ho&scaron;i, předv&aacute;děčky nov&eacute;ho horroru, totiž Dead Space 2. ([Již brzy na va&scaron;ich stroj&iacute;ch.](https://www.xzone.cz/nahledgame.php3?idg=2579&a_aid=gamer&a_bid=df0fae5f))
 
 Jedničku jsem nehr&aacute;l, přizn&aacute;m se na rovinu, to mi nějak uniklo. _Z ž&aacute;nru jsem hr&aacute;l akor&aacute;t F.E.A.R. a F.E.A.R.2, interně překřtěn&eacute; na N.U.D.A. a N.U.D.A.V.B.R.N.Ě. (totiž jak zn&aacute;mo &#8211; zpozarohuvyskakuj&iacute;c&iacute; př&iacute;&scaron;erou sice lekne&scaron;, ale naprosto stejn&yacute;mi m&iacute;stnostmi, pospojovan&yacute;mi stejn&yacute;mi chodbami, a vyp&iacute;načem od v&yacute;tahu 3&#215;3 pixely za fikusem leda tak otr&aacute;v&iacute;&scaron;; po třet&iacute;m levelu nasere&scaron;)._ Ale r&aacute;d si nech&aacute;m něco pěkn&eacute;ho doporučit. Jarda už mi doporučil Saboteura, Dragon age nebo Mass Effect, takže věř&iacute;m, že nedoporuč&iacute; kravinu.
 

@@ -4,7 +4,7 @@ title: 'Nokia Lumia 900 v kapse&#8230;'
 date: 2012-09-02T11:04:03+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=560
+guid: https://misantrop.info/?p=560
 permalink: /nokia-lumia-900-v-kapse/
 dsq_thread_id:
   - "827755848"
@@ -27,11 +27,11 @@ Před drahnou dobou jsem veřejně napsal, že po vyzkoušení nejrůznějších
 
 A tak jsem jednoho dne nahradil svůj soukromý telefon HTC Radarem a služební Lumií 800,  a bylo to. Chvilku jsem z jejich předchůdců doloval kontakty, ty jsem importoval do Outlooku, a dneska mám &#8222;všechny na všech&#8220; &#8211; čti: kontakt na kohokoli ve všech telefonech. Jediné, co mi chybí, je inteligentní správa těch kontaktů, protože Outlook buď správu adresářů nemá, nebo ji přede mnou dovedně tají. (To, že vypíše kontakty na obrazovku jako kartičky, rozhodně nelze nazývat &#8222;správou&#8220;).
 
-[Používal jsem Lumii 800 nějakou dobu](http://www.misantrop.info/proc-si-koupit-lumii-800/) a &#8211; jak to jen říct: Fungovala. Stejně tak jako Radar. Jsou to zařízení, které ve vás nevyvolají záchvaty. Nemám touhu strkat Lumii každému pod nos a ukazovat &#8222;Hele, hele&#8230; vidíš tuhle aplikaci?&#8220; Není to nic &#8222;fancy kewl&#8220; &#8211; a tady reklama IMHO míří mimo. Lumie je pěkná, to jo, ale není to designový šperk. Spíš mi k tomu sedí adjektivum &#8222;funkční&#8220;. Asi jako &#8222;funkční prádlo&#8220;. Není to nic, co budete ukazovat, ale jste rádi, že to máte, že to funguje a že to dělá co od toho čekáte.
+[Používal jsem Lumii 800 nějakou dobu](https://misantrop.info/proc-si-koupit-lumii-800/) a &#8211; jak to jen říct: Fungovala. Stejně tak jako Radar. Jsou to zařízení, které ve vás nevyvolají záchvaty. Nemám touhu strkat Lumii každému pod nos a ukazovat &#8222;Hele, hele&#8230; vidíš tuhle aplikaci?&#8220; Není to nic &#8222;fancy kewl&#8220; &#8211; a tady reklama IMHO míří mimo. Lumie je pěkná, to jo, ale není to designový šperk. Spíš mi k tomu sedí adjektivum &#8222;funkční&#8220;. Asi jako &#8222;funkční prádlo&#8220;. Není to nic, co budete ukazovat, ale jste rádi, že to máte, že to funguje a že to dělá co od toho čekáte.
 
 Přišla Lumia 900 a já jí nahradil Radar (a Lumii 800 jsem nahradil BlackBerry, ale to je jiný příběh).
 
-<a href="http://www.misantrop.info/?attachment_id=564" rel="attachment wp-att-564"><img class="aligncenter size-medium wp-image-564" title="WP_000176" src="http://www.misantrop.info/wp-content/uploads/2012/10/WP_000176-375x500.jpg" alt="" width="375" height="500" /></a>
+<a href="https://misantrop.info/?attachment_id=564" rel="attachment wp-att-564"><img class="aligncenter size-medium wp-image-564" title="WP_000176" src="https://misantrop.info/wp-content/uploads/2012/10/WP_000176-375x500.jpg" alt="" width="375" height="500" /></a>
 
 Lumia 900 má samosebou microSIM, takže moje stará SIM, co mám od roku 2000 ještě s logem OSKAR, musela na circumcizi. Ořízli ji, zasunul jsem ji do Lumie, &#8222;NO SIM!&#8220; [Karramba](https://twitter.com/adent/status/228086101598953472)! Oříznutá SIM v iPhonu fungovala. Kolegova oříznutá SIM z iPhonu v Lumii taky. Aha. Divné&#8230; Takže jsem šel do prodejny VF znovu, [dostal novou MicroSIM](https://twitter.com/adent/status/228154504896475136), a všechno začalo fungovat. Velmi pravděpodobná příčina: stará SIMka v Lumii 900 není podporovaná.
 
@@ -41,15 +41,15 @@ Lumia 900 je jako Lumia 800 &#8211; jen větší a bez gumového prezervativu. D
 
 Kdybych byl nadšenec do Androidů, rozplývám se nad tím, že mám osm různých aplikací pro fotoaparát. Kdybych byl nadšenec do iPhone, tak sliním nad možností <del>zkurvit</del> zInstagramovat fotku jedním kliknutím. Kdybych psal pro blog Radka Hulána, napíšu, že Lumie má objektivně nejlepší fotografie ever. Nejsem a nepíšu, takže: fotí dobře a jsou tam pro foťák doplňky jako &#8222;focení panoramat&#8220;.
 
-<a href="http://www.misantrop.info/?attachment_id=562" rel="attachment wp-att-562"><img class="aligncenter size-full wp-image-562" title="WP_000134" src="http://www.misantrop.info/wp-content/uploads/2012/10/WP_000134.jpg" alt="SOOS - foceno Lumií" width="400" height="300" /></a>
+<a href="https://misantrop.info/?attachment_id=562" rel="attachment wp-att-562"><img class="aligncenter size-full wp-image-562" title="WP_000134" src="https://misantrop.info/wp-content/uploads/2012/10/WP_000134.jpg" alt="SOOS - foceno Lumií" width="400" height="300" /></a>
 
-<a href="http://www.misantrop.info/?attachment_id=563" rel="attachment wp-att-563"><img class="aligncenter size-full wp-image-563" title="WP_000128" src="http://www.misantrop.info/wp-content/uploads/2012/10/WP_000128.jpg" alt="" width="400" height="300" /></a>Totéž platí pro další komponenty celé Lumie: Fungují solidně. Co o tom chcete psát dál? Že GPS je schopná vás najít a že svítilna svítí? Hm&#8230; Všechno to je uvnitř, všechno to funguje, a co mi u Lumie 800 vadilo, to tu už není, takže nevadí&#8230;
+<a href="https://misantrop.info/?attachment_id=563" rel="attachment wp-att-563"><img class="aligncenter size-full wp-image-563" title="WP_000128" src="https://misantrop.info/wp-content/uploads/2012/10/WP_000128.jpg" alt="" width="400" height="300" /></a>Totéž platí pro další komponenty celé Lumie: Fungují solidně. Co o tom chcete psát dál? Že GPS je schopná vás najít a že svítilna svítí? Hm&#8230; Všechno to je uvnitř, všechno to funguje, a co mi u Lumie 800 vadilo, to tu už není, takže nevadí&#8230;
 
 <!&#8212; Konec prostoru pro nadšení &#8212;>
 
 Asi největší problém jsem u Lumie 900 měl s její velikostí. Přesahují rozměry čehokoli, co je rozumně umístitelné do kapsy. Kdo mě znáte, tak potvrdíte, že jsem utilitarista, kterému je naprosto jedno, jak (například) kalhoty vypadají, pokud se mi v nich pohodlně chodí a sedí. Takže ano, klidně si sednu s Lumií 900 v kapse a netrápí mě, že se mi kapsa vyboulí &#8211; ale neskutečně mě prudí, že to je nepohodlné. Tlačí to. Dost na tom, že jsem si zvykl na peněženku &#8211; a zaplaťstát za to, že nové občanky a řidičáky jsou kolečně menší a já mám peněženku menší než dlaň. A do toho Lumie 900! Bleskový [průzkum na Twitteru](https://twitter.com/adent/status/227745427896807425) ukázal, že to lidé nosí v kapsách u kalhot. Inu, poplakal jsem si. Až někdy někdo vymyslí na podobné přístroje nějaké pohodlné tělní pouzdro, třeba na hrudníku či v podpaží, budu první, kdo to zkusí. (Pokud chcete nosit Lumii v podprsence a jste žena, tak vězte, že pro pohodlné nošení vyžaduje košíčky velikosti E, lépe F. Pokud chcete nosit Lumii v podprsence a jste muž, tak mi to, prosím, hlavně nepište do komentářů jako dobrý tip!)
 
-Když se vrátím k systému WP7.5: Je příjemně svižný. Ovládání je otázka zvyku &#8211; Davidova scénka &#8222;[voláme Lence](http://www.latrine.cz/windows-phone-dil-1-volani-lence)&#8220; je legrace na první tři dny, pak už je Lenka buď v seznamu, nebo na úvodní obrazovce, a volá se jí na dvě kliknutí&#8230; Lumie 900 už má tethering v systému.
+Když se vrátím k systému WP7.5: Je příjemně svižný. Ovládání je otázka zvyku &#8211; Davidova scénka &#8222;[voláme Lence](https://www.latrine.cz/windows-phone-dil-1-volani-lence)&#8220; je legrace na první tři dny, pak už je Lenka buď v seznamu, nebo na úvodní obrazovce, a volá se jí na dvě kliknutí&#8230; Lumie 900 už má tethering v systému.
 
 Naprosto kokotské, ale jako že **MEGAkokotské**, je hardwarové tlačítko hledání, které spustí Explorer, a v něm otevře Bing. Navíc tu verzi, která není pro mobilní zařízení &#8211; vysloveně hnusnou s naprosto miniaturním vyhledávacím políčkem, zato s obrázkovou plachtou na pozadí. Tohle tlačítko je navíc umístěné tak blbě, že si ho občas zmáčknete nedobrovolně. Pak máte sto chutí ho vybrousit šmirglem a zalít něčím ošklivým, aby už nikdy nefungovalo. Udělal jsem si k tomu takový malý průzkum:
 

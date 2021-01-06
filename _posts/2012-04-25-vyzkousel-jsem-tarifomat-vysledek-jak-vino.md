@@ -4,7 +4,7 @@ title: 'Vyzkoušel jsem Tarifomat. Výsledek? Jak víno&#8230;'
 date: 2012-04-25T20:23:29+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=313
+guid: https://misantrop.info/?p=313
 permalink: /vyzkousel-jsem-tarifomat-vysledek-jak-vino/
 mashsb_timestamp:
   - "1574123298"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Pamatujete, jak mi u [článku o Tarifomatu](http://www.misantrop.info/tariffffuuuuuumat/) psal jeho provozovatel &#8222;Vyzkoušejte nás&#8230;&#8220;? Tak jsem je vyzkoušel.
+Pamatujete, jak mi u [článku o Tarifomatu](https://misantrop.info/tariffffuuuuuumat/) psal jeho provozovatel &#8222;Vyzkoušejte nás&#8230;&#8220;? Tak jsem je vyzkoušel.
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Chvíli po odeslání jsem kdesi v zákrutech jejich webu objevil, že BIS k tar
 
 Konkurence taky nic moc, všechno začíná na 300, ale mají pěkný tarif M2M, za 25 Kč měsíčně, kde sice stojí volání nehoráznou sumu, ale furt je to ve výsledku levnější než 300 za něco, co nepotřebuju. Takhle si aspoň zaplatím jen to, co provolám. A světe div se, k M2M tarifu lze zřídit BIS. Bylo rozhodnuto.
 
-A v tu chvíli mi kýho čert nakukal, abych zkusil <a href="http://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomat</a>. Zkusil jsem, zadal jsem číslo, a opravdu, druhý den zavolali. Plusový bod.
+A v tu chvíli mi kýho čert nakukal, abych zkusil <a href="https://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomat</a>. Zkusil jsem, zadal jsem číslo, a opravdu, druhý den zavolali. Plusový bod.
 
 Vysvětlil jsem člověku své požadavky, tedy co nejnižší paušál, protože ho nevyužiju, a aby šlo BIS. Pán mi nabídl Vodafone s InKartou, to jsem mu vysvětlil že nemohu (ostatně už na svou InKartu jeden telefon u VF mám), a pak T-Mo a O2, oboje za 300.
 
@@ -43,6 +43,6 @@ Povídám: &#8222;A co třeba M2M tarif od T-Mo za 25 Kč?&#8220; Prý: &#8222;N
 
 Kul jsem železo, dokud bylo žhavé. &#8222;Poslyšte, a co ta neveřejná nabídka? Váš ředitel povídal, že máte nějaké neveřejné nabídky, a proto že chcete telefonní číslo, protože je na web napsat nemůžete&#8230;&#8220;
 
-A tak jsem se dozvěděl, že **neveřejná nabídka <a href="http://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomatu</a> je pouze při přechodu na tarif O2**. Ještě jsem se ujistil: &#8222;Takže při přechodu k T-Mobile&#8230;?&#8220; Ne. Ani k Vodafonu. Je to pouze při přechodu (ne pro nové zákazníky) od jiného operátora k O2. _(Prodávám jak jsem koupil od volajícího z <a href="http://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomatu</a>, a bylo to cca před dvěma týdny&#8230; Po podrobnostech jsem se nepídil.)_
+A tak jsem se dozvěděl, že **neveřejná nabídka <a href="https://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomatu</a> je pouze při přechodu na tarif O2**. Ještě jsem se ujistil: &#8222;Takže při přechodu k T-Mobile&#8230;?&#8220; Ne. Ani k Vodafonu. Je to pouze při přechodu (ne pro nové zákazníky) od jiného operátora k O2. _(Prodávám jak jsem koupil od volajícího z <a href="https://www.anrdoezrs.net/jc102nmvsmu9CJHAIHF9BBJCBDHC" target="_top" onmouseover="window.status='https://tarifomat.cz';return true;" onmouseout="window.status=' ';return true;">Tarifomatu</a>, a bylo to cca před dvěma týdny&#8230; Po podrobnostech jsem se nepídil.)_
 
 Taková neveřejná nabídka (vlastně už veřejná, oops!) mě opravdu pobavila. Kolikpak bodů strhnout? 😉

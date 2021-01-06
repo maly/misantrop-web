@@ -4,7 +4,7 @@ title: Národní plurál
 date: 2013-01-27T15:24:58+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=760
+guid: https://misantrop.info/?p=760
 permalink: /narodni-plural/
 mashsb_timestamp:
   - "1574982569"

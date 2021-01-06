@@ -4,7 +4,7 @@ title: Oprava pluginu pro Sublime Text 2
 date: 2013-07-14T14:31:08+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1379
+guid: https://misantrop.info/?p=1379
 permalink: /oprava-pluginu-pro-sublime-text-2/
 dsq_thread_id:
   - "1499967303"
@@ -22,4 +22,4 @@ tags:
   - Ostoweb
   - Sublime Text 2
 ---
-[Přesunuto na WebScript.cz](http://webscript.cz/oprava-pluginu-pro-sublime-text-2/)
+[Přesunuto na WebScript.cz](https://webscript.cz/oprava-pluginu-pro-sublime-text-2/)

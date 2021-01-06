@@ -4,12 +4,12 @@ title: 'Reklamace počesku &#8211; to abys nevyšel ze cviku, prevíte zákaznic
 date: 2011-10-21T10:22:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
+guid: https://misantrop.info/reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
 permalink: /reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "76366942"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/reklamace-pocesku-to-abys-nevysel-ze-cviku-pr
+  - https://adent.posterous.com/reklamace-pocesku-to-abys-nevysel-ze-cviku-pr
 dsq_thread_id:
   - "1090449026"
 mashsb_timestamp:
@@ -21,7 +21,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Jsem reklamačně zmls&aacute;n. Když jsem si před časem koupil na Amazonu [navigaci TomTom](http://www.amazon.com/s?ie=UTF8&redirect=true&ref_=sr_tref_p_brandtextbin_7&keywords=gps&qid=1319192493&rnid=15784691&rh=n%3A172526%2Cp_brandtextbin%3ATomTom%2Ck%3Agps&_encoding=UTF8&tag=dein-20&linkCode=ur2&camp=1789&creative=390957)<img class=" jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij" src="https://www.assoc-amazon.com/e/ir?t=dein-20&l=ur2&o=1" border="0" height="1" alt="" style="border: none !important; margin: 0px !important;" width="1" /> a musel jsem ji reklamovat, přijel si pro ni kur&yacute;r až ke mně domů (na n&aacute;klady v&yacute;robce) a zp&aacute;tky mi poslali nověj&scaron;&iacute; revizi s aktualizovan&yacute;mi mapami, _děkujeme, že jste u n&aacute;s nakoupil_. Ve&scaron;ker&eacute; reklamace Kindlů, koupen&yacute;ch v USA, se nesly ve stejn&eacute;m duchu. N&aacute;kup PC komponent b&yacute;v&aacute; často i v ČR podobn&yacute;: neře&scaron;&iacute;me, vyměn&iacute;me, děkujeme. Když si nejmenovan&iacute; př&iacute;buzn&iacute; koupili tisk&aacute;rnu, nevyt&aacute;hli z toneru bezpečnostn&iacute; p&aacute;sky, jen ustř&iacute;hli konce, a pak si stěžovali, že &#8222;to netiskne&#8220;, prodejce okem nemrkl a vyměnil tisk&aacute;rnu za jinou. Děkujeme že jste u n&aacute;s nakoupili.
+Jsem reklamačně zmls&aacute;n. Když jsem si před časem koupil na Amazonu [navigaci TomTom](https://www.amazon.com/s?ie=UTF8&redirect=true&ref_=sr_tref_p_brandtextbin_7&keywords=gps&qid=1319192493&rnid=15784691&rh=n%3A172526%2Cp_brandtextbin%3ATomTom%2Ck%3Agps&_encoding=UTF8&tag=dein-20&linkCode=ur2&camp=1789&creative=390957)<img class=" jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij jrfaapqczfodioceztij" src="https://www.assoc-amazon.com/e/ir?t=dein-20&l=ur2&o=1" border="0" height="1" alt="" style="border: none !important; margin: 0px !important;" width="1" /> a musel jsem ji reklamovat, přijel si pro ni kur&yacute;r až ke mně domů (na n&aacute;klady v&yacute;robce) a zp&aacute;tky mi poslali nověj&scaron;&iacute; revizi s aktualizovan&yacute;mi mapami, _děkujeme, že jste u n&aacute;s nakoupil_. Ve&scaron;ker&eacute; reklamace Kindlů, koupen&yacute;ch v USA, se nesly ve stejn&eacute;m duchu. N&aacute;kup PC komponent b&yacute;v&aacute; často i v ČR podobn&yacute;: neře&scaron;&iacute;me, vyměn&iacute;me, děkujeme. Když si nejmenovan&iacute; př&iacute;buzn&iacute; koupili tisk&aacute;rnu, nevyt&aacute;hli z toneru bezpečnostn&iacute; p&aacute;sky, jen ustř&iacute;hli konce, a pak si stěžovali, že &#8222;to netiskne&#8220;, prodejce okem nemrkl a vyměnil tisk&aacute;rnu za jinou. Děkujeme že jste u n&aacute;s nakoupili.
 
 J&oacute;, ale jinde, tam je to poř&aacute;d hezky posocialisticku.
 

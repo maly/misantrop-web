@@ -4,12 +4,12 @@ title: Stávka! Stávka!
 date: 2011-06-10T10:07:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/stavka-stavka/
+guid: https://misantrop.info/stavka-stavka/
 permalink: /stavka-stavka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "56639044"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/stavka-stavka
+  - https://adent.posterous.com/stavka-stavka
 mashsb_timestamp:
   - "1547539924"
 mashsb_shares:

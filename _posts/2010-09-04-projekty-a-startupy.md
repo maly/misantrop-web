@@ -4,12 +4,12 @@ title: 'Projekty a startupy&#8230;'
 date: 2010-09-04T15:33:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/projekty-a-startupy/
+guid: https://misantrop.info/projekty-a-startupy/
 permalink: /projekty-a-startupy/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "27322742"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/projekty-a-startupy
+  - https://adent.posterous.com/projekty-a-startupy
 mashsb_timestamp:
   - "1575525012"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-**Přesunuto a roz&scaron;&iacute;řeno [na Zdroj&aacute;ku](http://zdrojak.root.cz/clanky/projektu-jak-kdyz-naseje/)**
+**Přesunuto a roz&scaron;&iacute;řeno [na Zdroj&aacute;ku](https://zdrojak.root.cz/clanky/projektu-jak-kdyz-naseje/)**
 
 <span style="text-decoration: line-through;">Program&aacute;toři jsou vět&scaron;inou chytř&iacute; lid&eacute;, i když jejich inteligence b&yacute;v&aacute; poněkud jednostranně orientovan&aacute;. Mnoho z nich m&aacute; v&yacute;born&eacute; n&aacute;pady a chuť i s&iacute;lu je realizovat. Pokud se do něčeho takov&eacute;ho pust&iacute;, b&yacute;v&aacute; to vět&scaron;inou z nějak&eacute; vnitřn&iacute; touhy &#8211; buď udělat něco, co jim chyb&iacute;, nebo si vyzkou&scaron;et svoje znalosti a schopnosti na něčem, co by lidem mohlo b&yacute;t užitečn&eacute;. A tak vznik&aacute; <em>projekt</em>.</span>
 

@@ -4,12 +4,12 @@ title: 'Dej programátorům iPhone&#8230;'
 date: 2011-02-03T14:07:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/dej-programatorum-iphone/
+guid: https://misantrop.info/dej-programatorum-iphone/
 permalink: /dej-programatorum-iphone/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "41854841"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/dej-programatorum-iphone
+  - https://adent.posterous.com/dej-programatorum-iphone
 mashsb_timestamp:
   - "1557914159"
 mashsb_shares:

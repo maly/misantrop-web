@@ -4,12 +4,12 @@ title: 'Hráč přes třicet si vlastně nemá nač stěžovat&#8230;'
 date: 2010-02-24T11:51:27+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
+guid: https://misantrop.info/hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
 permalink: /hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12228493"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/hrac-pres-tricet-si-vlastne-nema-nac-stezovat
+  - https://adent.posterous.com/hrac-pres-tricet-si-vlastne-nema-nac-stezovat
 dsq_thread_id:
   - "1179521182"
 mashsb_timestamp:
@@ -21,9 +21,9 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Jarda Faltus, sv&aacute;řeč kytarov&yacute;ch strun, předevč&iacute;rem napsal [čl&aacute;nek](http://jaroslavf.posterous.com/bobby-kotick-a-jack-thompson-ve-pri), kde trochu klac&iacute;kem za&scaron;ťoural do hern&iacute;ch webů a časopisů v ČR. A j&aacute; s jeho pohledem souhlas&iacute;m.
+Jarda Faltus, sv&aacute;řeč kytarov&yacute;ch strun, předevč&iacute;rem napsal [čl&aacute;nek](https://jaroslavf.posterous.com/bobby-kotick-a-jack-thompson-ve-pri), kde trochu klac&iacute;kem za&scaron;ťoural do hern&iacute;ch webů a časopisů v ČR. A j&aacute; s jeho pohledem souhlas&iacute;m.
 
-Jin&iacute; ne. Třeba Jan Modr&aacute;k [p&iacute;&scaron;e](http://modrak.cz/index.php?lang=cz&action=komentar&id=906&modul=news): &#8222;<span class="text"><em>To jsem opravdu s&aacute;m, kdo to vid&iacute; přesně naopak? M&aacute;me tu retailovou &#8222;success story&#8220; Xzone, nadn&aacute;rodn&iacute; s&iacute;ť obchodů Game, dva hern&iacute; časopisy, minim&aacute;lně pět komerčn&iacute;ch hern&iacute;ch webů,&nbsp;pulzuj&iacute;c&iacute; blogovou sc&eacute;nu, relativně solidně referuj&iacute;c&iacute; mainstreamov&aacute; m&eacute;dia (minul&yacute; t&yacute;den byla v HN recenze Dante&#8217;s Inferno) a&nbsp;velmi aktivn&iacute; v&yacute;voj&aacute;řskou sc&eacute;nu.</em>&#8222;</span>
+Jin&iacute; ne. Třeba Jan Modr&aacute;k [p&iacute;&scaron;e](https://modrak.cz/index.php?lang=cz&action=komentar&id=906&modul=news): &#8222;<span class="text"><em>To jsem opravdu s&aacute;m, kdo to vid&iacute; přesně naopak? M&aacute;me tu retailovou &#8222;success story&#8220; Xzone, nadn&aacute;rodn&iacute; s&iacute;ť obchodů Game, dva hern&iacute; časopisy, minim&aacute;lně pět komerčn&iacute;ch hern&iacute;ch webů,&nbsp;pulzuj&iacute;c&iacute; blogovou sc&eacute;nu, relativně solidně referuj&iacute;c&iacute; mainstreamov&aacute; m&eacute;dia (minul&yacute; t&yacute;den byla v HN recenze Dante&#8217;s Inferno) a&nbsp;velmi aktivn&iacute; v&yacute;voj&aacute;řskou sc&eacute;nu.</em>&#8222;</span>
 
 <span class="text">Což mi připad&aacute; jako nahr&aacute;vka na smeč, protože j&aacute; to přesně naopak vid&iacute;m: &#8222;</span><span class="text"><em>M&aacute;me tu dva hern&iacute; časopisy, minim&aacute;lně pět komerčn&iacute;ch hern&iacute;ch webů,&nbsp;pulzuj&iacute;c&iacute; blogovou sc&eacute;nu a&nbsp;velmi aktivn&iacute; v&yacute;voj&aacute;řskou sc&eacute;nu &#8211; <strong>a přesto je n&aacute;m to hovno platn&yacute;, protože hr&aacute;č 30+ nev&iacute;, kde by se o nov&yacute;ch hr&aacute;ch dočetl, aniž by se mu navalilo</strong>&#8222;.</em></span>
 

@@ -4,12 +4,12 @@ title: Chcete komentovat? Tak nejdřív přispějte nadaci!
 date: 2010-04-01T13:30:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/chcete-komentovat-tak-nejdriv-prispejte-nadaci/
+guid: https://misantrop.info/chcete-komentovat-tak-nejdriv-prispejte-nadaci/
 permalink: /chcete-komentovat-tak-nejdriv-prispejte-nadaci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "15061782"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/chcete-komentovat-tak-nejdriv-prispejte-nadac
+  - https://adent.posterous.com/chcete-komentovat-tak-nejdriv-prispejte-nadac
 dsq_thread_id:
   - "1134180348"
 mashsb_timestamp:

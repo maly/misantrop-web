@@ -4,7 +4,7 @@ title: Voni z tý druhý party
 date: 2013-11-02T12:06:27+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1512
+guid: https://misantrop.info/?p=1512
 permalink: /voni-z-druhy-party/
 dsq_thread_id:
   - "1929501236"

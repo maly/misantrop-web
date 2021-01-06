@@ -4,7 +4,7 @@ title: 'Uškrtit Marcela&#8230;'
 date: 2013-09-12T10:44:33+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1475
+guid: https://misantrop.info/?p=1475
 permalink: /uskrtit-marcela/
 dsq_thread_id:
   - "1751520981"
@@ -22,7 +22,7 @@ Příběh lidského neštěstí s mravním ponaučením&#8230;
 
 <!--more-->
 
-Marcela znáte z [vyprávění o cestě do Anglie](http://www.misantrop.info/osm-lidi-v-minibusu-o-medvedovi-nemluve/). Ano, to je ten Marcel, co rezervoval trajekt obráceně, tentýž Marcel, který pak francouzskému trajektistovi vysvětloval &#8222;I am idiot&#8220;. Tak tenhle Marcel teď sedí v práci naproti mně. On je jinak velmi šikovný kluk, extrémně schopný vývojář, vtipný člověk, příjemný, všechno, jen má takový kouzelný smysl pro _verbální absurdno_, které bezděčně tvoří. Museli byste ho znát&#8230; To se takhle třeba odpoledne Marcel zvedne od klávesnice, protáhne a řekne: &#8222;Tak, je to hotový!&#8220; &#8211; &#8222;A Marceli, funguje to?&#8220; &#8211; &#8222;Ne.&#8220; Jak říkám, museli byste ho znát.
+Marcela znáte z [vyprávění o cestě do Anglie](https://misantrop.info/osm-lidi-v-minibusu-o-medvedovi-nemluve/). Ano, to je ten Marcel, co rezervoval trajekt obráceně, tentýž Marcel, který pak francouzskému trajektistovi vysvětloval &#8222;I am idiot&#8220;. Tak tenhle Marcel teď sedí v práci naproti mně. On je jinak velmi šikovný kluk, extrémně schopný vývojář, vtipný člověk, příjemný, všechno, jen má takový kouzelný smysl pro _verbální absurdno_, které bezděčně tvoří. Museli byste ho znát&#8230; To se takhle třeba odpoledne Marcel zvedne od klávesnice, protáhne a řekne: &#8222;Tak, je to hotový!&#8220; &#8211; &#8222;A Marceli, funguje to?&#8220; &#8211; &#8222;Ne.&#8220; Jak říkám, museli byste ho znát.
 
 Tak s tímhle Marcelem jsme se ondyno bavili o mém novém PC a o tom, jak do něj hodlám zabudovat vodní chlazení, protože to jednak topí jak polárník v kamínkách, druhak ten boxovaný větrák řve jako býk a zvukem připomíná startující vrtulové letadlo. Marcel na to opáčil, že vodního chlazení netřeba, že on svůj megastroj chladí normálním chladičem&#8230; tedy ne boxovaným, takovým trošku lepším, ale vzduchovým. A že to rozhodně stačí i na moje šestijádro, navíc je to lacinější, nic ti z toho nešplouchá&#8230; nakonec mě tedy nahlodal. &#8222;Nainstalovaný to máš za chvilku, hele, jen to tam našroubuješ a jedeš si jak pán&#8230;&#8220;
 

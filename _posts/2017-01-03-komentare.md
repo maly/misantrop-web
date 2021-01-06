@@ -4,7 +4,7 @@ title: Komentáře
 date: 2017-01-03T15:56:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2638
+guid: https://misantrop.info/?p=2638
 permalink: /komentare/
 mashsb_timestamp:
   - "1574413098"

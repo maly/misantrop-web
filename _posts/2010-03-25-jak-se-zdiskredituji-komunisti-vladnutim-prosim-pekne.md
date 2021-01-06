@@ -4,12 +4,12 @@ title: Jak se zdiskreditují komunisti vládnutím, prosím pěkně?
 date: 2010-03-25T11:47:17+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
+guid: https://misantrop.info/jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
 permalink: /jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14487631"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/jak-se-zdiskredituji-komunisti-vladnutim-pros
+  - https://adent.posterous.com/jak-se-zdiskredituji-komunisti-vladnutim-pros
 mashsb_timestamp:
   - "1575139470"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Tro&scaron;ku jsem si naběhl s reakc&iacute; na Pepu &Scaron;lerku a jeho čl&aacute;nek [Komunisty do vl&aacute;dy, pros&iacute;m](http://denikreferendum.cz/clanek/2396-komunisty-do-vlady-prosim). Jako že, jestli jsem to dobře pochopil, když budou komunisti u moci, tak uk&aacute;žou, že za dvacet let odsunut&iacute; do &uacute;stran&iacute; zapomněli rozhodovat a stal se z nich sal&oacute;nn&iacute; kroužek levicov&yacute;ch plkalů. T&iacute;m tedy prok&aacute;žou v praxi svou bezzubost, a jejich voliči si uvědom&iacute;, že tahle strana nic nevyře&scaron;&iacute;, protože akor&aacute;t pl&aacute;c&aacute; hubou. Takže se komunisti konečně zdiskredituj&iacute; (&#8222;takov&yacute;ch řeč&iacute; měli, a když to mohli předv&eacute;st, tak neuk&aacute;zali nic&#8230;&#8220;) a zavl&aacute;dne v&scaron;eobecn&eacute; prozřen&iacute; a slun&iacute;čkov&aacute; budoucnost.
+Tro&scaron;ku jsem si naběhl s reakc&iacute; na Pepu &Scaron;lerku a jeho čl&aacute;nek [Komunisty do vl&aacute;dy, pros&iacute;m](https://denikreferendum.cz/clanek/2396-komunisty-do-vlady-prosim). Jako že, jestli jsem to dobře pochopil, když budou komunisti u moci, tak uk&aacute;žou, že za dvacet let odsunut&iacute; do &uacute;stran&iacute; zapomněli rozhodovat a stal se z nich sal&oacute;nn&iacute; kroužek levicov&yacute;ch plkalů. T&iacute;m tedy prok&aacute;žou v praxi svou bezzubost, a jejich voliči si uvědom&iacute;, že tahle strana nic nevyře&scaron;&iacute;, protože akor&aacute;t pl&aacute;c&aacute; hubou. Takže se komunisti konečně zdiskredituj&iacute; (&#8222;takov&yacute;ch řeč&iacute; měli, a když to mohli předv&eacute;st, tak neuk&aacute;zali nic&#8230;&#8220;) a zavl&aacute;dne v&scaron;eobecn&eacute; prozřen&iacute; a slun&iacute;čkov&aacute; budoucnost.
 
 Ob&aacute;v&aacute;m se, že nen&iacute; vět&scaron;&iacute;ho omylu. A když se mě pt&aacute; třet&iacute; člověk, proč si to mysl&iacute;m, tak to tedy nap&iacute;&scaron;u veřejně.
 

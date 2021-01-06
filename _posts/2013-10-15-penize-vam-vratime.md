@@ -4,7 +4,7 @@ title: 'Peníze vám vrátíme&#8230;'
 date: 2013-10-15T15:09:30+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1586
+guid: https://misantrop.info/?p=1586
 permalink: /penize-vam-vratime/
 dsq_thread_id:
   - "1859940874"
@@ -32,7 +32,7 @@ Vy si koupíte nějakou službu (tam je to asi nejčastější), nejste spokojen
 
 Proč bych to ale dělal, když jsem byl nespokojený? V tu chvíli jsem ještě nespokojenější, protože mě vlastně _nutí_ vybrat si něco jiného z jejich nabídky. Už jsem o tom psal: _čím snazší je odchod, tím vyšší je moje ochota se vrátit. Když děláte ofuky s vracením peněz, už vám je nikdy nesvěřím!_
 
-Mám s tím čerstvou zkušenost. Koupili jsme na slevovém portálu (Pepa, hmmm&#8230; koukám, taky [pěkní ptáčci, btw](http://www.393.cz/zajimavosti/slevove-portaly-a-jejich-slevy/)) pobyt. Den před odjezdem nám ho poskytovatel zrušil, protože jim praskla voda. Stane se, chápeme. Nabídli náhradní termín, ten ale nevyhovoval nám, takže jsme se dohodli, že to prostě zrušíme, peníze nám vrátí, okej, žádný problém. Jen kvůli těm penězům se máme obrátit na slevový portál.
+Mám s tím čerstvou zkušenost. Koupili jsme na slevovém portálu (Pepa, hmmm&#8230; koukám, taky [pěkní ptáčci, btw](https://www.393.cz/zajimavosti/slevove-portaly-a-jejich-slevy/)) pobyt. Den před odjezdem nám ho poskytovatel zrušil, protože jim praskla voda. Stane se, chápeme. Nabídli náhradní termín, ten ale nevyhovoval nám, takže jsme se dohodli, že to prostě zrušíme, peníze nám vrátí, okej, žádný problém. Jen kvůli těm penězům se máme obrátit na slevový portál.
 
 Tam chtěli znovu poslat všechny informace, že si to musí ověřit u dotyčného penzionu, no táhlo se to. Mezitím nám nabízeli jiný termín, i když jsme jim psali, že jsme tohle už absolvovali a totéž potvrdil i ubytovatel. Řečí kolem toho bylo &#8211; a nakonec napsali, že nám tedy vrátí peníze prostřednictvím kreditu na další nákup.
 
@@ -46,4 +46,4 @@ Takže až vám někdo bude nabízet &#8222;vrácení peněz formou kreditu na d
 
 &#8212;
 
-**AKTUALIZACE**, která se mi líbí &#8211; [v komentářích](http://www.misantrop.info/penize-vam-vratime/#comment-1083288558) i mailem se vyjádřil Petr Sýkora, výkonný ředitel Pepy, omluvil se za průtahy a napsal, že z toho vyvodili nějaké důsledky a zákazníků se budou ptát, zda chtějí refundaci finanční, nebo formou kreditů. Gratuluji, tomu říkám &#8222;skvěle odvedená krizová komunikace&#8220; (obzvlášť to vynikne ve srovnání s [reakcí Tomáše Čupra](http://www.misantrop.info/kubik-marketing/)).
+**AKTUALIZACE**, která se mi líbí &#8211; [v komentářích](https://misantrop.info/penize-vam-vratime/#comment-1083288558) i mailem se vyjádřil Petr Sýkora, výkonný ředitel Pepy, omluvil se za průtahy a napsal, že z toho vyvodili nějaké důsledky a zákazníků se budou ptát, zda chtějí refundaci finanční, nebo formou kreditů. Gratuluji, tomu říkám &#8222;skvěle odvedená krizová komunikace&#8220; (obzvlášť to vynikne ve srovnání s [reakcí Tomáše Čupra](https://misantrop.info/kubik-marketing/)).

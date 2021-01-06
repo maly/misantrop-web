@@ -4,12 +4,12 @@ title: Le floskule mobile
 date: 2012-04-08T18:13:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/le-floskule-mobile/
+guid: https://misantrop.info/le-floskule-mobile/
 permalink: /le-floskule-mobile/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "120619972"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/le-floskule-mobile
+  - https://adent.posterous.com/le-floskule-mobile
 mashsb_timestamp:
   - "1575147216"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Kterej <span style="text-decoration: line-through;">debil</span> kolega novin&aacute;ř [tohleto](http://mobil.idnes.cz/nokia-lumia-710-barevne-kryty-a-navigace-v-cene-recenze-test-pm8-/mob_nokia.aspx?c=A120401_182922_mob_nokia_ram) pustil ven?
+Kterej <span style="text-decoration: line-through;">debil</span> kolega novin&aacute;ř [tohleto](https://mobil.idnes.cz/nokia-lumia-710-barevne-kryty-a-navigace-v-cene-recenze-test-pm8-/mob_nokia.aspx?c=A120401_182922_mob_nokia_ram) pustil ven?
 
   * &#8222;Lumia 710 je t&eacute;měř shodně vybavenou ov&scaron;em značně levněj&scaron;&iacute; verz&iacute; draž&scaron;&iacute; osmistovky.&#8220;
   * &#8222;Finov&eacute; tak již např&iacute;č vět&scaron;inou světov&yacute;ch trhů nab&iacute;zej&iacute; sv&eacute; prvn&iacute; př&iacute;stroje s operačn&iacute;m syst&eacute;mem Microsoftu.&#8220; Nemohou je nab&iacute;zet pod&eacute;l? To je &#8222;na vět&scaron;ině trhů&#8220; m&aacute;lo #sexy? A &#8222;operačn&iacute; syst&eacute;m Microsoftu&#8220;?

@@ -4,12 +4,12 @@ title: 'Barča Nová bude asi nějaká neskutečná&#8230; stážistka!'
 date: 2010-07-09T08:31:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/barca-nova-bude-asi-nejaka-neskutecna-stazistka/
+guid: https://misantrop.info/barca-nova-bude-asi-nejaka-neskutecna-stazistka/
 permalink: /barca-nova-bude-asi-nejaka-neskutecna-stazistka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22485301"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/barca-nova-bude-asi-nejaka-neskutecna-stazist
+  - https://adent.posterous.com/barca-nova-bude-asi-nejaka-neskutecna-stazist
 mashsb_timestamp:
   - "1574981343"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Taková věc se mi včera stala&#8230; přišel na redakční adresu mail, jako odesilatel byla uvedená &#8222;Barča Nová&#8220;, <barcanova@europe.com> (!!! &#8211; [europe.com](http://www.europe.com) je výborná doména) a v mailu byl text:
+Taková věc se mi včera stala&#8230; přišel na redakční adresu mail, jako odesilatel byla uvedená &#8222;Barča Nová&#8220;, <barcanova@europe.com> (!!! &#8211; [europe.com](https://www.europe.com) je výborná doména) a v mailu byl text:
 
 <p style="padding-left: 30px;">
   <em>Ahoj, zrovna čtu Blesk.cz a zaujal mě tento článek: ht*p://www.blesk.cz/clanek/*******************.html</em>

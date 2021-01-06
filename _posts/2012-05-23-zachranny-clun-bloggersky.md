@@ -4,7 +4,7 @@ title: 'Záchranný člun bloggerský&#8230;'
 date: 2012-05-23T13:30:53+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=412
+guid: https://misantrop.info/?p=412
 permalink: /zachranny-clun-bloggersky/
 dsq_thread_id:
   - "700839546"
@@ -21,7 +21,7 @@ Titanic se potápí, bárka jde ke dnu, kamaráde&#8230; Věnujte prosím pozorn
 
 <!--more-->
 
-<a href="http://www.misantrop.info/zachranny-clun-bloggersky/7001022801_e5cfddd7c4/" rel="attachment wp-att-413"><img class="aligncenter size-full wp-image-413" title="7001022801_e5cfddd7c4" alt="" src="http://www.misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg" width="500" height="333" srcset="https://www.misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg 500w, https://www.misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4-200x133.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.info/zachranny-clun-bloggersky/7001022801_e5cfddd7c4/" rel="attachment wp-att-413"><img class="aligncenter size-full wp-image-413" title="7001022801_e5cfddd7c4" alt="" src="https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg" width="500" height="333" srcset="https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg 500w, https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4-200x133.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 ## <span style="color: #ff0000">UPOZORNĚNÍ! Článek vyšel v květnu 2012. Dnes už je na jakékoli zachraňování pozdě, zbytek textu je tedy pouhá historie, nabídka, která platila omezený čas!!! Děkuji za pochopení!</span>
 
@@ -50,13 +50,13 @@ Rozhodně ne. Máte na výběr &#8211; buď si pro zálohu blogu zvolíte nějak
 Zvolím příklad &#8211; **didactylos.bloguje.cz**. Adam (autorčin syn) si vybral doménu **blogovala.cz**. Co následovalo?
 
 1. ověření, že požadavek podala oprávněná osoba (několika možnými způsoby, nejjednodušší je ten, že pošlu &#8222;vzkaz&#8220; na Bloguje, a v něm kód). Ten kód mi přeposlal, a já vím, že šlo o oprávněného uživatele.  
-2. Vytvoření zálohy a její úprava pro publikování. Nově je Didactylos na adrese [http://didactylos.blogovala.cz](http://didactylos.blogovala.cz/). (Adresy článků zůstaly stejné)  
+2. Vytvoření zálohy a její úprava pro publikování. Nově je Didactylos na adrese [https://didactylos.blogovala.cz](https://didactylos.blogovala.cz/). (Adresy článků zůstaly stejné)  
 3. Záloha putovala do cloudu, kde se teď o její publikování stará datacentrum v Irsku, dimenzované na obří datové toky. Nehrozí tedy nějaká výraznější nedostupnost ani neustálé výpadky.  
 4. Poslední krok, který musí Adam udělat, je napsat adminovi Bloguje (na admin @ bloguje.cz) a požádat v soluadu s prohlášením LAARu, aby byli návštěvníci z didactylos.bloguje.cz přesměrováni na didactylos.blogovala.cz. _Přesměrování by mělo být zařízeno tak, aby si Google a další vyhledávací roboti přepsali starou adresu na novou._
 
-__Stejný postup zvolil i kočičák (kocicak.bloguje.cz) &#8211; už je na [kocicak.doblogoval.cz](http://kocicak.doblogoval.cz/).
+__Stejný postup zvolil i kočičák (kocicak.bloguje.cz) &#8211; už je na [kocicak.doblogoval.cz](https://kocicak.doblogoval.cz/).
 
-Letinka (letinka.bloguje.cz) zvolila přesun na vlastní doménu &#8211; a už je tam: [www.letinka.cz](http://www.letinka.cz/).
+Letinka (letinka.bloguje.cz) zvolila přesun na vlastní doménu &#8211; a už je tam: [www.letinka.cz](https://www.letinka.cz/).
 
 **3. Ale moment, tady něco nehraje. V tom bude nějaký háček!**
 
@@ -64,7 +64,7 @@ Ano, je. Jeden podstatný. Jsem totiž lump, který je přesvědčený, že slu�
 
 Pokud si zaplatíte víc roků dopředu, dostanete slevu, pokud chcete zazálohovat víc blogů, dostanete taky slevu&#8230; Nejsem nelida. A &#8222;kulturnímu bohatství&#8220; rád vyjdu vstříc i individuální slevou. 🙂 Dohoda je pak jednoduchá: _Na jak dlouho si zaplatíte, resp. tak dlouho, jak budete ochotni platit, tak se budu starat o to, aby zálohy vašeho blogu z webu nezmizely._
 
-Požádat o statickou zálohu můžete na webu [ex-bloguje.cz](http://www.ex-bloguje.cz/)!
+Požádat o statickou zálohu můžete na webu [ex-bloguje.cz](https://www.ex-bloguje.cz/)!
 
 ### Varianta 2
 
@@ -74,7 +74,7 @@ Možností je několik. Já nabízím blogovací systém, založený na WordPres
 
 Mám vyřešený způsob, jak přenést z Bloguje kompletní zálohy textů, komentářů a obrázků do nového systému. Problém je zatím s přenosem starých šablon vzhledu. WordPress používá zcela jinou koncepci, a zatím neznám způsob, jak šablony z Bloguje zkonvertovat jednoduše pro WordPress. _Je to ale prostor pro šikovné studenty, co by si mohli takto přivydělat&#8230;_
 
-WordPress je &#8222;mocnější&#8220; systém a některé jeho možnosti by bylo potřeba do šablon z Bloguje nákladně implementovat kus od kusu. Naštěstí je k dispozici [velké množství volných šablon](http://wordpress.org/extend/themes/), ze kterých si jistě vyberete (aktuálně 1.515 kousků).
+WordPress je &#8222;mocnější&#8220; systém a některé jeho možnosti by bylo potřeba do šablon z Bloguje nákladně implementovat kus od kusu. Naštěstí je k dispozici [velké množství volných šablon](https://wordpress.org/extend/themes/), ze kterých si jistě vyberete (aktuálně 1.515 kousků).
 
 **5. No a proč prostě neuděláš ten samý systém jako byl na Bloguje?**
 

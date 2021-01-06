@@ -4,7 +4,7 @@ title: Zločinná vydra kapitalismu
 date: 2014-01-05T10:50:01+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1861
+guid: https://misantrop.info/?p=1861
 permalink: /zlocinna-vydra-kapitalismu/
 dsq_thread_id:
   - "2093087174"
@@ -22,13 +22,13 @@ Odborníci znovu zasahují&#8230;
 
 <!--more-->
 
-To mi tedy povězte. Už před lety jsem [hejtoval Vládu odborníků](http://www.misantrop.info/vlada-odborniku), a vono se to udrželo! Co udrželo &#8211; vono se to rozkošatilo!
+To mi tedy povězte. Už před lety jsem [hejtoval Vládu odborníků](https://misantrop.info/vlada-odborniku), a vono se to udrželo! Co udrželo &#8211; vono se to rozkošatilo!
 
 Já bych sem mohl dát slovo od slova, co jsem tehdy psal, ale to si tam ostatně přečtěte sami, já sem zkopíruju jen jeden kitát:
 
 > A vsaďte se, že ve všech těch slintech o &#8222;vládě odborníků&#8220; budou taknějak všichni zajedno v tom, že je potřeba najít nadstranické odborníky v daných oborech &#8211; tedy policajta, vojáka, doktora&#8230; přitom to je nesmysl a omyl. Ministr je funkce především politická a manažerská. Opravdovým odborníkem&#8220;do vlády&#8220; je pro mne člověk, který dokáže řídit, dokáže vyjednávat, organizovat, který má jasnou vizi&#8230;
 
-Ne, fakt jsem to psal v roce 2009. Jenže teď to jedeme jako přes kopírák, dokonce [i Pehe si všiml](http://blog.aktualne.centrum.cz/blogy/jiri-pehe.php?itemid=21970). Vláda odborníků, odborníků, blablabla, dokonce i Haszek Mihály ve své nejnovější epištole sděluje, že je tedy pěkně zvědav, jaké že to odborníky postaví ČSSD do vlády. Oj oj.
+Ne, fakt jsem to psal v roce 2009. Jenže teď to jedeme jako přes kopírák, dokonce [i Pehe si všiml](https://blog.aktualne.centrum.cz/blogy/jiri-pehe.php?itemid=21970). Vláda odborníků, odborníků, blablabla, dokonce i Haszek Mihály ve své nejnovější epištole sděluje, že je tedy pěkně zvědav, jaké že to odborníky postaví ČSSD do vlády. Oj oj.
 
 A dokonce to ten člověk, co zastává funkci prezidenta, vyžaduje: &#8222;Prověřím odbornost!&#8220; A běda, když bude někdo nedostatečně Zemanodborný, do vlády nepůjde a Sobotka ostrouhá a už se ani nikdy nenarovná, protože za poslední dva měsíce se mu páteř zdeformovala do permanentního předklonu. Kašpar, sorry, ne předseda vlády. Sám ho ze sebe dělá.
 

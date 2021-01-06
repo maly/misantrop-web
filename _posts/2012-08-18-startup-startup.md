@@ -4,7 +4,7 @@ title: Startup! Startup!
 date: 2012-08-18T13:53:37+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=542
+guid: https://misantrop.info/?p=542
 permalink: /startup-startup/
 mashsb_timestamp:
   - "1575829378"
@@ -21,11 +21,11 @@ Taky jste na tohle slovo alergičtí a připadá vám, že si ho bere do huby kd
 
 <!--more-->
 
-Ze všeho nejdřív bych měl napsat, že o startupech nic nevím. Nesleduju &#8222;startupovou scénu&#8220;, do odborných debat na téma &#8222;lean startup&#8220; se nepouštím, se startupovou komunitou se nestýkám a na ta správná diskusní fóra nechodím. Jen si čas od času přečtu nějaký článek, jako třeba [Co je startup?](http://www.knesl.com/articles/view/co-je-startup) od Jirky Knesla, a kroutím u toho hlavou, protože mi to připadá jako z jiného světa.
+Ze všeho nejdřív bych měl napsat, že o startupech nic nevím. Nesleduju &#8222;startupovou scénu&#8220;, do odborných debat na téma &#8222;lean startup&#8220; se nepouštím, se startupovou komunitou se nestýkám a na ta správná diskusní fóra nechodím. Jen si čas od času přečtu nějaký článek, jako třeba [Co je startup?](https://www.knesl.com/articles/view/co-je-startup) od Jirky Knesla, a kroutím u toho hlavou, protože mi to připadá jako z jiného světa.
 
 Je tedy jasné, že veškeré moje poznámky k tomuhle tématu jsou nerelevantní, což mi ale nemůže zabránit v tom, abych nějaké nepřidal.
 
-S [Dufem](http://inferno.duf.cz/) jsme založili Druidly a měli jsme velký problém s tím, jak to nazvat, uchopit, jak to &#8222;zaškatulkovat&#8220; &#8211; ne snad proto, že jsme milovníci škatulek, ale proto, abychom dokázali odpovědět na otázku &#8222;Co to je Druidly?&#8220;
+S [Dufem](https://inferno.duf.cz/) jsme založili Druidly a měli jsme velký problém s tím, jak to nazvat, uchopit, jak to &#8222;zaškatulkovat&#8220; &#8211; ne snad proto, že jsme milovníci škatulek, ale proto, abychom dokázali odpovědět na otázku &#8222;Co to je Druidly?&#8220;
 
 Projekt? Ani heverem! &#8222;Projekt&#8220; (a psal jsem to už kdysi na Zdrojáku) má jasnou asociaci &#8211; je to _něco, co se neuživí, co možná bude fungovat, ale hrozně nás to baví, a protože nás to baví, tak to uděláme, a je nám jedno, k čemu to komu bude_. Dále viz &#8222;projekt, který mapuje scénu&#8230;&#8220; (Just, Slovník floskulí). Na to, abychom byli &#8222;projekt&#8220;, máme příliš jasno v tom, jak to bude vydělávat, pro koho to je, co mu nabídneme, k čemu mu to bude, a tak dál&#8230;
 
@@ -49,7 +49,7 @@ Jakmile někomu řeknete, že máte startup, je mu hned všechno jasné &#8211; 
 
 Hm.
 
-**Pokud** je definice startupu taková, jakou představil Jirka ([Co je startup?](http://www.knesl.com/articles/view/co-je-startup)), **tak** Druidly není startup. Polovina věcí, které píše, se na Druidly nehodí, a druhou polovinu jsem nepochopil. _(Napsal bych, že to jsou číčoviny, ale jak jsem předeslal výše &#8211; já o startupech nic nevím, takže je pravděpodobné, že Jirka má pravdu a já to jen nechápu.)_
+**Pokud** je definice startupu taková, jakou představil Jirka ([Co je startup?](https://www.knesl.com/articles/view/co-je-startup)), **tak** Druidly není startup. Polovina věcí, které píše, se na Druidly nehodí, a druhou polovinu jsem nepochopil. _(Napsal bych, že to jsou číčoviny, ale jak jsem předeslal výše &#8211; já o startupech nic nevím, takže je pravděpodobné, že Jirka má pravdu a já to jen nechápu.)_
 
 Ano, používáme třeba Node.js &#8211; protože se výborně hodí na řešení určitých úloh, které u Druidly jsou, ne proto, že to je &#8222;in&#8220;. Sledoval jsem Node.js od jeho začátků, učil jsem se ho, psal jsem o tom na Zdroják a velice se mi to líbilo, jen jsem neměl kde to použít. U Druidly je jazyk první volby PHP, ale pro kategorii úloh, kterou řeším já, se moc nehodí, takže jsem nakonec vybral Node.js. Kdyby se mi tam hodil PowerShell, bude tam PowerShell (a ano, jednu úlohu v Druidly řeší PowerShell). Používáme třeba i Nette &#8211; protože se v tom klukům rychle vyvíjí. Používáme takové technologie, co jsou vhodné pro daný účel.
 

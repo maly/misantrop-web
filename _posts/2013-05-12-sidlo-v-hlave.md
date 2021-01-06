@@ -4,7 +4,7 @@ title: Šídlo v hlavě,
 date: 2013-05-12T11:21:26+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1286
+guid: https://misantrop.info/?p=1286
 permalink: /sidlo-v-hlave/
 dsq_thread_id:
   - "1282650550"
@@ -24,7 +24,7 @@ hlava v pytli, aneb Kdo vám dal právo psát?
 
 V anketě Tweet roku bylo nominováno i pár mých kolegů, což rozkývalo redakci k tomu, že o tom napsali takový jako že nadšený článek. Diskuse v domovském médiu si nezadají s diskusemi na iDnesu a Novinkách neblahé paměti, jen je tam míň komentářů. Kvalita totožná. A já se zas a znovu ptám: Proč tam ty komentáře vůbec jsou? Proč jsou u článků? (Ať si dotyční založí blogy a tam své názory ventilují. Dělám to tak deset let a mohu jen doporučit!)
 
-&#8222;Dáváme prostor k diskusi&#8220; je asi to nejčastější prohlášení. (Fskutčnosťy to je &#8222;honíme pageviews, protože mediálky jsou stále _so 1999_ a jejich reklamní model se od sledování počtu impresí zatím nikam neposunul&#8220;, ale nešť.) Tak schválně, jaká [diskuse se rozproudila pod článkem o nominaci?](http://zpravy.ihned.cz/?article[comment][ukaz_vsechny]=1&article[comment][art_id]=59856650&p=012000_d&article[id]=59856650#comm)
+&#8222;Dáváme prostor k diskusi&#8220; je asi to nejčastější prohlášení. (Fskutčnosťy to je &#8222;honíme pageviews, protože mediálky jsou stále _so 1999_ a jejich reklamní model se od sledování počtu impresí zatím nikam neposunul&#8220;, ale nešť.) Tak schválně, jaká [diskuse se rozproudila pod článkem o nominaci?](https://zpravy.ihned.cz/?article[comment][ukaz_vsechny]=1&article[comment][art_id]=59856650&p=012000_d&article[id]=59856650#comm)
 
 Asi jen ocituju&#8230;
 

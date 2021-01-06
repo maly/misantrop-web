@@ -4,7 +4,7 @@ title: 'Jak nepřispívám komunitě&#8230;'
 date: 2018-09-12T12:34:59+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2902
+guid: https://misantrop.info/?p=2902
 permalink: /jak-neprispivam-komunite/
 mashsb_timestamp:
   - "1576259245"

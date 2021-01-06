@@ -4,7 +4,7 @@ title: Kdo vlastní vaši doménu?
 date: 2013-09-27T11:41:57+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1508
+guid: https://misantrop.info/?p=1508
 permalink: /kdo-vlastni-vasi-domenu/
 dsq_thread_id:
   - "1801795695"
@@ -22,7 +22,7 @@ Zkontrolujte si, jestli je vaše doména opravdu vaše, jestli v položce &#8222
 
 <!--more-->
 
-CZ domény mají uvedené vždy [tři kontaktní údaje](http://www.nic.cz/page/313/): Držitel, administrativní kontakt a technický kontakt. Všichni tři můžou být jedna a tatáž osoba, administrativních a technických kontaktů může být až 10, ale držitel je jen jeden. Je to ten, kdo za doménu zodpovídá, a je to ten, kdo má v případě nějakých problémů a sporů _právo veta_. On může všechny ostatní kontakty vyházet, doménu přesměrovat, přesunout, on je zkrátka TEN vlastník.
+CZ domény mají uvedené vždy [tři kontaktní údaje](https://www.nic.cz/page/313/): Držitel, administrativní kontakt a technický kontakt. Všichni tři můžou být jedna a tatáž osoba, administrativních a technických kontaktů může být až 10, ale držitel je jen jeden. Je to ten, kdo za doménu zodpovídá, a je to ten, kdo má v případě nějakých problémů a sporů _právo veta_. On může všechny ostatní kontakty vyházet, doménu přesměrovat, přesunout, on je zkrátka TEN vlastník.
 
 Při registraci domény je to snadný proces &#8211; ten, kdo si doménu registruje, je zapsán jako držitel. Nějaký člověk od registrátora je pak zapsán jako technický kontakt. No a vy jako držitel za ni pak platíte registrátorovi. Tak by to mělo být, a tak tomu taky většinou je.
 
@@ -40,11 +40,11 @@ Každopádně &#8211; registrace domény, udělaná tak, že držitelem je regis
 
 &#8212;
 
-K tomu dovolte aktuální příběh: Letos jsem registroval doménu u [WebSupportu](https://www.websupport.cz/). Když jsem pak konsolidoval doménová jména, zarazilo mě, že zrovna k téhle doméně nepřišly převodní údaje. Už před časem jsem WebSupportu říkal, že standardem je mít možnost vyžádat si ověřovací hesla pro převod přímo z rozhraní, ale stále to nemají. (Na Twitteru mi [odpověděli](http://twitter.com/websupport_sk/status/383184134534733824): &#8222;_Nó @[adent](https://hootsuite.com/dashboard# "adent") , je to druhá požiadavka (obidve od teba) na riešenie tejto vecičky, takže je čas to poriešiť. Priority však niekedy nepustia 🙁_&#8222;)
+K tomu dovolte aktuální příběh: Letos jsem registroval doménu u [WebSupportu](https://www.websupport.cz/). Když jsem pak konsolidoval doménová jména, zarazilo mě, že zrovna k téhle doméně nepřišly převodní údaje. Už před časem jsem WebSupportu říkal, že standardem je mít možnost vyžádat si ověřovací hesla pro převod přímo z rozhraní, ale stále to nemají. (Na Twitteru mi [odpověděli](https://twitter.com/websupport_sk/status/383184134534733824): &#8222;_Nó @[adent](https://hootsuite.com/dashboard# "adent") , je to druhá požiadavka (obidve od teba) na riešenie tejto vecičky, takže je čas to poriešiť. Priority však niekedy nepustia 🙁_&#8222;)
 
 Víc mě překvapilo, že doména, _moje_ doména, má v registru zapsaného jako držitele WebSupport. Cože?!
 
-WebSupport nejsou žádní šejdíři, takže jsem je nepodezíral ze zlého úmyslu. Požádal jsem o změnu vlastníka na sebe, žádosti vyhověli, není co řešit. Trochu mě ale překvapila [odpověď](http://twitter.com/websupport_sk/status/383160491939348480): &#8222;_v objednávke .cz domény > rozšírené nastavenia > je možnosť si vpísať údaje, na ktoré sa majú regnúť_&#8222;. Ona je registrace na toho člověka, který registruje, ROZŠÍŘENÉ NASTAVENÍ?! Čekal bych to obráceně. ([Ujovlado podotkl](http://twitter.com/ujovlado/status/383267908618829824): &#8222;_btw, to isté by bolo fajn fixnúť aj pri SK doménach. Kým si nevyberem iný sk-nic handle, nech to dá na ten v konte 😉_&#8222;)
+WebSupport nejsou žádní šejdíři, takže jsem je nepodezíral ze zlého úmyslu. Požádal jsem o změnu vlastníka na sebe, žádosti vyhověli, není co řešit. Trochu mě ale překvapila [odpověď](https://twitter.com/websupport_sk/status/383160491939348480): &#8222;_v objednávke .cz domény > rozšírené nastavenia > je možnosť si vpísať údaje, na ktoré sa majú regnúť_&#8222;. Ona je registrace na toho člověka, který registruje, ROZŠÍŘENÉ NASTAVENÍ?! Čekal bych to obráceně. ([Ujovlado podotkl](https://twitter.com/ujovlado/status/383267908618829824): &#8222;_btw, to isté by bolo fajn fixnúť aj pri SK doménach. Kým si nevyberem iný sk-nic handle, nech to dá na ten v konte 😉_&#8222;)
 
 Takže pokud budete registrovat doménu u WebSupportu, nezapomeňte na Rozšířené nastavení! (Na druhou stranu: pokud hledáte anonymní vlastnictví domény zdarma, jděte k WebSupportu!)
 

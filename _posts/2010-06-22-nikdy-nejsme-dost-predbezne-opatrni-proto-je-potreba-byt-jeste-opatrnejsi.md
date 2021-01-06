@@ -4,12 +4,12 @@ title: Nikdy nejsme dost předběžně opatrní, proto je potřeba být ještě 
 date: 2010-06-22T12:07:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/nikdy-nejsme-dost-predbezne-opatrni-proto-je-potreba-byt-jeste-opatrnejsi/
+guid: https://misantrop.info/nikdy-nejsme-dost-predbezne-opatrni-proto-je-potreba-byt-jeste-opatrnejsi/
 permalink: /nikdy-nejsme-dost-predbezne-opatrni-proto-je-potreba-byt-jeste-opatrnejsi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "20774629"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/nikdy-nejsme-dost-predbezne-opatrni-proto-je
+  - https://adent.posterous.com/nikdy-nejsme-dost-predbezne-opatrni-proto-je
 mashsb_timestamp:
   - "1545920472"
 mashsb_shares:

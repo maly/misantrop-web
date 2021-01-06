@@ -4,7 +4,7 @@ title: Datová schránka a Policie ČR
 date: 2015-08-11T11:48:37+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2374
+guid: https://misantrop.info/?p=2374
 permalink: /datova-schranka-a-policie-cr/
 mashsb_timestamp:
   - "1576314831"

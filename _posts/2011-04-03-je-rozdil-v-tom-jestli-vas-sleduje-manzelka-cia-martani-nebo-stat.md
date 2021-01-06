@@ -4,12 +4,12 @@ title: Je rozdíl v tom, jestli vás sleduje manželka, CIA, marťani, nebo stá
 date: 2011-04-03T07:20:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/je-rozdil-v-tom-jestli-vas-sleduje-manzelka-cia-martani-nebo-stat/
+guid: https://misantrop.info/je-rozdil-v-tom-jestli-vas-sleduje-manzelka-cia-martani-nebo-stat/
 permalink: /je-rozdil-v-tom-jestli-vas-sleduje-manzelka-cia-martani-nebo-stat/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "48280671"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/je-rozdil-v-tom-jestli-vas-sleduje-manzelka-c
+  - https://adent.posterous.com/je-rozdil-v-tom-jestli-vas-sleduje-manzelka-c
 mashsb_timestamp:
   - "1558984772"
 mashsb_shares:
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-[&Uacute;stavn&iacute; soud zru&scaron;il z&aacute;konem uloženou povinnost sledovat el. komunikaci a uchov&aacute;vat z&aacute;znamy.](http://zdrojak.root.cz/clanky/sporna-povinnost-uchovavat-udaje-o-elektronicke-komunikaci-byla-zrusena/)
+[&Uacute;stavn&iacute; soud zru&scaron;il z&aacute;konem uloženou povinnost sledovat el. komunikaci a uchov&aacute;vat z&aacute;znamy.](https://zdrojak.root.cz/clanky/sporna-povinnost-uchovavat-udaje-o-elektronicke-komunikaci-byla-zrusena/)
 
 **Koment&aacute;ře:**
 

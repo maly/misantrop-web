@@ -4,12 +4,12 @@ title: ACTA Pirát
 date: 2012-02-03T09:29:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/acta-pirat/
+guid: https://misantrop.info/acta-pirat/
 permalink: /acta-pirat/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97737559"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/acta-pirat
+  - https://adent.posterous.com/acta-pirat
 mashsb_timestamp:
   - "1575734761"
 mashsb_shares:
@@ -29,7 +29,7 @@ Konstrukce &#8222;implicitního souhlasu&#8220;, který by bylo potřeba popíra
 
 Plně chápu lidi, kteří jsou proti ACTA, ale nechtějí podpořit protestní akce, v nichž se angažují Piráti. Obzvlášť když si přečtu páně Brožovy výklady autorského práva.
 
-Vyzývám proto všechny, kterým vadí ACTA, ale nehodlají podporovat Piráty: **Nebojte se vystoupit proti ACTA za sebe! Udělejte to, prosím! Pošlete dopis poslancům. Publikujte. Informujte. Přidejte se například k apolitickému [AgainstACTA](http://againstacta.cz)** (akce Josefa Šlerky a dalších).
+Vyzývám proto všechny, kterým vadí ACTA, ale nehodlají podporovat Piráty: **Nebojte se vystoupit proti ACTA za sebe! Udělejte to, prosím! Pošlete dopis poslancům. Publikujte. Informujte. Přidejte se například k apolitickému [AgainstACTA](https://againstacta.cz)** (akce Josefa Šlerky a dalších).
 
 Děkuji.
 

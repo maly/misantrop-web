@@ -4,7 +4,7 @@ title: Kurzy rétoriky
 date: 2017-03-15T09:24:01+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2807
+guid: https://misantrop.info/?p=2807
 permalink: /kurzy-retoriky/
 mashsb_timestamp:
   - "1576082729"

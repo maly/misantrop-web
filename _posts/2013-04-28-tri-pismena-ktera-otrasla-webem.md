@@ -4,7 +4,7 @@ title: 'Tři písmena, která otřásla webem&#8230;'
 date: 2013-04-28T12:55:54+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1265
+guid: https://misantrop.info/?p=1265
 permalink: /tri-pismena-ktera-otrasla-webem/
 dsq_thread_id:
   - "1241352353"
@@ -35,7 +35,7 @@ Jak toho dosáhnout? No, musíte mít vysokej PageRank! A toho se dosáhne jedno
 
 Vysvětlení, proč jsou oba tyto kroky v takhle holé podobě totální nesmysl nechám na jiných. Mě na nich zaujala jiná věc, totiž to, jak se dokázaly uchytit a co všechno zvládly zmrvit v rukou akčních střelců, lidí, kteří mechanicky aplikují poučky, aniž by se snažili o cokoli víc.
 
-Když jsem před lety psal o tom, [jak se státi kopyrajtrem](http://www.misantrop.info/stavame-se-internetovymi-podnikateli-lekce-2-kopyrajtr), měl jsem zářné předobrazy Vomočila a Vogla, mistry hydratovaných PR článků. Jenže realita je mnohem horší&#8230; Hydratovaný styl se stal _mainstreamem_.
+Když jsem před lety psal o tom, [jak se státi kopyrajtrem](https://misantrop.info/stavame-se-internetovymi-podnikateli-lekce-2-kopyrajtr), měl jsem zářné předobrazy Vomočila a Vogla, mistry hydratovaných PR článků. Jenže realita je mnohem horší&#8230; Hydratovaný styl se stal _mainstreamem_.
 
 Stále častěji se setkávám s texty, kde autor naprosto tupě opakuje slova dokola a dokola. Dřív jsem si myslel, že to je znak nedostatečné slovní zásoby, jenže v poslední době se setkávám s lidmi, kteří to dělají, protože si myslí, že _to tak má být_! Že když píšou o vysavači, tak v každé větě musí být slova &#8222;vysavač&#8220; nebo &#8222;lux&#8220; nebo &#8222;elektrický pomocník pro úklid koberců a podlahových ploch&#8220;, protože prostě&#8230; protože! Aniž by znali zkratku SEO &#8211; nevědí, proč ta slova opakují; dělají to automaticky, poniváč to vidí v jiných textech a mají za to, že _se to tak má_.
 
@@ -43,7 +43,7 @@ Z _hustých klíčových slov_ se tak stává stejný tik jako z [provádění 
 
 U toho druhého bodu mě zase překvapuje, kolik lidí považuje &#8222;sepsání _hydratovaného článku_ a jeho umístění na PR weby kvůli odkazům&#8220; za něco samozřejmého a diví se, že někdo může být proti. Nazval bych to kargokultickým počínáním, ale chybí tomu ten prvotní předobraz, který ukazuje, že to někdy někomu k něčemu užitečnému bylo.
 
-Variace na diskusní obrat &#8222;_kritici nám vlastně přivádějí další návštěvníky, buhehe, mamlasové!_&#8220; (zvaný též &#8222;všechkokotůfutrál&#8220;) tady říká: _chachacha, vaše řeči o nesmyslnosti zápisu do katalogů jsou jen plky, důležité je, že my dokážeme ten web dostat na první místo v Googlu!_ A co? Pokud to není podpořené dalšími kvalitami, tak je to zcela zbytečné snažení, jalové jako [běžešelemovací řůčovičky](http://www.lupa.cz/clanky/bezeselemovaci-rucovicky-stav-v-polocase/).
+Variace na diskusní obrat &#8222;_kritici nám vlastně přivádějí další návštěvníky, buhehe, mamlasové!_&#8220; (zvaný též &#8222;všechkokotůfutrál&#8220;) tady říká: _chachacha, vaše řeči o nesmyslnosti zápisu do katalogů jsou jen plky, důležité je, že my dokážeme ten web dostat na první místo v Googlu!_ A co? Pokud to není podpořené dalšími kvalitami, tak je to zcela zbytečné snažení, jalové jako [běžešelemovací řůčovičky](https://www.lupa.cz/clanky/bezeselemovaci-rucovicky-stav-v-polocase/).
 
 Jenže se z toho stalo něco běžného. Intenzita těhle úkazů přesáhla kritickou mez, za kterou si neznalí lidé říkají &#8222;Aha, asi se to takhle dělat má&#8230;&#8220;, a dělají to taky. Konformita a bandwagon efekt v praxi. Za chvíli &#8222;běžný uživatel&#8220; neuvěří, že SEO je něco jiného než opakování slov a PR články, stejně jako málokdo z nich věří, že &#8222;empétrojka&#8220; je něco jiného než krabička s konektorem pro sluchátka a že &#8222;blog&#8220; není totéž co &#8222;zápisek&#8220;. Nojo, no&#8230;
 

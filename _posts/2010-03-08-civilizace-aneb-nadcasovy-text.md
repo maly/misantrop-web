@@ -4,12 +4,12 @@ title: 'Civilizace, aneb Nadčasový text&#8230;'
 date: 2010-03-08T15:00:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/civilizace-aneb-nadcasovy-text/
+guid: https://misantrop.info/civilizace-aneb-nadcasovy-text/
 permalink: /civilizace-aneb-nadcasovy-text/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12978494"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/civilizace-aneb-nadcasovy-text
+  - https://adent.posterous.com/civilizace-aneb-nadcasovy-text
 dsq_thread_id:
   - "1113502334"
 mashsb_timestamp:

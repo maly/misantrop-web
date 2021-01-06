@@ -4,12 +4,12 @@ title: AHOJKY TAK TADY TI TO POSILAM
 date: 2010-02-14T11:07:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/ahojky-tak-tady-ti-to-posilam/
+guid: https://misantrop.info/ahojky-tak-tady-ti-to-posilam/
 permalink: /ahojky-tak-tady-ti-to-posilam/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11662857"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/ahojky-tak-tady-ti-to-posilam
+  - https://adent.posterous.com/ahojky-tak-tady-ti-to-posilam
 mashsb_timestamp:
   - "1575145803"
 mashsb_shares:

@@ -4,7 +4,7 @@ title: Zásah v Sýrii
 date: 2013-08-29T09:14:47+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1429
+guid: https://misantrop.info/?p=1429
 permalink: /zasah-v-syrii/
 dsq_thread_id:
   - "1664144192"

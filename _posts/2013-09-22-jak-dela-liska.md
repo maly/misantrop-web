@@ -4,7 +4,7 @@ title: Jak dělá liška?
 date: 2013-09-22T11:36:48+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1502
+guid: https://misantrop.info/?p=1502
 permalink: /jak-dela-liska/
 dsq_thread_id:
   - "1786238992"
@@ -28,7 +28,7 @@ Před pár dny (víc než tři týdny to není) se internetem prohnalo nové hud
 
 Koukal jsem na to a zaujalo mě to. Jednak je to video notně praštěné, jednak paroduje nejrůznější současná popová klišé (například Ke$hino blo-o-o-o-w nebo Gangnam dance), a v neposlední řadě je řemeslně velmi dobré. Takže jsem začal pátrat po dalších kouscích od týchž autorů, a s potěšením jsem zjistil, že mají takových kousků víc. (Ostatně, jsou v Norsku poměrně známí a vystupují už od roku 2000.)
 
-Ve všech písničkách, co jsem našel, se opakovaly tytéž rysy: Ylvis vezmou nějaký hudební styl, vyberou z něj známá klišé a natočí, nu, v podstatě parodii, která by ale v daném hudebním stylu mohla klidně být součástí mainstreamu. Je libo &#8222;stadiónový rock&#8220;? Jasně, proč ne, tady je píseň, která opěvuje velkého hrdinu, něco mezi Rambem a Agentem 007 (a jistě jen shodou okolností jde o [Jana Egelanda](http://en.wikipedia.org/wiki/Jan_Egeland), norského politika)
+Ve všech písničkách, co jsem našel, se opakovaly tytéž rysy: Ylvis vezmou nějaký hudební styl, vyberou z něj známá klišé a natočí, nu, v podstatě parodii, která by ale v daném hudebním stylu mohla klidně být součástí mainstreamu. Je libo &#8222;stadiónový rock&#8220;? Jasně, proč ne, tady je píseň, která opěvuje velkého hrdinu, něco mezi Rambem a Agentem 007 (a jistě jen shodou okolností jde o [Jana Egelanda](https://en.wikipedia.org/wiki/Jan_Egeland), norského politika)
 
 
 
@@ -40,7 +40,7 @@ Ostatně, co by se stalo, kdyby v písničkách všechny ty jemné narážky a j
 
 
 
-Pokud sledujete klipy od Ylvisů (to je novotvar, co?), dávejte pozor na drobné vizuální narážky (v klipu o lišce je to třeba člověk v masce koně, který zase odkazuje na [Blo-o-o-o-w](http://www.youtube.com/watch?v=CFWX0hWCbng)) a nepřeskakujte, poslouchejte hezky celé. Já při prvním poslechu následující písně přeskakoval, a najednou mi vtip nedával smysl. Bez přeskakování to náhle zapadlo do sebe &#8211; muzikálová píseň o hledání někoho, jako jsem já sám, někoho&#8230; kdo má taky rád dubstep!
+Pokud sledujete klipy od Ylvisů (to je novotvar, co?), dávejte pozor na drobné vizuální narážky (v klipu o lišce je to třeba člověk v masce koně, který zase odkazuje na [Blo-o-o-o-w](https://www.youtube.com/watch?v=CFWX0hWCbng)) a nepřeskakujte, poslouchejte hezky celé. Já při prvním poslechu následující písně přeskakoval, a najednou mi vtip nedával smysl. Bez přeskakování to náhle zapadlo do sebe &#8211; muzikálová píseň o hledání někoho, jako jsem já sám, někoho&#8230; kdo má taky rád dubstep!
 
 
 

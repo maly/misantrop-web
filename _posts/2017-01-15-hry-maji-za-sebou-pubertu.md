@@ -4,7 +4,7 @@ title: Hry mají za sebou pubertu
 date: 2017-01-15T11:47:05+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2678
+guid: https://misantrop.info/?p=2678
 permalink: /hry-maji-za-sebou-pubertu/
 mashsb_timestamp:
   - "1555626642"

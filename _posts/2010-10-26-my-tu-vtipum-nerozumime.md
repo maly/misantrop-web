@@ -4,12 +4,12 @@ title: 'My tu vtipům nerozumíme&#8230;'
 date: 2010-10-26T06:26:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/my-tu-vtipum-nerozumime/
+guid: https://misantrop.info/my-tu-vtipum-nerozumime/
 permalink: /my-tu-vtipum-nerozumime/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "31573773"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/my-tu-vtipum-nerozumime
+  - https://adent.posterous.com/my-tu-vtipum-nerozumime
 mashsb_timestamp:
   - "1575533300"
 mashsb_shares:

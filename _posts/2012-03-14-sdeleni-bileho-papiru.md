@@ -4,12 +4,12 @@ title: Sdělení bílého papíru
 date: 2012-03-14T09:29:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/sdeleni-bileho-papiru/
+guid: https://misantrop.info/sdeleni-bileho-papiru/
 permalink: /sdeleni-bileho-papiru/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "110977235"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/sdeleni-bileho-papiru
+  - https://adent.posterous.com/sdeleni-bileho-papiru
 dsq_thread_id:
   - "1099443276"
 mashsb_timestamp:
@@ -21,7 +21,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Seděli jsme s Honzou S. v jeho kancel&aacute;ři a on se mě najednou zeptal: &#8222;Hele, tys psal [ten čl&aacute;nek](http://www.misantrop.info/happy-valentine/) nějak jako &#8211; na&scaron;tvanej?&#8220;
+Seděli jsme s Honzou S. v jeho kancel&aacute;ři a on se mě najednou zeptal: &#8222;Hele, tys psal [ten čl&aacute;nek](https://misantrop.info/happy-valentine/) nějak jako &#8211; na&scaron;tvanej?&#8220;
 
 &#8222;Ne, proč?&#8220;
 

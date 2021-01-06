@@ -4,7 +4,7 @@ title: Ovladače pro CH340G
 date: 2016-10-14T16:20:34+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/ovladace-pro-ch340g/
+guid: https://misantrop.info/ovladace-pro-ch340g/
 permalink: /ovladace-pro-ch340g/
 rss_pi_source_url:
   - https://iotta.cz/ovladace-pro-ch340g/

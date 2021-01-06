@@ -4,7 +4,7 @@ title: Pruzení matky
 date: 2017-03-13T09:21:04+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2804
+guid: https://misantrop.info/?p=2804
 permalink: /pruzeni-matky/
 mashsb_timestamp:
   - "1575324249"

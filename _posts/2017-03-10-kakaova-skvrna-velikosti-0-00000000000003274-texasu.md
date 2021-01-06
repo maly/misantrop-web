@@ -4,7 +4,7 @@ title: Kakaová skvrna velikosti 0,00000000000003274 Texasu
 date: 2017-03-10T09:37:42+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2800
+guid: https://misantrop.info/?p=2800
 permalink: /kakaova-skvrna-velikosti-0-00000000000003274-texasu/
 mashsb_timestamp:
   - "1576233038"
@@ -24,7 +24,7 @@ tags:
 
 <span style="font-weight: 400;">Dámy a pánové, vítejte na veletrhu novinářských měrných jednotek a přirovnání! Zapomeňte na hektary a tuny, to jsou nudné jednotky, které čtenáře nezaujmou. A zaujmout čtenáře, to je posláním médií dneška. <em>Zaujmout a pobavit, to je hlavní,</em> jak říkáme u nás v Institutu neotřelých jednotek.</span>
 
-<span style="font-weight: 400;">Čtenář, laskavý či nikoli, si totiž asi nedokáže představit, jak vypadá třebas sedmnáct a půl tisíce lidí. Proto mu to ulehčíte tím, že mu řeknete, že je to tolik lidí, kolik má Bruntál obyvatel. A čtenář hned ví, hned se má o co opřít, protože zatímco sedmnáct a půl tisíce lidí pohromadě asi neviděl, tak Bruntál si snadno představí každý: to máme od benzínky: Novotní, ti jsou doma čtyři, vedle Šmíd, ti jsou dva, Kuchyňkovi, těch je pět… teda vlastně už ne, co se ten kluk jejich odstěhoval do Krnova… a tak hezky krok po kroku, barák po baráku, a sedmnáct a půl tisíce lidí má rázem nějakou podobu. Když přijde na věc, tak je jeden každý z nich “<a href="http://www.misantrop.info/pribeh-o-pribehu/">s příběhem</a>”, a to se cení.</span>
+<span style="font-weight: 400;">Čtenář, laskavý či nikoli, si totiž asi nedokáže představit, jak vypadá třebas sedmnáct a půl tisíce lidí. Proto mu to ulehčíte tím, že mu řeknete, že je to tolik lidí, kolik má Bruntál obyvatel. A čtenář hned ví, hned se má o co opřít, protože zatímco sedmnáct a půl tisíce lidí pohromadě asi neviděl, tak Bruntál si snadno představí každý: to máme od benzínky: Novotní, ti jsou doma čtyři, vedle Šmíd, ti jsou dva, Kuchyňkovi, těch je pět… teda vlastně už ne, co se ten kluk jejich odstěhoval do Krnova… a tak hezky krok po kroku, barák po baráku, a sedmnáct a půl tisíce lidí má rázem nějakou podobu. Když přijde na věc, tak je jeden každý z nich “<a href="https://misantrop.info/pribeh-o-pribehu/">s příběhem</a>”, a to se cení.</span>
 
 <span style="font-weight: 400;">Když není třeba příběh, tak aspoň emoci. Sedmnáct a půl tisíce lidí by zabralo plochu 4.300 metrů čtverečních (pokud se na jeden metr čtvereční vejdou čtyři lidé). Což je 0,43 hektaru. Ale kdo dneska ví, kolik je hektar, že? Jen pár zemědělců. Naštěstí je jeden hektar přibližně tolik, kolik je plocha fotbalového hřiště. A jsme doma, to zná každý, protože každý má doma televizi a v ní už aspoň jednou fotbalové hřiště viděl! Na jedno fotbalové hřiště by se tedy vešlo nějakých 2,32 Bruntálů. Václavské náměstí má plochu zhruba čtyř fotbalových hřišť, nebo též dvaatřiceti olympijských bazénů (50&#215;25 metrů). Obyvatelstvo Bruntálu, přesunuto z Václaváku, by tedy zabralo tři a půl takových bazénů, pokud by šlapalo vodu. Pokud ale bazén vypustíme, mohou silnější Bruntálci vzít ty slabší na ramena a utvořit tak dvě vrstvy, protože bazén má hloubku pěti metrů.</span>
 

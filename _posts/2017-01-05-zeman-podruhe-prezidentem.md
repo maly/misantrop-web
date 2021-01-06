@@ -4,7 +4,7 @@ title: Zeman podruhé prezidentem?
 date: 2017-01-05T16:06:21+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2643
+guid: https://misantrop.info/?p=2643
 permalink: /zeman-podruhe-prezidentem/
 mashsb_timestamp:
   - "1575201247"
@@ -20,7 +20,7 @@ tags:
 ---
 <span style="font-weight: 400;">(Psáno pro IHNED.cz) </span>
 
-<span style="font-weight: 400;">Ján Simkanič sepsal článek Proč se nebát Miloše Zemana [</span>[<span style="font-weight: 400;">http://www.simindr.cz/proc-se-nebat-milose-zemana/</span>](http://www.simindr.cz/proc-se-nebat-milose-zemana/)<span style="font-weight: 400;">], ve kterém se podíval na situaci kolem prezidentské volby, která nás čeká, a přinesl některé argumenty, které by mohly hrát velkou roli v případném nezvolení Miloše Zemana prezidentem pro druhé volební období.</span>
+<span style="font-weight: 400;">Ján Simkanič sepsal článek Proč se nebát Miloše Zemana [</span>[<span style="font-weight: 400;">https://www.simindr.cz/proc-se-nebat-milose-zemana/</span>](https://www.simindr.cz/proc-se-nebat-milose-zemana/)<span style="font-weight: 400;">], ve kterém se podíval na situaci kolem prezidentské volby, která nás čeká, a přinesl některé argumenty, které by mohly hrát velkou roli v případném nezvolení Miloše Zemana prezidentem pro druhé volební období.</span>
 
 <span style="font-weight: 400;">Chápu jeho argumenty, považuju je za validní a osobně a za sebe bych byl moc rád, kdyby měl pravdu. Jenže “osobně” a “za sebe” je velmi ošidná optika. Věřit tomu, že lidé, najmě voliči, vidí věci, co mně připadají očividné, je naivní. Někdy příjemně překvapí (třeba když voliči zastavili Jiřího Paroubka, i když to bylo těsné), většinou ale bývá člověk překvapen spíš nepříjemně, dívá se na zprávu Statistického úřadu a kroutí hlavou: To přeci není možné, oni na to lidi fakt skočili.</span>
 

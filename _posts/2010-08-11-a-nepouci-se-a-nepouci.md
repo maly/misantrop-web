@@ -4,12 +4,12 @@ title: 'A nepoučí se a nepoučí&#8230;'
 date: 2010-08-11T12:59:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/a-nepouci-se-a-nepouci/
+guid: https://misantrop.info/a-nepouci-se-a-nepouci/
 permalink: /a-nepouci-se-a-nepouci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "25470122"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/a-nepouci-se-a-nepouci
+  - https://adent.posterous.com/a-nepouci-se-a-nepouci
 mashsb_timestamp:
   - "1575145141"
 mashsb_shares:

@@ -4,10 +4,10 @@ title: Codebender pro ESP
 date: 2016-09-27T16:01:19+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/codebender-pro-esp/
+guid: https://misantrop.info/codebender-pro-esp/
 permalink: /codebender-pro-esp/
 rss_pi_source_url:
-  - http://iotta.cz/codebender-pro-esp/
+  - https://iotta.cz/codebender-pro-esp/
 rss_pi_source_md5:
   - bc3535e78fdc99083d88391e0603fa31
 rss_pi_canonical_url:

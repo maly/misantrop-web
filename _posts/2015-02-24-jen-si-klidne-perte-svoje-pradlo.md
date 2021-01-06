@@ -4,7 +4,7 @@ title: '&#8222;Jen si klidně perte svoje prádlo!&#8220;'
 date: 2015-02-24T10:51:50+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=2233
+guid: https://misantrop.info/?p=2233
 permalink: /jen-si-klidne-perte-svoje-pradlo/
 mashsb_timestamp:
   - "1574976074"

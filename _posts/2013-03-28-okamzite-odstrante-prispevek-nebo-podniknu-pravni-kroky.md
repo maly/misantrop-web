@@ -4,7 +4,7 @@ title: Okamžitě odstraňte příspěvek, nebo podniknu právní kroky!
 date: 2013-03-28T14:24:39+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/?p=1196
+guid: https://misantrop.info/?p=1196
 permalink: /okamzite-odstrante-prispevek-nebo-podniknu-pravni-kroky/
 dsq_thread_id:
   - "1170573199"
@@ -22,7 +22,7 @@ Pokud píšete o tom, co se kolem vás děje, tak se vám dřív nebo později s
 
 <!--more-->
 
-Zrovna dneska mi tohle téma připomněl [zápisek Davida Kuťáka](http://davidkutak.wordpress.com/2013/03/27/trestni-oznameni/). Ve stručnosti: kdosi, komu budu říkat Patrik, uspořádal soutěž s ne zcela transparentním průběhem. David Kuťák o tom napsal, zveřejnil nějaké screenshoty a dotyčný Patrik vyskočil a začal požadovat odstranění článku, jinak že podnikne právní kroky.
+Zrovna dneska mi tohle téma připomněl [zápisek Davida Kuťáka](https://davidkutak.wordpress.com/2013/03/27/trestni-oznameni/). Ve stručnosti: kdosi, komu budu říkat Patrik, uspořádal soutěž s ne zcela transparentním průběhem. David Kuťák o tom napsal, zveřejnil nějaké screenshoty a dotyčný Patrik vyskočil a začal požadovat odstranění článku, jinak že podnikne právní kroky.
 
 _Ono to je v tomhle případě ještě veselejší, protože nesoudnost a hloupost chodívá ruku v ruce, takže tam probíhá klasické matení právních pojmů s dojmy a Patrik vyhrožuje tím, že napíše ředitelce školy a Kuťákovi seniorovi, dost možná i na uliční výbor, ZO SSM a Kuťákovic pratetě a šermuje u toho pochybnými formulacemi, hází trestním oznámením a tak podobně&#8230;_
 
@@ -36,18 +36,18 @@ Zatřetí: **Klid!** Pokud se náhodou stane a opravdu vás kontaktuje právník
 
 Teď pár praktických rad, aneb _Laické právní minimum_:
 
-Pokud někdo vyhrožuje právními kroky, měl by mít jasno v tom, co jste provedli a jak jste ho poškodili. Podle této skutkové podstaty se řídí další kroky. Pokud jste udělali něco, co spadá pod trestný čin, může dotyčný podat trestní oznámení. Nic ho to nestojí, stačí jen zajít na služebnu a nahlásit to. Policie toto oznámení prozkoumá, a buď ho odloží, nebo se věcí zabývá, vyšetří a předá ji soudu, kdy na straně žalující je stát. Důležité je, že trestné činy jsou vyjmenované v [trestním zákoníku](http://business.center.cz/business/pravo/zakony/trestni-zakonik/). Basta fidli. Pokud jste provedli něco, co tam není, je trestní oznámení zbytečné, a dotyčný musí jít do občanskoprávního sporu. Což bude pravděpodobně většinová situace &#8211; někomu se nelíbí, co jste o něm napsali, začne prskat &#8222;nactiutrháním&#8220; a &#8222;poškozováním dobrého jména&#8220; a kdesi cosi &#8211; žádné trestní oznámení nepomůže, musí jít do normálního sporu, a je na něm, aby prokázal, jak se věci staly.
+Pokud někdo vyhrožuje právními kroky, měl by mít jasno v tom, co jste provedli a jak jste ho poškodili. Podle této skutkové podstaty se řídí další kroky. Pokud jste udělali něco, co spadá pod trestný čin, může dotyčný podat trestní oznámení. Nic ho to nestojí, stačí jen zajít na služebnu a nahlásit to. Policie toto oznámení prozkoumá, a buď ho odloží, nebo se věcí zabývá, vyšetří a předá ji soudu, kdy na straně žalující je stát. Důležité je, že trestné činy jsou vyjmenované v [trestním zákoníku](https://business.center.cz/business/pravo/zakony/trestni-zakonik/). Basta fidli. Pokud jste provedli něco, co tam není, je trestní oznámení zbytečné, a dotyčný musí jít do občanskoprávního sporu. Což bude pravděpodobně většinová situace &#8211; někomu se nelíbí, co jste o něm napsali, začne prskat &#8222;nactiutrháním&#8220; a &#8222;poškozováním dobrého jména&#8220; a kdesi cosi &#8211; žádné trestní oznámení nepomůže, musí jít do normálního sporu, a je na něm, aby prokázal, jak se věci staly.
 
 Je libo praktickou ukázku? Ale no prosím:
 
-Před mnoha lety mi přišel mailem spam ze Slovenska. Spam se vyznačoval kromobyčejnou pitomostí, a [tak jsem o něm napsal](http://www.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/) a zveřejnil jsem i jméno odesilatelky. Loni na podzim mi takhle jednoho dne přišel mail od paní:
+Před mnoha lety mi přišel mailem spam ze Slovenska. Spam se vyznačoval kromobyčejnou pitomostí, a [tak jsem o něm napsal](https://misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/) a zveřejnil jsem i jméno odesilatelky. Loni na podzim mi takhle jednoho dne přišel mail od paní:
 
 <p style="padding-left: 30px;">
   <em>Dobrý deň,</em>
 </p>
 
 <p style="padding-left: 30px;">
-  <em id="__mceDel">na Vašej webovej stránke som objavila odkaz na môj email:<br /> <a href="http://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m" target="_blank">http://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m</a></em>
+  <em id="__mceDel">na Vašej webovej stránke som objavila odkaz na môj email:<br /> <a href="https://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m" target="_blank">https://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m</a></em>
 </p>
 
 <p style="padding-left: 30px;">

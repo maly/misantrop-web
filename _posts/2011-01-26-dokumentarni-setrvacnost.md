@@ -4,12 +4,12 @@ title: Dokumentární setrvačnost
 date: 2011-01-26T10:30:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/dokumentarni-setrvacnost/
+guid: https://misantrop.info/dokumentarni-setrvacnost/
 permalink: /dokumentarni-setrvacnost/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "41001910"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/dokumentarni-setrvacnost
+  - https://adent.posterous.com/dokumentarni-setrvacnost
 mashsb_timestamp:
   - "1536183356"
 mashsb_shares:

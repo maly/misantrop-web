@@ -4,12 +4,12 @@ title: Poznámka k Nette Frameworku
 date: 2011-11-08T07:14:00+01:00
 author: Martin Malý
 layout: post
-guid: http://www.misantrop.info/poznamka-k-nette-frameworku/
+guid: https://misantrop.info/poznamka-k-nette-frameworku/
 permalink: /poznamka-k-nette-frameworku/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "79216475"
 posterous_869f584d59a8506ee6c71421743d2e0f_permalink:
-  - http://adent.posterous.com/poznamka-k-nette-frameworku
+  - https://adent.posterous.com/poznamka-k-nette-frameworku
 mashsb_timestamp:
   - "1538042801"
 mashsb_shares:
