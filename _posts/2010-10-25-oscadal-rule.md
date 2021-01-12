@@ -43,11 +43,12 @@ Dal jsem si na čas a po t&yacute;dnu jsem odpověděl:
 
 > Ahoj,
 > 
-> nejsme na jedn&eacute; lodi, natož linuxov&eacute;, a nikdy jsme na n&iacute; nebyli; pokud bychom na jedn&eacute; lodi nedejbože někdy byli, tak vystoup&iacute;m&#8230;</p> 
+> nejsme na jedn&eacute; lodi, natož linuxov&eacute;, a nikdy jsme na n&iacute; nebyli; pokud bychom na jedn&eacute; lodi nedejbože někdy byli, tak vystoup&iacute;m&#8230;
 > 
-> Blokuju tě proto, k&aacute;mo, že jsi otravn&yacute;; jsi otravn&yacute; tak, že &#8222;blokov&aacute;n&iacute; otravn&yacute;ch&#8220; m&aacute; dokonce vlastn&iacute; jm&eacute;no: &#8222;Oč&scaron;&aacute;dal rule&#8220; (vygoogli si). Když nap&iacute;&scaron;u &#8222;Zablokoval jsem nezn&aacute;m&eacute;ho otravu, kter&yacute; obtěžuje zmaten&yacute;mi vzkazy a nevyž&aacute;dan&yacute;mi reakcemi na tweety, kter&eacute; se ho net&yacute;kaj&iacute;&#8220;, tak tři z pěti lid&iacute; se zeptaj&iacute;: &#8222;O&scaron;č&aacute;dala?&#8220; Blokuju tě proto, že obtěžuje&scaron; nesmysln&yacute;mi v&yacute;křiky. Jsi dokonce tak otravn&yacute;, že mi nap&iacute;&scaron;e&scaron; na služebn&iacute; mail, drze mi tyk&aacute;&scaron; a pt&aacute;&scaron; se, proč tě blokuju&#8230;</p> 
+> Blokuju tě proto, k&aacute;mo, že jsi otravn&yacute;; jsi otravn&yacute; tak, že &#8222;blokov&aacute;n&iacute; otravn&yacute;ch&#8220; m&aacute; dokonce vlastn&iacute; jm&eacute;no: &#8222;Oč&scaron;&aacute;dal rule&#8220; (vygoogli si). Když nap&iacute;&scaron;u &#8222;Zablokoval jsem nezn&aacute;m&eacute;ho otravu, kter&yacute; obtěžuje zmaten&yacute;mi vzkazy a nevyž&aacute;dan&yacute;mi reakcemi na tweety, kter&eacute; se ho net&yacute;kaj&iacute;&#8220;, tak tři z pěti lid&iacute; se zeptaj&iacute;: &#8222;O&scaron;č&aacute;dala?&#8220; Blokuju tě proto, že obtěžuje&scaron; nesmysln&yacute;mi v&yacute;křiky. Jsi dokonce tak otravn&yacute;, že mi nap&iacute;&scaron;e&scaron; na služebn&iacute; mail, drze mi tyk&aacute;&scaron; a pt&aacute;&scaron; se, proč tě blokuju&#8230;
 > 
-> Douf&aacute;m, že teď už ch&aacute;pe&scaron;. K&aacute;mo.</p> 
+> Douf&aacute;m, že teď už ch&aacute;pe&scaron;. K&aacute;mo.
+
 Odpověděl bleskurychle: &#8222;_Fajn. Každ&yacute; m&aacute;me jin&yacute; &uacute;hel pohledu, respektuju ho._&#8222;
 
 Zaj&iacute;mal by mě ten vesm&iacute;r, v němž existuje &uacute;hel pohledu, pod n&iacute;mž se O&scaron;č&aacute;dal nejev&iacute; jako vlezl&yacute; otrava, ale budiž&#8230;
