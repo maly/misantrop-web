@@ -1,4 +1,4 @@
-url: https://misantrop.info
+url: https://misantrop.eu
 name: Misantropův zápisník
 description: Hrách a broky!
 
@@ -8,9 +8,9 @@ author: Martin Malý
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Domů: "https://misantrop.info"
-  První Misantrop: "https://puvodni.misantrop.info"
-  Druhý Misantrop: "https://druhy.misantrop.info"
+  Domů: "https://misantrop.eu"
+  První Misantrop: "https://puvodni.misantrop.eu"
+  Druhý Misantrop: "https://druhy.misantrop.eu"
   Zápisník na Medium: "https://medium.com/@adent"
   Den 1: "https://den1.cz"
   Moje knihy:
