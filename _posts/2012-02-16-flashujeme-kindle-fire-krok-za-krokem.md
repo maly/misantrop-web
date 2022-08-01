@@ -4,7 +4,7 @@ title: Flashujeme Kindle Fire krok za krokem
 date: 2012-02-16T16:46:30+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=153
+guid: https://misantrop.eu/?p=153
 permalink: /flashujeme-kindle-fire-krok-za-krokem/
 dsq_thread_id:
   - "578487020"
@@ -32,7 +32,7 @@ Dnes mi přišel [Kindle Fire](https://www.amazon.com/gp/product/B0051VVOB2/ref=
 
 Předem jsem věděl, že budu chtít [Fire](https://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) přeflashnout na normální Android. Sice existují způsoby, jak do nepřeflashovaného [nainstalovat aplikace](https://spravodaj.madaj.net/view.php/2012/02-ako-sa-naborit-do-kindle-fire-bez-rootovania), ale z důvodů, které tu nebudu rozvádět (natož se o nich dohadovat) jsem chtěl Androida. Volba padla, přirozeně, na CyanogenMod 7, což je (jestli se nemýlím) zhruba Android 2.3.7. (Pracuje se na CyanogenMod9, což je Android 4, ale jsou s ním zatím ještě [nějaké problémy](https://docs.google.com/spreadsheet/ccc?key=0ArJmKQhhE5AFdGd2U0F3dFlkcno3dmdreFRtWUUtYVE#gid=0).)
 
-<a href="https://misantrop.info/flashujeme-kindle-fire-krok-za-krokem/20120216_009/" rel="attachment wp-att-157"><img class="aligncenter size-medium wp-image-157" title="20120216_009" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_009-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_009-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/flashujeme-kindle-fire-krok-za-krokem/20120216_009/" rel="attachment wp-att-157"><img class="aligncenter size-medium wp-image-157" title="20120216_009" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 Fajn. Máte Kindle Fire. Máte USB kabel s MicroB koncovkou. Máte PC s Windows, máte nainstalovaný Android SDK a chcete nainstalovat CM7. Jak?
 
@@ -54,7 +54,7 @@ _Následující postup použijete na vlastní nebezpečí, jasný?! Pokud nevít
 
 Po restartu by měl naběhnout nový krásný modrozelený Android. Vyzkoušejte si ho.
 
-<a href="https://misantrop.info/flashujeme-kindle-fire-krok-za-krokem/20120216_010/" rel="attachment wp-att-156"><img class="aligncenter size-medium wp-image-156" title="20120216_010" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_010-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_010-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/flashujeme-kindle-fire-krok-za-krokem/20120216_010/" rel="attachment wp-att-156"><img class="aligncenter size-medium wp-image-156" title="20120216_010" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 TIP: Měl jsem wifi na kanálu 12 a divil se, že se nechce připojit. Musel jsem do Advanced settings a tam nastavit &#8222;regionální nastavení&#8220; &#8211; výchozí je &#8222;11 kanálů&#8220;.
 
@@ -79,7 +79,7 @@ Fajn, teď máte Googlí aplikace. Já chtěl ještě jednu věc, totiž pustit 
 
 Nastavil jsem připojení externího SMB disku. Ten se objeví ve správci souborů. Proklikám se na film, kliknu na soubor, ES se mě zeptá, v čem chci přehrát, vyberu MX Video Player, a užívám si video. I s titulkama.
 
-<a href="https://misantrop.info/flashujeme-kindle-fire-krok-za-krokem/20120216_012/" rel="attachment wp-att-154"><img class="aligncenter size-medium wp-image-154" title="20120216_012" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_012-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_012-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/flashujeme-kindle-fire-krok-za-krokem/20120216_012/" rel="attachment wp-att-154"><img class="aligncenter size-medium wp-image-154" title="20120216_012" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 _(Celá ta legrace i s dovozem a clem přišla na 5.500 Kč. Pokud byste někdo za takovou cenu chtěli [Kindle Fire](https://www.amazon.com/gp/product/B0051VVOB2/ref=as_li_ss_tl?ie=UTF8&tag=dein-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0051VVOB2) přivézt, ozvěte se mi; i popisovaný flash na CM7 bych vám mohl zařídit.)_
 
@@ -95,19 +95,19 @@ Zdroje:
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_012.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_012-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_012-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_012.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_012.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_012.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_011.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_011-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_011-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_011-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_011-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_011.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_011.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_011-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_011-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_011-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_011-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_011.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_010.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_010-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_010-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_010.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_010.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_010.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
   </div>
@@ -115,19 +115,19 @@ Zdroje:
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_009.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_009-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_009-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_009.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_009.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_009.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_008.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_008-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_008-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_008-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_008-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_008.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_008.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_008-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_008-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_008-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_008-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_008.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_007.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_007-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_007-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_007-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_007-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_007.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_007.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_007-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_007-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_007-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_007-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_007.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
   </div>
@@ -135,19 +135,19 @@ Zdroje:
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_006.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_006-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_006-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_006-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_006-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_006.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_006.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_006-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_006-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_006-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_006-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_006.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_005.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_005-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_005-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_005-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_005-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_005.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_005.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_005-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_005-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_005-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_005-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_005.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_004.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_004-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_004-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_004-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_004-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_004.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_004.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_004-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_004-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_004-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_004-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_004.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
   </div>
@@ -155,19 +155,19 @@ Zdroje:
   <div class='gallery-row gallery-clear'>
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_003.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_003-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_003-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_003-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_003-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_003.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_003.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_003-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_003-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_003-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_003-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_003.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_002.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_002-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_002-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_002-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_002-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_002.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_002.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_002-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_002-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_002-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_002-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_002.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
     
     <dl class='gallery-item col-3'>
       <dt class='gallery-icon'>
-        <a href='https://misantrop.info/wp-content/uploads/2012/02/20120216_001.jpg'><img width="200" height="150" src="https://misantrop.info/wp-content/uploads/2012/02/20120216_001-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.info/wp-content/uploads/2012/02/20120216_001-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/02/20120216_001-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/02/20120216_001-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/02/20120216_001.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+        <a href='https://misantrop.eu/wp-content/uploads/2012/02/20120216_001.jpg'><img width="200" height="150" src="https://misantrop.eu/wp-content/uploads/2012/02/20120216_001-200x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://misantrop.eu/wp-content/uploads/2012/02/20120216_001-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_001-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_001-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/02/20120216_001.jpg 1280w" sizes="(max-width: 200px) 100vw, 200px" /></a>
       </dt>
     </dl>
   </div>

@@ -4,7 +4,7 @@ title: 'Záchranný člun bloggerský&#8230;'
 date: 2012-05-23T13:30:53+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=412
+guid: https://misantrop.eu/?p=412
 permalink: /zachranny-clun-bloggersky/
 dsq_thread_id:
   - "700839546"
@@ -21,7 +21,7 @@ Titanic se potápí, bárka jde ke dnu, kamaráde&#8230; Věnujte prosím pozorn
 
 <!--more-->
 
-<a href="https://misantrop.info/zachranny-clun-bloggersky/7001022801_e5cfddd7c4/" rel="attachment wp-att-413"><img class="aligncenter size-full wp-image-413" title="7001022801_e5cfddd7c4" alt="" src="https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg" width="500" height="333" srcset="https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg 500w, https://misantrop.info/wp-content/uploads/2012/05/7001022801_e5cfddd7c4-200x133.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/zachranny-clun-bloggersky/7001022801_e5cfddd7c4/" rel="attachment wp-att-413"><img class="aligncenter size-full wp-image-413" title="7001022801_e5cfddd7c4" alt="" src="https://misantrop.eu/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg" width="500" height="333" srcset="https://misantrop.eu/wp-content/uploads/2012/05/7001022801_e5cfddd7c4.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/05/7001022801_e5cfddd7c4-200x133.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 ## <span style="color: #ff0000">UPOZORNĚNÍ! Článek vyšel v květnu 2012. Dnes už je na jakékoli zachraňování pozdě, zbytek textu je tedy pouhá historie, nabídka, která platila omezený čas!!! Děkuji za pochopení!</span>
 

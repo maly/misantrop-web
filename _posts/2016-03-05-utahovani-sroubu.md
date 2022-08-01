@@ -4,7 +4,7 @@ title: Utahování šroubů
 date: 2016-03-05T05:08:01+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2564
+guid: https://misantrop.eu/?p=2564
 permalink: /utahovani-sroubu/
 mashsb_timestamp:
   - "1574980204"

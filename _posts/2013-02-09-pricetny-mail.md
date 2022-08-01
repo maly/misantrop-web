@@ -4,7 +4,7 @@ title: 'Příčetný mail&#8230;'
 date: 2013-02-09T15:22:06+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=819
+guid: https://misantrop.eu/?p=819
 permalink: /pricetny-mail/
 mashsb_timestamp:
   - "1565462647"

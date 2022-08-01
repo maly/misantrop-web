@@ -4,7 +4,7 @@ title: Nová pětiletka
 date: 2012-05-03T11:28:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nova-petiletka/
+guid: https://misantrop.eu/nova-petiletka/
 permalink: /nova-petiletka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "128331894"

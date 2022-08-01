@@ -4,7 +4,7 @@ title: 'Minulý týden jsem si musel udělat dokonce pracovní rozvrh&#8230;'
 date: 2011-11-07T05:00:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/minuly-tyden-jsem-si-musel-udelat-dokonce-pracovni-rozvrh/
+guid: https://misantrop.eu/minuly-tyden-jsem-si-musel-udelat-dokonce-pracovni-rozvrh/
 permalink: /minuly-tyden-jsem-si-musel-udelat-dokonce-pracovni-rozvrh/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "78971752"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Minule jsem psal o &#8222;[radosti z pr&aacute;ce, kter&aacute; k něčemu byla](https://strucny.misantrop.info/radost-z-prace-ktera-k-necemu-byla)&#8222;. Raduju se d&aacute;l, ale c&iacute;t&iacute;m, že zas nějako pr&aacute;ce převažuje nad z&aacute;bavou, že toho m&aacute;m, lidově řečeno, _pln&yacute; Ray-Bany_.
+Minule jsem psal o &#8222;[radosti z pr&aacute;ce, kter&aacute; k něčemu byla](https://strucny.misantrop.eu/radost-z-prace-ktera-k-necemu-byla)&#8222;. Raduju se d&aacute;l, ale c&iacute;t&iacute;m, že zas nějako pr&aacute;ce převažuje nad z&aacute;bavou, že toho m&aacute;m, lidově řečeno, _pln&yacute; Ray-Bany_.
 
 Když ponech&aacute;m stranou věci &#8222;do pr&aacute;ce&#8220; (tedy IInfo), tak co tu m&aacute;me d&aacute;l? Dodělat jeden web pro milovn&iacute;ky osmibitov&yacute;ch procesorů. Zat&iacute;m tedy pro Z80, ale bude i 6502 a pak časem dal&scaron;&iacute;&#8230; Taky mus&iacute;m naprogramovat a odladit jednu zaj&iacute;mavou &uacute;lohu pro Nanode (takov&eacute; Arduino se s&iacute;ťovou kartou v jednom). Udělat specifick&yacute; JS engine pro _(<span style="font-family: mceinline;">***zat&iacute;m nebudu zmiňovat podrobnosti***)</span>_. Sepsat osnovu a hrub&yacute; n&aacute;stin kn&iacute;žky. Připravit a odladit př&iacute;klady do t&eacute; knihy. Připravit si materi&aacute;l pro s&eacute;rii o hern&iacute;ch knihovn&aacute;ch. Napsat tu knihu (200NS). No a to už m&aacute;me pomalu &uacute;nor, takže taky &#8222;zrevidovat v&yacute;ukov&eacute; materi&aacute;ly a připravit se na nov&yacute; semestr&#8220;.
 

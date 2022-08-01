@@ -4,7 +4,7 @@ title: Měření penisů, aneb Média v akci
 date: 2010-12-08T18:17:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/mereni-penisu-aneb-media-v-akci/
+guid: https://misantrop.eu/mereni-penisu-aneb-media-v-akci/
 permalink: /mereni-penisu-aneb-media-v-akci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "35748768"

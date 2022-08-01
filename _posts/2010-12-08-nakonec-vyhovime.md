@@ -4,7 +4,7 @@ title: 'Nakonec vyhovíme&#8230;'
 date: 2010-12-08T07:47:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nakonec-vyhovime/
+guid: https://misantrop.eu/nakonec-vyhovime/
 permalink: /nakonec-vyhovime/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "35697196"

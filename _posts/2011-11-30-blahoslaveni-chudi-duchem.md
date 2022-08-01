@@ -4,7 +4,7 @@ title: 'Blahoslavení chudí duchem&#8230;'
 date: 2011-11-30T12:50:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/blahoslaveni-chudi-duchem/
+guid: https://misantrop.eu/blahoslaveni-chudi-duchem/
 permalink: /blahoslaveni-chudi-duchem/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "82863257"

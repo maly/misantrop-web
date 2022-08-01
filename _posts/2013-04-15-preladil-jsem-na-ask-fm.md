@@ -4,7 +4,7 @@ title: Přeladil jsem na ask.fm!
 date: 2013-04-15T19:32:34+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1241
+guid: https://misantrop.eu/?p=1241
 permalink: /preladil-jsem-na-ask-fm/
 dsq_thread_id:
   - "1213059738"

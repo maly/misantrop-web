@@ -4,7 +4,7 @@ title: Život v Číně komiksem
 date: 2014-04-22T09:35:09+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1981
+guid: https://misantrop.eu/?p=1981
 permalink: /zivot-v-cine-komiksem/
 dsq_thread_id:
   - "2629880277"

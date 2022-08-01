@@ -4,7 +4,7 @@ title: 'Blog pro tento den &#8211; #blogcoctu'
 date: 2010-02-14T17:10:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/blog-pro-tento-den-blogcoctu/
+guid: https://misantrop.eu/blog-pro-tento-den-blogcoctu/
 permalink: /blog-pro-tento-den-blogcoctu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11673342"

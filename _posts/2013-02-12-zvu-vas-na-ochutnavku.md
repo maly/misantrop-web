@@ -4,7 +4,7 @@ title: 'Zvu vás na ochutnávku&#8230;'
 date: 2013-02-12T16:20:56+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=833
+guid: https://misantrop.eu/?p=833
 permalink: /zvu-vas-na-ochutnavku/
 dsq_thread_id:
   - "1079210068"

@@ -4,7 +4,7 @@ title: Co s tím uděláte?
 date: 2017-01-06T16:08:52+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2646
+guid: https://misantrop.eu/?p=2646
 permalink: /co-s-tim-udelate/
 mashsb_timestamp:
   - "1575133365"

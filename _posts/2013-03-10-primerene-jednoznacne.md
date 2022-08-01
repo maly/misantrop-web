@@ -4,7 +4,7 @@ title: 'Přiměřeně jednoznačné&#8230;'
 date: 2013-03-10T12:41:47+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1146
+guid: https://misantrop.eu/?p=1146
 permalink: /primerene-jednoznacne/
 mashsb_timestamp:
   - "1544179392"

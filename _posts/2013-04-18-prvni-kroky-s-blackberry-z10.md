@@ -4,7 +4,7 @@ title: První kroky s BlackBerry Z10
 date: 2013-04-18T09:30:41+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1245
+guid: https://misantrop.eu/?p=1245
 permalink: /prvni-kroky-s-blackberry-z10/
 dsq_thread_id:
   - "1219571250"
@@ -65,7 +65,7 @@ Stejná predikce funguje i u Z10. Když píšete, objevují se vám návrhy slov
 
 Na obrázku vidíte, co mám na mysli &#8211; nejen to, že vám klávesnice napovídá tvary a opravuje překlepy (to je brnkačka a samozřejmost), ale napovídá vám i celá slova podle kontextu toho, co píšete. Napsal jsem &#8222;Vzkaz pro&#8230;&#8220; &#8211; a predikce navrhuje pokračování: Tebe / sebe / mne / jistotu.
 
-[<img class="aligncenter size-medium wp-image-1254" alt="IMG_00000008" src="https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png" width="300" height="500" srcset="https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-300x500.png 300w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-120x200.png 120w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008-614x1024.png 614w, https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](https://misantrop.info/wp-content/uploads/2013/04/IMG_00000008.png)
+[<img class="aligncenter size-medium wp-image-1254" alt="IMG_00000008" src="https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008-300x500.png" width="300" height="500" srcset="https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008-300x500.png 300w, https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008-120x200.png 120w, https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008-614x1024.png 614w, https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008.png 768w" sizes="(max-width: 300px) 100vw, 300px" />](https://misantrop.eu/wp-content/uploads/2013/04/IMG_00000008.png)
 
 Ještě něco z prvních postřehů? No, snad jen to, že &#8222;flow&#8220; ovládání je docela příjemné a návykové.
 

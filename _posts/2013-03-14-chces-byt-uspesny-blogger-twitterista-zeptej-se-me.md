@@ -4,7 +4,7 @@ title: 'Chceš být úspěšný blogger (Twitterista, &#8230;)? Zeptej se mě!'
 date: 2013-03-14T13:03:38+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1164
+guid: https://misantrop.eu/?p=1164
 permalink: /chces-byt-uspesny-blogger-twitterista-zeptej-se-me/
 dsq_thread_id:
   - "1136701052"

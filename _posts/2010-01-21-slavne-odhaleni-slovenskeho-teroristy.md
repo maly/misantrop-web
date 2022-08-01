@@ -4,7 +4,7 @@ title: Slavné odhalení slovenského teroristy
 date: 2010-01-21T13:15:46+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/slavne-odhaleni-slovenskeho-teroristy/
+guid: https://misantrop.eu/slavne-odhaleni-slovenskeho-teroristy/
 permalink: /slavne-odhaleni-slovenskeho-teroristy/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10312850"

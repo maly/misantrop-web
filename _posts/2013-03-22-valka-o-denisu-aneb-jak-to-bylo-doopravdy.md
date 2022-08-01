@@ -4,7 +4,7 @@ title: Válka o Denisu, aneb Jak to bylo doopravdy
 date: 2013-03-22T06:52:05+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2151
+guid: https://misantrop.eu/?p=2151
 permalink: /valka-o-denisu-aneb-jak-to-bylo-doopravdy/
 mashsb_timestamp:
   - "1574982753"

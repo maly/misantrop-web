@@ -4,7 +4,7 @@ title: Konec autoakusace
 date: 2010-05-23T12:48:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/konec-autoakusace/
+guid: https://misantrop.eu/konec-autoakusace/
 permalink: /konec-autoakusace/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19117284"

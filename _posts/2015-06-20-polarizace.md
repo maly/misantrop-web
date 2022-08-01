@@ -4,7 +4,7 @@ title: Polarizace
 date: 2015-06-20T23:18:39+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2313
+guid: https://misantrop.eu/?p=2313
 permalink: /polarizace/
 mashsb_timestamp:
   - "1574074679"
@@ -52,7 +52,7 @@ Místo toho, aby někdo odpovědný vyložil karty na stůl a věrohodně řekl:
 
 Slyšeli jste někdo jasné a střízlivé vysvětlení celého problému s uprchlíky? Takové, kterému porozumí i mí známí, leckdy vzdělaní a rozumní, u kterých se teď nestačím divit, jaké veletoče předvádějí? Máte dojem, že takové vysvětlování je nějak výrazně slyšet? Já moc ne.
 
-Elity jako by vyklidily pole médiím, která jdou po senzacích. Pro ně je zajímavější fotka _podmračenýho negra_, než řádově míň akční analýza toho, co se vlastně děje ve světě a proč ti lidé utíkají. A ruku v ruce s nimi jdou _polomédia_, která se [neštítí publikovat hoaxy](https://dennikn.sk/165049/falosne-bilbordy-stare-fotky-nie-kazdy-status-utecencoch-pravdivy/), fotomontáže, staré fotky vydávat za nové, nebo [prachsprostě bájit a lhát](https://misantrop.info/stop-medialni-manipulaci/)&#8230; Díky za [každou výjimku](https://dennikn.sk/161366/utecenci-europa/?ref=in). (Skvělý věcný článek na webu ČRo: [Jak je to v EU s imigrací a ochranou hranic](https://www.rozhlas.cz/zpravy/data/_zprava/1502982))
+Elity jako by vyklidily pole médiím, která jdou po senzacích. Pro ně je zajímavější fotka _podmračenýho negra_, než řádově míň akční analýza toho, co se vlastně děje ve světě a proč ti lidé utíkají. A ruku v ruce s nimi jdou _polomédia_, která se [neštítí publikovat hoaxy](https://dennikn.sk/165049/falosne-bilbordy-stare-fotky-nie-kazdy-status-utecencoch-pravdivy/), fotomontáže, staré fotky vydávat za nové, nebo [prachsprostě bájit a lhát](https://misantrop.eu/stop-medialni-manipulaci/)&#8230; Díky za [každou výjimku](https://dennikn.sk/161366/utecenci-europa/?ref=in). (Skvělý věcný článek na webu ČRo: [Jak je to v EU s imigrací a ochranou hranic](https://www.rozhlas.cz/zpravy/data/_zprava/1502982))
 
 Jít se dohadovat s davem na demonstraci nebo s lidmi ve skupinách typu IvČRN opravdu nemá smysl. Rozjetému davu je lepší uhnout a svést jeho agresi tam, kde nadělá nejmíň škod. Ale opravdu silně se přimlouvám za to, abyste každý jeden šli a mluvili s lidmi ve svém okolí, s těmi, co vám ještě trochu důvěřují a se kterými je rozumná řeč. Vrhnout se do nejprudší vřavy v davu naprosto neznámých lidí, dostat pár facek a utvrdit se v názoru, že se s _nima_ nedá bavit, protože _oni_ jsou agresivní a nedodržují pravidla slušnosti, je počínání, jemně řečeno, naivní a kontraproduktivní. Stejně jako stěžování si, že _oni_ si začali, nebo že je správné _jim_ nadávat, protože jejich chování je přeci jasná a očividná příčina, nadávky jen následek (chtěl bych mít tuhle jistotu!)
 

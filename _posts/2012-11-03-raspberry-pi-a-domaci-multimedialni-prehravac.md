@@ -4,7 +4,7 @@ title: Raspberry Pi a domácí multimediální přehrávač
 date: 2012-11-03T14:58:30+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=711
+guid: https://misantrop.eu/?p=711
 permalink: /raspberry-pi-a-domaci-multimedialni-prehravac/
 dsq_thread_id:
   - "912321387"
@@ -31,7 +31,7 @@ Do Raspberry Pi (mám [256MB verzi](https://www.amazon.com/gp/product/B008XVAUPI
 
 Existuje například distribuce OpenELEC, ale já sáhl po [Xbianu](https://xbian.org/). Instalace byla bezproblémová, změna IP konfigurace taky, a po spuštění se objevilo XBMC v plné kráse. Funkční a _cool_. Dokonce přehrává i HD filmy, tralala. Tím bychom tedy měli vyřešenou otázku &#8222;přehrávač médií&#8220;.
 
-<a href="https://misantrop.info/raspberry-pi-a-domaci-multimedialni-prehravac/7167145172_46b1228dae/" rel="attachment wp-att-713"><img class="aligncenter size-full wp-image-713" title="7167145172_46b1228dae" src="https://misantrop.info/wp-content/uploads/2012/11/7167145172_46b1228dae.jpg" alt="" width="500" height="500" srcset="https://misantrop.info/wp-content/uploads/2012/11/7167145172_46b1228dae.jpg 500w, https://misantrop.info/wp-content/uploads/2012/11/7167145172_46b1228dae-200x200.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>Mít přehrávač je jedna věc, mít k němu i slušné ovládání je věc druhá. Ale přeci nejsem jediný, kdo to používá, tak by někdo mohl mít nějaké řešení už vymyšlené, že&#8230; Tak jsem se zeptal:
+<a href="https://misantrop.eu/raspberry-pi-a-domaci-multimedialni-prehravac/7167145172_46b1228dae/" rel="attachment wp-att-713"><img class="aligncenter size-full wp-image-713" title="7167145172_46b1228dae" src="https://misantrop.eu/wp-content/uploads/2012/11/7167145172_46b1228dae.jpg" alt="" width="500" height="500" srcset="https://misantrop.eu/wp-content/uploads/2012/11/7167145172_46b1228dae.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/11/7167145172_46b1228dae-200x200.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>Mít přehrávač je jedna věc, mít k němu i slušné ovládání je věc druhá. Ale přeci nejsem jediný, kdo to používá, tak by někdo mohl mít nějaké řešení už vymyšlené, že&#8230; Tak jsem se zeptal:
 
 <pre>Rozběhal jsem XBMC na <a title="RaspberryPi" href="https://hootsuite.com/dashboard#">#RaspberryPi</a>. Funguje skvěle, jen ovládání klávesnicí je nepraktické. Doporučíte nějaký ovladač?</pre>
 

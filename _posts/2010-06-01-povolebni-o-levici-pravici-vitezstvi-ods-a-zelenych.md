@@ -4,7 +4,7 @@ title: Povolební o levici, pravici, vítězství, ODS a zelených
 date: 2010-06-01T09:33:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/povolebni-o-levici-pravici-vitezstvi-ods-a-zelenych/
+guid: https://misantrop.eu/povolebni-o-levici-pravici-vitezstvi-ods-a-zelenych/
 permalink: /povolebni-o-levici-pravici-vitezstvi-ods-a-zelenych/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19546964"

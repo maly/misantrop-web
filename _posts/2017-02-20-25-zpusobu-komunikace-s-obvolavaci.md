@@ -4,7 +4,7 @@ title: 25 způsobů komunikace s obvolávači
 date: 2017-02-20T10:03:24+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2759
+guid: https://misantrop.eu/?p=2759
 permalink: /25-zpusobu-komunikace-s-obvolavaci/
 mashsb_timestamp:
   - "1575976868"

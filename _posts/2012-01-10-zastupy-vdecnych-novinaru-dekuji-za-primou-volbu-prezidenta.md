@@ -4,7 +4,7 @@ title: Zástupy vděčných novinářů děkují za přímou volbu prezidenta.
 date: 2012-01-10T08:04:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
+guid: https://misantrop.eu/zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
 permalink: /zastupy-vdecnych-novinaru-dekuji-za-primou-volbu-prezidenta/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "93177852"

@@ -4,7 +4,7 @@ title: 'Ta virtuální realita je hezká&#8230; až nebezpečně&#8230;'
 date: 2010-06-02T11:21:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ta-virtualni-realita-je-hezka-az-nebezpecne/
+guid: https://misantrop.eu/ta-virtualni-realita-je-hezka-az-nebezpecne/
 permalink: /ta-virtualni-realita-je-hezka-az-nebezpecne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19601609"

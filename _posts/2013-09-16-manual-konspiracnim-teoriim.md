@@ -4,7 +4,7 @@ title: Manuál ke konspiračním teoriím
 date: 2013-09-16T12:01:55+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1480
+guid: https://misantrop.eu/?p=1480
 permalink: /manual-konspiracnim-teoriim/
 dsq_thread_id:
   - "1765539042"
@@ -54,7 +54,7 @@ Neexistuje důkaz, který by mohl vyvrátit tuhle teorii. Pokud neexistuje, je t
 
 V případě letu na Měsíc vyjde levněji vyslání posádky Apolla, než uplacení celého světa a nákladné maskovací operace. Proč by tedy Američané dělali tak riskantní podnik? Protože potřebovali ukázat Rusům svou převahu, přeci&#8230; Oblbli síť ruských špionážních družic, observatoří, radioobservatoří, celý svět přesvědčili o tom, že vidí něco, co není, všem astronomům namalovali tečku před objektiv, která vypadala jako Apollo, protože všechno tohle je přeci logičtější, než poslat tři maníky do vesmíru!
 
-**6. Argumentace zastánců stojí mnohdy na důmyslně použitých [logických klamech](https://misantrop.info/trvale-udrzitelna-krava/). **
+**6. Argumentace zastánců stojí mnohdy na důmyslně použitých [logických klamech](https://misantrop.eu/trvale-udrzitelna-krava/). **
 
 _Vidíte, nelze najít důkaz, který by naši teorii vyvrátil! Je tedy jasné, že je pravdivá!_
 

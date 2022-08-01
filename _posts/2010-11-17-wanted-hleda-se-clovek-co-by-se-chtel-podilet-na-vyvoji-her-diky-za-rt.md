@@ -4,7 +4,7 @@ title: 'Wanted: hledá se člověk, co by se chtěl podílet na vývoji her // d
 date: 2010-11-17T12:12:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
+guid: https://misantrop.eu/wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
 permalink: /wanted-hleda-se-clovek-co-by-se-chtel-podilet-na-vyvoji-her-diky-za-rt/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "33703938"

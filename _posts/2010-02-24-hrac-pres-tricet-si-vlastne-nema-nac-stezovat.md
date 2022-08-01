@@ -4,7 +4,7 @@ title: 'Hráč přes třicet si vlastně nemá nač stěžovat&#8230;'
 date: 2010-02-24T11:51:27+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
+guid: https://misantrop.eu/hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
 permalink: /hrac-pres-tricet-si-vlastne-nema-nac-stezovat/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12228493"

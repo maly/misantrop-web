@@ -4,7 +4,7 @@ title: 'Dead Space 2 pro starého kažuála #EA #DeadSpace2 #games'
 date: 2011-01-26T07:10:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
+guid: https://misantrop.eu/dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
 permalink: /dead-space-2-pro-stareho-kazuala-ea-deadspace2-games/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "40989281"

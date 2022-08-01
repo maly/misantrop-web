@@ -4,7 +4,7 @@ title: Zahipstřeno na reklamu
 date: 2017-02-15T10:47:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2753
+guid: https://misantrop.eu/?p=2753
 permalink: /zahipstreno-na-reklamu/
 mashsb_timestamp:
   - "1574980451"

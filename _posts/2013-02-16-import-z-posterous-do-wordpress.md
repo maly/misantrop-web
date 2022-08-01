@@ -4,7 +4,7 @@ title: Import z Posterous do WordPress
 date: 2013-02-16T12:14:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1071
+guid: https://misantrop.eu/?p=1071
 permalink: /import-z-posterous-do-wordpress/
 dsq_thread_id:
   - "1088958006"

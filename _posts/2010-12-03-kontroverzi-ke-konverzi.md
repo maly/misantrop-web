@@ -4,7 +4,7 @@ title: 'Kontroverzí ke konverzi&#8230;'
 date: 2010-12-03T07:33:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kontroverzi-ke-konverzi/
+guid: https://misantrop.eu/kontroverzi-ke-konverzi/
 permalink: /kontroverzi-ke-konverzi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "35202353"

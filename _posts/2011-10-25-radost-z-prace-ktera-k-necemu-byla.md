@@ -4,7 +4,7 @@ title: 'Radost z práce, která k něčemu byla&#8230;'
 date: 2011-10-25T17:44:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/radost-z-prace-ktera-k-necemu-byla/
+guid: https://misantrop.eu/radost-z-prace-ktera-k-necemu-byla/
 permalink: /radost-z-prace-ktera-k-necemu-byla/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "77204571"

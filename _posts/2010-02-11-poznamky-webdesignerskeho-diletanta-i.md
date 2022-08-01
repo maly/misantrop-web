@@ -4,7 +4,7 @@ title: Poznámky webdesignérského diletanta I
 date: 2010-02-11T15:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/poznamky-webdesignerskeho-diletanta-i/
+guid: https://misantrop.eu/poznamky-webdesignerskeho-diletanta-i/
 permalink: /poznamky-webdesignerskeho-diletanta-i/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11520383"

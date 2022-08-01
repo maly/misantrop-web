@@ -4,7 +4,7 @@ title: 'Zavírám Facebook&#8230;'
 date: 2010-01-26T12:38:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zaviram-facebook/
+guid: https://misantrop.eu/zaviram-facebook/
 permalink: /zaviram-facebook/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10596006"

@@ -4,7 +4,7 @@ title: Internet mužský a ženský
 date: 2010-03-28T10:06:56+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/internet-muzsky-a-zensky/
+guid: https://misantrop.eu/internet-muzsky-a-zensky/
 permalink: /internet-muzsky-a-zensky/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14714849"

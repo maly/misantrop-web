@@ -4,7 +4,7 @@ title: Výběr z Ask.fm
 date: 2014-08-26T11:20:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2148
+guid: https://misantrop.eu/?p=2148
 permalink: /vyber-z-ask-fm/
 mashsb_timestamp:
   - "1576243319"

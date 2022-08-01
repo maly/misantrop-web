@@ -4,7 +4,7 @@ title: 'Hledání šedivé myši s charismatem&#8230;'
 date: 2012-07-08T16:49:13+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=511
+guid: https://misantrop.eu/?p=511
 permalink: /hledani-sedive-mysi-s-charismatem/
 dsq_thread_id:
   - "756386624"

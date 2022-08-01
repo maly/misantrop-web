@@ -4,7 +4,7 @@ title: Naučím vás mluvit elektronicky!
 date: 2015-06-21T12:31:05+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2320
+guid: https://misantrop.eu/?p=2320
 permalink: /naucim-vas-mluvit-elektronicky/
 mashsb_timestamp:
   - "1576258648"
@@ -24,7 +24,7 @@ Chcete?
 
 <!--more-->
 
-Před nějakou dobou jsem si tak trošku postěžoval ([tady třeba](https://kcc.misantrop.info/2015/05/15/literatura/), nebo [tady](https://kcc.misantrop.info/2015/05/22/didaktika/), nepřímo i [tady](https://kcc.misantrop.info/2015/05/21/jednoduche/)), že mi připadá trochu nevyužitý potenciál současné elektroniky. Když to srovnám s dobou před třiceti lety, kdy jsem nesehnal skoro nic, ale zato jsem měl knížky s návody na stavbu lecčeho, tak mi přijde, že dneska máme skvělé a levné možnosti naučit se pracovat s elektronikou (kity za hubičku, součástky za půl darma, nástroje za cenu jednoho obědu s polévkou a limonádou), máme i lidi, které by to bavilo, ale nemáme k tomu _notičky_.
+Před nějakou dobou jsem si tak trošku postěžoval ([tady třeba](https://kcc.misantrop.eu/2015/05/15/literatura/), nebo [tady](https://kcc.misantrop.eu/2015/05/22/didaktika/), nepřímo i [tady](https://kcc.misantrop.eu/2015/05/21/jednoduche/)), že mi připadá trochu nevyužitý potenciál současné elektroniky. Když to srovnám s dobou před třiceti lety, kdy jsem nesehnal skoro nic, ale zato jsem měl knížky s návody na stavbu lecčeho, tak mi přijde, že dneska máme skvělé a levné možnosti naučit se pracovat s elektronikou (kity za hubičku, součástky za půl darma, nástroje za cenu jednoho obědu s polévkou a limonádou), máme i lidi, které by to bavilo, ale nemáme k tomu _notičky_.
 
 Co tím myslím: Není problém vzít do ruky Arduino, podle barevného obrázku propojit dráty, napsat sketch a spustit. Pokud neuděláte někde chybu, bude to fungovat. Jenže tomu něco chybí. Chybí tomu ten přístup &#8222;tak, teď víš všechno potřebné, zkus si udělat to a to a to&#8220; &#8211; tedy cvičení adekvátní probraným znalostem. Trochu se o to snaží příručka Začínáme s Arduinem ([zdarma na Arduino.cz](https://arduino.cz/))
 

@@ -4,7 +4,7 @@ title: Kdo má právo rozhodnout se, komu pomůže?
 date: 2010-01-16T08:33:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kdo-ma-pravo-rozhodnout-se-komu-pomuze/
+guid: https://misantrop.eu/kdo-ma-pravo-rozhodnout-se-komu-pomuze/
 permalink: /kdo-ma-pravo-rozhodnout-se-komu-pomuze/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10024883"

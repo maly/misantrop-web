@@ -4,7 +4,7 @@ title: Programátorské očekávání zmoudření trhu
 date: 2011-03-01T08:40:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/programatorske-ocekavani-zmoudreni-trhu/
+guid: https://misantrop.eu/programatorske-ocekavani-zmoudreni-trhu/
 permalink: /programatorske-ocekavani-zmoudreni-trhu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "44529673"

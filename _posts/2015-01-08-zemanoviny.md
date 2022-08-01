@@ -4,7 +4,7 @@ title: Zemanoviny
 date: 2015-01-08T17:39:36+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2204
+guid: https://misantrop.eu/?p=2204
 permalink: /zemanoviny/
 mashsb_timestamp:
   - "1575133337"

@@ -4,7 +4,7 @@ title: 'Marketing přes sociální sítě a la #Nokia'
 date: 2012-02-02T08:38:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/marketing-pres-socialni-site-a-la-nokia/
+guid: https://misantrop.eu/marketing-pres-socialni-site-a-la-nokia/
 permalink: /marketing-pres-socialni-site-a-la-nokia/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97509629"

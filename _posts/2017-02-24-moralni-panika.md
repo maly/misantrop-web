@@ -4,7 +4,7 @@ title: Morální panika
 date: 2017-02-24T10:13:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2765
+guid: https://misantrop.eu/?p=2765
 permalink: /moralni-panika/
 mashsb_timestamp:
   - "1575818634"

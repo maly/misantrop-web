@@ -4,7 +4,7 @@ title: Manuál sluníčkáře
 date: 2017-01-10T13:07:37+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2659
+guid: https://misantrop.eu/?p=2659
 permalink: /manual-slunickare/
 mashsb_timestamp:
   - "1574979546"
@@ -20,7 +20,7 @@ tags:
 ---
 (Psáno pro IHNED.cz)
 
-Prý jsem [v minulém sloupku](https://misantrop.info/marketingovy-omyl-prazske-kavarny/) šlápl na nebezpečný led přijetí Zemanova diskursu, který jako že dělí lidi na “poctivé pracující” a “pražskou kavárnu”, protože jsem pracoval s označením “kavárna”. Prý špatné, i když to bylo v uvozovkách. A navíc jsem jaksi nenabídl žádné řešení! Tak tentokrát rovnou dám na začátek varování, že budu používat další dehonestující slova, a to už si ani netroufám odhadnout, čí diskurs teď podpořím…
+Prý jsem [v minulém sloupku](https://misantrop.eu/marketingovy-omyl-prazske-kavarny/) šlápl na nebezpečný led přijetí Zemanova diskursu, který jako že dělí lidi na “poctivé pracující” a “pražskou kavárnu”, protože jsem pracoval s označením “kavárna”. Prý špatné, i když to bylo v uvozovkách. A navíc jsem jaksi nenabídl žádné řešení! Tak tentokrát rovnou dám na začátek varování, že budu používat další dehonestující slova, a to už si ani netroufám odhadnout, čí diskurs teď podpořím…
 
 Sluníčkář či sluníčkářka je opravdu hanlivé slovo, ještě před pár lety vyhrazené pro éterické zhulené bytosti, plné všeobjímající lásky ke každému a ke všemu, od ranního vstávání počínaje po státní úředníky konče. Pak čas oponou trhl (není použití tohoto výrazu podporou nějakého socialistického diskursu?) a najednou se slovo “sluníčkář” stalo označením pro “lidi, co sem tahají muslimy a uprchlíky”, tedy v očích “devadesáti procent národa” (jak se rádi označují) pro všechny ostatní.
 

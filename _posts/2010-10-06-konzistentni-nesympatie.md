@@ -4,7 +4,7 @@ title: Konzistentní nesympatie
 date: 2010-10-06T08:51:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/konzistentni-nesympatie/
+guid: https://misantrop.eu/konzistentni-nesympatie/
 permalink: /konzistentni-nesympatie/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "29803743"

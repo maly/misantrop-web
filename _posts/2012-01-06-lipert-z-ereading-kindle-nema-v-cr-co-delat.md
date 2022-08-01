@@ -4,7 +4,7 @@ title: 'Lipert z eReading: &#8222;Kindle nemá v ČR co dělat&#8220;'
 date: 2012-01-06T18:22:46+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=31
+guid: https://misantrop.eu/?p=31
 permalink: /lipert-z-ereading-kindle-nema-v-cr-co-delat/
 dsq_thread_id:
   - "529243982"

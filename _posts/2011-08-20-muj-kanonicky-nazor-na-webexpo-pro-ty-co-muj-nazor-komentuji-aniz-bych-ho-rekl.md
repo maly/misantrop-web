@@ -4,7 +4,7 @@ title: 'Můj kanonický názor na #webexpo (pro ty, co můj názor komentují, a
 date: 2011-08-20T09:04:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
+guid: https://misantrop.eu/muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
 permalink: /muj-kanonicky-nazor-na-webexpo-pro-ty-co-muj-nazor-komentuji-aniz-bych-ho-rekl/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66257069"

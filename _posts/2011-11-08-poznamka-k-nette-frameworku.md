@@ -4,7 +4,7 @@ title: Poznámka k Nette Frameworku
 date: 2011-11-08T07:14:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/poznamka-k-nette-frameworku/
+guid: https://misantrop.eu/poznamka-k-nette-frameworku/
 permalink: /poznamka-k-nette-frameworku/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "79216475"

@@ -4,7 +4,7 @@ title: Telemarketing 99
 date: 2013-11-19T11:08:27+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1662
+guid: https://misantrop.eu/?p=1662
 permalink: /telemarketing-99/
 dsq_thread_id:
   - "1978947737"
@@ -32,7 +32,7 @@ No a minulý týden jsem snad už definitivně zrušil největší telemarketing
 
 A to jsem je žádal zlatě svatě, aby mi nevolali, aby si jaksi všechny svoje nabídky vetknuli za klobouk, dokonce jsem i neoficiální cestou zajistil, abych byl označen v systému příznakem &#8222;Nevolat, nemá to cenu, je zlý a útočný&#8220;. Zabralo to, dva roky to fungovalo, a pak jsem jel vlakem na konferenci, připravoval jsem si prezentaci (vy snad posíláte prezentace dva týdny předem?!) a do toho volal obzvlášť úlisný raiffeisenista. Chvíli jsem na něj nepříčetně řval, ať už nikdy nevolá, že jestli mi z té jejich ratejny ještě jednou někdo zavolá, tak přisámvuch půjdu, celé to tam vypálím a pak popel z jejich telefonní ústředny pochčiju, a když jsem se takhle exponoval, tak ten idiot povídá: &#8222;Dobře. Ale já pro vás mám, pane Malý, nabídku výhodné půjčky&#8230;&#8220;
 
-No. Od Raiffeisenky jsem odešel záhy, zůstala mi jen jejich kreditka. Tu jsem konečně minulý týden zrušil. Vyzbrojen [zkušenostmi](https://misantrop.info/sbohem-raiffeisenko) jsem očekával obstrukce nemalé. Pán na pobočce byl velmi vstřícný, všechno sepsal a omluvil se, že on to nemůže sám zrušit, že mi ale zavolají, tak, dodal s omluvným úsměvem, prosím zvedejte telefony.
+No. Od Raiffeisenky jsem odešel záhy, zůstala mi jen jejich kreditka. Tu jsem konečně minulý týden zrušil. Vyzbrojen [zkušenostmi](https://misantrop.eu/sbohem-raiffeisenko) jsem očekával obstrukce nemalé. Pán na pobočce byl velmi vstřícný, všechno sepsal a omluvil se, že on to nemůže sám zrušit, že mi ale zavolají, tak, dodal s omluvným úsměvem, prosím zvedejte telefony.
 
 A opravdu: Zavolala paní, prošli jsme si tanečkem s rodným číslem, a ona řekla: &#8222;Ale než to zruším, tak se vás zeptám: Proč ji chcete zrušit?&#8220; &#8211; &#8222;Kartu ruším a důvody si nechám pro sebe.&#8220; &#8211; &#8222;Dobře, já to respektuju. Ptám se ale proto, že klienti často ruší své karty jen kvůli nějakému nedorozumění, které jim vysvětlíme a&#8230;&#8220;
 

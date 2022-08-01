@@ -4,7 +4,7 @@ title: Uvěřitelné dojetí na dvě kliknutí myši?
 date: 2011-12-27T11:42:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/uveritelne-dojeti-na-dve-kliknuti-mysi/
+guid: https://misantrop.eu/uveritelne-dojeti-na-dve-kliknuti-mysi/
 permalink: /uveritelne-dojeti-na-dve-kliknuti-mysi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "90333332"
@@ -21,7 +21,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Pavel &#8222;Cody&#8220; Ungr polemizuje s t&iacute;m, co jsem napsal v [Prezidentistovi](https://misantrop.info/prezidentista):
+Pavel &#8222;Cody&#8220; Ungr polemizuje s t&iacute;m, co jsem napsal v [Prezidentistovi](https://misantrop.eu/prezidentista):
 
 <blockquote class="posterous_medium_quote">
   <p>

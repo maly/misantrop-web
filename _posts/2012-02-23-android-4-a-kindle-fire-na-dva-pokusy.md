@@ -4,7 +4,7 @@ title: Android 4 a Kindle Fire na dva pokusy
 date: 2012-02-23T17:48:50+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=188
+guid: https://misantrop.eu/?p=188
 permalink: /android-4-a-kindle-fire-na-dva-pokusy/
 dsq_thread_id:
   - "586756661"

@@ -4,7 +4,7 @@ title: 'Řemeslník do domu&#8230;'
 date: 2017-02-02T10:01:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2729
+guid: https://misantrop.eu/?p=2729
 permalink: /remeslnik-do-domu/
 mashsb_timestamp:
   - "1576293257"

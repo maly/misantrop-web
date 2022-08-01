@@ -4,7 +4,7 @@ title: Zločinná vydra kapitalismu
 date: 2014-01-05T10:50:01+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1861
+guid: https://misantrop.eu/?p=1861
 permalink: /zlocinna-vydra-kapitalismu/
 dsq_thread_id:
   - "2093087174"
@@ -22,7 +22,7 @@ Odborníci znovu zasahují&#8230;
 
 <!--more-->
 
-To mi tedy povězte. Už před lety jsem [hejtoval Vládu odborníků](https://misantrop.info/vlada-odborniku), a vono se to udrželo! Co udrželo &#8211; vono se to rozkošatilo!
+To mi tedy povězte. Už před lety jsem [hejtoval Vládu odborníků](https://misantrop.eu/vlada-odborniku), a vono se to udrželo! Co udrželo &#8211; vono se to rozkošatilo!
 
 Já bych sem mohl dát slovo od slova, co jsem tehdy psal, ale to si tam ostatně přečtěte sami, já sem zkopíruju jen jeden kitát:
 

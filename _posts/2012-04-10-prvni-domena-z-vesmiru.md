@@ -4,7 +4,7 @@ title: První doména z vesmíru!
 date: 2012-04-10T09:35:35+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=281
+guid: https://misantrop.eu/?p=281
 permalink: /prvni-domena-z-vesmiru/
 dsq_thread_id:
   - "643207538"
@@ -40,7 +40,7 @@ Autorom myšlienky a iniciátorom projektu je spoločnosť WebSupport, ktorá j
 </p>
 
 <div id="attachment_282" style="width: 590px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/prvni-domena-z-vesmiru/julo/" rel="attachment wp-att-282"><img aria-describedby="caption-attachment-282" class="size-full wp-image-282 " title="INFOGRAFIKA" src="https://misantrop.info/wp-content/uploads/2012/04/julo.jpg" alt="" width="580" height="362" srcset="https://misantrop.info/wp-content/uploads/2012/04/julo.jpg 580w, https://misantrop.info/wp-content/uploads/2012/04/julo-200x124.jpg 200w, https://misantrop.info/wp-content/uploads/2012/04/julo-500x312.jpg 500w" sizes="(max-width: 580px) 100vw, 580px" /></a>
+  <a href="https://misantrop.eu/prvni-domena-z-vesmiru/julo/" rel="attachment wp-att-282"><img aria-describedby="caption-attachment-282" class="size-full wp-image-282 " title="INFOGRAFIKA" src="https://misantrop.eu/wp-content/uploads/2012/04/julo.jpg" alt="" width="580" height="362" srcset="https://misantrop.eu/wp-content/uploads/2012/04/julo.jpg 580w, https://misantrop.eu/wp-content/uploads/2012/04/julo-200x124.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/04/julo-500x312.jpg 500w" sizes="(max-width: 580px) 100vw, 580px" /></a>
   
   <p id="caption-attachment-282" class="wp-caption-text">
     INFOGRAFIKA - JULO překročil hranice vesmíru a začíná registrovat SK domény (vizualizace)

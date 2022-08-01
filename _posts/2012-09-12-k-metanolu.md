@@ -4,7 +4,7 @@ title: K metanolu
 date: 2012-09-12T11:32:32+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=622
+guid: https://misantrop.eu/?p=622
 permalink: /k-metanolu/
 mashsb_timestamp:
   - "1575137023"

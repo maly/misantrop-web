@@ -4,7 +4,7 @@ title: Binární vidění
 date: 2017-03-06T09:26:20+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2793
+guid: https://misantrop.eu/?p=2793
 permalink: /binarni-videni/
 mashsb_timestamp:
   - "1575114761"

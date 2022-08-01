@@ -4,7 +4,7 @@ title: Proč Češi nevymysleli Facebook?
 date: 2010-09-02T09:17:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/proc-cesi-nevymysleli-facebook/
+guid: https://misantrop.eu/proc-cesi-nevymysleli-facebook/
 permalink: /proc-cesi-nevymysleli-facebook/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "27128440"

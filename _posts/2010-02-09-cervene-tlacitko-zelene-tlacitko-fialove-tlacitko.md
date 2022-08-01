@@ -4,7 +4,7 @@ title: 'Červené tlačítko, zelené tlačítko, fialové tlačítko&#8230;'
 date: 2010-02-09T19:24:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/cervene-tlacitko-zelene-tlacitko-fialove-tlacitko/
+guid: https://misantrop.eu/cervene-tlacitko-zelene-tlacitko-fialove-tlacitko/
 permalink: /cervene-tlacitko-zelene-tlacitko-fialove-tlacitko/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11408394"

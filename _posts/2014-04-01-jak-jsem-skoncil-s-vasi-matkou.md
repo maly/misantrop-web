@@ -4,7 +4,7 @@ title: Jak jsem skončil s vaší matkou
 date: 2014-04-01T08:10:51+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1957
+guid: https://misantrop.eu/?p=1957
 permalink: /jak-jsem-skoncil-s-vasi-matkou/
 dsq_thread_id:
   - "2570709123"

@@ -4,7 +4,7 @@ title: Tweet loňského roku
 date: 2014-04-21T19:20:25+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1979
+guid: https://misantrop.eu/?p=1979
 permalink: /tweet-lonskeho-roku/
 mashsb_timestamp:
   - "1556277199"
@@ -22,7 +22,7 @@ Kdybych to neříkal, tak to řeknu teď &#8211; ale já to říkal!
 
 Dneska si kdejaké [pako, kterému ujede autobus stodevatenáctka](https://www.futurum.cz/clanky/hejt-na-lidi-v-socce.34/) a on musí čekat deset minut na Dědině, až mu pojede další, napíše slohovou práci na pět odstavců o tom, jak je svět zlej a jak jsou voni zlí, a hned se tomu říká &#8222;hejt&#8220;. Ve skutečnosti vědí tihle lidi o hejtu (a o psaní vůbec, jak tak koukám) asi tolik co já o afghánských krajkách, ale to víte, _hejt_ je _hajp_, tak holt každý alespoň trošku negativní vyjádření je hejt. Na druhou stranu jsou lidi, jako třeba já, co vlastně nepíšou nic nenávistného, jen se to o nich traduje, a u nich je i zápisek o příjemné úřednici braný jako _hejt na nepříjemné_.
 
-Já jsem vlastně opravdu upřímnej hejt napsal jednou. Bylo to před rokem  a bylo to na [anketu Tweet roku](https://misantrop.info/anketu-anketu/ "Anketu, anketu!"). Upřímným hejtem myslím to, že jsem tu věc fakt neměl rád a stála mi za to, abych napsal, jak moc se mi nelíbí. Važte si toho, ostatní nominanti mi stáli jen za zmínku.
+Já jsem vlastně opravdu upřímnej hejt napsal jednou. Bylo to před rokem  a bylo to na [anketu Tweet roku](https://misantrop.eu/anketu-anketu/ "Anketu, anketu!"). Upřímným hejtem myslím to, že jsem tu věc fakt neměl rád a stála mi za to, abych napsal, jak moc se mi nelíbí. Važte si toho, ostatní nominanti mi stáli jen za zmínku.
 
 Pojďme si to připomenout, protože jak se říká: kdo nezná svou historii, ten je odsouzen prožít si ji znovu &#8211; a to byste fakt nechtěli!
 

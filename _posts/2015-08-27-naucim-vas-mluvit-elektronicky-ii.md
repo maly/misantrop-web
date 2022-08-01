@@ -4,7 +4,7 @@ title: Naučím vás mluvit elektronicky II
 date: 2015-08-27T14:51:05+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2437
+guid: https://misantrop.eu/?p=2437
 permalink: /naucim-vas-mluvit-elektronicky-ii/
 dsq_thread_id:
   - "4071962404"
@@ -22,7 +22,7 @@ tags:
   - hobby
   - výuka
 ---
-Jak to vypadá s [celým tím nápadem](https://misantrop.info/naucim-vas-mluvit-elektronicky/)?
+Jak to vypadá s [celým tím nápadem](https://misantrop.eu/naucim-vas-mluvit-elektronicky/)?
 
 <!--more-->
 

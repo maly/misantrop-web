@@ -4,7 +4,7 @@ title: Plural cocotus
 date: 2015-08-17T10:09:35+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2398
+guid: https://misantrop.eu/?p=2398
 permalink: /plural-cocotus/
 mashsb_timestamp:
   - "1569705482"
@@ -18,7 +18,7 @@ categories:
 tags:
   - myčeši
 ---
-neboli Plurál kokotnosti. Základní nástroj [národního flagelantství](https://misantrop.info/narodni-plural/).
+neboli Plurál kokotnosti. Základní nástroj [národního flagelantství](https://misantrop.eu/narodni-plural/).
 
 <!--more-->
 

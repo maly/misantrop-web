@@ -4,7 +4,7 @@ title: Pes v Ostravě
 date: 2015-07-31T12:52:50+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2329
+guid: https://misantrop.eu/?p=2329
 permalink: /pes-v-ostrave/
 mashsb_timestamp:
   - "1569706020"
@@ -46,4 +46,4 @@ U Magdy se pes stal součástí smečky naprosto bez problému a několik let ta
 
 &#8212;
 
-Dneska to jsou dva roky, co [Bany z Borovanských lesů zemřela](https://misantrop.info/zivot-dobrmanuv/).
+Dneska to jsou dva roky, co [Bany z Borovanských lesů zemřela](https://misantrop.eu/zivot-dobrmanuv/).

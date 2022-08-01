@@ -4,7 +4,7 @@ title: Média z osla
 date: 2011-07-27T05:35:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/media-z-osla/
+guid: https://misantrop.eu/media-z-osla/
 permalink: /media-z-osla/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "62660103"

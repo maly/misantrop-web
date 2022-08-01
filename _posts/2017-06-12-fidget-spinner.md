@@ -4,7 +4,7 @@ title: Fidget Spinner
 date: 2017-06-12T09:32:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2853
+guid: https://misantrop.eu/?p=2853
 permalink: /fidget-spinner/
 mashsb_timestamp:
   - "1574977271"

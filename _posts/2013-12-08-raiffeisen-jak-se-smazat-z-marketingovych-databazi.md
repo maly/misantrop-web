@@ -4,7 +4,7 @@ title: 'Raiffeisen: jak se smazat z marketingových databází'
 date: 2013-12-08T14:29:10+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1829
+guid: https://misantrop.eu/?p=1829
 permalink: /raiffeisen-jak-se-smazat-z-marketingovych-databazi/
 dsq_thread_id:
   - "2035251621"

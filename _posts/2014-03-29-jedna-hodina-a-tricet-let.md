@@ -4,7 +4,7 @@ title: Jedna hodina a třicet let
 date: 2014-03-29T11:39:50+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1949
+guid: https://misantrop.eu/?p=1949
 permalink: /jedna-hodina-a-tricet-let/
 mashsb_timestamp:
   - "1575567109"

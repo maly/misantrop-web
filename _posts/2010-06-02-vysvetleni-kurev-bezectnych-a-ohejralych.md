@@ -4,7 +4,7 @@ title: 'Vysvětlení &#8222;Kurev bezectných a ohejralých&#8230;&#8220;'
 date: 2010-06-02T14:35:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/vysvetleni-kurev-bezectnych-a-ohejralych/
+guid: https://misantrop.eu/vysvetleni-kurev-bezectnych-a-ohejralych/
 permalink: /vysvetleni-kurev-bezectnych-a-ohejralych/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19607201"

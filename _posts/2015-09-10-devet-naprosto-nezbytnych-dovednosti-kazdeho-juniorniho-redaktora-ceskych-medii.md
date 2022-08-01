@@ -4,7 +4,7 @@ title: Devět naprosto nezbytných dovedností každého juniorního redaktora �
 date: 2015-09-10T10:39:25+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2460
+guid: https://misantrop.eu/?p=2460
 permalink: /devet-naprosto-nezbytnych-dovednosti-kazdeho-juniorniho-redaktora-ceskych-medii/
 mashsb_timestamp:
   - "1561645924"

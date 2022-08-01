@@ -4,7 +4,7 @@ title: Bloguje naruby
 date: 2012-07-02T06:29:36+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=501
+guid: https://misantrop.eu/?p=501
 permalink: /bloguje-naruby/
 dsq_thread_id:
   - "747795337"

@@ -4,7 +4,7 @@ title: 'Vývojový deníček: T-21 až T-5'
 date: 2012-06-17T10:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=476
+guid: https://misantrop.eu/?p=476
 permalink: /vyvojovy-denicek-t-21-az-t-5/
 mashsb_timestamp:
   - "1557009135"

@@ -4,7 +4,7 @@ title: 'Stoprocentně úspěšný den&#8230;'
 date: 2010-05-29T17:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/stoprocentne-uspesny-den/
+guid: https://misantrop.eu/stoprocentne-uspesny-den/
 permalink: /stoprocentne-uspesny-den/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19438113"

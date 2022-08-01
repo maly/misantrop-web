@@ -4,7 +4,7 @@ title: 'Zima 2010: Období přízračné politiky'
 date: 2010-03-14T20:28:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zima-2010-obdobi-prizracne-politiky/
+guid: https://misantrop.eu/zima-2010-obdobi-prizracne-politiky/
 permalink: /zima-2010-obdobi-prizracne-politiky/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "13498777"

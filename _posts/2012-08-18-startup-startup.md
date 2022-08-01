@@ -4,7 +4,7 @@ title: Startup! Startup!
 date: 2012-08-18T13:53:37+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=542
+guid: https://misantrop.eu/?p=542
 permalink: /startup-startup/
 mashsb_timestamp:
   - "1575829378"

@@ -4,7 +4,7 @@ title: 'To mi řekněte &#8211; kde berou ajťáci dojem, že jsou intelektuáln
 date: 2010-08-22T14:21:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/to-mi-reknete-kde-berou-ajtaci-dojem-ze-jsou-intelektualni-elita/
+guid: https://misantrop.eu/to-mi-reknete-kde-berou-ajtaci-dojem-ze-jsou-intelektualni-elita/
 permalink: /to-mi-reknete-kde-berou-ajtaci-dojem-ze-jsou-intelektualni-elita/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "26335296"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Furt dokola, a už mě to nebav&iacute;. A přitom je to takov&aacute; banalita, jako napsat, že programy by měly b&yacute;t uživatelsky př&iacute;větiv&eacute;. Ajť&aacute;ck&aacute; paka, zblbl&aacute; z bin&aacute;rn&iacute; logiky, to čtou jako &#8222;mus&iacute;te dělat jen programy pro blbce&#8220;, a jdou s t&iacute;m polemizovat. Netu&scaron;il jsem, jak omezen&eacute; a verb&aacute;lně agresivn&iacute; jejich argumenty mohou b&yacute;t (a když argumenty dojdou, tak _hur&aacute;, zkus&iacute;me nějakou [argumentačn&iacute; figuru](https://misantrop.info/462276-trvale-udrzitelna-krava.php) a kognitivn&iacute; disonanci srovn&aacute;me t&iacute;m, že dok&aacute;žeme, že je autor pitomec_ &#8211; t&iacute;m probl&eacute;m, jak zn&aacute;mo, zmiz&iacute;). Přitom sami sebe označuj&iacute; za intelektu&aacute;ln&iacute; elitu a za odborn&iacute;ky, co jsou povolan&iacute; rozhodovat o tom, jak maj&iacute; programy vypadat a pracovat.
+Furt dokola, a už mě to nebav&iacute;. A přitom je to takov&aacute; banalita, jako napsat, že programy by měly b&yacute;t uživatelsky př&iacute;větiv&eacute;. Ajť&aacute;ck&aacute; paka, zblbl&aacute; z bin&aacute;rn&iacute; logiky, to čtou jako &#8222;mus&iacute;te dělat jen programy pro blbce&#8220;, a jdou s t&iacute;m polemizovat. Netu&scaron;il jsem, jak omezen&eacute; a verb&aacute;lně agresivn&iacute; jejich argumenty mohou b&yacute;t (a když argumenty dojdou, tak _hur&aacute;, zkus&iacute;me nějakou [argumentačn&iacute; figuru](https://misantrop.eu/462276-trvale-udrzitelna-krava.php) a kognitivn&iacute; disonanci srovn&aacute;me t&iacute;m, že dok&aacute;žeme, že je autor pitomec_ &#8211; t&iacute;m probl&eacute;m, jak zn&aacute;mo, zmiz&iacute;). Přitom sami sebe označuj&iacute; za intelektu&aacute;ln&iacute; elitu a za odborn&iacute;ky, co jsou povolan&iacute; rozhodovat o tom, jak maj&iacute; programy vypadat a pracovat.
 
 A kvůli čemu takovej &eacute;lent? Jen kvůli tomu, že po nich někdo chce, aby si uvědomili, že _jejich programy použ&iacute;vaj&iacute; lid&eacute;, co nemaj&iacute; použ&iacute;v&aacute;n&iacute; programů jako smysl byt&iacute;_.
 

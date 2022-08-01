@@ -4,7 +4,7 @@ title: 'Otázky, samé otázky&#8230;'
 date: 2017-02-13T10:12:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2749
+guid: https://misantrop.eu/?p=2749
 permalink: /otazky-same-otazky/
 mashsb_timestamp:
   - "1576270684"

@@ -4,7 +4,7 @@ title: Vůbec nevím, kdo je to ta Ornella
 date: 2013-02-28T11:35:46+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1108
+guid: https://misantrop.eu/?p=1108
 permalink: /vubec-nevim-kdo-je-to-ta-ornella/
 dsq_thread_id:
   - "1109907940"
@@ -46,7 +46,7 @@ Takže _modelka_. Pan Kokta ji, jak se říká, obtěžkal, a Ornella přišla 
   * Jsou (obě) dostatečně nestoudné
 
 <div id="attachment_1117" style="width: 510px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F.jpg"><img aria-describedby="caption-attachment-1117" class="size-medium wp-image-1117" src="https://misantrop.info/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-500x316.jpg" alt="" width="500" height="316" srcset="https://misantrop.info/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-500x316.jpg 500w, https://misantrop.info/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-200x126.jpg 200w, https://misantrop.info/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F.jpg 652w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F.jpg"><img aria-describedby="caption-attachment-1117" class="size-medium wp-image-1117" src="https://misantrop.eu/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-500x316.jpg" alt="" width="500" height="316" srcset="https://misantrop.eu/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-500x316.jpg 500w, https://misantrop.eu/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F-200x126.jpg 200w, https://misantrop.eu/wp-content/uploads/2013/02/BEMXcgrCIAAdB-F.jpg 652w" sizes="(max-width: 500px) 100vw, 500px" /></a>
   
   <p id="caption-attachment-1117" class="wp-caption-text">
     Tlamiczka to shrnula obrázkem. Ta paní není Ornella, to je Lenka Hornová.

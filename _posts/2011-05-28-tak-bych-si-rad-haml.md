@@ -4,7 +4,7 @@ title: Tak bych si rád HAML
 date: 2011-05-28T18:14:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/tak-bych-si-rad-haml/
+guid: https://misantrop.eu/tak-bych-si-rad-haml/
 permalink: /tak-bych-si-rad-haml/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "54770236"

@@ -4,7 +4,7 @@ title: 'K tomu počtu vysokoškoláků &#8211; o tragédii českého školství.
 date: 2010-06-17T08:30:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/k-tomu-poctu-vysokoskolaku-o-tragedii-ceskeho-skolstvi/
+guid: https://misantrop.eu/k-tomu-poctu-vysokoskolaku-o-tragedii-ceskeho-skolstvi/
 permalink: /k-tomu-poctu-vysokoskolaku-o-tragedii-ceskeho-skolstvi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "20480886"

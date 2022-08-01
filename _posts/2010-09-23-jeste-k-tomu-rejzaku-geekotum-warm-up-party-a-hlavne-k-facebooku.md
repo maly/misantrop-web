@@ -4,7 +4,7 @@ title: 'Ještě k tomu rejžáku, geekotům, warm-up párty a hlavně k Facebook
 date: 2010-09-23T07:29:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jeste-k-tomu-rejzaku-geekotum-warm-up-party-a-hlavne-k-facebooku/
+guid: https://misantrop.eu/jeste-k-tomu-rejzaku-geekotum-warm-up-party-a-hlavne-k-facebooku/
 permalink: /jeste-k-tomu-rejzaku-geekotum-warm-up-party-a-hlavne-k-facebooku/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "28760805"
@@ -28,31 +28,31 @@ Rozp&aacute;len k bodu varu (svět se mě včera a dneska snaž&iacute; intenziv
 Jm&eacute;no a heslo m&aacute;m uložen&eacute;, takže se tedy přihl&aacute;s&iacute;m k &uacute;čtu:
 
 <div class='p_embed p_image_embed'>
-  <a href="https://misantrop.info/wp-content/uploads/2010/09/fb1.jpg.scaled1000.jpg"><img alt="Fb1" height="288" src="https://misantrop.info/wp-content/uploads/2010/09/fb1.jpg.scaled1000-500x288.jpg" width="500" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2010/09/fb1.jpg.scaled1000.jpg"><img alt="Fb1" height="288" src="https://misantrop.eu/wp-content/uploads/2010/09/fb1.jpg.scaled1000-500x288.jpg" width="500" /></a>
 </div></p> 
 
 Hm, aha, vida&#8230; Sice jsem si &#8222;pretty &scaron;ůr&#8220;, že jsou heslo i mail spr&aacute;vn&eacute;, ale co, d&aacute;me to s t&iacute;m obnoven&iacute;m hesla
 
 <div class='p_embed p_image_embed'>
-  <a href="https://misantrop.info/wp-content/uploads/2010/09/fb2.jpg.scaled1000.jpg"><img alt="Fb2" height="70" src="https://misantrop.info/wp-content/uploads/2010/09/fb2.jpg.scaled1000-500x70.jpg" width="500" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2010/09/fb2.jpg.scaled1000.jpg"><img alt="Fb2" height="70" src="https://misantrop.eu/wp-content/uploads/2010/09/fb2.jpg.scaled1000-500x70.jpg" width="500" /></a>
 </div></p> 
 
 Fajn, objevil se standardn&iacute; formul&aacute;ř, kam jsem zadal svůj mail:
 
 <div class='p_embed p_image_embed'>
-  <a href="https://misantrop.info/wp-content/uploads/2010/09/fb3.jpg.scaled1000.jpg"><img alt="Fb3" height="275" src="https://misantrop.info/wp-content/uploads/2010/09/fb3.jpg.scaled1000-500x274.jpg" width="500" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2010/09/fb3.jpg.scaled1000.jpg"><img alt="Fb3" height="275" src="https://misantrop.eu/wp-content/uploads/2010/09/fb3.jpg.scaled1000-500x274.jpg" width="500" /></a>
 </div>
 
 a odeslal. Po odesl&aacute;n&iacute; na mne vyběhlo hl&aacute;&scaron;en&iacute; &#8222;&Scaron;patně přepsan&yacute; text&#8220;
 
 <div class='p_embed p_image_embed'>
-  <a href="https://misantrop.info/wp-content/uploads/2010/09/fb4.jpg.scaled1000.jpg"><img alt="Fb4" height="308" src="https://misantrop.info/wp-content/uploads/2010/09/fb4.jpg.scaled1000-500x307.jpg" width="500" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2010/09/fb4.jpg.scaled1000.jpg"><img alt="Fb4" height="308" src="https://misantrop.eu/wp-content/uploads/2010/09/fb4.jpg.scaled1000-500x307.jpg" width="500" /></a>
 </div>
 
 Jakej text? Asi captcha. A kde zas ta je? Až pak, v nouzi nejvy&scaron;&scaron;&iacute;, nal&eacute;z&aacute;m odkaz &#8222;M&aacute;te už potvrzovac&iacute; k&oacute;d?&#8220; Tak třeba tam&#8230;
 
 <div class='p_embed p_image_embed'>
-  <a href="https://misantrop.info/wp-content/uploads/2010/09/fb5.jpg.scaled1000.jpg"><img alt="Fb5" height="390" src="https://misantrop.info/wp-content/uploads/2010/09/fb5.jpg.scaled1000-500x390.jpg" width="500" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2010/09/fb5.jpg.scaled1000.jpg"><img alt="Fb5" height="390" src="https://misantrop.eu/wp-content/uploads/2010/09/fb5.jpg.scaled1000-500x390.jpg" width="500" /></a>
 </div></p> 
 
 Nem&aacute;m! Nem&aacute;m! Nic jste mi nezaslali, nikam!

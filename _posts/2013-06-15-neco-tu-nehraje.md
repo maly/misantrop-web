@@ -4,7 +4,7 @@ title: 'Něco tu nehraje&#8230;'
 date: 2013-06-15T13:20:48+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1355
+guid: https://misantrop.eu/?p=1355
 permalink: /neco-tu-nehraje/
 mashsb_timestamp:
   - "1575137181"
@@ -42,7 +42,7 @@ Víte, co mi tam smrdí?
 
 Že policie neudělala kroky proti Nagyové na základě podezření, na základě oznámení, na základě šetření. Že ji prostě poslouchali (sprostou podezřelou) kvůli někomu jinému, aniž by proti ní cokoli měli, a to, co proti ní mají, si našli až v tom, co si odposlechli. A tak by se ve všeobecné radosti nad tím, že &#8222;těm nahoře&#8220; někdo zatopil, nemělo ztratit, že můžou poslouchat kohokoli&#8230; To je docela průlom do dlouholeté praxe, kdy se policie zaměřovala na lidi až ve chvíli, kdy _měla podezření, že něco dělají_. Nagyová nedělala nic, a přesto ji poslouchali. Nebo mi něco uniklo?
 
-Z projevování demokracie skrze odposlechy mám silnou nauseu, tím silnější, čím víc tomu lidé věří. Bože můj&#8230;** jako by odposlech byla jediná zjevená pravda**! Takže znovu: Jděte s odposlechama do prdele: [díl 1](https://misantrop.info/politicka-krize-kez), [díl 2](https://misantrop.info/jeste-jednou-strucne-k-utajeni-a-scitani/), [díl 3](https://misantrop.info/tady-kolibrik-jak-me-odposlysite/)
+Z projevování demokracie skrze odposlechy mám silnou nauseu, tím silnější, čím víc tomu lidé věří. Bože můj&#8230;** jako by odposlech byla jediná zjevená pravda**! Takže znovu: Jděte s odposlechama do prdele: [díl 1](https://misantrop.eu/politicka-krize-kez), [díl 2](https://misantrop.eu/jeste-jednou-strucne-k-utajeni-a-scitani/), [díl 3](https://misantrop.eu/tady-kolibrik-jak-me-odposlysite/)
 
 Taky přidám jednu teorii, která vlastně ani tak moc na vodě nestojí: Temelín. Dostavovat ho chtějí Američané (Westinghouse) i Rusové (MIR.1200). Zakázka je za bratru 200mld. Nečas favorizuje Westinghouse. Kdo favorizuje Rusy je známo. Tenhle zájem mi připadá reálnější než báchorka o tom, že policie čirou náhodou objevila zneužívání vojenské rozvědky a rozdávání trafik.
 

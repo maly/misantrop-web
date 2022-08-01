@@ -4,7 +4,7 @@ title: Sluníčkářem v několika krocích
 date: 2015-09-12T19:14:25+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2468
+guid: https://misantrop.eu/?p=2468
 permalink: /slunickarem-v-nekolika-krocich/
 mashsb_timestamp:
   - "1575539855"
@@ -42,7 +42,7 @@ Když piju kafe, chci pít slzy kolumbijského dítěte! Teda ve skutečnosti ne
 
 A teď mi řekněte, co mám dělat, když ve věci imigrantů se lidi, které jsem dřív považoval za příčetné, najednou projevují jako postižení zmrznutím mozku? Najednou z nich padají velkolepé nesmysly, hoaxy, &#8222;obavy&#8220;, na jakoukoli argumentaci vytáhnou něco, co je šestý odvar ze zprávy Russia Today (klasika &#8211; &#8222;přední vědec z prestižní britské univerzity potvrdil, že uprchlíci sežerou vaši duši&#8220;) a ultimátní argumenty a la &#8222;za dvacet let budeme všichni mlátit hlavou o koberec&#8230;&#8220; _Tak přátelé, tohle jediné vám věřím. Vy začnete mlátit hlavou o koberec stejně rychle, jako se vaši dědové naučili zvedat pravačku, a Národní Islámské Souručenství začne fungovat dřív, než první muezzin zazpívá &#8222;abrakadabra minaret,&#8220; protože, jak známo, základním rysem naší, NAŠÍ kultury (kterou ONI přišli vyvrátit, jak jinak) je schopnost jakoukoli nadvládu přežít rychlou transformací a tak rafinovaným předstíráním loajality, že se na to, že je předstíraná, u mnohých často přijde až po osvobození, co nám někdo zvenčí milostivě věnuje._
 
-Ale zpátky od vašich koberců ke mně: Mám trable! Mám fakt velký problém &#8211; a nikdo mi nepošle ani jedno jediný blbý plastový víčko! Můj problém zní: Co mám, hýml, dělat, když se ti _dřív normální _zjevně posrali v kině? Já s nima troubit nemůžu! Nemůžu začít říkat, že hordy verbeže táhnou znásilňovat, rabovat a nakazit nás nemocema, protože to je nesmysl &#8211; a krom velké části mého pečlivě filtrovaného sociálního okruhu jediní, kdo to taky říká taknějak systematičtěji, jsou (fujtajxl) kafénacisti, zelení, lidskoprávníci, aktivisti a tihleti&#8230; takoví&#8230; tihle. [Jebat Berlín](https://kcc.misantrop.info/2015/04/11/berlin/).
+Ale zpátky od vašich koberců ke mně: Mám trable! Mám fakt velký problém &#8211; a nikdo mi nepošle ani jedno jediný blbý plastový víčko! Můj problém zní: Co mám, hýml, dělat, když se ti _dřív normální _zjevně posrali v kině? Já s nima troubit nemůžu! Nemůžu začít říkat, že hordy verbeže táhnou znásilňovat, rabovat a nakazit nás nemocema, protože to je nesmysl &#8211; a krom velké části mého pečlivě filtrovaného sociálního okruhu jediní, kdo to taky říká taknějak systematičtěji, jsou (fujtajxl) kafénacisti, zelení, lidskoprávníci, aktivisti a tihleti&#8230; takoví&#8230; tihle. [Jebat Berlín](https://kcc.misantrop.eu/2015/04/11/berlin/).
 
 Takže jsem se octnul na té straně, kde se dějí _náhodná uskupení rostlin, _v jednom houfu s lidma, pro které mám leckdy jen shovívavé pousmání. Neudělal jsem přitom ani krok &#8211; to vy jste se najednou sebrali a začali jste potápět lodě, zavírat hranice, sbírat víčka (OMG WTF kurva už!) a odtáhli jste na druhou stranu Václaváku. Já furt stojím tam kde jsem stál, a najednou že jsem sluníčkář. Fakt dík.
 

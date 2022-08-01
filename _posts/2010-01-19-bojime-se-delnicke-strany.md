@@ -4,7 +4,7 @@ title: Bojíme se Dělnické strany?
 date: 2010-01-19T13:39:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/bojime-se-delnicke-strany/
+guid: https://misantrop.eu/bojime-se-delnicke-strany/
 permalink: /bojime-se-delnicke-strany/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10185976"

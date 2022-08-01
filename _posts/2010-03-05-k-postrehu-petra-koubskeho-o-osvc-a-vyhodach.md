@@ -4,7 +4,7 @@ title: 'K postřehu Petra Koubského o OSVČ a výhodách&#8230;'
 date: 2010-03-05T13:29:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
+guid: https://misantrop.eu/k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
 permalink: /k-postrehu-petra-koubskeho-o-osvc-a-vyhodach/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12765077"

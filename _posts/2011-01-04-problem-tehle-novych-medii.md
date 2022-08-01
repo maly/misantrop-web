@@ -4,7 +4,7 @@ title: 'Problém těhle nových médií&#8230;'
 date: 2011-01-04T16:13:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/problem-tehle-novych-medii/
+guid: https://misantrop.eu/problem-tehle-novych-medii/
 permalink: /problem-tehle-novych-medii/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "38470051"

@@ -4,7 +4,7 @@ title: Korupce na sto a jeden způsob
 date: 2013-10-01T10:24:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1521
+guid: https://misantrop.eu/?p=1521
 permalink: /korupce-na-sto-a-jeden-zpusob/
 dsq_thread_id:
   - "1813874001"
@@ -32,7 +32,7 @@ Nepostavili novou silnici? Korupce, jak jinak.
 
 Postavili novou silnici? No jistě jen proto, aby se na tom někdo napakoval!
 
-Hele, já nepochybuju o tom, že když někdo rozhoduje v něčí prospěch a vezme za to úplatek, že to křiví prostředí a vnímání dalších věcí, jako třeba vymahatelnosti práva a podobných. Je pravda, že i vlivem korupce je stát neefektivní a platí přemrštěné částky za služby firmám, co si z něj udělaly dojnou krávu. (Na druhou stranu jste mě vy, moji čtenáři, svého času přesvědčovali o tom, že je naprosto v pořádku poskytnout státu služby za přemrštěnou cenu, [vzpomínáte](https://misantrop.info/k-tematu-statnich-zakazek/)?)
+Hele, já nepochybuju o tom, že když někdo rozhoduje v něčí prospěch a vezme za to úplatek, že to křiví prostředí a vnímání dalších věcí, jako třeba vymahatelnosti práva a podobných. Je pravda, že i vlivem korupce je stát neefektivní a platí přemrštěné částky za služby firmám, co si z něj udělaly dojnou krávu. (Na druhou stranu jste mě vy, moji čtenáři, svého času přesvědčovali o tom, že je naprosto v pořádku poskytnout státu služby za přemrštěnou cenu, [vzpomínáte](https://misantrop.eu/k-tematu-statnich-zakazek/)?)
 
 Ale sorry, rozhodně si nemyslím, že korupce je univerzální příčina všeho zla, ani že recept je tak jednoduchý jako &#8222;vymýtíme korupci -> všichni se budeme mít dobře, gauneři začnou být slušní, pivo bude za korunu a blbí zmoudří&#8220;. Jen je hrozně pohodlné říct: _Ne, za to nemůžeme my. Já, vy, můj soused. Máme bordel u popelnic? Za to může zkorumpovaná samospráva!_
 

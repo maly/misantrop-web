@@ -4,7 +4,7 @@ title: 'K &#8222;vypínání telefonů&#8220; a jiným patetickým gestům'
 date: 2011-08-18T05:40:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/k-vypinani-telefonu-a-jinym-patetickym-gestum/
+guid: https://misantrop.eu/k-vypinani-telefonu-a-jinym-patetickym-gestum/
 permalink: /k-vypinani-telefonu-a-jinym-patetickym-gestum/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66076008"

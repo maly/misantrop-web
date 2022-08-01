@@ -4,7 +4,7 @@ title: Funkcionální blaho
 date: 2012-07-05T13:21:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/funkcionalni-blaho/
+guid: https://misantrop.eu/funkcionalni-blaho/
 permalink: /funkcionalni-blaho/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "143723065"

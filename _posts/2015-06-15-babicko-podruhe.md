@@ -4,7 +4,7 @@ title: 'Babičko&#8230; podruhé'
 date: 2015-06-15T17:03:19+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2308
+guid: https://misantrop.eu/?p=2308
 permalink: /babicko-podruhe/
 mashsb_timestamp:
   - "1574976573"
@@ -22,7 +22,7 @@ tags:
   - propaganda
   - Verbež
 ---
-Dobře, já možná nejsem ta správná generace, co by mohla [senilní bábu nakopnout](https://misantrop.info/babicko-povidej/). Ale co _reálná babička? _To [bezostyšné bolšánské lhaní](https://misantrop.info/babicko-povidej/) nadzdvihlo i jednu paní, kterou znám, ale nebudu ji jmenovat. Dávám jí tímto na své stránce prostor. Přivítejte prosím váženého hosta a její lehce mrazivé osobní vzpomínky.
+Dobře, já možná nejsem ta správná generace, co by mohla [senilní bábu nakopnout](https://misantrop.eu/babicko-povidej/). Ale co _reálná babička? _To [bezostyšné bolšánské lhaní](https://misantrop.eu/babicko-povidej/) nadzdvihlo i jednu paní, kterou znám, ale nebudu ji jmenovat. Dávám jí tímto na své stránce prostor. Přivítejte prosím váženého hosta a její lehce mrazivé osobní vzpomínky.
 
 <!--more-->
 

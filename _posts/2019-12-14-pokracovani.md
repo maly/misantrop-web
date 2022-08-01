@@ -4,7 +4,7 @@ title: Pokračování?
 date: 2019-12-14T10:17:34+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2914
+guid: https://misantrop.eu/?p=2914
 permalink: /pokracovani/
 mashsb_twitter_handle:
   - adent

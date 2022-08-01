@@ -4,7 +4,7 @@ title: Ostravak (zase) bloguje a blogovat bude!
 date: 2012-05-24T19:20:55+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=440
+guid: https://misantrop.eu/?p=440
 permalink: /ostravak-zase-bloguje-a-blogovat-bude/
 dsq_thread_id:
   - "702377040"

@@ -4,7 +4,7 @@ title: Dozvuky Bloguje.cz
 date: 2012-07-21T12:12:34+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=516
+guid: https://misantrop.eu/?p=516
 permalink: /dozvuky-bloguje-cz/
 mashsb_timestamp:
   - "1576151776"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Rád bych ocitoval něco málo ze své pošty, čistě pro dokreslení [článku o Bloguje](https://misantrop.info/bloguje-naruby/)&#8230;
+Rád bych ocitoval něco málo ze své pošty, čistě pro dokreslení [článku o Bloguje](https://misantrop.eu/bloguje-naruby/)&#8230;
 
 <!--more-->
 

@@ -4,7 +4,7 @@ title: A kosti a kosti a těma on nás hostí
 date: 2010-07-30T07:45:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/a-kosti-a-kosti-a-tema-on-nas-hosti/
+guid: https://misantrop.eu/a-kosti-a-kosti-a-tema-on-nas-hosti/
 permalink: /a-kosti-a-kosti-a-tema-on-nas-hosti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "24543102"

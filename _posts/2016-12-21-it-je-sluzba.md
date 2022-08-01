@@ -4,7 +4,7 @@ title: IT je služba
 date: 2016-12-21T18:03:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2598
+guid: https://misantrop.eu/?p=2598
 permalink: /it-je-sluzba/
 mashsb_timestamp:
   - "1564657225"

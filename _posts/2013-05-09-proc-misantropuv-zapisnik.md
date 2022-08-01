@@ -4,7 +4,7 @@ title: Proč Misantropův zápisník?
 date: 2013-05-09T12:23:42+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1281
+guid: https://misantrop.eu/?p=1281
 permalink: /proc-misantropuv-zapisnik/
 dsq_thread_id:
   - "1274778673"

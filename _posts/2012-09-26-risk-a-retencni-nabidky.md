@@ -4,7 +4,7 @@ title: Risk a retenční nabídky
 date: 2012-09-26T07:39:02+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=651
+guid: https://misantrop.eu/?p=651
 permalink: /risk-a-retencni-nabidky/
 mashsb_timestamp:
   - "1550047257"
@@ -20,7 +20,7 @@ Všiml jsem si jedné zajímavé věci. Myšlenkou jsem kroužil okolo, a když 
 
 <!--more-->
 
-Retenční nabídka Vodafone se nekonala (lépe řečeno utopila se v [balastu přepojování po zákaznických linkách](https://misantrop.info/vodafone-odchazeni/)), ale můžu potvrdit, že se snažili. Alespoň v mém případě. Že to bylo příliš málo a příliš pozdě, to je jiná věc. Ale pro někoho to zajímavé být může &#8211; minimálně  pro všechny ostatní zákzníky.
+Retenční nabídka Vodafone se nekonala (lépe řečeno utopila se v [balastu přepojování po zákaznických linkách](https://misantrop.eu/vodafone-odchazeni/)), ale můžu potvrdit, že se snažili. Alespoň v mém případě. Že to bylo příliš málo a příliš pozdě, to je jiná věc. Ale pro někoho to zajímavé být může &#8211; minimálně  pro všechny ostatní zákzníky.
 
 Vembloud na to šel z druhé strany &#8211; zavolal a zeptal se: &#8222;Když k vám přejdu, co mi nabídnete?&#8220; Ke svému údivu zjistil, že mu nabídli to, co je na webu.
 

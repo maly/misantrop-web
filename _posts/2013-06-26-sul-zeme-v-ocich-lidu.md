@@ -4,7 +4,7 @@ title: 'Sůl země v očích lidu&#8230;'
 date: 2013-06-26T16:02:09+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1375
+guid: https://misantrop.eu/?p=1375
 permalink: /sul-zeme-v-ocich-lidu/
 mashsb_timestamp:
   - "1576256549"
@@ -24,7 +24,7 @@ Včera mě kdosi zmínil na Twitteru v souvislosti s nějakou hovadnou diskusí 
 
 Poslední kapkou pro vydání tohodle recyklátu byla zpráva o tom, že Babiš koupil Mafru, pod kterou byl komentář, který opíšu: &#8222;slovenskému _izraelitovi defekovat do úst_&#8222;. Přidaná hodnota jak noha.
 
-V roce 2008 jsem se ptal, jaký je [smysl diskusí na zpravodajském webu](https://misantrop.info/713526-smysl-diskusi.php):
+V roce 2008 jsem se ptal, jaký je [smysl diskusí na zpravodajském webu](https://misantrop.eu/713526-smysl-diskusi.php):
 
 > Proč jsou na zpravodajských webech čtenářské diskuse? Jaký je argument pro to, aby tam byly? Zkusil jsem si jich pár formulovat
 > 
@@ -42,7 +42,7 @@ Tady mě Pixy upozornil, že to zkusil Blesk, a nic moc se nestalo. Udělal to R
 > 
 > Čím víc nad tím přemýšlím, tím víc docházím k závěru, že v podstatě NENÍ rozumný důvod, proč by zpravodajské weby musely mít čtenářskou diskusi. Neříkám že ji mít nesmějí, je to jejich volba; to, že ji mají, je podle mého stále spíš výrazem jakési prvotní touhy &#8222;aby konkurence neměla něco víc&#8220;. Důvod, proč je mají pořád, je strach před řevem té části populace, která si navykla na slastný pocit, že &#8222;píšou do novin&#8220;, i když na to nemají ani schopnosti, ani puvoár. Dokud bylo zapotřebí nějaké větší akce, například sednout si, napsat dopis, odejít s ním na poštu a pak pátrat v rubrice &#8222;Zasláno&#8220;, tak si lidé rozmysleli, jestli s každým pšoukem poběží do novin.
 
-V roce 2009 Novinky zavedly povinnou registraci diskutérů. [Bylo s tím velké mrzení](https://misantrop.info/podotknuti-k-diskusim).
+V roce 2009 Novinky zavedly povinnou registraci diskutérů. [Bylo s tím velké mrzení](https://misantrop.eu/podotknuti-k-diskusim).
 
 > Moderátoři diskusí jsou drahá záležitost, roboty lze snadno obejít a zadavatelé reklamy brzy přijdou na to, že zobrazení reklamy nějakému anonymnímu diskutérovi, co si přišel  zanadávat do své oblíbené knajpy, jsou vyhozené peníze. Navíc to opravdu není dobrá vizitka.
 > 
@@ -52,9 +52,9 @@ V roce 2009 Novinky zavedly povinnou registraci diskutérů. [Bylo s tím velké
 > 
 > A další: &#8222;_PRÁVĚ SI PODEPSALI ORTEL SMRTI +. CELÉ NOVINKY A CELÁ VLÁDA S MODROTOTALITNÍ KORYTÁŘSKOU Odpornou Dementní Sebrankou. TOHLE JE VÁŠ KONEC_&#8222;
 
-Mýlil jsem se. Pageview je stále posvátná kráva. Ale po Novinkách něco podobného udělali i v Mafře, snad i na Aktuálně, na Živě udělali z diskusí komentáře&#8230; A hlavně, [jak jsem psal jinde](https://misantrop.info/jak-napsat-komentar-na-libovolne-stranky), **pokud se vám dneska udělá názor, nikdo není povinen vám ho zveřejňovat na svých stránkách. Máte blogovací servery, sociální sítě, máte všechny možné internetové služby, tak už konečně přestaňte mlít o svobodě slova! Máme ji měrou vrchovatou.**
+Mýlil jsem se. Pageview je stále posvátná kráva. Ale po Novinkách něco podobného udělali i v Mafře, snad i na Aktuálně, na Živě udělali z diskusí komentáře&#8230; A hlavně, [jak jsem psal jinde](https://misantrop.eu/jak-napsat-komentar-na-libovolne-stranky), **pokud se vám dneska udělá názor, nikdo není povinen vám ho zveřejňovat na svých stránkách. Máte blogovací servery, sociální sítě, máte všechny možné internetové služby, tak už konečně přestaňte mlít o svobodě slova! Máme ji měrou vrchovatou.**
 
-Jako kuriozitu přidám [myšlenkovou konstrukci Zdeňka Fekara](https://misantrop.info/529840-perla-dne-tydne-mesice.php), kterou zveřejnil na blogu Respektu.
+Jako kuriozitu přidám [myšlenkovou konstrukci Zdeňka Fekara](https://misantrop.eu/529840-perla-dne-tydne-mesice.php), kterou zveřejnil na blogu Respektu.
 
 > _Myšlenka otce Furata pro tento týden_ v krystalické podobě páně Fekarem prezentované zní, cituji:
 > 
@@ -68,7 +68,7 @@ Tolik k pohledu z druhé strany. Když to vezmu z úplně druhé strany, totiž 
 
 > Nejde o to, jaké komentáře nechceme. Jde o to, jaké komentáře chceme. Stejně jako naše tištěné noviny i my stojíme o kvalitní čtenáře. Takové, co úroveň našich článků zvednou svými příspěvky. Proč bychom měli za naše peníze poskytovat platformu nesmyslům?
 
-Před nedávnem jsem si poznamenal [dva citáty](https://misantrop.info/citat-k-diskusim-na-obsahovem-webu/).
+Před nedávnem jsem si poznamenal [dva citáty](https://misantrop.eu/citat-k-diskusim-na-obsahovem-webu/).
 
 > **Diskuse, ankety, interaktivita**
 > 

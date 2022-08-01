@@ -4,7 +4,7 @@ title: Umřel mi geek, čest jeho památce
 date: 2011-05-03T10:18:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/umrel-mi-geek-cest-jeho-pamatce/
+guid: https://misantrop.eu/umrel-mi-geek-cest-jeho-pamatce/
 permalink: /umrel-mi-geek-cest-jeho-pamatce/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "51664464"

@@ -4,7 +4,7 @@ title: 'Ušlechtilý koníček&#8230;'
 date: 2012-10-14T14:32:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=665
+guid: https://misantrop.eu/?p=665
 permalink: /uslechtily-konicek/
 dsq_thread_id:
   - "884739567"
@@ -36,7 +36,7 @@ A pak jednou byl podvečer, my diskutovali s Vembloudem a Evou G. o rozdílném 
 
 Přišli jsme do prodejny, kterou v rámci konspirace zatím nejmenuju, aby tam nezačalo trajdat procesí. Usadili jsme se, a já, protože jsem byl instruován, že obsluha whisky opravdu rozumí, jsem na otázku &#8222;Co to bude?&#8220; neřekl _Džeka se sodou_, ale na rovinu jsem přiznal, že whisky vlastně neznám, že mám zkušenosti jen s těmi profláklými hospodskými značkami, a že by mému vkusu vyhovovalo něco ne moc ostrého, něco jemnějšího, spíš sladšího, vonět to může&#8230; Načež se začal prodavač s Vembloudem dohadovat v odborných termínech a pak se usnesli, že mi nalijí Laphroaig Quarter Cask. K tomu sklenku studené vody.
 
-<a href="https://misantrop.info/?attachment_id=666" rel="attachment wp-att-666"><img class="aligncenter size-full wp-image-666" title="WP_000019" src="https://misantrop.info/wp-content/uploads/2012/10/WP_000019.jpg" alt="" width="500" height="667" srcset="https://misantrop.info/wp-content/uploads/2012/10/WP_000019.jpg 500w, https://misantrop.info/wp-content/uploads/2012/10/WP_000019-149x200.jpg 149w, https://misantrop.info/wp-content/uploads/2012/10/WP_000019-374x500.jpg 374w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/?attachment_id=666" rel="attachment wp-att-666"><img class="aligncenter size-full wp-image-666" title="WP_000019" src="https://misantrop.eu/wp-content/uploads/2012/10/WP_000019.jpg" alt="" width="500" height="667" srcset="https://misantrop.eu/wp-content/uploads/2012/10/WP_000019.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/10/WP_000019-149x200.jpg 149w, https://misantrop.eu/wp-content/uploads/2012/10/WP_000019-374x500.jpg 374w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 Ochutnal jsem.
 
@@ -60,7 +60,7 @@ Odcházeli jsme z ochutnávky neopiti. Byl to spíš smyslový zážitek než &#
 
 Bohužel, touhle ochutnávkou pro mne skončilo období, kdy jsem si dal v hospodě &#8222;vizoura&#8220;. Definitivně. Asi tak tři dny poté jsem seděl s Rosťou Kocmanem a dali jsme si &#8222;nějakou dobrou whisky&#8220;, tuším Tullamore nebo Four Roses, a říkal jsem si: Třeba jsem jen nebyl zvyklý&#8230; Kdepak! Našel jsem tam zas jen tu štiplavost a kořalkovou sílu, nic z toho dobrého, z toho, co mě zaujalo, tam nebylo. Bohužel.
 
-<a href="https://misantrop.info/?attachment_id=667" rel="attachment wp-att-667"><img class="aligncenter size-full wp-image-667" title="WP_000022" src="https://misantrop.info/wp-content/uploads/2012/10/WP_000022.jpg" alt="" width="500" height="667" srcset="https://misantrop.info/wp-content/uploads/2012/10/WP_000022.jpg 500w, https://misantrop.info/wp-content/uploads/2012/10/WP_000022-149x200.jpg 149w, https://misantrop.info/wp-content/uploads/2012/10/WP_000022-374x500.jpg 374w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/?attachment_id=667" rel="attachment wp-att-667"><img class="aligncenter size-full wp-image-667" title="WP_000022" src="https://misantrop.eu/wp-content/uploads/2012/10/WP_000022.jpg" alt="" width="500" height="667" srcset="https://misantrop.eu/wp-content/uploads/2012/10/WP_000022.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/10/WP_000022-149x200.jpg 149w, https://misantrop.eu/wp-content/uploads/2012/10/WP_000022-374x500.jpg 374w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 Ochutnal jsem i Laphroaig Triple Wood, cosi z Caol Ila a Finlaggan v sudové síle, a mé podezření se potvrdilo: Vypadá to, že jsem odsouzen k tomu pít skotské single malt whisky, protože jiné pití mě nezaujme, je na mě příliš alkoholické. Čímž neříkám, že vám nemůže chutnat nebo že je špatné. Jen že se omlouvám, ale já se svými chuťovými pohárky nikde nenašel tuhle bohatost, nikde jsem nenašel nic zajímavějšího než &#8222;ochucený alkohol&#8220;. Takže &#8211; ne, fakt si nedám&#8230;
 

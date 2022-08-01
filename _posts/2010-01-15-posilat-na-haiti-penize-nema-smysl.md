@@ -4,7 +4,7 @@ title: Posílat na Haiti peníze nemá smysl
 date: 2010-01-15T06:16:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/posilat-na-haiti-penize-nema-smysl/
+guid: https://misantrop.eu/posilat-na-haiti-penize-nema-smysl/
 permalink: /posilat-na-haiti-penize-nema-smysl/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "9968336"

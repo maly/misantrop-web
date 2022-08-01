@@ -4,7 +4,7 @@ title: 'Každé správné bloggerské desatero má svůj pandán&#8230;'
 date: 2010-06-21T15:20:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kazde-spravne-bloggerske-desatero-ma-svuj-pandan/
+guid: https://misantrop.eu/kazde-spravne-bloggerske-desatero-ma-svuj-pandan/
 permalink: /kazde-spravne-bloggerske-desatero-ma-svuj-pandan/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "20712058"

@@ -4,7 +4,7 @@ title: 'Barča Nová bude asi nějaká neskutečná&#8230; stážistka!'
 date: 2010-07-09T08:31:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/barca-nova-bude-asi-nejaka-neskutecna-stazistka/
+guid: https://misantrop.eu/barca-nova-bude-asi-nejaka-neskutecna-stazistka/
 permalink: /barca-nova-bude-asi-nejaka-neskutecna-stazistka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22485301"

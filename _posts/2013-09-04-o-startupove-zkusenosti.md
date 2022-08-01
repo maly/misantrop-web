@@ -4,7 +4,7 @@ title: O startupové zkušenosti
 date: 2013-09-04T10:17:02+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1446
+guid: https://misantrop.eu/?p=1446
 permalink: /o-startupove-zkusenosti/
 mashsb_timestamp:
   - "1574574482"

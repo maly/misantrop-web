@@ -4,7 +4,7 @@ title: 'Kindle Paperwhite &#8211; jak se vám líbí?'
 date: 2013-02-17T17:28:53+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1075
+guid: https://misantrop.eu/?p=1075
 permalink: /kindle-paperwhite-jak-se-vam-libi/
 dsq_thread_id:
   - "1088949259"
@@ -26,7 +26,7 @@ tags:
   - čtečky
   - Paperwhite
 ---
-Koupil jsem Kindle Paperwhite z Amazon.de (můžete taky, [postup je zde](https://misantrop.info/kindle-paperwhite-za-malo-penez/)), za slušný peníz, a tady jsou moje první postřehy.
+Koupil jsem Kindle Paperwhite z Amazon.de (můžete taky, [postup je zde](https://misantrop.eu/kindle-paperwhite-za-malo-penez/)), za slušný peníz, a tady jsou moje první postřehy.
 
 <!--more-->
 
@@ -52,6 +52,6 @@ Jailbreak zatím není, čeština taky ne &#8211; míněno tedy jazyk, jakým s 
 
 Resumé: Máte trojku, čtyřku, Touch a jste s ní spokojeni? Nepotřebujete podsvícení? Tak asi nemusíte mít nutně Paperwhite. Jestli na starší typy mžouráte, blbě vidíte, jste zvyklí číst si večer a kvůli tomu svítíte lampičkou, prostě jestli z nějakého důvodu chcete kontrastnější displej s možností (!) podsvícení, tak asi není proč váhat.
 
-Já jsem s Paperwhitem zatím spokojen. Za [solidní cenu](https://misantrop.info/kindle-paperwhite-za-malo-penez/) perfektní zařízení.
+Já jsem s Paperwhitem zatím spokojen. Za [solidní cenu](https://misantrop.eu/kindle-paperwhite-za-malo-penez/) perfektní zařízení.
 
 _Teď ještě čekám na pouzdro. Ne, nekoupil jsem za 30€ originální, a už vůbec jsem nekoupil &#8222;to s lampičkou&#8220; (WTF?), ale stejně jako u předchozího &#8211; za patnáct dolarů z eBay (ano, jsou i levnější)._

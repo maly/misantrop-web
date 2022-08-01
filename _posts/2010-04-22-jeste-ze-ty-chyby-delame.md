@@ -4,7 +4,7 @@ title: 'Ještě že ty chyby děláme&#8230;'
 date: 2010-04-22T10:04:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jeste-ze-ty-chyby-delame/
+guid: https://misantrop.eu/jeste-ze-ty-chyby-delame/
 permalink: /jeste-ze-ty-chyby-delame/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "16993980"

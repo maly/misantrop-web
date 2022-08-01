@@ -4,7 +4,7 @@ title: 'T-Mobile perlí&#8230;'
 date: 2012-05-24T09:57:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/t-mobile-perli/
+guid: https://misantrop.eu/t-mobile-perli/
 permalink: /t-mobile-perli/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "133128727"

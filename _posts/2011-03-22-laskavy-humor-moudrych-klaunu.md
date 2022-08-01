@@ -4,7 +4,7 @@ title: Laskavý humor moudrých klaunů
 date: 2011-03-22T07:36:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/laskavy-humor-moudrych-klaunu/
+guid: https://misantrop.eu/laskavy-humor-moudrych-klaunu/
 permalink: /laskavy-humor-moudrych-klaunu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "46825389"

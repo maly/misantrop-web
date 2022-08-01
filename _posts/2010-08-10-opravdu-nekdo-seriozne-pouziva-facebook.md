@@ -4,7 +4,7 @@ title: Opravdu někdo seriózně používá Facebook?
 date: 2010-08-10T07:43:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/opravdu-nekdo-seriozne-pouziva-facebook/
+guid: https://misantrop.eu/opravdu-nekdo-seriozne-pouziva-facebook/
 permalink: /opravdu-nekdo-seriozne-pouziva-facebook/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "25352125"

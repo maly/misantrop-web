@@ -4,7 +4,7 @@ title: Věštění z hrnku bruselské kávy
 date: 2012-01-24T10:44:16+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=112
+guid: https://misantrop.eu/?p=112
 permalink: /vesteni-z-hrnku-bruselske-kavy/
 dsq_thread_id:
   - "550661847"

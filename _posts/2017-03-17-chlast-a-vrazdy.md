@@ -4,7 +4,7 @@ title: Chlast a vraždy
 date: 2017-03-17T09:28:09+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2810
+guid: https://misantrop.eu/?p=2810
 permalink: /chlast-a-vrazdy/
 mashsb_timestamp:
   - "1576174739"

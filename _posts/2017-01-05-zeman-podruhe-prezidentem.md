@@ -4,7 +4,7 @@ title: Zeman podruhé prezidentem?
 date: 2017-01-05T16:06:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2643
+guid: https://misantrop.eu/?p=2643
 permalink: /zeman-podruhe-prezidentem/
 mashsb_timestamp:
   - "1575201247"

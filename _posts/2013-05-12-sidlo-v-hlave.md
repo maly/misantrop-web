@@ -4,7 +4,7 @@ title: Šídlo v hlavě,
 date: 2013-05-12T11:21:26+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1286
+guid: https://misantrop.eu/?p=1286
 permalink: /sidlo-v-hlave/
 dsq_thread_id:
   - "1282650550"

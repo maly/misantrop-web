@@ -4,7 +4,7 @@ title: Novela zákona o loteriích obsahuje (zase) cenzurní dodatek
 date: 2011-06-19T05:12:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/novela-zakona-o-loteriich-obsahuje-zase-cenzurni-dodatek/
+guid: https://misantrop.eu/novela-zakona-o-loteriich-obsahuje-zase-cenzurni-dodatek/
 permalink: /novela-zakona-o-loteriich-obsahuje-zase-cenzurni-dodatek/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "57752293"

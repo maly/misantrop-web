@@ -4,7 +4,7 @@ title: Padejede je fail jak prase
 date: 2014-02-10T16:20:22+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1908
+guid: https://misantrop.eu/?p=1908
 permalink: /padejede-je-fail-jak-prase/
 mashsb_timestamp:
   - "1575840713"
@@ -52,7 +52,7 @@ Zcela přesně shrnuto. Ale ani tak bych o tom nepsal. Nadzvedla mě až odpově
 
 > Máte samozřejmě právo na svůj názor. Pokud ale začnete psát příspěvěk o něčem, o čem jste si nezjistil základní fakta, je to špatně. Ano, virální marketing prostě někdy pracuje s reklamní mystifikací nebo lží, pokud chcete. Téma musí být výrazné, aby zaujalo. Pokud s tím máte problém, měl byste odsoudit celé reklamní odvětví jako takové. Tomu lhaní, jak vy říkáte, my říkáme reklamní nadsázka. Samozřejmě záleží, jak je udělaná. Ne každá se povede. A ne každá je zábavná stejně jako byla u PadeJede. Podle reakcí, které se ke mě dostávaly, hodně lidí tušilo nebo dokonce vědělo, že jde o virální kampaň. Ale kampaň je bavila a zajímalo je, na co to kampaň ve výsledku bude. A to je, ať se vám to líbí nebo ne, skvělý výsledek. Přečtěte si prosím stránky projektu a zjistíte, že kampaň nebyla o tom, jestli májí lidé věřit neziskovkám nebo ne, ale o tom, že pokud chcete darovat peníze, měl byste to udělat prostřednictvím transparentního účtu této organizace a ne někdě na ulici do kasičky.
 
-_Pane Čapek, jasně že máte právo na svůj názor, ale [než budete psát o robotech, tak byste si o tom měl něco přečíst](https://misantrop.info/539248-internet-discussions-wayback-machine.php)!_ A co jako, pane Oubrechte? Jaká jsou základní fakta? Že jste lhali proto, že chcete, aby lidi věřili? Tomu lhaní, co předvedlo Padejede, se říká furt lhaní, ne reklamní nadsázka. Reklamní nadsázka je, když ukážete pade, co je velké jako hamburgr, ale ne když tvrdíte, že v něm je vysílačka a GPSka a ukazujete zfalšovanou mapu k věření. Ano, hodně lidí tušilo, že jde o reklamu, a zajímalo je, co to ve výsledku bude, ale obávám se, že ne každý souzní s deklarovaným vyzněním. Navíc na té stránce se pořád píše o existenci &#8222;sledované padesátikoruny&#8220; a celé to vyznění je zmíněno tak jako mimochodem &#8211; &#8222;těší nás zájem, a tak jsme se rozhodli přispět na transparentní účty neziskovek&#8220;. Nikde ani slovo o tom, že pade neexistuje, takže těm, co si to nepřečtou na Médiáři, dál věšíte bulíky na nos&#8230;
+_Pane Čapek, jasně že máte právo na svůj názor, ale [než budete psát o robotech, tak byste si o tom měl něco přečíst](https://misantrop.eu/539248-internet-discussions-wayback-machine.php)!_ A co jako, pane Oubrechte? Jaká jsou základní fakta? Že jste lhali proto, že chcete, aby lidi věřili? Tomu lhaní, co předvedlo Padejede, se říká furt lhaní, ne reklamní nadsázka. Reklamní nadsázka je, když ukážete pade, co je velké jako hamburgr, ale ne když tvrdíte, že v něm je vysílačka a GPSka a ukazujete zfalšovanou mapu k věření. Ano, hodně lidí tušilo, že jde o reklamu, a zajímalo je, co to ve výsledku bude, ale obávám se, že ne každý souzní s deklarovaným vyzněním. Navíc na té stránce se pořád píše o existenci &#8222;sledované padesátikoruny&#8220; a celé to vyznění je zmíněno tak jako mimochodem &#8211; &#8222;těší nás zájem, a tak jsme se rozhodli přispět na transparentní účty neziskovek&#8220;. Nikde ani slovo o tom, že pade neexistuje, takže těm, co si to nepřečtou na Médiáři, dál věšíte bulíky na nos&#8230;
 
 Reklama a PR může bájit, může nadsazovat, zveličovat &#8211; ale nesmí lidem tvrdit snadno vyvratitelnou lež, která navíc překračuje zákon. Ani když tam nakonec napíšete, že to je pro bohulibé účely. Lež a porušování zákonů těžko totiž u cílové skupiny vzbudí pozitivní asociace.
 
@@ -72,7 +72,7 @@ A to jsem se posmál. Argument &#8222;_pracujete jako xxx, takže nemůžete pos
 > Zbytek vašeho mailu je ukázková argumentace &#8222;ad hominem&#8220;. Děkuji, pobavil jste mě, protože přesně tímhle, co předvádíte, tj. komunikačními faily, se zabývám už tak patnáct let &#8211; tedy zhruba od doby, kdy vy jste dostudoval (kdybych měl odpovědět stylem na vaší úrovni). Takže jestli chcete, abych z vašeho mailu neměl jen srandu, budete muset zvolit lepší kalibr.  
 > PS: Váš mail obratem zveřejním, nerad bych čtenáře ochudil o ukázku komunikačního profesionála, co zfailoval na kampani a teď ublíženě brečí.
 
-Jako jo, Pade bylo solidní WTF, ale autorovy reakce, které zatím nevybočily z [Dvanáctera figur zápasu perem](https://misantrop.info/trvale-udrzitelna-krava/) (Despicere, Ulyxes, Jubilare), protože zatím neřekl nic, jen se snaží zpochybnit kompetenci oponentů, tomu dávají další rozměr!
+Jako jo, Pade bylo solidní WTF, ale autorovy reakce, které zatím nevybočily z [Dvanáctera figur zápasu perem](https://misantrop.eu/trvale-udrzitelna-krava/) (Despicere, Ulyxes, Jubilare), protože zatím neřekl nic, jen se snaží zpochybnit kompetenci oponentů, tomu dávají další rozměr!
 
 =========
 

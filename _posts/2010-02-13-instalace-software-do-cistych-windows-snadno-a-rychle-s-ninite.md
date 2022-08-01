@@ -4,7 +4,7 @@ title: 'Instalace software do čistých Windows snadno a rychle s #ninite'
 date: 2010-02-13T13:23:15+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
+guid: https://misantrop.eu/instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
 permalink: /instalace-software-do-cistych-windows-snadno-a-rychle-s-ninite/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11624186"

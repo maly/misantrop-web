@@ -4,7 +4,7 @@ title: Google Reader končí, kam přejít?
 date: 2013-03-14T09:46:20+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1156
+guid: https://misantrop.eu/?p=1156
 permalink: /google-reader-konci-kam-prejit/
 dsq_thread_id:
   - "1136449677"
@@ -36,4 +36,4 @@ Další možnosti najdete například v článcích na [Mashable](https://masha
 
 Máte vy nějaký tip? Podělte se v komentářích&#8230;
 
-[<img class="aligncenter size-medium wp-image-1159" alt="Feedly" src="https://misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png" width="500" height="288" srcset="https://misantrop.info/wp-content/uploads/2013/03/f-Hry-500x288.png 500w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry-200x115.png 200w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry-1024x591.png 1024w, https://misantrop.info/wp-content/uploads/2013/03/f-Hry.png 1242w" sizes="(max-width: 500px) 100vw, 500px" />](https://misantrop.info/wp-content/uploads/2013/03/f-Hry.png)
+[<img class="aligncenter size-medium wp-image-1159" alt="Feedly" src="https://misantrop.eu/wp-content/uploads/2013/03/f-Hry-500x288.png" width="500" height="288" srcset="https://misantrop.eu/wp-content/uploads/2013/03/f-Hry-500x288.png 500w, https://misantrop.eu/wp-content/uploads/2013/03/f-Hry-200x115.png 200w, https://misantrop.eu/wp-content/uploads/2013/03/f-Hry-1024x591.png 1024w, https://misantrop.eu/wp-content/uploads/2013/03/f-Hry.png 1242w" sizes="(max-width: 500px) 100vw, 500px" />](https://misantrop.eu/wp-content/uploads/2013/03/f-Hry.png)

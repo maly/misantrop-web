@@ -4,7 +4,7 @@ title: Ako dieťa federácie počúva populárnu hudbu
 date: 2010-08-24T07:02:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ako-dieta-federacie-pocuva-popularnu-hudbu/
+guid: https://misantrop.eu/ako-dieta-federacie-pocuva-popularnu-hudbu/
 permalink: /ako-dieta-federacie-pocuva-popularnu-hudbu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "26493488"

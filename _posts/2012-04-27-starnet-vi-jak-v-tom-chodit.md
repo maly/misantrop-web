@@ -4,7 +4,7 @@ title: 'Starnet ví, jak v tom chodit&#8230; &#8211; AKTUALIZACE'
 date: 2012-04-27T09:07:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=319
+guid: https://misantrop.eu/?p=319
 permalink: /starnet-vi-jak-v-tom-chodit/
 dsq_thread_id:
   - "665994632"
@@ -120,7 +120,7 @@ Pak jsem to odložil, protože jsem měl spoustu jiné práce, ale teď je vhodn
 
 Jejich zástupce prý říkal klientům, co v našem domě mají, že &#8222;_Malý dělá problémy a že nevědí tedy jak to bude, jestli je třeba nedá k soudu&#8230;_&#8220; Buhehe. Místo toho, aby se snažili domluvit a přijít s nějakým řešením (proč? Žádné závazky necítí!), tak říkají, že jim dělám problémy. Mezitím si namontovali na stojan další škatuli&#8230; Tralala. A zase přišli bůhvíjak a bůhvíkudy.
 
-[<img class="aligncenter size-full wp-image-325" title="Starnet" src="https://misantrop.info/wp-content/uploads/2012/04/101_2038.jpg" alt="" width="700" height="517" srcset="https://misantrop.info/wp-content/uploads/2012/04/101_2038.jpg 700w, https://misantrop.info/wp-content/uploads/2012/04/101_2038-200x147.jpg 200w, https://misantrop.info/wp-content/uploads/2012/04/101_2038-500x369.jpg 500w" sizes="(max-width: 700px) 100vw, 700px" />](https://misantrop.info/?attachment_id=325)A takhle prasí dál a dál &#8211; viz třeba tohle [rozhodnutí magistrátu o správním řízení ve věci odstranění stavby](https://www.c-budejovice.cz/cz/magistrat/stranky/uredni-deska.aspx?detail=7763).
+[<img class="aligncenter size-full wp-image-325" title="Starnet" src="https://misantrop.eu/wp-content/uploads/2012/04/101_2038.jpg" alt="" width="700" height="517" srcset="https://misantrop.eu/wp-content/uploads/2012/04/101_2038.jpg 700w, https://misantrop.eu/wp-content/uploads/2012/04/101_2038-200x147.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/04/101_2038-500x369.jpg 500w" sizes="(max-width: 700px) 100vw, 700px" />](https://misantrop.eu/?attachment_id=325)A takhle prasí dál a dál &#8211; viz třeba tohle [rozhodnutí magistrátu o správním řízení ve věci odstranění stavby](https://www.c-budejovice.cz/cz/magistrat/stranky/uredni-deska.aspx?detail=7763).
 
 A teď otázka pro vás: **Jak byste to řešili?**
 

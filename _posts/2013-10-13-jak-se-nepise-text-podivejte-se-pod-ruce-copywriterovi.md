@@ -4,7 +4,7 @@ title: Jak se nepíše text. Podívejte se pod ruce copywriterovi
 date: 2013-10-13T09:13:42+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=194
+guid: https://misantrop.eu/?p=194
 permalink: /jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/
 dsq_thread_id:
   - "1851802796"
@@ -67,7 +67,7 @@ Bodycount: 8. Už to nevypadá neotřele, ale jako zlozvyk, u kterého autor ani
 
 Je to o tom, o tom, o tom&#8230; A je to o tom, že to je o tom. I když se nechce, tak se je o tom!
 
-<a href="https://misantrop.info/jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/attachment/15231998/" rel="attachment wp-att-209"><img class="aligncenter size-full wp-image-209" title="15231998" alt="" src="https://misantrop.info/wp-content/uploads/2012/02/15231998.jpg" width="400" height="300" srcset="https://misantrop.info/wp-content/uploads/2012/02/15231998.jpg 400w, https://misantrop.info/wp-content/uploads/2012/02/15231998-200x150.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+<a href="https://misantrop.eu/jak-se-nepise-text-podivejte-se-pod-ruce-copywriterovi/attachment/15231998/" rel="attachment wp-att-209"><img class="aligncenter size-full wp-image-209" title="15231998" alt="" src="https://misantrop.eu/wp-content/uploads/2012/02/15231998.jpg" width="400" height="300" srcset="https://misantrop.eu/wp-content/uploads/2012/02/15231998.jpg 400w, https://misantrop.eu/wp-content/uploads/2012/02/15231998-200x150.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 
 > Nápad, který stál za to, aby byl rozvíjen, byl tady. (&#8230;) Když jsem vycítil, že to klaplo, přestal jsem. A jak jsem vycítil, že je to „tak akorát“? No, prostě jsem to vycítil.
 

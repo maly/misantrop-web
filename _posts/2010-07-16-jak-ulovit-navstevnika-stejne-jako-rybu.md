@@ -4,7 +4,7 @@ title: 'Jak ulovit návštěvníka? Stejně jako rybu&#8230;'
 date: 2010-07-16T09:24:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jak-ulovit-navstevnika-stejne-jako-rybu/
+guid: https://misantrop.eu/jak-ulovit-navstevnika-stejne-jako-rybu/
 permalink: /jak-ulovit-navstevnika-stejne-jako-rybu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "23100713"

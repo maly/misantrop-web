@@ -4,7 +4,7 @@ title: 3d bomba na Barrandově
 date: 2017-01-07T15:48:56+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2653
+guid: https://misantrop.eu/?p=2653
 permalink: /3d-bomba-na-barrandove/
 mashsb_timestamp:
   - "1569702402"

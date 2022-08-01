@@ -4,7 +4,7 @@ title: Tři pirátské poznámky
 date: 2010-02-12T20:30:16+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/tri-piratske-poznamky/
+guid: https://misantrop.eu/tri-piratske-poznamky/
 permalink: /tri-piratske-poznamky/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11590760"

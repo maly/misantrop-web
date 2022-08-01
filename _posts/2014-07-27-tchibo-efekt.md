@@ -4,7 +4,7 @@ title: Tchibo efekt
 date: 2014-07-27T10:11:59+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2108
+guid: https://misantrop.eu/?p=2108
 permalink: /tchibo-efekt/
 mashsb_timestamp:
   - "1575146012"

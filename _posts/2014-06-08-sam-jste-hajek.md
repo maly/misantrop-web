@@ -4,7 +4,7 @@ title: Sám jste Hájek!
 date: 2014-06-08T21:42:04+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2047
+guid: https://misantrop.eu/?p=2047
 permalink: /sam-jste-hajek/
 mashsb_timestamp:
   - "1565567820"

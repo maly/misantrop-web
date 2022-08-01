@@ -4,7 +4,7 @@ title: Úterní chvilka namyšlenosti
 date: 2010-10-19T10:51:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/uterni-chvilka-namyslenosti/
+guid: https://misantrop.eu/uterni-chvilka-namyslenosti/
 permalink: /uterni-chvilka-namyslenosti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "30962435"

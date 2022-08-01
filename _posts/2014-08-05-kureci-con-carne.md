@@ -4,7 +4,7 @@ title: Kuřecí con carne
 date: 2014-08-05T16:12:17+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2117
+guid: https://misantrop.eu/?p=2117
 permalink: /kureci-con-carne/
 mashsb_timestamp:
   - "1574898300"
@@ -29,5 +29,5 @@ Cože, že to zní jako pitomost? Nojo. A tohle zažívám furt. Vítejte v mém
 </p>
 
 <p style="color: #141823;">
-  Takže con carne jsou fazole a <a href="https://kcc.misantrop.info/">kuřecí con carne</a> je můj nový bláznivý projekt denního psaní. Nevím co tam bude a o čem přesně, ale bude tam denně něco, většinou needitované, jak mi to od klávesnice odpadne, buď o něčem, nad čím právě přemýšlím, nebo o něčem, co se stalo, no a rád bych to udržel třeba rok.
+  Takže con carne jsou fazole a <a href="https://kcc.misantrop.eu/">kuřecí con carne</a> je můj nový bláznivý projekt denního psaní. Nevím co tam bude a o čem přesně, ale bude tam denně něco, většinou needitované, jak mi to od klávesnice odpadne, buď o něčem, nad čím právě přemýšlím, nebo o něčem, co se stalo, no a rád bych to udržel třeba rok.
 </p>

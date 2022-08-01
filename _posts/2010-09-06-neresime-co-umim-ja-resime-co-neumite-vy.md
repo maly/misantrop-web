@@ -4,7 +4,7 @@ title: Neřešíme co umím já, řešíme co neumíte vy!
 date: 2010-09-06T12:00:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/neresime-co-umim-ja-resime-co-neumite-vy/
+guid: https://misantrop.eu/neresime-co-umim-ja-resime-co-neumite-vy/
 permalink: /neresime-co-umim-ja-resime-co-neumite-vy/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "27472784"

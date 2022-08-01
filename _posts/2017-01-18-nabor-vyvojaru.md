@@ -4,7 +4,7 @@ title: Nábor vývojářů
 date: 2017-01-18T13:06:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2688
+guid: https://misantrop.eu/?p=2688
 permalink: /nabor-vyvojaru/
 mashsb_timestamp:
   - "1576240938"

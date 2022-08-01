@@ -4,7 +4,7 @@ title: Jak se zdiskreditují komunisti vládnutím, prosím pěkně?
 date: 2010-03-25T11:47:17+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
+guid: https://misantrop.eu/jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
 permalink: /jak-se-zdiskredituji-komunisti-vladnutim-prosim-pekne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14487631"

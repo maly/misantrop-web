@@ -4,7 +4,7 @@ title: 'Co znamená &#8222;dát follow&#8220;?'
 date: 2010-10-19T09:57:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/co-znamena-dat-follow/
+guid: https://misantrop.eu/co-znamena-dat-follow/
 permalink: /co-znamena-dat-follow/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "30962269"

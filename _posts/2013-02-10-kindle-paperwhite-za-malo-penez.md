@@ -4,7 +4,7 @@ title: 'Kindle Paperwhite za málo peněz&#8230;'
 date: 2013-02-10T13:42:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=824
+guid: https://misantrop.eu/?p=824
 permalink: /kindle-paperwhite-za-malo-penez/
 wpgplus_message:
   - ""

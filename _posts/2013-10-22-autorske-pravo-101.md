@@ -4,7 +4,7 @@ title: Autorské právo 101
 date: 2013-10-22T12:40:07+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1601
+guid: https://misantrop.eu/?p=1601
 permalink: /autorske-pravo-101/
 dsq_thread_id:
   - "1886501536"
@@ -18,7 +18,7 @@ image: /wp-content/uploads/2013/02/Diskuse.jpg
 categories:
   - Nezařazené
 ---
-To jsem zase včera [trefil do živého](https://misantrop.info/copyrighte/). Komentáře byly velmi poučné čtení, navíc Patrick připomněl svůj [tři roky starý článek](https://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat), a když jsem si ho znovu četl (a znovu nad ním kroutil hlavou), tak jsem si řekl, že bude asi nezbytné připomenout nějaké základy autorského práva. Nechci polemizovat s Patrickem, to za mne udělali jiní, ale rozhodně je na místě připomenout pár základních věcí, které se ve zjitřené debatě jaksi ztrácí ze zřetele.
+To jsem zase včera [trefil do živého](https://misantrop.eu/copyrighte/). Komentáře byly velmi poučné čtení, navíc Patrick připomněl svůj [tři roky starý článek](https://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat), a když jsem si ho znovu četl (a znovu nad ním kroutil hlavou), tak jsem si řekl, že bude asi nezbytné připomenout nějaké základy autorského práva. Nechci polemizovat s Patrickem, to za mne udělali jiní, ale rozhodně je na místě připomenout pár základních věcí, které se ve zjitřené debatě jaksi ztrácí ze zřetele.
 
 <!--more-->
 

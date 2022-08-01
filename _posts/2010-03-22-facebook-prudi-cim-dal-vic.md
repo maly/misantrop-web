@@ -4,7 +4,7 @@ title: Facebook prudí čím dál víc
 date: 2010-03-22T12:17:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/facebook-prudi-cim-dal-vic/
+guid: https://misantrop.eu/facebook-prudi-cim-dal-vic/
 permalink: /facebook-prudi-cim-dal-vic/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14191024"

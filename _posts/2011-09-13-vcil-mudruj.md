@@ -4,7 +4,7 @@ title: Včil mudruj!
 date: 2011-09-13T06:05:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/vcil-mudruj/
+guid: https://misantrop.eu/vcil-mudruj/
 permalink: /vcil-mudruj/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "69965513"

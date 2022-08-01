@@ -4,7 +4,7 @@ title: Blb baktrijský
 date: 2017-02-08T10:38:48+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2742
+guid: https://misantrop.eu/?p=2742
 permalink: /blb-baktrijsky/
 mashsb_timestamp:
   - "1575147014"

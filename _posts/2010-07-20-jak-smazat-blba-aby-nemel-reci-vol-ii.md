@@ -4,7 +4,7 @@ title: Jak smazat blba, aby neměl řeči, vol. II
 date: 2010-07-20T10:57:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jak-smazat-blba-aby-nemel-reci-vol-ii/
+guid: https://misantrop.eu/jak-smazat-blba-aby-nemel-reci-vol-ii/
 permalink: /jak-smazat-blba-aby-nemel-reci-vol-ii/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "23535359"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Ke včerejšímu [článku o mazání blbů z diskusí](https://strucny.misantrop.info/jak-smazat-blba-aby-nemel-reci) jsem dostal několik reakcí a námětů, které mohu shrnout do dvou hlavních směrů:
+Ke včerejšímu [článku o mazání blbů z diskusí](https://strucny.misantrop.eu/jak-smazat-blba-aby-nemel-reci) jsem dostal několik reakcí a námětů, které mohu shrnout do dvou hlavních směrů:
 
   1. Blokování podle IP / cookie.
   2. Zobrazovat komentáře od blba pouze blbovi, tj. na základě IP nebo cookie ukázat &#8222;smazaný&#8220; komentář jen jeho autorovi.

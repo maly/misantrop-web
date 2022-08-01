@@ -4,7 +4,7 @@ title: Ranním městem
 date: 2010-07-07T12:00:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/rannim-mestem/
+guid: https://misantrop.eu/rannim-mestem/
 permalink: /rannim-mestem/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22295666"

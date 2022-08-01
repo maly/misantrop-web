@@ -4,7 +4,7 @@ title: 'Vyzkoušel jsem Tarifomat. Výsledek? Jak víno&#8230;'
 date: 2012-04-25T20:23:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=313
+guid: https://misantrop.eu/?p=313
 permalink: /vyzkousel-jsem-tarifomat-vysledek-jak-vino/
 mashsb_timestamp:
   - "1574123298"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Pamatujete, jak mi u [článku o Tarifomatu](https://misantrop.info/tariffffuuuuuumat/) psal jeho provozovatel &#8222;Vyzkoušejte nás&#8230;&#8220;? Tak jsem je vyzkoušel.
+Pamatujete, jak mi u [článku o Tarifomatu](https://misantrop.eu/tariffffuuuuuumat/) psal jeho provozovatel &#8222;Vyzkoušejte nás&#8230;&#8220;? Tak jsem je vyzkoušel.
 
 <!--more-->
 

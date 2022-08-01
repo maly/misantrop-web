@@ -4,7 +4,7 @@ title: Turecký puč
 date: 2017-01-31T12:40:46+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2723
+guid: https://misantrop.eu/?p=2723
 permalink: /turecky-puc/
 mashsb_timestamp:
   - "1563455619"

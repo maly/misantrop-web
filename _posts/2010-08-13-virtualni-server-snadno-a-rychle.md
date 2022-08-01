@@ -4,7 +4,7 @@ title: Virtuální server snadno a rychle
 date: 2010-08-13T13:11:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/virtualni-server-snadno-a-rychle/
+guid: https://misantrop.eu/virtualni-server-snadno-a-rychle/
 permalink: /virtualni-server-snadno-a-rychle/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "25639066"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Od doby, co jsem si [pořídil vlastní virtuální server](https://misantrop.info/virtualmaster-ze-zarodek-cloudu), zjišťuju, jaká to je pěkná hračka. Jestli si ji chcete vyzkoušet taky, můžete &#8211; [Virtualmaster](https://www.virtualmaster.cz/referral/7b00k) (_affiliate odkaz_) nabízí testovací virtuálky (64MB RAM, až 2GB HDD) na 14 dní zdarma. Můžete si jej zkusit, a pokud vám bude vyhovovat, tak si jej prostě převedete na placený tarif. Tato konfigurace vás bude stát necelých 40 Kč měsíčně a na malý web bude určitě stačit. A pokud ne, tak si zvětšíte disk nebo paměť nebo přidáte jádra, podle toho co vás bude pálit.
+Od doby, co jsem si [pořídil vlastní virtuální server](https://misantrop.eu/virtualmaster-ze-zarodek-cloudu), zjišťuju, jaká to je pěkná hračka. Jestli si ji chcete vyzkoušet taky, můžete &#8211; [Virtualmaster](https://www.virtualmaster.cz/referral/7b00k) (_affiliate odkaz_) nabízí testovací virtuálky (64MB RAM, až 2GB HDD) na 14 dní zdarma. Můžete si jej zkusit, a pokud vám bude vyhovovat, tak si jej prostě převedete na placený tarif. Tato konfigurace vás bude stát necelých 40 Kč měsíčně a na malý web bude určitě stačit. A pokud ne, tak si zvětšíte disk nebo paměť nebo přidáte jádra, podle toho co vás bude pálit.
 
 Jestli si chcete takový malý virtuálek vyzkoušet, nemusíte si jej nastavovat od začátku. Pokud chcete, mám tu pro vás dva předpřipravené kousky, které můžete použít jako takový &#8222;odrazový můstek&#8220;:
 

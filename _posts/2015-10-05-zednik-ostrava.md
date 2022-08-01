@@ -4,7 +4,7 @@ title: Zedník, Ostrava
 date: 2015-10-05T14:49:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2506
+guid: https://misantrop.eu/?p=2506
 permalink: /zednik-ostrava/
 mashsb_timestamp:
   - "1576066717"
@@ -69,6 +69,6 @@ Vznikl tak krásný mem, který občas používám. Až se někdy bude zase ně
 
 PS: Chvíli jsem si říkal, jestli to vůbec psát, jestli vytahovat staré záležitosti, ale protože se ani Troška nepoučili&#8230;
 
-[<img class="aligncenter size-full wp-image-2509" src="https://misantrop.info/wp-content/uploads/2015/10/prokope.jpg" alt="prokope" width="504" height="133" srcset="https://misantrop.info/wp-content/uploads/2015/10/prokope.jpg 504w, https://misantrop.info/wp-content/uploads/2015/10/prokope-200x53.jpg 200w, https://misantrop.info/wp-content/uploads/2015/10/prokope-500x132.jpg 500w" sizes="(max-width: 504px) 100vw, 504px" />](https://misantrop.info/wp-content/uploads/2015/10/prokope.jpg)
+[<img class="aligncenter size-full wp-image-2509" src="https://misantrop.eu/wp-content/uploads/2015/10/prokope.jpg" alt="prokope" width="504" height="133" srcset="https://misantrop.eu/wp-content/uploads/2015/10/prokope.jpg 504w, https://misantrop.eu/wp-content/uploads/2015/10/prokope-200x53.jpg 200w, https://misantrop.eu/wp-content/uploads/2015/10/prokope-500x132.jpg 500w" sizes="(max-width: 504px) 100vw, 504px" />](https://misantrop.eu/wp-content/uploads/2015/10/prokope.jpg)
 
 &#8230; tak odpověď zní: Ano!

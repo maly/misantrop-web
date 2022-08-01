@@ -4,7 +4,7 @@ title: Moje osoba by ráda podotkla svůj osobní názor na copywritery za 90 K�
 date: 2010-07-15T13:08:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/moje-osoba-by-rada-podotkla-svuj-osobni-nazor-na-copywritery-za-90-kc/
+guid: https://misantrop.eu/moje-osoba-by-rada-podotkla-svuj-osobni-nazor-na-copywritery-za-90-kc/
 permalink: /moje-osoba-by-rada-podotkla-svuj-osobni-nazor-na-copywritery-za-90-kc/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "22977609"

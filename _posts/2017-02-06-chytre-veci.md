@@ -4,7 +4,7 @@ title: Chytré věci
 date: 2017-02-06T10:35:03+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2738
+guid: https://misantrop.eu/?p=2738
 permalink: /chytre-veci/
 mashsb_timestamp:
   - "1575830333"

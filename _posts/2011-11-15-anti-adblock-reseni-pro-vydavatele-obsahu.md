@@ -4,7 +4,7 @@ title: '&#8222;Anti AdBlock&#8220; řešení pro vydavatele obsahu'
 date: 2011-11-15T13:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/anti-adblock-reseni-pro-vydavatele-obsahu/
+guid: https://misantrop.eu/anti-adblock-reseni-pro-vydavatele-obsahu/
 permalink: /anti-adblock-reseni-pro-vydavatele-obsahu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "80234492"

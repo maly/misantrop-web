@@ -4,7 +4,7 @@ title: 'Václav Mrázek &#8211; zloděj, násilník a sériový vrah'
 date: 2014-08-15T10:01:18+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2121
+guid: https://misantrop.eu/?p=2121
 permalink: /vaclav-mrazek-zlodej-nasilnik-a-seriovy-vrah/
 dsq_thread_id:
   - "2929002667"
@@ -30,7 +30,7 @@ Sériové vraždy mají v očích mnoha lidí jakousi zvláštní auru. Zčásti
 
 Nejznámější z českých sériových vrahů je Václav Mrázek. Jeho případ byl už mnohokrát zpracován, přesto jsem se rozhodl neodkázat na jiná zpracování a místo toho nabídnout vlastní sumář jeho kriminální kariéry. Hlavní důvod byl ten, že většina dostupných zpracování se zabývá pouze vraždami a zbytek odbývá třeba jednovětou zmínkou. Čtenáři pak chybí plastičtější obraz, který z celého případu dělá opravdovou obludnost.
 
-[<img class="aligncenter size-full wp-image-2128" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-3g.jpg" alt="mrazek-3g" width="600" height="272" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-3g.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-3g-200x90.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-3g-500x226.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-3g.jpg)
+[<img class="aligncenter size-full wp-image-2128" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-3g.jpg" alt="mrazek-3g" width="600" height="272" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-3g.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-3g-200x90.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-3g-500x226.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-3g.jpg)
 
 ## Mrázek
 
@@ -42,7 +42,7 @@ V roce 1947 nastoupil vojenskou službu a po jejím absolvování, v roce 1949, 
 
 Po propuštění z vězení pracoval v chomutovských Válcovnách trub Gustava Klimenta. Projevoval se jako nenápadný a spíš tichý muž, mírný, slušný, plachý, v práci svědomitý a pečlivý, neholdoval žádným výstřednostem, nechodil po hospodách, nekarbanil, jen si zašel rád na fotbal, případně se projížděl po okolí Chomutova na kole. Tak ho znali sousedi i kolegové.
 
-[<img class="aligncenter size-full wp-image-2125" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-rodice.jpg" alt="mrazek-rodice" width="400" height="347" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-rodice.jpg 400w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-rodice-200x173.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-rodice.jpg)
+[<img class="aligncenter size-full wp-image-2125" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-rodice.jpg" alt="mrazek-rodice" width="400" height="347" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-rodice.jpg 400w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-rodice-200x173.jpg 200w" sizes="(max-width: 400px) 100vw, 400px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-rodice.jpg)
 
 Nikdy se neoženil, ale měl několik družek. Družky ho svorně popisovaly jako nesmělého, plachého, v tělesném kontaktu spíš nevýbojného, jedna z nich dokonce prohlásila, že se jí zdálo, jako by byl skoro impotentní. Rozhodně prý neprojevoval nijaké sexuální úchylky nebo neobvyklé libůstky.
 
@@ -78,7 +78,7 @@ Pak ji odtáhl k potoku, zneužil, okradl a shodil do vody.
 
 Policie případ šetřila dlouho jako vraždu ze žárlivosti, protože paní Bronislava už v té době s manželem žila pouze formálně a motali se okolo ní jiní muži.
 
-[<img class="aligncenter size-full wp-image-2130" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-prvni.jpg" alt="mrazek-prvni" width="600" height="372" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-prvni.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-prvni-200x124.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-prvni-500x310.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-prvni.jpg)
+[<img class="aligncenter size-full wp-image-2130" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-prvni.jpg" alt="mrazek-prvni" width="600" height="372" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-prvni.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-prvni-200x124.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-prvni-500x310.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-prvni.jpg)
 
 ### Slečna Elena
 
@@ -218,7 +218,7 @@ V červnu 1955 přepadl dvanáctileté děvče. Klekl na ni, rdousil ji, ale byl
 
 Ale všechno tohle bylo, jak sám Mrázek prohlásil, jen taková náhražka za to, co opravdu chtěl: “Dostat ženu výstřelem”.
 
-[<img class="aligncenter size-full wp-image-2123" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-soustat.jpg" alt="mrazek-soustat" width="600" height="367" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-soustat.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-soustat-200x122.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-soustat-500x305.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-soustat.jpg)
+[<img class="aligncenter size-full wp-image-2123" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-soustat.jpg" alt="mrazek-soustat" width="600" height="367" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-soustat.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-soustat-200x122.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-soustat-500x305.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-soustat.jpg)
 
 ## … a zloděj
 
@@ -238,7 +238,7 @@ Apropo, družka… Ta poslední se jmenovala Anna, byla ze Slovenska, ale od sv
 
 Mrázek předtím měl několik kratších známostí, většinou ze stejné továrny, Slovenky, Maďarku… delší dobu byl jen s další Slovenkou Gustou (správně Augustou). S tou se rozešel, protože ho kvůli ní prý vyslýchala StB a doporučila mu, aby vztah ukončil, jinak že budou nepříjemnosti, protože ona je v evidenci “závadových osob”.
 
-[<img class="aligncenter size-full wp-image-2126" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-gusta.jpg" alt="mrazek-gusta" width="600" height="289" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-gusta.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-gusta-200x96.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-gusta-500x240.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-gusta.jpg)
+[<img class="aligncenter size-full wp-image-2126" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-gusta.jpg" alt="mrazek-gusta" width="600" height="289" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-gusta.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-gusta-200x96.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-gusta-500x240.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-gusta.jpg)
 
 Bylo to takové podivné soužití s Annou. Měla dvě vlastní děti a s Mrázkem otěhotněla před stěhováním na Kladno. Byla, jak se tehdy říkalo, volnějších mravů, Mrázek ji dokonce podezříval z toho, že mu je nevěrná s jeho bratrem Karlem… O děti se moc nezajímal, ani o vlastní, Anně dával jen nějaké peníze a věci z krádeží a dál se o ni taky nestaral, ona o něj rovněž… Ale byla s ním, protože byla i s dětmi hmotně zajištěna, i když věděla, že to často pochází z loupeží.
 
@@ -250,7 +250,7 @@ Při svých násilných činech postupoval rozvážně. Sexuální pud a deviace
 
 Ale lichá je představa, že šlo o nějakého génia zločinu. Ne, byl jen opatrný a šel takříkajíc na jistotu. Jinak byly jeho činy primitivní. Násilí je primitivní vždy, a jeho krádeže také nebyly nějaké brilantní lupičské akce: rozlomil zámek, paklíčem ho otevřel, páčidlem vypáčil dveře… Hrubou silou, vždy stejně. Navíc zlodějské akce nepromýšlel (to dělal jeho bratr Karel). Pokud kradl sám, tak si jen vymyslel, co chce ukrást, a pak šel a někde to ukradl. Dalo by se říct, že při tom improvizoval. Karel naopak dokázal naplánovat místo, způsob, přístupovou cestu…
 
-[<img class="aligncenter size-full wp-image-2127" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-karel.jpg" alt="mrazek-karel" width="600" height="275" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-karel.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-karel-200x91.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-karel-500x229.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-karel.jpg)
+[<img class="aligncenter size-full wp-image-2127" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-karel.jpg" alt="mrazek-karel" width="600" height="275" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-karel.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-karel-200x91.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-karel-500x229.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-karel.jpg)
 
 Když si k výše řečenému přihodíme, že Mrázek kradl na Kladně většinou v jedné, dvou částech města, tak je s podivem, že místní policie nedokázala systematičtěji takovou vlnu podobných krádeží podchytit a zpracovat.
 
@@ -272,7 +272,7 @@ A následoval popis vražd od případu Bronislava až po poslední vraždu.
 
 Některé prameny uvádějí, že mu snad řekli o nalezené pistoli, on ještě chvíli zapíral, a pak se rozplakal a rozpovídal. V protokolu žádné takové otázky ale nejsou.
 
-[<img class="aligncenter size-full wp-image-2131" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-zmena.jpg" alt="mrazek-zmena" width="600" height="551" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-zmena.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-zmena-200x183.jpg 200w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-zmena-500x459.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-zmena.jpg)
+[<img class="aligncenter size-full wp-image-2131" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-zmena.jpg" alt="mrazek-zmena" width="600" height="551" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-zmena.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-zmena-200x183.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-zmena-500x459.jpg 500w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-zmena.jpg)
 
 * * *
 
@@ -286,7 +286,7 @@ Mrázka nakonec pověsili, jeho obětem to nijak nepomohlo. Ale alespoň nepřib
 
 V novodobých dějinách asi nemáme děsivějšího zločince, který by takto skloubil násilí a vraždy z vilnosti a téměř každodenní cynickou zlodějinu.
 
-[<img class="aligncenter size-full wp-image-2129" src="https://misantrop.info/wp-content/uploads/2014/08/mrazek-smrt.jpg" alt="mrazek-smrt" width="600" height="833" srcset="https://misantrop.info/wp-content/uploads/2014/08/mrazek-smrt.jpg 600w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-smrt-144x200.jpg 144w, https://misantrop.info/wp-content/uploads/2014/08/mrazek-smrt-360x500.jpg 360w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.info/wp-content/uploads/2014/08/mrazek-smrt.jpg)
+[<img class="aligncenter size-full wp-image-2129" src="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-smrt.jpg" alt="mrazek-smrt" width="600" height="833" srcset="https://misantrop.eu/wp-content/uploads/2014/08/mrazek-smrt.jpg 600w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-smrt-144x200.jpg 144w, https://misantrop.eu/wp-content/uploads/2014/08/mrazek-smrt-360x500.jpg 360w" sizes="(max-width: 600px) 100vw, 600px" />](https://misantrop.eu/wp-content/uploads/2014/08/mrazek-smrt.jpg)
 
 * * *
 
@@ -312,6 +312,6 @@ Buďme rádi, že to neznáme!
 
 Při přípravě tohoto sumáře jsem vycházel z nejrůznějších pramenů, především pak z archivních spisů, ale např. i z Kriminalistického sborníku &#8211; tady patří poděkovat Honzovi Cibulkovi, který odvedl spoustu práce při shánění těchto podkladů, a také všem, co je poskytli, jmenovitě redakci Kriminalistického sborníku, Katastrálnímu úřadu a archivu v Kadani. Snažil jsem se držet pouze doložených faktů. Citáty jsou autentické a pocházejí z druhého Mrázkova výslechu &#8211; jeho popis tak nemusí být v přesné shodě s tím, co policie zjistila a nakonec Mrázkovi prokázala. Mrázek měl sice obdivuhodnou paměť a uváděl detaily, které mohl znát pouze vrah, o jeho vině tak nebylo pochyb, ale v druhém výslechu (to byl ten, při kterém se přiznal k vraždám) si na některé věci nevzpomínal úplně přesně. Fotografie jsou pořízeny z trestního spisu Václava Mrázka, uloženého v policejním archivu, kterému tímto děkuji za souhlas s jejich použitím.
 
-Můj osobní pohled na tento případ najdete v článku [Jak jsem potkal Václava Mrázka](https://misantrop.info/jak-jsem-potkal-vaclava-mrazka/ "Jak jsem potkal Václava Mrázka").
+Můj osobní pohled na tento případ najdete v článku [Jak jsem potkal Václava Mrázka](https://misantrop.eu/jak-jsem-potkal-vaclava-mrazka/ "Jak jsem potkal Václava Mrázka").
 
 **Po zkušenosti s minulým článkem důrazně upozorňuju, že tento text je možno šířit POUZE s výslovným svolením jeho autora!**

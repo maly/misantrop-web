@@ -4,7 +4,7 @@ title: '&#8230; tehdy dělníci rozbíjeli stroje, které jim &#8222;braly prác
 date: 2011-02-06T12:02:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/tehdy-delnici-rozbijeli-stroje-ktere-jim-braly-praci/
+guid: https://misantrop.eu/tehdy-delnici-rozbijeli-stroje-ktere-jim-braly-praci/
 permalink: /tehdy-delnici-rozbijeli-stroje-ktere-jim-braly-praci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "42153864"

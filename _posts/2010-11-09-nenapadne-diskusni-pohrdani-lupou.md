@@ -4,7 +4,7 @@ title: Nenápadné diskusní pohrdání (Lupou)
 date: 2010-11-09T08:13:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nenapadne-diskusni-pohrdani-lupou/
+guid: https://misantrop.eu/nenapadne-diskusni-pohrdani-lupou/
 permalink: /nenapadne-diskusni-pohrdani-lupou/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "32943739"

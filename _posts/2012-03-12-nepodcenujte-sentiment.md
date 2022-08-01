@@ -4,7 +4,7 @@ title: Nepodceňujte sentiment!
 date: 2012-03-12T08:03:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nepodcenujte-sentiment/
+guid: https://misantrop.eu/nepodcenujte-sentiment/
 permalink: /nepodcenujte-sentiment/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "110317563"

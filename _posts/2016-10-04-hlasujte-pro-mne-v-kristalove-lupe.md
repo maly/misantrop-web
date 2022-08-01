@@ -4,7 +4,7 @@ title: Hlasujte pro mne v Křišťálové Lupě
 date: 2016-10-04T13:14:53+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2579
+guid: https://misantrop.eu/?p=2579
 permalink: /hlasujte-pro-mne-v-kristalove-lupe/
 mashsb_timestamp:
   - "1517668422"

@@ -4,7 +4,7 @@ title: Zážitky starého hráče nových her
 date: 2011-10-08T09:18:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zazitky-stareho-hrace-novych-her/
+guid: https://misantrop.eu/zazitky-stareho-hrace-novych-her/
 permalink: /zazitky-stareho-hrace-novych-her/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "74605953"

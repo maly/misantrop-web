@@ -4,7 +4,7 @@ title: Proč je dějepis tak otravný?
 date: 2011-01-07T12:59:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/proc-je-dejepis-tak-otravny/
+guid: https://misantrop.eu/proc-je-dejepis-tak-otravny/
 permalink: /proc-je-dejepis-tak-otravny/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "38881175"

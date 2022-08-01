@@ -4,7 +4,7 @@ title: Progresivní přístup ke komentářům (skutečně!)
 date: 2012-03-07T09:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/progresivni-pristup-ke-komentarum-skutecne/
+guid: https://misantrop.eu/progresivni-pristup-ke-komentarum-skutecne/
 permalink: /progresivni-pristup-ke-komentarum-skutecne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "108745084"

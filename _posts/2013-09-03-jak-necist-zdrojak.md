@@ -4,7 +4,7 @@ title: Jak nečíst Zdroják
 date: 2013-09-03T08:12:07+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1442
+guid: https://misantrop.eu/?p=1442
 permalink: /jak-necist-zdrojak/
 dsq_thread_id:
   - "1698875382"

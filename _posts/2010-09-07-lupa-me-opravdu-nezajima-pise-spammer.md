@@ -4,7 +4,7 @@ title: '&#8222;Lupa mě opravdu nezajímá&#8220;, píše spammer&#8230;'
 date: 2010-09-07T08:20:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/lupa-me-opravdu-nezajima-pise-spammer/
+guid: https://misantrop.eu/lupa-me-opravdu-nezajima-pise-spammer/
 permalink: /lupa-me-opravdu-nezajima-pise-spammer/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "27533466"

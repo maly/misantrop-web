@@ -4,7 +4,7 @@ title: 'Osm lidí v minibusu, o Medvědovi nemluvě&#8230;'
 date: 2012-08-14T15:26:41+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=528
+guid: https://misantrop.eu/?p=528
 permalink: /osm-lidi-v-minibusu-o-medvedovi-nemluve/
 mashsb_timestamp:
   - "1573551666"
@@ -63,7 +63,7 @@ Nakonec jsme zaplatili, velmi hlasitě poděkovali a vrátili se k autu. Zbytek 
 &#8222;_Ještě že jsme měli tu flexi rezervaci&#8230;_&#8220; zní zezadu.
 
 <p style="text-align: center;">
-  <a href="https://misantrop.info/osm-lidi-v-minibusu-o-medvedovi-nemluve/wp_000089/" rel="attachment wp-att-535"><img class="aligncenter size-medium wp-image-535" title="Podvečerní Dover" src="https://misantrop.info/wp-content/uploads/2012/08/WP_000089-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2012/08/WP_000089-500x375.jpg 500w, https://misantrop.info/wp-content/uploads/2012/08/WP_000089-200x150.jpg 200w, https://misantrop.info/wp-content/uploads/2012/08/WP_000089-1024x768.jpg 1024w, https://misantrop.info/wp-content/uploads/2012/08/WP_000089.jpg 1632w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="https://misantrop.eu/osm-lidi-v-minibusu-o-medvedovi-nemluve/wp_000089/" rel="attachment wp-att-535"><img class="aligncenter size-medium wp-image-535" title="Podvečerní Dover" src="https://misantrop.eu/wp-content/uploads/2012/08/WP_000089-500x375.jpg" alt="" width="500" height="375" srcset="https://misantrop.eu/wp-content/uploads/2012/08/WP_000089-500x375.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/08/WP_000089-200x150.jpg 200w, https://misantrop.eu/wp-content/uploads/2012/08/WP_000089-1024x768.jpg 1024w, https://misantrop.eu/wp-content/uploads/2012/08/WP_000089.jpg 1632w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 </p>
 
 &#8212;
@@ -97,5 +97,5 @@ Naše auto se otřásá a zvenčí to může vypadat, že opravdu startujeme. Kd
 Za trest jede naše řada 186 na loď až jako úplně poslední, až po všech kamionech, karavanech, autech, Italovi s přívěsným vozíkem plným písku a po dvou cyklistech.
 
 <p style="text-align: center;">
-  <a href="https://misantrop.info/osm-lidi-v-minibusu-o-medvedovi-nemluve/wp_000081/" rel="attachment wp-att-534"><img class="aligncenter" title="Dover" src="https://misantrop.info/wp-content/uploads/2012/08/WP_000081-500x375.jpg" alt="" width="500" height="375" /></a>
+  <a href="https://misantrop.eu/osm-lidi-v-minibusu-o-medvedovi-nemluve/wp_000081/" rel="attachment wp-att-534"><img class="aligncenter" title="Dover" src="https://misantrop.eu/wp-content/uploads/2012/08/WP_000081-500x375.jpg" alt="" width="500" height="375" /></a>
 </p>

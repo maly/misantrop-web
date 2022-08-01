@@ -4,7 +4,7 @@ title: 'Twitter není pro slabý jedince&#8230;'
 date: 2011-12-14T11:44:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/twitter-neni-pro-slaby-jedince/
+guid: https://misantrop.eu/twitter-neni-pro-slaby-jedince/
 permalink: /twitter-neni-pro-slaby-jedince/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "86362566"

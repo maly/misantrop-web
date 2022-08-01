@@ -4,7 +4,7 @@ title: Kouči pro ještě více koučství
 date: 2017-02-27T10:17:36+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2777
+guid: https://misantrop.eu/?p=2777
 permalink: /kouci-pro-jeste-vice-koucstvi/
 mashsb_timestamp:
   - "1574980113"

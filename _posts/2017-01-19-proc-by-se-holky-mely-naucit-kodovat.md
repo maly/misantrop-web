@@ -4,7 +4,7 @@ title: Proč by se holky měly naučit kódovat?
 date: 2017-01-19T13:25:55+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2691
+guid: https://misantrop.eu/?p=2691
 permalink: /proc-by-se-holky-mely-naucit-kodovat/
 mashsb_timestamp:
   - "1576176148"

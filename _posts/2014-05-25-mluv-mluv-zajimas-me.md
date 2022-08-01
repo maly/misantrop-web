@@ -4,7 +4,7 @@ title: Mluv, mluv, zajímáš mě!
 date: 2014-05-25T12:48:01+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2006
+guid: https://misantrop.eu/?p=2006
 permalink: /mluv-mluv-zajimas-me/
 mashsb_timestamp:
   - "1575135662"
@@ -44,7 +44,7 @@ Tenhle zápisek (opět o firemní komunikaci) vznikl původně jako komentář n
 </p>
 
 <p style="color: #141823;">
-  Post Scriptum: Obzvlášť pikantní je to v případě Wedosu, který si na sociálních sítích často servítky moc nebere a mlátí do konkurence hlava nehlava. Což se může <a href="https://misantrop.info/hacknuty-banan">taky vymstít</a>.
+  Post Scriptum: Obzvlášť pikantní je to v případě Wedosu, který si na sociálních sítích často servítky moc nebere a mlátí do konkurence hlava nehlava. Což se může <a href="https://misantrop.eu/hacknuty-banan">taky vymstít</a>.
 </p>
 
 <p style="color: #141823;">

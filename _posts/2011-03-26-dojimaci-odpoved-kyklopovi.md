@@ -4,7 +4,7 @@ title: 'Dojímači &#8211; odpověď Kyklopovi'
 date: 2011-03-26T08:46:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/dojimaci-odpoved-kyklopovi/
+guid: https://misantrop.eu/dojimaci-odpoved-kyklopovi/
 permalink: /dojimaci-odpoved-kyklopovi/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "47385957"

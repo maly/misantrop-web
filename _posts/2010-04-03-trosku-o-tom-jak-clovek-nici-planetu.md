@@ -4,7 +4,7 @@ title: 'Trošku o tom, jak člověk ničí planetu&#8230;'
 date: 2010-04-03T11:59:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/trosku-o-tom-jak-clovek-nici-planetu/
+guid: https://misantrop.eu/trosku-o-tom-jak-clovek-nici-planetu/
 permalink: /trosku-o-tom-jak-clovek-nici-planetu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "15236857"

@@ -4,7 +4,7 @@ title: 'Náborový inzerát, který vaše HR oddělení nenapíše&#8230;'
 date: 2013-04-26T10:35:05+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1258
+guid: https://misantrop.eu/?p=1258
 permalink: /naborovy-inzerat-ktery-vase-hr-oddeleni-nenapise/
 mashsb_timestamp:
   - "1576241000"

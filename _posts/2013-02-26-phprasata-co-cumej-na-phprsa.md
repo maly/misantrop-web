@@ -4,7 +4,7 @@ title: PHPrasata, co čuměj na PHPrsa?
 date: 2013-02-26T13:19:31+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1099
+guid: https://misantrop.eu/?p=1099
 permalink: /phprasata-co-cumej-na-phprsa/
 dsq_thread_id:
   - "1106077093"
@@ -24,7 +24,7 @@ Jen stručně o sexismu.
 Na počátku byla konference o PHP, spolupořádaná magazínem [Web&PHP](https://webandphp.com/). Z té konference kdosi tweetnul tuhle fotku:
 
 <div id="attachment_1101" style="width: 473px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/phprasata-co-cumej-na-phprsa/phpness/" rel="attachment wp-att-1101"><img aria-describedby="caption-attachment-1101" class=" wp-image-1101" alt="" src="https://misantrop.info/wp-content/uploads/2013/02/phpness-463x500.png" width="463" height="500" srcset="https://misantrop.info/wp-content/uploads/2013/02/phpness-463x500.png 463w, https://misantrop.info/wp-content/uploads/2013/02/phpness-185x200.png 185w, https://misantrop.info/wp-content/uploads/2013/02/phpness.png 514w" sizes="(max-width: 463px) 100vw, 463px" /></a>
+  <a href="https://misantrop.eu/phprasata-co-cumej-na-phprsa/phpness/" rel="attachment wp-att-1101"><img aria-describedby="caption-attachment-1101" class=" wp-image-1101" alt="" src="https://misantrop.eu/wp-content/uploads/2013/02/phpness-463x500.png" width="463" height="500" srcset="https://misantrop.eu/wp-content/uploads/2013/02/phpness-463x500.png 463w, https://misantrop.eu/wp-content/uploads/2013/02/phpness-185x200.png 185w, https://misantrop.eu/wp-content/uploads/2013/02/phpness.png 514w" sizes="(max-width: 463px) 100vw, 463px" /></a>
   
   <p id="caption-attachment-1101" class="wp-caption-text">
     Zdroj: https://webandphpmag.wordpress.com/2013/02/25/phpness-gate-raising-interesting-issues/

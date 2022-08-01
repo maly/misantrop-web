@@ -4,7 +4,7 @@ title: Kádrovák na OPBH
 date: 2013-05-30T12:51:37+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1312
+guid: https://misantrop.eu/?p=1312
 permalink: /kadrovak-na-opbh/
 dsq_thread_id:
   - "1338887279"

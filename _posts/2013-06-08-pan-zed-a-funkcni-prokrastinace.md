@@ -4,7 +4,7 @@ title: Pan Zed a funkční prokrastinace
 date: 2013-06-08T11:48:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1333
+guid: https://misantrop.eu/?p=1333
 permalink: /pan-zed-a-funkcni-prokrastinace/
 dsq_thread_id:
   - "1378110624"
@@ -23,9 +23,9 @@ Hej, kámo, nestáli jsme v téže Vltavě tuhle? aneb Bonuz pro kikoti!
 
 To bylo už v dobách, kdy jsme slovo „prokrastinace“ znali moc dobře, ale za sebe můžu říct, že to je furt v první řadě nesnesitelně kokotské.
 
-Náš kamarád, kterému budu říkat Zed, je hrdým pokračovatelem [Ixovské tradice](https://misantrop.info/pan-ix-a-funkcni-prokrastinace/). Dokud jsem s ním nebyl v užším kontaktu, měl jsem ho za příjemného, i když lehce upovídaného, taťuldu. Věděl jsem, že má nějaké firmy a že není úplně blbý, tak když se po čase naskytla příležitost začít spolu podnikat, tak jsem kývnul. Možná mě mělo varovat, že se Zed rozčiloval nad tím, jak ho jiní nechápou, a že jako příklad uvedl situaci, kdy _komusi slíbil, že udělá nějakou práci, pak místo toho napsal na Facebook, jak hraje hry (&#8222;byl jsem fakt už utahanej&#8220;), a dotyčný se rozčiloval,_ což Zed nechápal.
+Náš kamarád, kterému budu říkat Zed, je hrdým pokračovatelem [Ixovské tradice](https://misantrop.eu/pan-ix-a-funkcni-prokrastinace/). Dokud jsem s ním nebyl v užším kontaktu, měl jsem ho za příjemného, i když lehce upovídaného, taťuldu. Věděl jsem, že má nějaké firmy a že není úplně blbý, tak když se po čase naskytla příležitost začít spolu podnikat, tak jsem kývnul. Možná mě mělo varovat, že se Zed rozčiloval nad tím, jak ho jiní nechápou, a že jako příklad uvedl situaci, kdy _komusi slíbil, že udělá nějakou práci, pak místo toho napsal na Facebook, jak hraje hry (&#8222;byl jsem fakt už utahanej&#8220;), a dotyčný se rozčiloval,_ což Zed nechápal.
 
-Zed trpí stejnou [funkční prokrastinací jako Ix](https://misantrop.info/pan-ix-a-funkcni-prokrastinace/), ale míň roztěkanou. Jeho koníčkem je řešit technické problémy, které by mohly jednou nastat, a zásadně je řeší pomocí nejmodernějších a největších technologií. Bohužel pak mu nezbývá čas na řešení přízemních problémů, které nejsou tak kosmodramatické, ale zato palčivější, jako třeba prodej produktu, rozhodování o chodu firmy nebo placení faktur. Navíc, což je vyloženě protivné, měl Zed ve firmě jediný úkol: přinést peníze! Sehnat zákazníky a investory. O tenhle úkol si na začátku sám řekl, protože má, jak říkal, &#8222;obchodní a vizionářský dar&#8220;.
+Zed trpí stejnou [funkční prokrastinací jako Ix](https://misantrop.eu/pan-ix-a-funkcni-prokrastinace/), ale míň roztěkanou. Jeho koníčkem je řešit technické problémy, které by mohly jednou nastat, a zásadně je řeší pomocí nejmodernějších a největších technologií. Bohužel pak mu nezbývá čas na řešení přízemních problémů, které nejsou tak kosmodramatické, ale zato palčivější, jako třeba prodej produktu, rozhodování o chodu firmy nebo placení faktur. Navíc, což je vyloženě protivné, měl Zed ve firmě jediný úkol: přinést peníze! Sehnat zákazníky a investory. O tenhle úkol si na začátku sám řekl, protože má, jak říkal, &#8222;obchodní a vizionářský dar&#8220;.
 
 To jsme třeba navrhovali produkt. Jeho součástí bylo, že lidé zaplatí za službu. &#8222;Jak?&#8220; děl Zed. &#8222;To je jedno, třeba jim pošleme fakturu&#8230;&#8220; &#8211; &#8222;Ne, musíme mít platbu kartou! A musí umět opakované platby! A i pro zahraničí!&#8220; &#8211; &#8222;No tak použijeme PayPal, to máme za odpoledne implementované&#8230;&#8220; &#8211; &#8222;Ne, PayPal ne, musí to být karetní brána!&#8220;
 

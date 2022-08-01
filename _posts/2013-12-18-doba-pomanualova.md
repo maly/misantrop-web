@@ -4,7 +4,7 @@ title: Doba pomanuálová
 date: 2013-12-18T11:39:09+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1847
+guid: https://misantrop.eu/?p=1847
 permalink: /doba-pomanualova/
 dsq_thread_id:
   - "2058206386"

@@ -4,7 +4,7 @@ title: Ironie pro labužníky
 date: 2012-02-23T15:40:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ironie-pro-labuzniky/
+guid: https://misantrop.eu/ironie-pro-labuzniky/
 permalink: /ironie-pro-labuzniky/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "104538152"

@@ -4,7 +4,7 @@ title: Vývojářský blog? IHNED!
 date: 2013-08-27T12:42:26+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1424
+guid: https://misantrop.eu/?p=1424
 permalink: /vyvojarsky-blog-ihned/
 dsq_thread_id:
   - "1654272872"
@@ -22,7 +22,7 @@ Před časem jsem tu na tohle téma měl článek. Dneska sklízím plody&#8230;
 
 <!--more-->
 
-[Žehral jsem](https://misantrop.info/tezky-zivot-denicku-v-dobe-socialnich-siti/), že bych rád psal nějaké veřejné výstupy z naší práce, ale nechce se mi crcat s blogem někde u WordPressu, Bloggeru či tak něco, ánžto mi stačí velejednoduché řešení, a z pochopitelných důvodů to nebudou &#8222;naše&#8220; blogy. V té době už jsem trošku koketoval s Jekyllem, přemýšlel jsem nad tím, že bych generoval statické stránky a hostoval je na Githubu, ale nakonec se všechno ukázalo podstatně snazší &#8211; totiž Github má Jekyll zabudovaný! Což je ostatně dobrý tip na článek, někdy o tom napíšu&#8230;
+[Žehral jsem](https://misantrop.eu/tezky-zivot-denicku-v-dobe-socialnich-siti/), že bych rád psal nějaké veřejné výstupy z naší práce, ale nechce se mi crcat s blogem někde u WordPressu, Bloggeru či tak něco, ánžto mi stačí velejednoduché řešení, a z pochopitelných důvodů to nebudou &#8222;naše&#8220; blogy. V té době už jsem trošku koketoval s Jekyllem, přemýšlel jsem nad tím, že bych generoval statické stránky a hostoval je na Githubu, ale nakonec se všechno ukázalo podstatně snazší &#8211; totiž Github má Jekyll zabudovaný! Což je ostatně dobrý tip na článek, někdy o tom napíšu&#8230;
 
 &#8230; na ten [náš vývojářský weblog](https://economia.github.io/).
 

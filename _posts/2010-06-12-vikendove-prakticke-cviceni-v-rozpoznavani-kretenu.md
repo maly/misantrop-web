@@ -4,7 +4,7 @@ title: Víkendové praktické cvičení v rozpoznávání kreténů
 date: 2010-06-12T11:49:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/vikendove-prakticke-cviceni-v-rozpoznavani-kretenu/
+guid: https://misantrop.eu/vikendove-prakticke-cviceni-v-rozpoznavani-kretenu/
 permalink: /vikendove-prakticke-cviceni-v-rozpoznavani-kretenu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "20231710"

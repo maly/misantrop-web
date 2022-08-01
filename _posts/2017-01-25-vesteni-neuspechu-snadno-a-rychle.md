@@ -4,7 +4,7 @@ title: Věštění neúspěchu snadno a rychle
 date: 2017-01-25T11:18:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2704
+guid: https://misantrop.eu/?p=2704
 permalink: /vesteni-neuspechu-snadno-a-rychle/
 mashsb_timestamp:
   - "1575145887"

@@ -4,7 +4,7 @@ title: Vězňovo dilema Jakuba Vrány
 date: 2013-02-08T15:31:18+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=815
+guid: https://misantrop.eu/?p=815
 permalink: /veznovo-dilema-jakuba-vrany/
 dsq_thread_id:
   - "1072261668"
@@ -22,7 +22,7 @@ Někteří bloggeři se ve své snaze po lákavém titulku neštítí ničeho. K
 
 <!--more-->
 
-Samozřejmě jde o dilema, o kterém jsem se tu zmiňoval &#8211; totiž o simulaci algoritmů ve hře, nazývané Iterované vězeňské dilema, o které jsem před lety psal a teď jsem onu sérii článků &#8222;revitalizoval&#8220;: [Vězňovo dilema a komunity](https://misantrop.info/veznovo-dilema-a-komunity/).
+Samozřejmě jde o dilema, o kterém jsem se tu zmiňoval &#8211; totiž o simulaci algoritmů ve hře, nazývané Iterované vězeňské dilema, o které jsem před lety psal a teď jsem onu sérii článků &#8222;revitalizoval&#8220;: [Vězňovo dilema a komunity](https://misantrop.eu/veznovo-dilema-a-komunity/).
 
 Jakub Vrána navázal svým [článkem](https://php.vrana.cz/veznovo-dilema.php), ve kterém představil algoritmy, které &#8222;hackují&#8220; mou simulaci tím, že se snaží určit, jaký algoritmus proti nim hraje, a zvolit odpovídající taktiku. Do svého textu jsem doplnil odkaz a doporučuju vám Jakubův [článek](https://php.vrana.cz/veznovo-dilema.php) k přečtení a zamyšlení.
 

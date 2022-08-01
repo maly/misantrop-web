@@ -4,7 +4,7 @@ title: Nového psa starým trikům nenaučíš
 date: 2013-09-06T12:30:20+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1455
+guid: https://misantrop.eu/?p=1455
 permalink: /noveho-psa-starym-trikum-nenaucis/
 dsq_thread_id:
   - "1722718451"

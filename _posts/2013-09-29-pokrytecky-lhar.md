@@ -4,7 +4,7 @@ title: Pokrytecký lhář
 date: 2013-09-29T15:54:42+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1526
+guid: https://misantrop.eu/?p=1526
 permalink: /pokrytecky-lhar/
 dsq_thread_id:
   - "1808201018"

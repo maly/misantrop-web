@@ -4,7 +4,7 @@ title: 'Aktualizováno: Odpovězte Pirátům'
 date: 2013-10-10T08:23:37+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1556
+guid: https://misantrop.eu/?p=1556
 permalink: /odpovezte-piratum/
 dsq_thread_id:
   - "1842042933"
@@ -20,7 +20,7 @@ categories:
 tags:
   - Piráti
 ---
-Pokračujeme. Tak [jak to bylo se &#8222;studentem Honzou&#8220;](https://misantrop.info/ptejte-se-piratu/), co &#8222;sice žádnou hudbu nesdílel, ale měl na počítači nainstalované programy, které potřeboval do školy&#8220;? Trochu jinak, přátelé. Pokud vás zajímají tvrdá fakta, račte si počíst.
+Pokračujeme. Tak [jak to bylo se &#8222;studentem Honzou&#8220;](https://misantrop.eu/ptejte-se-piratu/), co &#8222;sice žádnou hudbu nesdílel, ale měl na počítači nainstalované programy, které potřeboval do školy&#8220;? Trochu jinak, přátelé. Pokud vás zajímají tvrdá fakta, račte si počíst.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Na otázku, proč mají jako fotku někoho úplně jiného, odpověděli Piráti
 
 A teď k té skutkové podstatě. Roman Kučera, známý jako Roj (který vystupuje na Facebooku pod falešným jménem &#8222;Pavel Mykiska&#8220;), takto [_člen Rozhodčí komise u Pirátů_](https://www.pirati.cz/lide/roman_kucera), se domnívá, že klást otázky tohoto typu je provokace a že by Piráti nikomu nic říkat neměli.
 
-[<img class="aligncenter size-full wp-image-1557" alt="Screen Shot 2013-10-10 at 7.22.48" src="https://misantrop.info/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png" width="602" height="556" srcset="https://misantrop.info/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png 602w, https://misantrop.info/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48-200x184.png 200w, https://misantrop.info/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48-500x461.png 500w" sizes="(max-width: 602px) 100vw, 602px" />](https://misantrop.info/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png)
+[<img class="aligncenter size-full wp-image-1557" alt="Screen Shot 2013-10-10 at 7.22.48" src="https://misantrop.eu/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png" width="602" height="556" srcset="https://misantrop.eu/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png 602w, https://misantrop.eu/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48-200x184.png 200w, https://misantrop.eu/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48-500x461.png 500w" sizes="(max-width: 602px) 100vw, 602px" />](https://misantrop.eu/wp-content/uploads/2013/10/Screen-Shot-2013-10-10-at-7.22.48.png)
 
 &#8222;Mykiska&#8220; Kučera je holt náturou profesionální aktivista, k němu trocha té demagogie a křičení o _pablbech_ tam, kde nejsou relevantní argumenty, už tak nějak patří.
 
@@ -38,7 +38,7 @@ Jenže rozsudky, ke smůle Pirátů, nejsou neveřejné&#8230;
 
 Honza Cibulka podal žádost podle zákona 106, soud mu obratem poslal veškeré materiály. S největší pravděpodobností a podle indicií, co Piráti sami poskytli (Obvodní soud pro Prahu 3, 15.6.2010) je to ten správný rozsudek. Tak se pojďme podívat, co tam máme. Nejprve si zopakujme pirátskou verzi z jejich webu:
 
-[<img class="aligncenter size-full wp-image-1549" alt="pirati" src="https://misantrop.info/wp-content/uploads/2013/10/pirati.png" width="341" height="563" srcset="https://misantrop.info/wp-content/uploads/2013/10/pirati.png 341w, https://misantrop.info/wp-content/uploads/2013/10/pirati-121x200.png 121w, https://misantrop.info/wp-content/uploads/2013/10/pirati-302x500.png 302w" sizes="(max-width: 341px) 100vw, 341px" />](https://misantrop.info/wp-content/uploads/2013/10/pirati.png)
+[<img class="aligncenter size-full wp-image-1549" alt="pirati" src="https://misantrop.eu/wp-content/uploads/2013/10/pirati.png" width="341" height="563" srcset="https://misantrop.eu/wp-content/uploads/2013/10/pirati.png 341w, https://misantrop.eu/wp-content/uploads/2013/10/pirati-121x200.png 121w, https://misantrop.eu/wp-content/uploads/2013/10/pirati-302x500.png 302w" sizes="(max-width: 341px) 100vw, 341px" />](https://misantrop.eu/wp-content/uploads/2013/10/pirati.png)
 
 &nbsp;
 
@@ -66,4 +66,4 @@ Takže si to shrneme: Případ se takhle nestal, jde o kompilát nějaké skutko
 
 PS: Zůstává jen záhadou, který že případ je &#8222;tento konkrétní&#8220;&#8230;
 
-[<img class="aligncenter size-full wp-image-1569" alt="pirati" src="https://misantrop.info/wp-content/uploads/2013/10/pirati.jpg" width="615" height="67" srcset="https://misantrop.info/wp-content/uploads/2013/10/pirati.jpg 615w, https://misantrop.info/wp-content/uploads/2013/10/pirati-200x21.jpg 200w, https://misantrop.info/wp-content/uploads/2013/10/pirati-500x54.jpg 500w" sizes="(max-width: 615px) 100vw, 615px" />](https://misantrop.info/wp-content/uploads/2013/10/pirati.jpg)
+[<img class="aligncenter size-full wp-image-1569" alt="pirati" src="https://misantrop.eu/wp-content/uploads/2013/10/pirati.jpg" width="615" height="67" srcset="https://misantrop.eu/wp-content/uploads/2013/10/pirati.jpg 615w, https://misantrop.eu/wp-content/uploads/2013/10/pirati-200x21.jpg 200w, https://misantrop.eu/wp-content/uploads/2013/10/pirati-500x54.jpg 500w" sizes="(max-width: 615px) 100vw, 615px" />](https://misantrop.eu/wp-content/uploads/2013/10/pirati.jpg)

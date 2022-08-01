@@ -4,7 +4,7 @@ title: ACTA Pirát
 date: 2012-02-03T09:29:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/acta-pirat/
+guid: https://misantrop.eu/acta-pirat/
 permalink: /acta-pirat/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97737559"

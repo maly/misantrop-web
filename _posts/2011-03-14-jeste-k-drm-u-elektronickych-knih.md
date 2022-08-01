@@ -4,7 +4,7 @@ title: 'Ještě k DRM u elektronických knih&#8230;'
 date: 2011-03-14T08:11:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jeste-k-drm-u-elektronickych-knih/
+guid: https://misantrop.eu/jeste-k-drm-u-elektronickych-knih/
 permalink: /jeste-k-drm-u-elektronickych-knih/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "45932021"

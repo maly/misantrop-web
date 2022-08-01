@@ -4,7 +4,7 @@ title: Chceme návrat k webu 1.0?
 date: 2010-02-12T15:42:19+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/chceme-navrat-k-webu-1-0/
+guid: https://misantrop.eu/chceme-navrat-k-webu-1-0/
 permalink: /chceme-navrat-k-webu-1-0/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11578661"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Můj čl&aacute;nek o tom, [jak napsat koment&aacute;ř na libovoln&eacute; str&aacute;nky](https://misantrop.info/jak-napsat-komentar-na-libovolne-stranky), padl pravděpodobně na &uacute;rodnou půdu. Minim&aacute;lně u Franty Kučery (čtete, douf&aacute;m, jeho [seri&aacute;l o Javě](https://zdrojak.root.cz/serialy/java-na-webovem-serveru/) na Zdroj&aacute;ku?), kter&yacute; si vzal ponaučen&iacute; k srdci, svou reakci hezky zformuloval a vydal. Nazval ji [Chceme n&aacute;vrat k webu 1.0?](https://frantovo.cz/blog/?q=chceme-navrat-k-webu-1-0)
+Můj čl&aacute;nek o tom, [jak napsat koment&aacute;ř na libovoln&eacute; str&aacute;nky](https://misantrop.eu/jak-napsat-komentar-na-libovolne-stranky), padl pravděpodobně na &uacute;rodnou půdu. Minim&aacute;lně u Franty Kučery (čtete, douf&aacute;m, jeho [seri&aacute;l o Javě](https://zdrojak.root.cz/serialy/java-na-webovem-serveru/) na Zdroj&aacute;ku?), kter&yacute; si vzal ponaučen&iacute; k srdci, svou reakci hezky zformuloval a vydal. Nazval ji [Chceme n&aacute;vrat k webu 1.0?](https://frantovo.cz/blog/?q=chceme-navrat-k-webu-1-0)
 
 V podstatě nejsme v rozporu, i když to tak možn&aacute; na prvn&iacute; pohled nemus&iacute; vypadat. Franta l&iacute;č&iacute; fundament&aacute;ln&iacute; princip Webu 2.0 (tj. &#8222;st&iacute;r&aacute;n&iacute; rozd&iacute;lu mezi konzumentem a producentem informac&iacute;&#8220;) a tvrd&iacute;, že pr&aacute;vě tato &#8222;decentralizace&#8220; produkce informac&iacute; a &#8222;demonopolizace&#8220; m&eacute;di&iacute; přisp&iacute;v&aacute; obrovskou měrou k demokratizaci chodu společnosti a k pos&iacute;len&iacute; &#8222;občansk&eacute; společnosti&#8220; (to je moje čten&iacute; Frantov&yacute;ch slov).
 

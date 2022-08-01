@@ -4,7 +4,7 @@ title: Na kolik vás přijde provoz v novém systému?
 date: 2012-05-27T11:43:51+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=447
+guid: https://misantrop.eu/?p=447
 permalink: /na-kolik-vas-prijde-provoz-v-novem-systemu/
 dsq_thread_id:
   - "704999125"

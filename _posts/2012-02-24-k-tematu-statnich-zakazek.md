@@ -4,7 +4,7 @@ title: K tématu státních zakázek
 date: 2012-02-24T13:13:55+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=190
+guid: https://misantrop.eu/?p=190
 permalink: /k-tematu-statnich-zakazek/
 dsq_thread_id:
   - "587684337"

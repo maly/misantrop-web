@@ -4,7 +4,7 @@ title: Kubík marketing
 date: 2013-03-30T13:12:26+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1223
+guid: https://misantrop.eu/?p=1223
 permalink: /kubik-marketing/
 mashsb_timestamp:
   - "1576012870"
@@ -16,7 +16,7 @@ image: /wp-content/uploads/2013/03/nastvany.jpg
 categories:
   - Nezařazené
 ---
-Přemýšlím, jestli to nedat jako speciální přílohu [Trvale udržitelné krávy](https://misantrop.info/trvale-udrzitelna-krava/)&#8230;
+Přemýšlím, jestli to nedat jako speciální přílohu [Trvale udržitelné krávy](https://misantrop.eu/trvale-udrzitelna-krava/)&#8230;
 
 <!--more-->
 
@@ -24,7 +24,7 @@ Ukážeme si základní pravidla Kubík marketingu (též [Fekal marketingu](htt
 
 Tento druh PR je založený na tom, že jakýkoli kritický názor rozcupujeme tím, že zaútočíme na jeho nositele, čím razantněji, tím větší máme pravdu, a když na to přijde, tak sami sebe pochválíme, že to děláme dobře.
 
-[<img class="aligncenter size-medium wp-image-1224" alt="392942_430157860410796_1792309286_n-612x269" src="https://misantrop.info/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-500x219.jpg" width="500" height="219" srcset="https://misantrop.info/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-500x219.jpg 500w, https://misantrop.info/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-200x87.jpg 200w, https://misantrop.info/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269.jpg 612w" sizes="(max-width: 500px) 100vw, 500px" />](https://misantrop.info/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269.jpg)
+[<img class="aligncenter size-medium wp-image-1224" alt="392942_430157860410796_1792309286_n-612x269" src="https://misantrop.eu/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-500x219.jpg" width="500" height="219" srcset="https://misantrop.eu/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-500x219.jpg 500w, https://misantrop.eu/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269-200x87.jpg 200w, https://misantrop.eu/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269.jpg 612w" sizes="(max-width: 500px) 100vw, 500px" />](https://misantrop.eu/wp-content/uploads/2013/03/392942_430157860410796_1792309286_n-612x269.jpg)
 
 [Adam Zbiejczuk se pozastavil](https://www.facebook.com/zbiejczuk/posts/150516411781562) nad tím, že DameJidlo na svou stránku dali cizí obrázek bez uvedení autora a připlácli na něj vlastní logo, a ptá se, jestli by to mohl Tom Čupr nějak okomentovat. Tom Čupr je velmi dobrý obchodník, jeho Slevomat se stal v ČR synonymem pro všechny podobné Groupon-like služby, DámeJídlo má našlápnuto k něčemu podobnému, ale _jeho schopnost věcně a klidně reagovat na kritiku je příslovečná&#8230;_
 
@@ -42,13 +42,13 @@ Tento druh PR je založený na tom, že jakýkoli kritický názor rozcupujeme t
   <em>Navážíte se do mě za věci, který tu dělá 1/2 firem včetně mediálních a e-commerce gigantů. A parazitů, kteří nikomu nepřináší nic. A tím nemyslím jen toto, ale údajné spamování atd. </em>
 </p>
 
-**Pravidlo číslo 3:** &#8222;Ostatní to dělají taky!&#8220; Už v [Krávě](https://misantrop.info/trvale-udrzitelna-krava/) tohle pravidlo zmiňuju&#8230;
+**Pravidlo číslo 3:** &#8222;Ostatní to dělají taky!&#8220; Už v [Krávě](https://misantrop.eu/trvale-udrzitelna-krava/) tohle pravidlo zmiňuju&#8230;
 
 <p style="padding-left: 30px">
   <em>Ne &#8211; neděláme vše dobře a ideálně. Fungujeme 4 měsíce ffs a ty procesy se postupně nastavují. Chyby se stávají. Odstraňujeme je.</em>
 </p>
 
-To je v pořádku. Tímhle měl Čupr začít, navázat na to tím, že děkuje za upozornění, že to prozkoumá a že příště dají větší pozor.  Viz [Desatero firemní twitterové komunikace](https://misantrop.info/desatero-firemni-twitterove-komunikace/). A mohlo být po ptákách, Čupr by odešel jako morální vítěz a všichni by ho ještě pochválili.
+To je v pořádku. Tímhle měl Čupr začít, navázat na to tím, že děkuje za upozornění, že to prozkoumá a že příště dají větší pozor.  Viz [Desatero firemní twitterové komunikace](https://misantrop.eu/desatero-firemni-twitterove-komunikace/). A mohlo být po ptákách, Čupr by odešel jako morální vítěz a všichni by ho ještě pochválili.
 
 <p style="padding-left: 30px">
   <em style="font-size: 13px">Ale přijde mi úsměvné jak si tady úzká skupinka lidí nenechá ujít každou příležitost jak do nás kopnout  Do pár měsíců starýho projektu&#8230;. </em>

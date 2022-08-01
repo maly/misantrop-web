@@ -4,7 +4,7 @@ title: 'Kdyby linuxoví admini pracovali jako obsluha v restauraci&#8230;'
 date: 2014-04-16T10:01:40+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1975
+guid: https://misantrop.eu/?p=1975
 permalink: /kdyby-linuxovi-admini-pracovali-jako-obsluha-v-restauraci/
 mashsb_timestamp:
   - "1574981065"

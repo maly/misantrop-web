@@ -4,7 +4,7 @@ title: 'Milý Twittere, nezkracuj, když neumíš&#8230;'
 date: 2011-09-06T16:51:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/mily-twittere-nezkracuj-kdyz-neumis/
+guid: https://misantrop.eu/mily-twittere-nezkracuj-kdyz-neumis/
 permalink: /mily-twittere-nezkracuj-kdyz-neumis/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "68745351"

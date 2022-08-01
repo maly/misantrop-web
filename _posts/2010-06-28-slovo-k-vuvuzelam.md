@@ -4,7 +4,7 @@ title: Slovo k vuvuzelám
 date: 2010-06-28T10:30:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/slovo-k-vuvuzelam/
+guid: https://misantrop.eu/slovo-k-vuvuzelam/
 permalink: /slovo-k-vuvuzelam/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "21396759"
@@ -21,7 +21,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Ve svém [dovolenkovém seriálu](https://misantrop.info/stitky/namibia) jsem se ještě nedostal k posledním dnům a k odletu, ale tohle bych měl asi zmínit hned a předběhnout.
+Ve svém [dovolenkovém seriálu](https://misantrop.eu/stitky/namibia) jsem se ještě nedostal k posledním dnům a k odletu, ale tohle bych měl asi zmínit hned a předběhnout.
 
 Na letišti v Johannesburgu jsme měli asi tři hodiny času do odletu letadla směr Mnichov, a tak jsme si řekli, že se projdeme po &#8222;duty free shopech&#8220;. Jen tak, zabít čas, kouknout se, projít se&#8230;
 

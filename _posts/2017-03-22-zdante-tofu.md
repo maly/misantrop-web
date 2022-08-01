@@ -4,7 +4,7 @@ title: Zdaňte tofu!
 date: 2017-03-22T09:52:43+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2818
+guid: https://misantrop.eu/?p=2818
 permalink: /zdante-tofu/
 mashsb_timestamp:
   - "1569264053"

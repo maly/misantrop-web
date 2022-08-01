@@ -4,7 +4,7 @@ title: Šátrání v archivech
 date: 2013-09-21T09:14:50+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1500
+guid: https://misantrop.eu/?p=1500
 permalink: /satrani-v-archivech/
 dsq_thread_id:
   - "1783137568"

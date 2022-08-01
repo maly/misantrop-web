@@ -4,7 +4,7 @@ title: Kdo vlastní vaši doménu?
 date: 2013-09-27T11:41:57+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1508
+guid: https://misantrop.eu/?p=1508
 permalink: /kdo-vlastni-vasi-domenu/
 dsq_thread_id:
   - "1801795695"

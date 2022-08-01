@@ -4,7 +4,7 @@ title: Nepřítel revoluce
 date: 2012-01-31T06:49:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nepritel-revoluce/
+guid: https://misantrop.eu/nepritel-revoluce/
 permalink: /nepritel-revoluce/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "97070899"

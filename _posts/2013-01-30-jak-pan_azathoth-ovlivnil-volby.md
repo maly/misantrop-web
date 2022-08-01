@@ -4,7 +4,7 @@ title: Jak Pan_Azathoth ovlivnil volby
 date: 2013-01-30T14:45:07+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=757
+guid: https://misantrop.eu/?p=757
 permalink: /jak-pan_azathoth-ovlivnil-volby/
 dsq_thread_id:
   - "1055080226"
@@ -46,7 +46,7 @@ A tak to bylo i s dnes již slavnou fotomontáží &#8222;Husák a Fischer&#8220
 
 Škromachův výrok o &#8222;tvůrčí dílně TOP09&#8220; tak padl na úrodnou půdu a má rovněž šanci stát se memem. Stejně jako reakce &#8222;Nevím, ale podle mého jde o fotomontáž&#8220;.
 
-<img class="alignnone" title="OLOL, autor: Pan_Azathoth" alt="" src="https://misantrop.info/wp-content/uploads/2013/01/40tbd.jpg" width="658" height="400" /> 
+<img class="alignnone" title="OLOL, autor: Pan_Azathoth" alt="" src="https://misantrop.eu/wp-content/uploads/2013/01/40tbd.jpg" width="658" height="400" /> 
 
 Ubohé, nevtipné, dětinské&#8230; Jak říkal Ford Prefect: _kdybych dostal jeden altairský dolar pokaždé, když vidím, jak se jedna část Vesmíru dívá na jinou a přitom říká &#8218;Ale to je strašné&#8217;&#8230; _Ne každému to bude připadat vtipné, ale to je v pořádku. Netrapte se tím.
 

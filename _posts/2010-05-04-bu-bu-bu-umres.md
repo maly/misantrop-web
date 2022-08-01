@@ -4,7 +4,7 @@ title: Bu bu bu, umřeš!
 date: 2010-05-04T08:58:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/bu-bu-bu-umres/
+guid: https://misantrop.eu/bu-bu-bu-umres/
 permalink: /bu-bu-bu-umres/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "18062016"

@@ -4,7 +4,7 @@ title: Večer s whisky
 date: 2013-09-28T22:10:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1510
+guid: https://misantrop.eu/?p=1510
 permalink: /vecer-s-whisky/
 dsq_thread_id:
   - "1806198043"

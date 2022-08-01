@@ -4,7 +4,7 @@ title: 'Když je kopyrajtr v krizi, carára&#8230;'
 date: 2012-01-26T15:37:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kdyz-je-kopyrajtr-v-krizi-carara/
+guid: https://misantrop.eu/kdyz-je-kopyrajtr-v-krizi-carara/
 permalink: /kdyz-je-kopyrajtr-v-krizi-carara/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "96316785"

@@ -4,7 +4,7 @@ title: Zkurvený Klausistán
 date: 2011-08-19T06:29:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zkurveny-klausistan/
+guid: https://misantrop.eu/zkurveny-klausistan/
 permalink: /zkurveny-klausistan/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66143135"

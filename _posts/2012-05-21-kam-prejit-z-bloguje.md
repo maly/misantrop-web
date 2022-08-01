@@ -4,7 +4,7 @@ title: Kam přejít z Bloguje?
 date: 2012-05-21T08:41:39+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=405
+guid: https://misantrop.eu/?p=405
 permalink: /kam-prejit-z-bloguje/
 dsq_thread_id:
   - "698203516"

@@ -4,7 +4,7 @@ title: Le floskule mobile
 date: 2012-04-08T18:13:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/le-floskule-mobile/
+guid: https://misantrop.eu/le-floskule-mobile/
 permalink: /le-floskule-mobile/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "120619972"

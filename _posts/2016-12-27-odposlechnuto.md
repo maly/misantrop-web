@@ -4,7 +4,7 @@ title: Odposlechnuto
 date: 2016-12-27T18:09:42+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2608
+guid: https://misantrop.eu/?p=2608
 permalink: /odposlechnuto/
 mashsb_timestamp:
   - "1575137114"

@@ -4,7 +4,7 @@ title: 'EurOpen: Školství a moderní technologie'
 date: 2018-04-06T11:09:49+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2897
+guid: https://misantrop.eu/?p=2897
 permalink: /europen-skolstvi-a-moderni-technologie/
 mashsb_timestamp:
   - "1574799926"

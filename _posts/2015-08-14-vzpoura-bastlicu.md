@@ -4,7 +4,7 @@ title: Vzpoura bastličů
 date: 2015-08-14T09:25:20+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2403
+guid: https://misantrop.eu/?p=2403
 permalink: /vzpoura-bastlicu/
 mashsb_timestamp:
   - "1576007594"

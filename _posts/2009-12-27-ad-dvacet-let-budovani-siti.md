@@ -4,7 +4,7 @@ title: 'Ad &#8222;Dvacet let budování sítí&#8220;'
 date: 2009-12-27T13:04:42+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ad-dvacet-let-budovani-siti/
+guid: https://misantrop.eu/ad-dvacet-let-budovani-siti/
 permalink: /ad-dvacet-let-budovani-siti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "9142882"

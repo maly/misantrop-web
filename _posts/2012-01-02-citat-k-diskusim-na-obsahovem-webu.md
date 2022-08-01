@@ -4,7 +4,7 @@ title: Citát k diskusím na obsahovém webu
 date: 2012-01-02T07:44:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/citat-k-diskusim-na-obsahovem-webu/
+guid: https://misantrop.eu/citat-k-diskusim-na-obsahovem-webu/
 permalink: /citat-k-diskusim-na-obsahovem-webu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "91602235"
@@ -35,6 +35,6 @@ categories:
 
 (in: [„Rubriky jsou zlo“ @ Médiář](https://www.mediar.cz/rubriky-jsou-zlo-dalsi-rady-navrhare-uspesneho-redesignu-super-cz/))
 
-**Přihřívání polévky**: [Smysl diskusí](https://misantrop.info/713526-smysl-diskusi.php)
+**Přihřívání polévky**: [Smysl diskusí](https://misantrop.eu/713526-smysl-diskusi.php)
 
 **Zpoza oceánu**: [Jak moderovat internetové diskuse](https://www.reflex.cz/clanek/stary-reflex-reflex-cz-reflex-cz-zvenku/29531/jak-cenzurovat-moderovat-internetove-diskuse.html).

@@ -4,7 +4,7 @@ title: 'Huml, Keller, Veleba&#8230;'
 date: 2014-12-19T01:30:19+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2199
+guid: https://misantrop.eu/?p=2199
 permalink: /huml-keller-veleba/
 mashsb_timestamp:
   - "1556975750"
@@ -22,7 +22,7 @@ categories:
 Nejdřív jediný poslanec s vizáží východoněmeckého pornoherce, to je asi největší eklhaft
 
 <div id="attachment_2200" style="width: 510px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/huml-keller-veleba/r9p/" rel="attachment wp-att-2200"><img aria-describedby="caption-attachment-2200" class="wp-image-2200 size-medium" src="https://misantrop.info/wp-content/uploads/2014/12/R9P-500x290.jpg" alt="" width="500" height="290" srcset="https://misantrop.info/wp-content/uploads/2014/12/R9P-500x290.jpg 500w, https://misantrop.info/wp-content/uploads/2014/12/R9P-200x116.jpg 200w, https://misantrop.info/wp-content/uploads/2014/12/R9P.jpg 974w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  <a href="https://misantrop.eu/huml-keller-veleba/r9p/" rel="attachment wp-att-2200"><img aria-describedby="caption-attachment-2200" class="wp-image-2200 size-medium" src="https://misantrop.eu/wp-content/uploads/2014/12/R9P-500x290.jpg" alt="" width="500" height="290" srcset="https://misantrop.eu/wp-content/uploads/2014/12/R9P-500x290.jpg 500w, https://misantrop.eu/wp-content/uploads/2014/12/R9P-200x116.jpg 200w, https://misantrop.eu/wp-content/uploads/2014/12/R9P.jpg 974w" sizes="(max-width: 500px) 100vw, 500px" /></a>
   
   <p id="caption-attachment-2200" class="wp-caption-text">
     Za scan a zvýraznění děkujeme panu Mildovi z Okouna&#8230;
@@ -37,7 +37,7 @@ Chuj s ním&#8230; jenže není jeden. Čím dál tím častěji se takovéhle p
 
 Veleba, druhý pán z titulku, je nomen omen: on velebí Zemana! To je ryzí adorant kvality glycerínového čípku. Jeho slavné provolání o tom, jak si prostý lid opět bere moc a štváči z pražské kavárny sice kolem sebe kopou, ale lid jejich čachry už dávno prokoukl, jako by vypadlo z nějakého elaborátu o sklízení bouře, tomu chybělo už jen &#8222;o co jde těmto elementům a zkrachovalým existencím!&#8220;
 
-A tím se dostáváme ke třetímu výtečníkovi, po europoslanci a senátorovi další zastupitel, esenbák [Huml](https://misantrop.info/obzalovany-nazval-poskozeneho-humlem/ "Obžalovaný nazval poškozeného Humlem…"). To, že to je zupácké a papalášské individuum s morálně volním profilem kalibru bolševického esenbáka, snad není potřeba zdůrazňovat, to dokazuje pokaždé, když otevře papulu. (Kolega mi vyprávěl, jak jim jezdil dělat na gymnázium přednášky o bezpečnostních tématech, a jeho nejoblíbenějším obratem, ať už mluvil o drogách nebo o dopravních přestupcích, bylo &#8222;já bych jim ruce zpřerážel&#8220;.)
+A tím se dostáváme ke třetímu výtečníkovi, po europoslanci a senátorovi další zastupitel, esenbák [Huml](https://misantrop.eu/obzalovany-nazval-poskozeneho-humlem/ "Obžalovaný nazval poškozeného Humlem…"). To, že to je zupácké a papalášské individuum s morálně volním profilem kalibru bolševického esenbáka, snad není potřeba zdůrazňovat, to dokazuje pokaždé, když otevře papulu. (Kolega mi vyprávěl, jak jim jezdil dělat na gymnázium přednášky o bezpečnostních tématech, a jeho nejoblíbenějším obratem, ať už mluvil o drogách nebo o dopravních přestupcích, bylo &#8222;já bych jim ruce zpřerážel&#8220;.)
 
 Ergo nepřekvapí, když ve svojí poslední epištole za Zemana apeluje na vymáhání zákona, na to, aby byli trestáni ti, kdo znevažují hlavu státu (jestli by jim zpřerážel ruce, to neříká) a aby se urážky hlavy státu mazaly z internetů.
 

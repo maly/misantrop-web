@@ -4,7 +4,7 @@ title: 'RSS o sto šest&#8230;'
 date: 2013-03-23T16:28:13+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1192
+guid: https://misantrop.eu/?p=1192
 permalink: /rss-o-sto-sest/
 mashsb_timestamp:
   - "1556091636"

@@ -4,7 +4,7 @@ title: Milá Jenny
 date: 2015-05-25T09:20:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2281
+guid: https://misantrop.eu/?p=2281
 permalink: /mila-jenny/
 mashsb_timestamp:
   - "1576247352"

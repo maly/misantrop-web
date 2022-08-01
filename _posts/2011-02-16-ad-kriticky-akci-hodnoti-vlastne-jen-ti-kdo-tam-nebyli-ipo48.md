@@ -4,7 +4,7 @@ title: 'Ad &#8222;Kriticky akci hodnotí vlastně jen ti, kdo tam nebyli.&#8220;
 date: 2011-02-16T06:47:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
+guid: https://misantrop.eu/ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
 permalink: /ad-kriticky-akci-hodnoti-vlastne-jen-ti-kdo-tam-nebyli-ipo48/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "43208183"

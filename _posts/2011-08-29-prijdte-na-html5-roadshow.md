@@ -4,7 +4,7 @@ title: Přijďte na HTML5 Roadshow
 date: 2011-08-29T10:09:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/prijdte-na-html5-roadshow/
+guid: https://misantrop.eu/prijdte-na-html5-roadshow/
 permalink: /prijdte-na-html5-roadshow/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "67458549"

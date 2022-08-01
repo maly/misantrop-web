@@ -4,7 +4,7 @@ title: Receptář na IoT
 date: 2015-08-18T08:04:40+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2406
+guid: https://misantrop.eu/?p=2406
 permalink: /receptar-na-iot/
 dsq_thread_id:
   - "4042947718"
@@ -39,7 +39,7 @@ Jak se rozhlížím po zahraničním internetu, tak vidím spoustu serverů prá
 
 A to máte: [Hackaday](https://www.hackaday.com). [Seeed Studio](https://www.seeedstudio.com). [Sparkfun](https://www.sparkfun.com). [Adafruit](https://www.adafruit.com). [Dangerous Prototypes](https://dangerousprototypes.com/). [Hackster](https://www.hackster.io/). Většina z nich nejen že přináší návody, ale rovnou nabízí i hotové moduly &#8211; displeje, arduina, raspi, nebo i některé součástky, třeba v &#8222;průmyslových&#8220; pouzdrech QFN a podobných, co si doma zapájíte jen stěží, připájené na &#8222;bastldesce&#8220; (breakout), někteří vám udělají i v malé sérii potřebné desky. To se to pak vymýšlí meteostanice a GPS aplikace a sledování ovzduší a spousty dalších, s prominutím, kravinek&#8230;
 
-Kde jsou takové české servery? A teď pozor, to není žurnalistické povzdychnutí a la &#8222;Nejsou, všechno špatně!&#8220; &#8211; to je zcela vážně míněná otázka. Věřím, že jsou, jen o nich nevím, a tak se ptám. Já žádný takový neznám. Znám [hw.cz](https://www.hw.cz), ale to je takový _magazín pro odborné pracovníky v oboru elektroniky_, jestli rozumíte, co tímhle poetickým opisem chci říct. Pak vím o [mcu.cz](https://mcu.cz/), kterému se tak trochu rozpadla koncepce, a bohužel [ani diskuse není moc použitelná](https://misantrop.info/vzpoura-bastlicu/). Kdysi se dalo něco zajímavého nalézt na [Pandatronu](https://pandatron.cz/), teď je to zase magazín o elektronice s nevyrovnanými články (něco super odborné, něco pro začátečníky, něco z firemních materiálů&#8230;)
+Kde jsou takové české servery? A teď pozor, to není žurnalistické povzdychnutí a la &#8222;Nejsou, všechno špatně!&#8220; &#8211; to je zcela vážně míněná otázka. Věřím, že jsou, jen o nich nevím, a tak se ptám. Já žádný takový neznám. Znám [hw.cz](https://www.hw.cz), ale to je takový _magazín pro odborné pracovníky v oboru elektroniky_, jestli rozumíte, co tímhle poetickým opisem chci říct. Pak vím o [mcu.cz](https://mcu.cz/), kterému se tak trochu rozpadla koncepce, a bohužel [ani diskuse není moc použitelná](https://misantrop.eu/vzpoura-bastlicu/). Kdysi se dalo něco zajímavého nalézt na [Pandatronu](https://pandatron.cz/), teď je to zase magazín o elektronice s nevyrovnanými články (něco super odborné, něco pro začátečníky, něco z firemních materiálů&#8230;)
 
 Trochu sympatičtější je mi [arduino.cz](https://arduino.cz/), kde je koncepce a zaměření jasně dané a vycházejí tam tipy a návody na různá zapojení. Budu si muset důkladněji prohlédnout tamní komunitu&#8230;
 

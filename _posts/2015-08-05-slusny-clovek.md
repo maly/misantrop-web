@@ -4,7 +4,7 @@ title: Slušný člověk
 date: 2015-08-05T09:58:59+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2351
+guid: https://misantrop.eu/?p=2351
 permalink: /slusny-clovek/
 mashsb_timestamp:
   - "1575519973"

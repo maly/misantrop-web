@@ -4,7 +4,7 @@ title: Generace anglicky nemluvících kmetů
 date: 2011-09-21T07:46:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/generace-anglicky-nemluvicich-kmetu/
+guid: https://misantrop.eu/generace-anglicky-nemluvicich-kmetu/
 permalink: /generace-anglicky-nemluvicich-kmetu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "71447804"
@@ -87,7 +87,7 @@ O tom, že ručn&iacute; volba by měla m&iacute;t vždy přednost před jazykem
 > zly_muz: @JanikTomanek Jojo, pr&aacute;vě d&iacute;ky lidem, co upozorněn&iacute; &#8222;na webu chyb&iacute; informace o jazyku předn&aacute;&scaron;ek&#8220; čtou že &#8222;kmet neum&iacute; anglicky&#8220;. Jako ty teď!</p> 
 > 
 > JanikTomanek: @zly_muz Ne, j&aacute; jsem to tak nepřečetl. Ten probl&eacute;m začal jako &#8222;chyb&iacute; info o j&#8220; a postupně se tady rozvinula debata, jestli m&aacute; b&yacute;t česk&aacute; předn&aacute;&scaron;kov&aacute; kace v AJ nebo ČJ.</p> 
-To je kr&aacute;sn&aacute; uk&aacute;zka, jednak do sb&iacute;rky [Trvale udržiteln&eacute; kr&aacute;vy](https://misantrop.info/462276-trvale-udrzitelna-krava.php), ale i toho, jak n&aacute;m ty memy pěkně žijou vlastn&iacute;mi životy. Vlastně v př&iacute;m&eacute;m přenosu tu vznikla z jednoho upozorněn&iacute; af&eacute;rka a jej&iacute;m v&yacute;sledkem je &#8222;jasn&yacute; fakt&#8220;, že &#8222;internetov&iacute; kmeti neum&iacute; anglicky&#8220;. Co na tom, že to z &#8222;af&eacute;rky&#8220; nevypl&yacute;v&aacute; a nen&iacute; to pravda &#8211; už to žije vlastn&iacute;m životem.
+To je kr&aacute;sn&aacute; uk&aacute;zka, jednak do sb&iacute;rky [Trvale udržiteln&eacute; kr&aacute;vy](https://misantrop.eu/462276-trvale-udrzitelna-krava.php), ale i toho, jak n&aacute;m ty memy pěkně žijou vlastn&iacute;mi životy. Vlastně v př&iacute;m&eacute;m přenosu tu vznikla z jednoho upozorněn&iacute; af&eacute;rka a jej&iacute;m v&yacute;sledkem je &#8222;jasn&yacute; fakt&#8220;, že &#8222;internetov&iacute; kmeti neum&iacute; anglicky&#8220;. Co na tom, že to z &#8222;af&eacute;rky&#8220; nevypl&yacute;v&aacute; a nen&iacute; to pravda &#8211; už to žije vlastn&iacute;m životem.
 
 Proto pamatujte, lid&eacute; 30+: **Když budete někde kritizovat přep&iacute;n&aacute;n&iacute; jazykov&yacute;ch verz&iacute; nebo tak něco, tak to znamen&aacute;, že neum&iacute;te angllicky &#8211; m&aacute;te probl&eacute;m s angličtinou &#8211; m&aacute;te probl&eacute;m s jazykama** (to podle toho, jak moc nekmetům dojde, co vlastně ř&iacute;k&aacute;te).
 

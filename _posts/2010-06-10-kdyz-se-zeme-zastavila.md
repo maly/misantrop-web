@@ -4,7 +4,7 @@ title: 'Když se Země zastavila&#8230;'
 date: 2010-06-10T09:54:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kdyz-se-zeme-zastavila/
+guid: https://misantrop.eu/kdyz-se-zeme-zastavila/
 permalink: /kdyz-se-zeme-zastavila/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "20105275"

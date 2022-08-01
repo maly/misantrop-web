@@ -4,7 +4,7 @@ title: Je Mass Effect 2 adventura, nebo spíš RPG s prvky jazzu?
 date: 2010-02-09T16:42:03+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/je-mass-effect-2-adventura-nebo-spis-rpg-s-prvky-jazzu/
+guid: https://misantrop.eu/je-mass-effect-2-adventura-nebo-spis-rpg-s-prvky-jazzu/
 permalink: /je-mass-effect-2-adventura-nebo-spis-rpg-s-prvky-jazzu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11400516"
@@ -23,7 +23,7 @@ categories:
 
 J&aacute; jsem už něco m&aacute;lo viděl a zažil (prvn&iacute; hra, co jsem hr&aacute;l, byl _survival dungeon_ s n&aacute;zvem Manic Miner). Takže m&aacute;m zhruba ponět&iacute;, že něco jako &#8222;čistokrevn&aacute; strategie&#8220; je jen chim&eacute;ra, spl&aacute;can&aacute; napůl z polozapomenut&yacute;ch vzpom&iacute;nek na &#8222;prvn&iacute; hru tohoto druhu&#8220; a napůl z horečnat&eacute; vize Naprosto Perfektn&iacute; Hry z určit&eacute;ho ž&aacute;nru. Bohužel, _ž&aacute;nrově čist&eacute; hry_ jsou asi vždycky jen ty prvn&iacute;, co v dan&eacute;m ž&aacute;nru vznikly. Naprost&aacute; vět&scaron;ina her je pak lep&scaron;&iacute;m či hor&scaron;&iacute;m mixem různ&yacute;ch prvků z různ&yacute;ch ž&aacute;nrů. Tedy např. &#8222;FPS s prvky z RPG&#8220;, &#8222;RTS s prvky survival horroru&#8220;, &#8222;akčn&iacute; budovatelsk&aacute; strategie&#8220; atd. Jenže někomu to nevysvětl&iacute;te.
 
-Moc, moc, moc se mi l&iacute;b&iacute; [diskuse na BonusWebu](https://bonusweb.idnes.cz/diskuse/Article.A100125_092912_bw-pc-recenze_mik.idn?page=1&vlakno=) o nov&eacute;m Mass Effectu. Totiž naprost&aacute; vět&scaron;ina lid&iacute; tam neře&scaron;&iacute;, co je v ME2 dobře nebo &scaron;patně. Skoro nikdo tam neře&scaron;&iacute;, jestli se &#8222;to&#8220; hraje dobře nebo &scaron;patně, či jak moc je recenze v souladu s [jejich n&aacute;zorem na hru](https://misantrop.info/mass-effect-2-prvni-dojmy). Jen se dohaduj&iacute;, jestli Mass Effect 2 JE nebo NEN&Iacute; opravdov&aacute; RPG, což vede k dohadům na t&eacute;ma _co vlastně je RPG_ a k velmi zap&aacute;len&yacute;m diskus&iacute;m, kdy se dohaduj&iacute; lid&eacute; o tom, č&iacute; definice RPG je ta spr&aacute;vn&aacute;.
+Moc, moc, moc se mi l&iacute;b&iacute; [diskuse na BonusWebu](https://bonusweb.idnes.cz/diskuse/Article.A100125_092912_bw-pc-recenze_mik.idn?page=1&vlakno=) o nov&eacute;m Mass Effectu. Totiž naprost&aacute; vět&scaron;ina lid&iacute; tam neře&scaron;&iacute;, co je v ME2 dobře nebo &scaron;patně. Skoro nikdo tam neře&scaron;&iacute;, jestli se &#8222;to&#8220; hraje dobře nebo &scaron;patně, či jak moc je recenze v souladu s [jejich n&aacute;zorem na hru](https://misantrop.eu/mass-effect-2-prvni-dojmy). Jen se dohaduj&iacute;, jestli Mass Effect 2 JE nebo NEN&Iacute; opravdov&aacute; RPG, což vede k dohadům na t&eacute;ma _co vlastně je RPG_ a k velmi zap&aacute;len&yacute;m diskus&iacute;m, kdy se dohaduj&iacute; lid&eacute; o tom, č&iacute; definice RPG je ta spr&aacute;vn&aacute;.
 
 To v&scaron;e okořeněn&eacute; exoty s geni&aacute;ln&iacute;mi hl&aacute;&scaron;kami jako &#8222;_Half-Life je jen trapn&aacute; kopie Crysis_&#8220; a &#8222;_Kde jsou star&eacute; dobr&eacute; časy klasick&yacute;ch her jako Crysis_&#8222;.
 

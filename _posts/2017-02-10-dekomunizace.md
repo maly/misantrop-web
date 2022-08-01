@@ -4,7 +4,7 @@ title: Dekomunizace
 date: 2017-02-10T10:44:07+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2745
+guid: https://misantrop.eu/?p=2745
 permalink: /dekomunizace/
 mashsb_timestamp:
   - "1575133007"

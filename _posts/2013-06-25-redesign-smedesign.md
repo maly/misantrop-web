@@ -4,7 +4,7 @@ title: 'Redesign šmedesign&#8230;'
 date: 2013-06-25T12:33:12+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1371
+guid: https://misantrop.eu/?p=1371
 permalink: /redesign-smedesign/
 mashsb_timestamp:
   - "1575151406"

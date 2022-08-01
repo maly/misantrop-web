@@ -4,7 +4,7 @@ title: 'Status quo antem, a dál melem pantem&#8230;'
 date: 2010-09-09T10:20:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/status-quo-antem-a-dal-melem-pantem/
+guid: https://misantrop.eu/status-quo-antem-a-dal-melem-pantem/
 permalink: /status-quo-antem-a-dal-melem-pantem/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "27707098"

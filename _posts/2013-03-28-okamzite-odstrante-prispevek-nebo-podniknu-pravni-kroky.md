@@ -4,7 +4,7 @@ title: Okamžitě odstraňte příspěvek, nebo podniknu právní kroky!
 date: 2013-03-28T14:24:39+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1196
+guid: https://misantrop.eu/?p=1196
 permalink: /okamzite-odstrante-prispevek-nebo-podniknu-pravni-kroky/
 dsq_thread_id:
   - "1170573199"
@@ -40,14 +40,14 @@ Pokud někdo vyhrožuje právními kroky, měl by mít jasno v tom, co jste prov
 
 Je libo praktickou ukázku? Ale no prosím:
 
-Před mnoha lety mi přišel mailem spam ze Slovenska. Spam se vyznačoval kromobyčejnou pitomostí, a [tak jsem o něm napsal](https://misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/) a zveřejnil jsem i jméno odesilatelky. Loni na podzim mi takhle jednoho dne přišel mail od paní:
+Před mnoha lety mi přišel mailem spam ze Slovenska. Spam se vyznačoval kromobyčejnou pitomostí, a [tak jsem o něm napsal](https://misantrop.eu/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-milej-nas-klient/) a zveřejnil jsem i jméno odesilatelky. Loni na podzim mi takhle jednoho dne přišel mail od paní:
 
 <p style="padding-left: 30px;">
   <em>Dobrý deň,</em>
 </p>
 
 <p style="padding-left: 30px;">
-  <em id="__mceDel">na Vašej webovej stránke som objavila odkaz na môj email:<br /> <a href="https://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m" target="_blank">https://strucny.misantrop.info/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m</a></em>
+  <em id="__mceDel">na Vašej webovej stránke som objavila odkaz na môj email:<br /> <a href="https://strucny.misantrop.eu/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m" target="_blank">https://strucny.misantrop.eu/houbnuti-ultra-rychle-i-pro-nejvetsi-jedaky-m</a></em>
 </p>
 
 <p style="padding-left: 30px;">

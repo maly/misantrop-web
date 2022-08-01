@@ -4,7 +4,7 @@ title: 'Smithbusters II &#8211; Rome reloaded'
 date: 2013-11-07T11:26:04+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1630
+guid: https://misantrop.eu/?p=1630
 permalink: /smithbusters-ii-rome-reloaded/
 dsq_thread_id:
   - "1944230047"
@@ -18,7 +18,7 @@ image: /wp-content/uploads/2013/11/Titus-Arch-LARGE.jpg
 categories:
   - Nezařazené
 ---
-Kdysi jsem napsal článek [Smithbusters](https://misantrop.info/smithbusters/), kde jsem přemýšlel, jestli se dá opravdu dělat všechno to, co předváděl inženýr Smith na Tajuplném ostrově. A teď &#8211; co byste předvedli vy?
+Kdysi jsem napsal článek [Smithbusters](https://misantrop.eu/smithbusters/), kde jsem přemýšlel, jestli se dá opravdu dělat všechno to, co předváděl inženýr Smith na Tajuplném ostrově. A teď &#8211; co byste předvedli vy?
 
 <!--more-->
 

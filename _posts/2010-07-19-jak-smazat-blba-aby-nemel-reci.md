@@ -4,7 +4,7 @@ title: 'Jak smazat blba, aby neměl řeči&#8230;?'
 date: 2010-07-19T13:44:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jak-smazat-blba-aby-nemel-reci/
+guid: https://misantrop.eu/jak-smazat-blba-aby-nemel-reci/
 permalink: /jak-smazat-blba-aby-nemel-reci/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "23442112"
@@ -27,5 +27,5 @@ A při té příležitosti mě napadlo, že by se mi v CMS hodilo mít funkci **
 
 _Tenhle článek měl mít nadpis &#8222;Masturbate now, fuck off later&#8230;&#8220;, ale nakonec, aby nebyly řeče&#8230;_
 
-_PS: [Dodatek k vašim reakcím](https://strucny.misantrop.info/jak-smazat-blba-aby-nemel-reci-vol-ii)  
+_PS: [Dodatek k vašim reakcím](https://strucny.misantrop.eu/jak-smazat-blba-aby-nemel-reci-vol-ii)  
 _

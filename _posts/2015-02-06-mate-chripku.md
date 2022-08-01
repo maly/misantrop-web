@@ -4,7 +4,7 @@ title: Máte chřipku!
 date: 2015-02-06T11:58:38+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2213
+guid: https://misantrop.eu/?p=2213
 permalink: /mate-chripku/
 mashsb_timestamp:
   - "1563451897"

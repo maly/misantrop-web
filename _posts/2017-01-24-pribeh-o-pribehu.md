@@ -4,7 +4,7 @@ title: Příběh o příběhu
 date: 2017-01-24T11:12:38+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2699
+guid: https://misantrop.eu/?p=2699
 permalink: /pribeh-o-pribehu/
 mashsb_timestamp:
   - "1574983360"

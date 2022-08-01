@@ -4,7 +4,7 @@ title: 'K recenzi &#8222;1001 tipů pro PHP&#8220;'
 date: 2011-03-17T09:04:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/k-recenzi-1001-tipu-pro-php/
+guid: https://misantrop.eu/k-recenzi-1001-tipu-pro-php/
 permalink: /k-recenzi-1001-tipu-pro-php/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "46266969"

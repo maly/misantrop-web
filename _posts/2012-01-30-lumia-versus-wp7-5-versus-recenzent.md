@@ -4,7 +4,7 @@ title: Lumia versus WP7.5 versus recenzent
 date: 2012-01-30T11:36:16+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=124
+guid: https://misantrop.eu/?p=124
 permalink: /lumia-versus-wp7-5-versus-recenzent/
 dsq_thread_id:
   - "557534315"

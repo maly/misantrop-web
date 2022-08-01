@@ -4,7 +4,7 @@ title: 'Video: Kindle Fire + CyanogenMod7'
 date: 2012-02-21T11:03:15+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=184
+guid: https://misantrop.eu/?p=184
 permalink: /video-kindle-fire-cyanogenmod7/
 dsq_thread_id:
   - "583905472"

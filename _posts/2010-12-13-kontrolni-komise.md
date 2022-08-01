@@ -4,7 +4,7 @@ title: Kontrolní komise
 date: 2010-12-13T07:22:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kontrolni-komise/
+guid: https://misantrop.eu/kontrolni-komise/
 permalink: /kontrolni-komise/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "36201082"

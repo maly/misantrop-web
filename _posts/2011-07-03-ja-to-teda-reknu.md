@@ -4,7 +4,7 @@ title: 'Já to teda řeknu&#8230;'
 date: 2011-07-03T10:48:37+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/ja-to-teda-reknu/
+guid: https://misantrop.eu/ja-to-teda-reknu/
 permalink: /ja-to-teda-reknu/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "59261259"

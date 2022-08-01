@@ -4,7 +4,7 @@ title: Amazon představil tablet Kindle Fire, dotykový Kindle
 date: 2011-09-28T14:12:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/amazon-predstavil-tablet-kindle-fire-dotykovy-kindle/
+guid: https://misantrop.eu/amazon-predstavil-tablet-kindle-fire-dotykovy-kindle/
 permalink: /amazon-predstavil-tablet-kindle-fire-dotykovy-kindle/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "72856341"

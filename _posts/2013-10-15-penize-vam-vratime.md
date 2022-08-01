@@ -4,7 +4,7 @@ title: 'Peníze vám vrátíme&#8230;'
 date: 2013-10-15T15:09:30+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1586
+guid: https://misantrop.eu/?p=1586
 permalink: /penize-vam-vratime/
 dsq_thread_id:
   - "1859940874"
@@ -46,4 +46,4 @@ Takže až vám někdo bude nabízet &#8222;vrácení peněz formou kreditu na d
 
 &#8212;
 
-**AKTUALIZACE**, která se mi líbí &#8211; [v komentářích](https://misantrop.info/penize-vam-vratime/#comment-1083288558) i mailem se vyjádřil Petr Sýkora, výkonný ředitel Pepy, omluvil se za průtahy a napsal, že z toho vyvodili nějaké důsledky a zákazníků se budou ptát, zda chtějí refundaci finanční, nebo formou kreditů. Gratuluji, tomu říkám &#8222;skvěle odvedená krizová komunikace&#8220; (obzvlášť to vynikne ve srovnání s [reakcí Tomáše Čupra](https://misantrop.info/kubik-marketing/)).
+**AKTUALIZACE**, která se mi líbí &#8211; [v komentářích](https://misantrop.eu/penize-vam-vratime/#comment-1083288558) i mailem se vyjádřil Petr Sýkora, výkonný ředitel Pepy, omluvil se za průtahy a napsal, že z toho vyvodili nějaké důsledky a zákazníků se budou ptát, zda chtějí refundaci finanční, nebo formou kreditů. Gratuluji, tomu říkám &#8222;skvěle odvedená krizová komunikace&#8220; (obzvlášť to vynikne ve srovnání s [reakcí Tomáše Čupra](https://misantrop.eu/kubik-marketing/)).

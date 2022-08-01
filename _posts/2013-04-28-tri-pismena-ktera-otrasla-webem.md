@@ -4,7 +4,7 @@ title: 'Tři písmena, která otřásla webem&#8230;'
 date: 2013-04-28T12:55:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1265
+guid: https://misantrop.eu/?p=1265
 permalink: /tri-pismena-ktera-otrasla-webem/
 dsq_thread_id:
   - "1241352353"
@@ -35,7 +35,7 @@ Jak toho dosáhnout? No, musíte mít vysokej PageRank! A toho se dosáhne jedno
 
 Vysvětlení, proč jsou oba tyto kroky v takhle holé podobě totální nesmysl nechám na jiných. Mě na nich zaujala jiná věc, totiž to, jak se dokázaly uchytit a co všechno zvládly zmrvit v rukou akčních střelců, lidí, kteří mechanicky aplikují poučky, aniž by se snažili o cokoli víc.
 
-Když jsem před lety psal o tom, [jak se státi kopyrajtrem](https://misantrop.info/stavame-se-internetovymi-podnikateli-lekce-2-kopyrajtr), měl jsem zářné předobrazy Vomočila a Vogla, mistry hydratovaných PR článků. Jenže realita je mnohem horší&#8230; Hydratovaný styl se stal _mainstreamem_.
+Když jsem před lety psal o tom, [jak se státi kopyrajtrem](https://misantrop.eu/stavame-se-internetovymi-podnikateli-lekce-2-kopyrajtr), měl jsem zářné předobrazy Vomočila a Vogla, mistry hydratovaných PR článků. Jenže realita je mnohem horší&#8230; Hydratovaný styl se stal _mainstreamem_.
 
 Stále častěji se setkávám s texty, kde autor naprosto tupě opakuje slova dokola a dokola. Dřív jsem si myslel, že to je znak nedostatečné slovní zásoby, jenže v poslední době se setkávám s lidmi, kteří to dělají, protože si myslí, že _to tak má být_! Že když píšou o vysavači, tak v každé větě musí být slova &#8222;vysavač&#8220; nebo &#8222;lux&#8220; nebo &#8222;elektrický pomocník pro úklid koberců a podlahových ploch&#8220;, protože prostě&#8230; protože! Aniž by znali zkratku SEO &#8211; nevědí, proč ta slova opakují; dělají to automaticky, poniváč to vidí v jiných textech a mají za to, že _se to tak má_.
 

@@ -4,7 +4,7 @@ title: 'Kaluža vs uhrovitá Lupa &#8211; 2:0!'
 date: 2012-06-04T08:22:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kaluza-vs-uhrovita-lupa-20/
+guid: https://misantrop.eu/kaluza-vs-uhrovita-lupa-20/
 permalink: /kaluza-vs-uhrovita-lupa-20/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "135828511"

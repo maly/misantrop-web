@@ -4,7 +4,7 @@ title: 'Sandál v ponožkách&#8230;'
 date: 2013-06-23T18:46:32+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1365
+guid: https://misantrop.eu/?p=1365
 permalink: /sandal-v-ponozkach/
 mashsb_timestamp:
   - "1575151304"
@@ -33,7 +33,7 @@ Kontraargumenty znám &#8211; cosi o prachu a špíně. Fajn, to se dá řešit 
 Po pravdě spíš snesu elegantní ponožku v sandálech, než pohled na tohle:
 
 <div id="attachment_1367" style="width: 385px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg.jpg"><img aria-describedby="caption-attachment-1367" class="size-medium wp-image-1367" alt="hallux.jpg" src="https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg-375x500.jpg" width="375" height="500" srcset="https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg-375x500.jpg 375w, https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg-150x200.jpg 150w, https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg-768x1024.jpg 768w, https://misantrop.info/wp-content/uploads/2013/06/hallux.jpg.jpg 1200w" sizes="(max-width: 375px) 100vw, 375px" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg.jpg"><img aria-describedby="caption-attachment-1367" class="size-medium wp-image-1367" alt="hallux.jpg" src="https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg-375x500.jpg" width="375" height="500" srcset="https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg-375x500.jpg 375w, https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg-150x200.jpg 150w, https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg-768x1024.jpg 768w, https://misantrop.eu/wp-content/uploads/2013/06/hallux.jpg.jpg 1200w" sizes="(max-width: 375px) 100vw, 375px" /></a>
   
   <p id="caption-attachment-1367" class="wp-caption-text">
     CC-BY, Wikimedia

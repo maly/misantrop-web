@@ -4,7 +4,7 @@ title: Proč mám rád Windows Phone?
 date: 2012-10-31T16:04:02+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=690
+guid: https://misantrop.eu/?p=690
 permalink: /proc-mam-rad-windows-phone/
 dsq_thread_id:
   - "908556374"
@@ -27,13 +27,13 @@ Přiznejme si to &#8211; Windows Phone 7.5 není vůbec špatný mobilní systé
 
 Měl jsem Android i iZařízení, nesedli jsme si, s WP7.5 jsme si sedli.
 
-U Androidu mi vadila &#8222;sladká svoboda&#8220;. Svoboda je skvělá věc, ale u věcí nechci, aby byly svobodné, ale aby sloužily tak, jak chci. Svoboda u Androidu vede k tomu, že co zařízení, to defakto jiný systém; co aplikace, to vlastní názor na to, jak že se má ovládat a jak má fungovat, a výslednicí těhle dvou myšlenkových proudů je uprostřed zařízení, které si můžu vyladit a ňuňat jak tamagoči, ale které [je schopné mě při každodenním používání frustrovat k nesnesení](https://misantrop.info/galaxy-tab-2-7-0-a-androidi-tablety-vubec/).
+U Androidu mi vadila &#8222;sladká svoboda&#8220;. Svoboda je skvělá věc, ale u věcí nechci, aby byly svobodné, ale aby sloužily tak, jak chci. Svoboda u Androidu vede k tomu, že co zařízení, to defakto jiný systém; co aplikace, to vlastní názor na to, jak že se má ovládat a jak má fungovat, a výslednicí těhle dvou myšlenkových proudů je uprostřed zařízení, které si můžu vyladit a ňuňat jak tamagoči, ale které [je schopné mě při každodenním používání frustrovat k nesnesení](https://misantrop.eu/galaxy-tab-2-7-0-a-androidi-tablety-vubec/).
 
 iZařízení jsou svět sám pro sebe. Nerozumíme si a &#8211; byť to zní sebepodivněji &#8211; ty věci mě nemají rády. Jakmile může dojít k podivné chybě (následované rezolutním &#8222;To se ti nemohlo stát!&#8220; ze strany iEvangelizátorů), tak se s ní setkám. Jakmile mě může něco zaskočit, zaskočí mě to a bojuju s tím. &#8222;Změnit návyky&#8220;, což je nejčastější reakce, nechci. Sorry, vážně ne, nepřipadá mi, že bych se měl já podřizovat telefonu.
 
 Za nejlepší telefon, co jsem kdy měl, považuju Nokii N900. Ten telefon dělal přesně to, co jsem od něj očekával, a dělal to tak, jak jsem chtěl. Neměl ve zvyku mě překvapovat náhlými pády a nefunkčnostmi (jako Androidy), ani prapodivnými zvyklostmi. Prostě jsem si vymyslel nějakou činnost, a buď mi šla napoprvé, nebo jsem si ji intuitivně odvodil. Škoda jen, že ho Nokia zařízla jak podsvinče.
 
-<a href="https://misantrop.info/windows-phone-7-5/6701382721_7605f2b07c/" rel="attachment wp-att-49"><img class="aligncenter size-full wp-image-49" title="Win Phone 7.5" src="https://misantrop.info/wp-content/uploads/2012/11/6701382721_7605f2b07c.jpg" alt="" width="500" height="375" /></a>
+<a href="https://misantrop.eu/windows-phone-7-5/6701382721_7605f2b07c/" rel="attachment wp-att-49"><img class="aligncenter size-full wp-image-49" title="Win Phone 7.5" src="https://misantrop.eu/wp-content/uploads/2012/11/6701382721_7605f2b07c.jpg" alt="" width="500" height="375" /></a>
 
 A s tímhle nastavením se mi dostal do rukou Windows Phone 7.5 (po pravdě nejprve WP7, ale ten byl pro mne nepoužitelný). Bylo to v době, kdy jsem musel denně pročítat geekovské weby, a tam byl, jak jinak, převládající názor jasný: _Je to hnus, fuj, monochromatické dlaždice jak na ZX Spectru, nedá se tam nic nastavit, je to pro&#8230; no&#8230; pro nikoho to není&#8230; Nedá se to nastavit (Androidisti) / Je to ošklivé (Applisti)._ Já byl tím systémem příjemně překvapený. Používal jsem první telefon asi dva či tři týdny, pak jsem ho vrátil, a po bajvoko měsíci jsem si uvědomil, že &#8222;můj nový telefon bude WP7.5&#8220;. Takže už skoro rok používám telefony s WP7.5, a za tu dobu jsem nasbíral několi důvodů pro a proti&#8230;
 
@@ -49,7 +49,7 @@ Proč ano?
 
 Někteří jsou nadšení z dlaždice &#8222;lidé&#8220;, která kumuluje kontakty a sociální sítě. Já ani tak ne, dávám přednost samostatným aplikacím pro FB i Tw, ale to je asi věc vkusu.
 
-<a href="https://misantrop.info/nokia-lumia-900-v-kapse/wp_000176/" rel="attachment wp-att-564"><img class="aligncenter size-full wp-image-564" title="WP_000176" src="https://misantrop.info/wp-content/uploads/2012/11/WP_000176.jpg" alt="" width="538" height="717" /></a>
+<a href="https://misantrop.eu/nokia-lumia-900-v-kapse/wp_000176/" rel="attachment wp-att-564"><img class="aligncenter size-full wp-image-564" title="WP_000176" src="https://misantrop.eu/wp-content/uploads/2012/11/WP_000176.jpg" alt="" width="538" height="717" /></a>
 
 Jenže všude je chleba o dvou kůrkách a není vše jen jasné, zářivé a sluníčkové. Je i pár věcí, za které bych autorům WP7.5 s chutí strčil prsty do drtičky cukrové třtiny. Jmenovitě za následující věci:
 
@@ -65,4 +65,4 @@ Za mě ale i přes to všechno dobré. Telefon s WP7.5 je moderní smartfon,  k
 
 Po téměř roce užívání WP7.5 mohu za sebe zodpovědně prohlásit: Velmi dobrý systém, který nevyvolává orgastické záchvaty nadšení a většinu času o něm ani nevíte. Je to prostě věc, která pracuje, dělá to dobře a moc na sebe neupozorňuje. Pro určitou sortu lidí je to ideální zařízení.
 
-<a href="https://misantrop.info/?attachment_id=691" rel="attachment wp-att-691"><img class="aligncenter size-medium wp-image-691" title="lumia-900" src="https://misantrop.info/wp-content/uploads/2012/11/lumia-900-500x363.jpg" alt="" width="500" height="363" /></a>
+<a href="https://misantrop.eu/?attachment_id=691" rel="attachment wp-att-691"><img class="aligncenter size-medium wp-image-691" title="lumia-900" src="https://misantrop.eu/wp-content/uploads/2012/11/lumia-900-500x363.jpg" alt="" width="500" height="363" /></a>

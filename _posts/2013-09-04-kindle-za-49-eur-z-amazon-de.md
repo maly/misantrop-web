@@ -4,7 +4,7 @@ title: Kindle za 49 EUR z Amazon.de
 date: 2013-09-04T08:52:07+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1444
+guid: https://misantrop.eu/?p=1444
 permalink: /kindle-za-49-eur-z-amazon-de/
 mashsb_timestamp:
   - "1553758531"

@@ -4,7 +4,7 @@ title: Minimální mzda za maximální cenu
 date: 2013-08-26T08:09:50+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1421
+guid: https://misantrop.eu/?p=1421
 permalink: /minimalni-mzda-za-maximalni-cenu/
 dsq_thread_id:
   - "1647869042"

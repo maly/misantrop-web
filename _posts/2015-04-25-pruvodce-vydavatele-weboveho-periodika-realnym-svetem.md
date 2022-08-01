@@ -4,7 +4,7 @@ title: Průvodce vydavatele webového periodika reálným světem
 date: 2015-04-25T10:08:30+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2272
+guid: https://misantrop.eu/?p=2272
 permalink: /pruvodce-vydavatele-weboveho-periodika-realnym-svetem/
 mashsb_timestamp:
   - "1575141449"
@@ -29,7 +29,7 @@ _(Ilustrační foto: Jason Carter)_
 
 Zadruhé: Blokování reklamy nevzniklo jen tak, z plezíru, ale byla to reakce na nějaké chování, na nějaký stav, a ta úvaha nezněla &#8222;hele, oni tu mají uměřenou nerušící reklamu, pojďme ji zablokovat!&#8220; Takže vina byla z velké části na straně vydavatelů obsahu. Že to byli jiní než vy, to je už jedno. Bohužel, je to tak.
 
-[Vítejte v realitě](https://kcc.misantrop.info/2014/09/26/adblock/). Reklamu lidé blokují, a dělat to budou. Pokud chcete i přesto nějak přežít, musíte si pár věcí uvědomit.
+[Vítejte v realitě](https://kcc.misantrop.eu/2014/09/26/adblock/). Reklamu lidé blokují, a dělat to budou. Pokud chcete i přesto nějak přežít, musíte si pár věcí uvědomit.
 
 1. **Proč ji blokují?** Není to jen proto, že jsou a priori proti reklamě, ani proto, že chtějí všechno vždycky zadarmo (podle AdBlocku cca čtvrtina). Hlavní důvod je, že je na nějakém webu reklama ruší tak, že jim stojí za to se popídit a ten AdBlock či alternativu najít. A mnozí už to berou jako automatismus: Nainstaluju prohlížeč, zapnu AdBlock.
 
@@ -44,7 +44,7 @@ Přesto **existují způsoby, jak omezit vliv AdBlocku na váš web**.
 Ne, **neexistuje zázračný způsob, jak &#8222;zablokovat AdBlock&#8220;**, a tenhleten boj máte předem prohraný. Musíte změnit svoje chování!
 
   * **Snižte počet reklamních ploch.** Paradoxně se tak zvýší výkon reklamy. Změřte si efektivitu pozic a tu neefektivní polovinu vyhoďte. Velmi pravděpodobně se zvýší výkon toho zbytku. Obecný tip: Fungují leaderboardy (vodorovné pruhy nad obsahem). Což není tak úplně tip proti blokování reklamy, ale u té části, co neblokuje, může pomoct.
-  * Neřešte AdBlock, a poíkud už ho řešit chcete, tak třeba zkuste **[požádat](https://misantrop.info/anti-adblock-reseni-pro-vydavatele-obsahu/), aby na vašem webu blokování reklam vypnuli**.
+  * Neřešte AdBlock, a poíkud už ho řešit chcete, tak třeba zkuste **[požádat](https://misantrop.eu/anti-adblock-reseni-pro-vydavatele-obsahu/), aby na vašem webu blokování reklam vypnuli**.
   * Když o to požádáte, tak slibte, že **reklamou nebudete rušit čtení, a dodržujte to**! Jinak tuhle _tichou dohodu_ rozbijete nejen sobě, ale všem. Zase.
   * Použijte **nativní reklamu**. Tedy takovou, která je součástí obsahu. Tu vám žádný blokátor nezablokuje. Pokud bude reklama **přirozenou součástí obsahu**, a podtrhuju slovo &#8222;přirozenou&#8220;, nebude vadit čtenářům a bude velmi efektivní.
   * Najděte **jiné způsoby**, jak doručit reklamní sdělení. Ano, je to těžší, než když vám mediálka předá _tajhle semhle měřicí kódy a ty tam prostě takhle dejte_, ale nebudete muset řešit blokování reklamy.

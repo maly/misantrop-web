@@ -4,7 +4,7 @@ title: 'Zezulo, Zezulo, až se zima zeptá&#8230;'
 date: 2012-06-06T09:20:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/zezulo-zezulo-az-se-zima-zepta/
+guid: https://misantrop.eu/zezulo-zezulo-az-se-zima-zepta/
 permalink: /zezulo-zezulo-az-se-zima-zepta/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "136295143"

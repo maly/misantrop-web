@@ -4,7 +4,7 @@ title: Šéfredaktoři
 date: 2015-02-27T13:31:16+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2240
+guid: https://misantrop.eu/?p=2240
 permalink: /sefredaktori/
 mashsb_timestamp:
   - "1571517761"

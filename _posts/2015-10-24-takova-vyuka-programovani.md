@@ -4,7 +4,7 @@ title: 'Taková výuka programování&#8230;'
 date: 2015-10-24T19:38:23+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2518
+guid: https://misantrop.eu/?p=2518
 permalink: /takova-vyuka-programovani/
 mashsb_timestamp:
   - "1574374647"

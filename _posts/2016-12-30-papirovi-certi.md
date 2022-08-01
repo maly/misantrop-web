@@ -4,7 +4,7 @@ title: Papíroví čerti
 date: 2016-12-30T18:16:43+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2614
+guid: https://misantrop.eu/?p=2614
 permalink: /papirovi-certi/
 mashsb_timestamp:
   - "1575398001"

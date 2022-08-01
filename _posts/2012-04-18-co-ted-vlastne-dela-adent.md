@@ -4,7 +4,7 @@ title: Co teď vlastně dělá @adent?
 date: 2012-04-18T09:38:56+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=288
+guid: https://misantrop.eu/?p=288
 permalink: /co-ted-vlastne-dela-adent/
 dsq_thread_id:
   - "654332336"

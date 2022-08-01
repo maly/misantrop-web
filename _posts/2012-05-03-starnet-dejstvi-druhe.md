@@ -4,7 +4,7 @@ title: Starnet, dějství druhé
 date: 2012-05-03T13:43:41+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=335
+guid: https://misantrop.eu/?p=335
 permalink: /starnet-dejstvi-druhe/
 mashsb_timestamp:
   - "1576130495"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Těžko říct, jakou roli v tom měl [můj článek](https://misantrop.info/starnet-vi-jak-v-tom-chodit/), každopádně v pondělí se ozvali ze Starnetu s tím, že by se chtěli domluvit na demontáži.
+Těžko říct, jakou roli v tom měl [můj článek](https://misantrop.eu/starnet-vi-jak-v-tom-chodit/), každopádně v pondělí se ozvali ze Starnetu s tím, že by se chtěli domluvit na demontáži.
 
 <!--more-->
 

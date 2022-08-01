@@ -4,7 +4,7 @@ title: Design Decision názorně
 date: 2011-08-21T11:46:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/design-decision-nazorne/
+guid: https://misantrop.eu/design-decision-nazorne/
 permalink: /design-decision-nazorne/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "66410155"

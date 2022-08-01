@@ -4,7 +4,7 @@ title: Online média a odkazy, kapitola 68
 date: 2014-06-12T19:01:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2061
+guid: https://misantrop.eu/?p=2061
 permalink: /online-media-a-odkazy-kapitola-68/
 mashsb_timestamp:
   - "1574982357"
@@ -28,7 +28,7 @@ A zase a furt dokola, na jedné straně se klape hubou, na druhé se nedělá ni
 
 O co jde? O to, že tahle média jaksi neráčí odkazovat. Chápu to, pro ně je odkaz něco jako zlo, co jim odvede návštěvníka ze stránky, a to pro ně znamená ztrátu několika haléřů _per uživatel_. A tak ho tam drží a používají k tomu naprosto slizké postupy.
 
-Jedni tvrdí, že přeci nebudou odkazovat na konkurenci. Jiní přicházejí v reakci na tohle s velkolepými úvahami, že tedy odkazovat budou, až odkážou ostatní, a že k tomu [udělají nějaký kodex](https://misantrop.info/klademe-si-dulezite-tytez-otazky-stale-dokola-jen-aby-se-nemuselo-nic-delat/), ale nejdřív tamti, pak teprv my!
+Jedni tvrdí, že přeci nebudou odkazovat na konkurenci. Jiní přicházejí v reakci na tohle s velkolepými úvahami, že tedy odkazovat budou, až odkážou ostatní, a že k tomu [udělají nějaký kodex](https://misantrop.eu/klademe-si-dulezite-tytez-otazky-stale-dokola-jen-aby-se-nemuselo-nic-delat/), ale nejdřív tamti, pak teprv my!
 
 Ovšem u odkazů na &#8222;konkurenční média&#8220; to nekončí, kdepak. Někteří pro jistotu neodkazují vůbec.
 
@@ -43,7 +43,7 @@ Když tenhle princip povýšíte na druhou, tak dostanete Aktuálně. Jejich [č
 Co na to milým webovým médiím říct? Snad jen: **Chovejte se, dopytle už, jako plnoprávní obyvatelé webu!** Odkazy přijímejte a dávejte. A když už se chováte takhle, tak nemáte sebemenší morální právo držkovat, že čtenáři dělají to či ono, co se vám nelíbí.
 
 <div id="attachment_2062" style="width: 416px" class="wp-caption aligncenter">
-  <a href="https://misantrop.info/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png"><img aria-describedby="caption-attachment-2062" class="wp-image-2062 size-full" src="https://misantrop.info/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png" alt="Evropská města ucpali taxikáři. Děsí je nová aplikace Uber   Aktuálně.cz" width="406" height="920" srcset="https://misantrop.info/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png 406w, https://misantrop.info/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_-88x200.png 88w, https://misantrop.info/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_-220x500.png 220w" sizes="(max-width: 406px) 100vw, 406px" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png"><img aria-describedby="caption-attachment-2062" class="wp-image-2062 size-full" src="https://misantrop.eu/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png" alt="Evropská města ucpali taxikáři. Děsí je nová aplikace Uber   Aktuálně.cz" width="406" height="920" srcset="https://misantrop.eu/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_.png 406w, https://misantrop.eu/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_-88x200.png 88w, https://misantrop.eu/wp-content/uploads/2014/06/Evropská-města-ucpali-taxikáři.-Děsí-je-nová-aplikace-Uber-Aktuálně.cz_-220x500.png 220w" sizes="(max-width: 406px) 100vw, 406px" /></a>
   
   <p id="caption-attachment-2062" class="wp-caption-text">
     Aktuálně odkáže kamkoli, pokud to je na doméně aktualne.cz&#8230;

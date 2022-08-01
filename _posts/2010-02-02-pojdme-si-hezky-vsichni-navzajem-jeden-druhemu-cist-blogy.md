@@ -4,7 +4,7 @@ title: 'Pojďme si hezky všichni navzájem jeden druhému&#8230; číst blogy!'
 date: 2010-02-02T22:48:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
+guid: https://misantrop.eu/pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
 permalink: /pojdme-si-hezky-vsichni-navzajem-jeden-druhemu-cist-blogy/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11008034"

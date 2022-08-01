@@ -4,7 +4,7 @@ title: Ještě jednou, stručně, k utajení a sčítání
 date: 2011-04-22T07:31:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/jeste-jednou-strucne-k-utajeni-a-scitani/
+guid: https://misantrop.eu/jeste-jednou-strucne-k-utajeni-a-scitani/
 permalink: /jeste-jednou-strucne-k-utajeni-a-scitani/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "50405312"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Tuhle jsem [psal o f&iacute;zlovsk&eacute; společnosti](https://misantrop.info/politicka-krize-kez), kter&aacute; bere odposlech, tajnou nahr&aacute;vku, &#8222;ucho na dveř&iacute;ch&#8220; jako norm&aacute;ln&iacute;, legitimn&iacute; způsob z&iacute;sk&aacute;v&aacute;n&iacute; informac&iacute;.
+Tuhle jsem [psal o f&iacute;zlovsk&eacute; společnosti](https://misantrop.eu/politicka-krize-kez), kter&aacute; bere odposlech, tajnou nahr&aacute;vku, &#8222;ucho na dveř&iacute;ch&#8220; jako norm&aacute;ln&iacute;, legitimn&iacute; způsob z&iacute;sk&aacute;v&aacute;n&iacute; informac&iacute;.
 
 Včera mě znechutil [zveřejněn&yacute; z&aacute;znam z v&yacute;slechu Otakara Tomka](https://www.novinky.cz/krimi/231413-videozaznam-vyslechu-otakara-tomka-podezreleho-z-vrazdy-anicky.html?ref=zpravy-dne) (jo, toho od Aničky). Ne, ne&scaron;lo o obsah.
 

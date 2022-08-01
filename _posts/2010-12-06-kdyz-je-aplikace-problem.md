@@ -4,7 +4,7 @@ title: 'Když je aplikace problém&#8230;'
 date: 2010-12-06T16:48:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/kdyz-je-aplikace-problem/
+guid: https://misantrop.eu/kdyz-je-aplikace-problem/
 permalink: /kdyz-je-aplikace-problem/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "35500147"
@@ -19,7 +19,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-_Podotek k [Trvale udržiteln&eacute; kr&aacute;vě](https://misantrop.info/462276-trvale-udrzitelna-krava.php)_
+_Podotek k [Trvale udržiteln&eacute; kr&aacute;vě](https://misantrop.eu/462276-trvale-udrzitelna-krava.php)_
 
 Nov&yacute; poznatek, tvrzen&iacute; či pravidlo je potřeba aplikovat na svět a situace okolo sebe. Pokud pasuje, lze jej ověřit. Pokud nepasuje, je určeno pro jinou situaci. Aplikace pravidla na situaci, pro kterou nen&iacute; určeno, se naz&yacute;v&aacute; **dogmatismus**.
 

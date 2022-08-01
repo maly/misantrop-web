@@ -4,7 +4,7 @@ title: 'Trvale udržitelná kráva &#038; Vězeňské dilema'
 date: 2013-02-04T09:43:15+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=809
+guid: https://misantrop.eu/?p=809
 permalink: /trvale-udrzitelna-krava-a-vezenske-dilema/
 dsq_thread_id:
   - "1064577564"
@@ -22,7 +22,7 @@ Mé články o lidském chování a argumentaci revitalizovány; nyní na jednom
 
 <!--more-->
 
-_Trvale udržitelná kráva_ bylo jedovaté označení pro diskutéry, vyznávající _posvátné krávy_, a v sérii článků s tímto názvem jsem popisoval argumentační fauly, kopance, vadnou logiku a další jevy, s nimiž jsem se setkával v internetových diskusích. (Ano, to bylo dávno před tím, než jsem měl tu čest setkat se s diskusemi na Rootu a Lupě!) Součástí textu byl například _test krkajícího černocha_, doplnění Čapkových figur zápasu perem nebo Koukolíkova klasifikace logických chyb. Občas se mě lidé ptali, kde že ty texty jsou, jak je najít, tak jsem je vzal, vyčistil, celý text jsem spojil do jednoho článku, a zde je: [Trvale udržitelná kráva](https://misantrop.info/trvale-udrzitelna-krava/).
+_Trvale udržitelná kráva_ bylo jedovaté označení pro diskutéry, vyznávající _posvátné krávy_, a v sérii článků s tímto názvem jsem popisoval argumentační fauly, kopance, vadnou logiku a další jevy, s nimiž jsem se setkával v internetových diskusích. (Ano, to bylo dávno před tím, než jsem měl tu čest setkat se s diskusemi na Rootu a Lupě!) Součástí textu byl například _test krkajícího černocha_, doplnění Čapkových figur zápasu perem nebo Koukolíkova klasifikace logických chyb. Občas se mě lidé ptali, kde že ty texty jsou, jak je najít, tak jsem je vzal, vyčistil, celý text jsem spojil do jednoho článku, a zde je: [Trvale udržitelná kráva](https://misantrop.eu/trvale-udrzitelna-krava/).
 
 Druhá věc, na kterou jste se mě občas ptali, byla minisérie článků o komunitách, lidském chování a teorii her, založená na takzvaném Vězňově dilematu (přesněji na jeho opakované, iterované variantě). Vytvořil jsem jednoduchý simulátor této hry, implementoval jsem pro něj nejznámější algoritmy (TFT, TF2T, Pavlov, &#8230;) a simuloval jsem chování takového společenství. Pozorované chování jsem pak aplikoval na chování lidských společenství, a paralely byly podezřele přesné.
 
@@ -30,6 +30,6 @@ Druhá série článků vznikala v době, kdy webem hýbalo slovo &#8222;komunit
 
 Na druhou stranu měly články i pozitivní vyznění. Třeba že existuje způsob, jak se komunita může ubránit náporu hajzlů a vytlačit je pryč (ale není to způsob sluníčkový a vlídný), nebo že dokonce ve společenství, kde každý sleduje čistě sobecký zájem maximalizovat vlastní zisk, jsou evolučně úspěšné takové modely chování, které zahrnují altruistické rysy, jako třeba odpouštění.
 
-Vězeňský seriál je k dispozici na samostatné stránce [Vězňovo dilema a komunity](https://misantrop.info/veznovo-dilema-a-komunity/).
+Vězeňský seriál je k dispozici na samostatné stránce [Vězňovo dilema a komunity](https://misantrop.eu/veznovo-dilema-a-komunity/).
 
 Snad vás budou ty články bavit stejně jako bavily čtenáře v době svého vzniku!

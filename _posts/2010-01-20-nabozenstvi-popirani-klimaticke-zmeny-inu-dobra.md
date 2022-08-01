@@ -4,7 +4,7 @@ title: 'Náboženství popírání klimatické změny? Inu, dobrá&#8230;'
 date: 2010-01-20T12:27:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/nabozenstvi-popirani-klimaticke-zmeny-inu-dobra/
+guid: https://misantrop.eu/nabozenstvi-popirani-klimaticke-zmeny-inu-dobra/
 permalink: /nabozenstvi-popirani-klimaticke-zmeny-inu-dobra/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "10246645"

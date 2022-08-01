@@ -4,7 +4,7 @@ title: Ou Six Seven
 date: 2013-12-03T10:38:33+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1745
+guid: https://misantrop.eu/?p=1745
 permalink: /ou-six-seven/
 dsq_thread_id:
   - "2020173727"

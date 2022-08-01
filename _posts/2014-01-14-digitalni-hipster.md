@@ -4,7 +4,7 @@ title: Digitální hipster
 date: 2014-01-14T10:06:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1870
+guid: https://misantrop.eu/?p=1870
 permalink: /digitalni-hipster/
 mashsb_timestamp:
   - "1573985099"
@@ -28,7 +28,7 @@ Jejich mantrou jsou weby o osobnostním rozvoji. Sbírky citátů online. Videa 
 
 Místo nemoderních brýlí a šály mají své blogy, Tumblry, Instagramy a Pinteresty, protože správný digitální hipster se projevuje nástěnkou.  Na vizitce, kterou vám dají, mají kromě URL svého blogu i hrozně kreativně ztvárněný název své pozice, která bude, a na to vemte jed, něco jako &#8222;social media freak&#8220;, &#8222;Marketing ninja&#8220; nebo &#8222;Facebook editor&#8220;. Na požádání, ale klidně i bez něj, vám vysvětlí, že tím dávají najevo svou osobitost.
 
-Svou osobitost ale plně rozvíjejí až na svých webech a profilech v sociálních sítích. V záhlaví mají hipsterský obrázek, který je buď _cool__, nebo ňuňu_, co našli na jednom z mnoha zahraničních webů, kde se píše o sebepoznání a rozvoji osobní produktivity skrze digitální technologie. Pod ním publikují své vlastní myšlenky, které mají většinou podobu &#8222;Moudra&#8220; nebo &#8222;Implementace moudra&#8220;, popřípadě &#8222;Obrázku s Moudrem, pojatého v teplých barvách&#8220;. Moudro digihipstera není [Panwerich](https://misantrop.info/panwerich/ "Panwerich"), ale spíš motivační výrok. Anglicky, samozřejmě. Třeba něco jako &#8222;Buď spontánní!&#8220;
+Svou osobitost ale plně rozvíjejí až na svých webech a profilech v sociálních sítích. V záhlaví mají hipsterský obrázek, který je buď _cool__, nebo ňuňu_, co našli na jednom z mnoha zahraničních webů, kde se píše o sebepoznání a rozvoji osobní produktivity skrze digitální technologie. Pod ním publikují své vlastní myšlenky, které mají většinou podobu &#8222;Moudra&#8220; nebo &#8222;Implementace moudra&#8220;, popřípadě &#8222;Obrázku s Moudrem, pojatého v teplých barvách&#8220;. Moudro digihipstera není [Panwerich](https://misantrop.eu/panwerich/ "Panwerich"), ale spíš motivační výrok. Anglicky, samozřejmě. Třeba něco jako &#8222;Buď spontánní!&#8220;
 
 Když si dělají poznámky, a ty si tedy stoprocentně dělají, protože o tom píšou v Návycích tvůrčích osobností, necpou si je do mobilu, ačkoli ten mají permanentně v ruce. Ne. Pro tu chvíli, která je rovna téměř kontemplaci, si mobil uklidí a z kabelky lomeno tašky vytáhnou Moleskine s perem. Moleskine totiž má speciální papír, na kterém se ten inkoust vpíjí správným způsobem &#8211; tím způsobem, co jim dovoluje být vysoce tvůrčími!
 

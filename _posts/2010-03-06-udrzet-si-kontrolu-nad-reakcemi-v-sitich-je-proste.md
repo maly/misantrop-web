@@ -4,7 +4,7 @@ title: Udržet si kontrolu nad reakcemi v sítích je prosté
 date: 2010-03-06T13:18:19+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/udrzet-si-kontrolu-nad-reakcemi-v-sitich-je-proste/
+guid: https://misantrop.eu/udrzet-si-kontrolu-nad-reakcemi-v-sitich-je-proste/
 permalink: /udrzet-si-kontrolu-nad-reakcemi-v-sitich-je-proste/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "12839709"
@@ -29,6 +29,6 @@ Ale zp&aacute;tky k &#8222;udržen&iacute; kontroly nad reakcemi&#8220;. Martin 
 
 Když to přeženu (ale jen lehce), tak **jste v pozici novin&aacute;ře, kter&yacute; ob&iacute;h&aacute; předplatitele a zji&scaron;ťuje, jestli k jeho čl&aacute;nku někdo něco neřekl**. Ano, je to padl&eacute; na hlavu, ale **ře&scaron;en&iacute; existuje, je prost&eacute; a nebude se v&aacute;m l&iacute;bit:** Řekněte lidem ve v&scaron;ech soci&aacute;ln&iacute;ch s&iacute;t&iacute;ch, jichž jste &uacute;častni, že koment&aacute;ře přij&iacute;m&aacute;te pouze na jednom m&iacute;stě a tam o nich tak&eacute; vedete diskuse. Vyberte si takov&eacute; m&iacute;sto, kter&eacute; je snadno dostupn&eacute; pro každ&eacute;ho, a tam diskutujte, když chcete.
 
-J&aacute; jsem k věci přistoupil naprosto stejně: Klidně kop&iacute;ruju svoje z&aacute;pisky kamkoli &#8211; ale dal jsem [jasně najevo](https://misantrop.info/jak-napsat-komentar-na-libovolne-stranky), jak&yacute;m způsobem budu přij&iacute;mat reakce. M&aacute;m v&scaron;emožn&eacute; inboxy zavřen&eacute; &#8211; a jsem s t&iacute;mto stavem spokojen. Nic mě nenut&iacute; ob&iacute;hat různ&aacute; m&iacute;sta a reagovat tam jen proto, že někteř&iacute; zn&aacute;m&iacute; čtou Twitter, jin&iacute; Facebook, jin&iacute; Z&aacute;pisn&iacute;k a je&scaron;tě dal&scaron;&iacute; LinkedIn. Ten, kdo chce zareagovat a m&aacute; k tomu opravdu důvod, ten si vhodn&yacute; kan&aacute;l najde. Zbytek jsou **reakce zbytn&eacute;**, a věnuju jim čas takov&yacute;, jak&yacute; mi na ně zbyde. Prospělo to nejen m&eacute;mu egu, Martine ;), ale předev&scaron;&iacute;m m&yacute;m nervům a voln&eacute;mu času.
+J&aacute; jsem k věci přistoupil naprosto stejně: Klidně kop&iacute;ruju svoje z&aacute;pisky kamkoli &#8211; ale dal jsem [jasně najevo](https://misantrop.eu/jak-napsat-komentar-na-libovolne-stranky), jak&yacute;m způsobem budu přij&iacute;mat reakce. M&aacute;m v&scaron;emožn&eacute; inboxy zavřen&eacute; &#8211; a jsem s t&iacute;mto stavem spokojen. Nic mě nenut&iacute; ob&iacute;hat různ&aacute; m&iacute;sta a reagovat tam jen proto, že někteř&iacute; zn&aacute;m&iacute; čtou Twitter, jin&iacute; Facebook, jin&iacute; Z&aacute;pisn&iacute;k a je&scaron;tě dal&scaron;&iacute; LinkedIn. Ten, kdo chce zareagovat a m&aacute; k tomu opravdu důvod, ten si vhodn&yacute; kan&aacute;l najde. Zbytek jsou **reakce zbytn&eacute;**, a věnuju jim čas takov&yacute;, jak&yacute; mi na ně zbyde. Prospělo to nejen m&eacute;mu egu, Martine ;), ale předev&scaron;&iacute;m m&yacute;m nervům a voln&eacute;mu času.
 
 _(Př&iacute;&scaron;tě si pov&iacute;me o tom, jak vyb&iacute;rat e-mail jednou denně a jak důsledně dodržovat pravidlo &#8222;Kdo něco chce, ten ať se star&aacute;!&#8220;)_

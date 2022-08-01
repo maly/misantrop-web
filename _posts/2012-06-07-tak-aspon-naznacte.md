@@ -4,7 +4,7 @@ title: '&#8230; tak aspoň naznačte!'
 date: 2012-06-07T12:26:24+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=471
+guid: https://misantrop.eu/?p=471
 permalink: /tak-aspon-naznacte/
 dsq_thread_id:
   - "716838704"

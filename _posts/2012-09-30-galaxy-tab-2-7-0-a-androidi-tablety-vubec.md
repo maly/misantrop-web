@@ -4,7 +4,7 @@ title: Galaxy Tab 2 7.0 a Androidí tablety vůbec
 date: 2012-09-30T14:48:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=659
+guid: https://misantrop.eu/?p=659
 permalink: /galaxy-tab-2-7-0-a-androidi-tablety-vubec/
 mashsb_timestamp:
   - "1570513440"
@@ -43,15 +43,15 @@ Pak jsem měl v ruce nějaké Samsungy Galaxy, prý &#8222;coolest über maximal
 
 Pak přišel čas na Androidí tablety. Furt totéž &#8211; nějak to fungovalo, ale chyběl tomu ten drajv, něco, kvůli čemu bych měl ten tablet rád v ruce.
 
-Myslel jsem si, že to je tím, že jsem netabletový typ. Ale [BlackBerry Playbook mě vyvedl z omylu](https://misantrop.info/tablet-co-mi-konecne-vyhovuje-nese-jmeno/). To je tablet, který má svižný operační systém s několika úžasnýma a logickýma možnostma a u kterého je ovládání konzistentní. Po dvou dnech jsem na PB fungoval naprosto bez problémů a používal jsem ho na maily, FB i Twitter, na prohlížení webu i úpravu dokumentů i sledování filmů, všechno naprosto automaticky a přirozeně&#8230;
+Myslel jsem si, že to je tím, že jsem netabletový typ. Ale [BlackBerry Playbook mě vyvedl z omylu](https://misantrop.eu/tablet-co-mi-konecne-vyhovuje-nese-jmeno/). To je tablet, který má svižný operační systém s několika úžasnýma a logickýma možnostma a u kterého je ovládání konzistentní. Po dvou dnech jsem na PB fungoval naprosto bez problémů a používal jsem ho na maily, FB i Twitter, na prohlížení webu i úpravu dokumentů i sledování filmů, všechno naprosto automaticky a přirozeně&#8230;
 
-Teď mám kromě Playbooku i Samsung Galaxy Tab 2 (7.0 &#8211; to je úhlopříčka). Je to tablet s rozměry [Playbooku](https://misantrop.info/tablet-co-mi-konecne-vyhovuje-nese-jmeno/) (o polovinu tenčí) a s Androidem 4. Nad tím je něco, co se nazývá TouchWiz, a pravověrní Androidisté na to hrozně nadávají, že to je prý blbé a bez toho je to mnohem lepší. Zkusil jsem obojí a mohu vřele nesouhlasit.
+Teď mám kromě Playbooku i Samsung Galaxy Tab 2 (7.0 &#8211; to je úhlopříčka). Je to tablet s rozměry [Playbooku](https://misantrop.eu/tablet-co-mi-konecne-vyhovuje-nese-jmeno/) (o polovinu tenčí) a s Androidem 4. Nad tím je něco, co se nazývá TouchWiz, a pravověrní Androidisté na to hrozně nadávají, že to je prý blbé a bez toho je to mnohem lepší. Zkusil jsem obojí a mohu vřele nesouhlasit.
 
-Hlavní problém s Androidem není v tom, že si ho každý výrobce ohne k obrazu svému. Problém je zase v aplikacích. Jsou _linuxové_. Třeba taková appka pro Facebook: Funguje (taknějak plusmínus), ale když jsem chtěl udělat něco ne zrovna obvyklého (nevím co to přesně bylo, možná podívat se na něčí galerii), tak to prostě nešlo, protože nebylo jak. Vzal jsem do ruky Playbook a tam jsem to udělal. Vzal jsem do ruky [Lumii](https://misantrop.info/nokia-lumia-900-v-kapse/), a tam to šlo taky. Proč to v té androidí appce nešlo, to je mi záhadou.
+Hlavní problém s Androidem není v tom, že si ho každý výrobce ohne k obrazu svému. Problém je zase v aplikacích. Jsou _linuxové_. Třeba taková appka pro Facebook: Funguje (taknějak plusmínus), ale když jsem chtěl udělat něco ne zrovna obvyklého (nevím co to přesně bylo, možná podívat se na něčí galerii), tak to prostě nešlo, protože nebylo jak. Vzal jsem do ruky Playbook a tam jsem to udělal. Vzal jsem do ruky [Lumii](https://misantrop.eu/nokia-lumia-900-v-kapse/), a tam to šlo taky. Proč to v té androidí appce nešlo, to je mi záhadou.
 
 Ale nejde jen o Facebook. Některé aplikace mi obrátí displej a tvrdošíjně trvají na tom, že je mám používat na výšku. Některé aplikace potichu padají. Některé občas vyhodí prapodivnou chybu. Tablet se semo tamo odmítá připojit k wifi, musím zrušit konfiguraci pro daný AP a zase ji zadat. A když už to náhodou funguje a nepadá, tak se každá aplikace ovládá ale rajcenkrecht jinak. Některé mají kontextové menu na systémové tlačítko, jiné mají menu na dotyk, jiné na gesto. Některé dokonce mají zcela vlastní &#8222;filosofii ovládání&#8220;. Třeba takový ES File Manager. Dobrá věc, která mi umožňuje koukat na filmy ze síťového úložiště. Zapnu ho, a musím přepnout na LAN. Víte jak? V levém horním rohu je cosi velikosti tak 48 x 24 pixelů, a tam je třeba se trefit prstem! Dál už je to OK, ale tohle je prostě nedotažená věc.
 
-A to je ten důvod, proč mi Android nevyhovuje. Mám na Tabu 2 stejnou sadu aplikací jako na [Playbooku](https://misantrop.info/tablet-co-mi-konecne-vyhovuje-nese-jmeno/) a [Lumii](https://misantrop.info/nokia-lumia-900-v-kapse/). Když budou ležet vedle sebe a já budu chtít něco udělat, sáhnu po Androidu až jako po poslední možnosti. Aplikace pro něj jsou často &#8222;hotové na 90%&#8220; a na dalších je vidět, že tvůrci připadalo mnohem důležitější dát lidem možnost nastavit si cokoli, než udělat fungující aplikaci.
+A to je ten důvod, proč mi Android nevyhovuje. Mám na Tabu 2 stejnou sadu aplikací jako na [Playbooku](https://misantrop.eu/tablet-co-mi-konecne-vyhovuje-nese-jmeno/) a [Lumii](https://misantrop.eu/nokia-lumia-900-v-kapse/). Když budou ležet vedle sebe a já budu chtít něco udělat, sáhnu po Androidu až jako po poslední možnosti. Aplikace pro něj jsou často &#8222;hotové na 90%&#8220; a na dalších je vidět, že tvůrci připadalo mnohem důležitější dát lidem možnost nastavit si cokoli, než udělat fungující aplikaci.
 
 Tolik asi k tomu [mému včerejšímu tweetu](https://twitter.com/adent/status/251965157201309699). Není nic jako &#8222;_Android mi nevyhovuje, protože má&#8230; a &#8230; a &#8230;, nemá &#8230; a &#8230; a to a to dělá jinak_&#8222;. To je pohled technika, geeka. _Mně Android nevyhovuje, protože mi nesedí._ Každé další setkání s ním mě nejasným způsobem irituje, a pak _nenaděláš nic, Václave, nic_!
 

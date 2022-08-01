@@ -4,7 +4,7 @@ title: TariFFFFUUUUUUmat
 date: 2012-03-16T08:44:49+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=232
+guid: https://misantrop.eu/?p=232
 permalink: /tariffffuuuuuumat/
 dsq_thread_id:
   - "612967283"
@@ -110,6 +110,6 @@ Odkaz posílám panu Romanu Nováčkovi, a rovnou si dovolím otázkový výkop:
 
 _Pé es: Samosebou, kdyby to mělo být nezávislé, musel by to dělat někdo, kdo není živ z provizí od operátorů&#8230; třeba ČTÚ&#8230; heheheeee!_
 
-Aktualizováno 14:33 &#8211; pan Nováček poslal vyjádření, které je k dispozici zde: [Vyjádření Tarifomatu](https://misantrop.info/files/tarifomat.doc). Bohužel ani při nejlepší vůli jsem v něm nenašel odpovědi na to, na co jsem se ptal. _Je zvláštní, že večera to vypadalo, že Tarifomatu jde hlavně o to, aby prokázal, že jim nejde hlavně o sběr tel. čísel a že jsou nezávislí (tudíž že nelžou), ale v reakci jako by zapomněli, o co jim šlo, a slovem se k tomu nevyjádří&#8230;_ 
+Aktualizováno 14:33 &#8211; pan Nováček poslal vyjádření, které je k dispozici zde: [Vyjádření Tarifomatu](https://misantrop.eu/files/tarifomat.doc). Bohužel ani při nejlepší vůli jsem v něm nenašel odpovědi na to, na co jsem se ptal. _Je zvláštní, že večera to vypadalo, že Tarifomatu jde hlavně o to, aby prokázal, že jim nejde hlavně o sběr tel. čísel a že jsou nezávislí (tudíž že nelžou), ale v reakci jako by zapomněli, o co jim šlo, a slovem se k tomu nevyjádří&#8230;_ 
 
 Aktualizováno 16:11 &#8211; Roman Nováček píše: &#8222;_Děkujeme za zpětnou vazbu. Situaci jsme konzultovali s ČTÚ. Již cca 15 minut je telefonní číslo nepovinný údaj dobrovolný pro každého, kdo chce od nás poradit. Věřím, že tím je situace uzavřená._&#8222;

@@ -4,7 +4,7 @@ title: 'Vágusové, somráci, sanktusáci&#8230;'
 date: 2013-05-25T11:38:28+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1301
+guid: https://misantrop.eu/?p=1301
 permalink: /vagusove-somraci-sanktusaci/
 dsq_thread_id:
   - "1317230499"

@@ -4,7 +4,7 @@ title: Dvojí odpad
 date: 2014-07-12T11:57:43+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2077
+guid: https://misantrop.eu/?p=2077
 permalink: /dvoji-odpad/
 dsq_thread_id:
   - "2837567227"
@@ -24,7 +24,7 @@ Jasně, dvojí zdanění je víc peněz, ale takový dvojí odpad, to je paneč
 
 Platba za komunální odpad je v ČR ponechána na konkrétních úřadech dané obce. Ty se můžou rozhodnout, jestli budou vybírat peníze od lidí, co mají v obci trvalé bydliště, nebo od lidí, co v obci vlastní nemovitost. Ani jedno z toho není stoprocentní, vždycky to narazí na nějaký problém, ale není to jistě nic nepřekonatelného. Teda &#8211; teoreticky.
 
-Už několikrát jsem tu chválil budějcký magistrát za vstřícnost, flexibilitu a další chvályhodné věci (třeba [tady](https://misantrop.info/pochvalna-streda-t-mobile-a-magistrat-ceskych-budejovic/) nebo [tady](https://misantrop.info/740538-je-tohleto-jeste-urad.php)), ale tentokrát se po Klausovsku mračím (a zároveň zdvihám obočí, skvělá obličejová gymnastika!) A souvisí to právě s odpadem.
+Už několikrát jsem tu chválil budějcký magistrát za vstřícnost, flexibilitu a další chvályhodné věci (třeba [tady](https://misantrop.eu/pochvalna-streda-t-mobile-a-magistrat-ceskych-budejovic/) nebo [tady](https://misantrop.eu/740538-je-tohleto-jeste-urad.php)), ale tentokrát se po Klausovsku mračím (a zároveň zdvihám obočí, skvělá obličejová gymnastika!) A souvisí to právě s odpadem.
 
 Trvalé bydliště mám v Českých Budějovicích. České Budějovice vybírají poplatek za odpad podle seznamu přihlášených k trvalému pobytu. Ou kej. Před rokem jsme koupili byt v Praze a já se většinu doby zdržuju v Praze. A Praha, jak už jistě tušíte, vybírá poplatek za odpad _per majitel nemovitosti_. Ergo tedy platím dvakrát, Budějcům a Praze, ačkoli odpady generuju pouze na jednom místě. Nejsou to horentní sumy, ale na druhou stranu, jak říkal Bill Gates: &#8222;Nezbohatnul jsem tím, že bych platil poplatky za odpad ve dvou městech&#8220;. Naštěstí jsme se dozvěděli, že to je řešitelné, že stačí na ten magistrát, kde člověk de facto většinu roku není, napsat přípis, že tam člověk nebydlí, a oni poplatky můžou odpustit.
 

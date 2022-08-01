@@ -4,7 +4,7 @@ title: 'Reklamace počesku &#8211; to abys nevyšel ze cviku, prevíte zákaznic
 date: 2011-10-21T10:22:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
+guid: https://misantrop.eu/reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
 permalink: /reklamace-pocesku-to-abys-nevysel-ze-cviku-previte-zakaznicka/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "76366942"

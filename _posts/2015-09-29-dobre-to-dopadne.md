@@ -4,7 +4,7 @@ title: 'Dobře to dopadne&#8230;'
 date: 2015-09-29T07:01:35+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2498
+guid: https://misantrop.eu/?p=2498
 permalink: /dobre-to-dopadne/
 mashsb_timestamp:
   - "1575137434"

@@ -4,7 +4,7 @@ title: Opus magnum
 date: 2019-06-02T12:06:25+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2910
+guid: https://misantrop.eu/?p=2910
 permalink: /opus-magnum/
 mashsb_twitter_handle:
   - adent
@@ -22,19 +22,19 @@ Stručné shrnutí, které si sem odložím&#8230;
 
 <!--more-->
 
-[Tady to začalo.](https://misantrop.info/naucim-vas-mluvit-elektronicky/)
+[Tady to začalo.](https://misantrop.eu/naucim-vas-mluvit-elektronicky/)
 
-[Tady jsem se inspiroval.](https://kcc.misantrop.info/2015/05/15/literatura/)
+[Tady jsem se inspiroval.](https://kcc.misantrop.eu/2015/05/15/literatura/)
 
-[Tady jsem se rozhodl.](https://kcc.misantrop.info/2015/05/21/jednoduche/)
+[Tady jsem se rozhodl.](https://kcc.misantrop.eu/2015/05/21/jednoduche/)
 
-[Tady jsem si ujasnil.](https://kcc.misantrop.info/2015/05/22/didaktika/)
+[Tady jsem si ujasnil.](https://kcc.misantrop.eu/2015/05/22/didaktika/)
 
 [A na tohle si rád občas vzpomenu.](https://www.facebook.com/martin.maly/posts/10152995187362496)
 
 <hr class="wp-block-separator" />
 
-[Hradla, volty, jednočipy](https://elektrokniha.cz/) jsou na trhu rok a půl. Splnily tak půlku [toho seznamu](https://misantrop.info/naucim-vas-mluvit-elektronicky/).
+[Hradla, volty, jednočipy](https://elektrokniha.cz/) jsou na trhu rok a půl. Splnily tak půlku [toho seznamu](https://misantrop.eu/naucim-vas-mluvit-elektronicky/).
 
 Dva týdny jsou venku [Porty, bajty, osmibity](https://www.osmibity.cz/). Tam jsem sepsal asi tak čtvrtinu věcí, co zbývaly.
 

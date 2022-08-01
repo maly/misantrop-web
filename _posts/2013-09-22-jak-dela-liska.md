@@ -4,7 +4,7 @@ title: Jak dělá liška?
 date: 2013-09-22T11:36:48+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1502
+guid: https://misantrop.eu/?p=1502
 permalink: /jak-dela-liska/
 dsq_thread_id:
   - "1786238992"

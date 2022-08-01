@@ -4,7 +4,7 @@ title: Veřejná nabídka pro LAAR, a.s.
 date: 2012-05-15T15:27:35+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=385
+guid: https://misantrop.eu/?p=385
 permalink: /verejna-nabidka-pro-laar-a-s/
 dsq_thread_id:
   - "690460304"

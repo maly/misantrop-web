@@ -4,7 +4,7 @@ title: Hledám Flipboard, nevíte o nějakém?
 date: 2012-04-30T09:28:05+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=331
+guid: https://misantrop.eu/?p=331
 permalink: /hledam-flipboard-nevite-o-nejakem/
 dsq_thread_id:
   - "669905741"

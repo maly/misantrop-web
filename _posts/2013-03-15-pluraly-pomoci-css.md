@@ -4,7 +4,7 @@ title: Plurály pomocí CSS
 date: 2013-03-15T14:23:56+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1170
+guid: https://misantrop.eu/?p=1170
 permalink: /pluraly-pomoci-css/
 dsq_thread_id:
   - "1138898891"

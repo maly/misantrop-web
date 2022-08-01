@@ -4,7 +4,7 @@ title: Marketingové selhání EU
 date: 2017-01-26T11:22:29+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2707
+guid: https://misantrop.eu/?p=2707
 permalink: /marketingove-selhani-eu/
 mashsb_timestamp:
   - "1574980911"

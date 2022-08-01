@@ -4,7 +4,7 @@ title: 'Hnutí za kulturní povznesení followerů: Christian Morgenstern &#8211
 date: 2010-10-30T04:46:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/hnuti-za-kulturni-povzneseni-followeru-christian-morgenstern-kun-hkpf/
+guid: https://misantrop.eu/hnuti-za-kulturni-povzneseni-followeru-christian-morgenstern-kun-hkpf/
 permalink: /hnuti-za-kulturni-povzneseni-followeru-christian-morgenstern-kun-hkpf/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "31969003"

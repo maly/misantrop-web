@@ -4,7 +4,7 @@ title: Člověk proti zkáze
 date: 2010-03-23T10:26:08+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/clovek-proti-zkaze/
+guid: https://misantrop.eu/clovek-proti-zkaze/
 permalink: /clovek-proti-zkaze/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "14282691"

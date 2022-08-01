@@ -4,7 +4,7 @@ title: 'Jak jsem starej, tak jsem blbej&#8230;'
 date: 2013-11-21T11:51:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1665
+guid: https://misantrop.eu/?p=1665
 permalink: /jak-jsem-starej-tak-jsem-blbej/
 dsq_thread_id:
   - "1985375835"

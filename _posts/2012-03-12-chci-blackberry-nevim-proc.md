@@ -4,7 +4,7 @@ title: Chci BlackBerry. Nevím proč.
 date: 2012-03-12T07:37:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/chci-blackberry-nevim-proc/
+guid: https://misantrop.eu/chci-blackberry-nevim-proc/
 permalink: /chci-blackberry-nevim-proc/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "110161680"

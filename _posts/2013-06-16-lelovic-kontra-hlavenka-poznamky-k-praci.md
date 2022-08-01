@@ -4,7 +4,7 @@ title: 'Lelovič kontra Hlavenka: poznámky k práci'
 date: 2013-06-16T14:28:10+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1359
+guid: https://misantrop.eu/?p=1359
 permalink: /lelovic-kontra-hlavenka-poznamky-k-praci/
 dsq_thread_id:
   - "1405290986"

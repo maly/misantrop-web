@@ -4,7 +4,7 @@ title: Aleš Miklík o významu online médií
 date: 2014-01-08T11:29:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1866
+guid: https://misantrop.eu/?p=1866
 permalink: /ales-miklik-o-vyznamu-online-medii/
 dsq_thread_id:
   - "2099723835"
@@ -24,7 +24,7 @@ O Alešově sebereflexi a mediálním zlatém teleti.
 
 Musím přiznat, že [Alešův článek na Lupě](https://www.lupa.cz/clanky/ales-miklik-ceskym-online-mediim-nehrozi-ztrata-vyznamu-nikdy-jej-nemela/) pro mne byl v mnohém překvapivý.
 
-Tak zaprvé &#8211; najít od Aleše článek na Lupě je unikátní samo o sobě. Když jsem tam pracoval, stalo se to za ty tři roky snad jen jednou. Předtím taky moc nepsal, ale když už napsal, [stálo to za to](https://misantrop.info/590071-etika-internetove-zurnalistiky-i.php).
+Tak zaprvé &#8211; najít od Aleše článek na Lupě je unikátní samo o sobě. Když jsem tam pracoval, stalo se to za ty tři roky snad jen jednou. Předtím taky moc nepsal, ale když už napsal, [stálo to za to](https://misantrop.eu/590071-etika-internetove-zurnalistiky-i.php).
 
 Zadruhé &#8211; největším překvapením byl pro mne obsah. Aleš poměrně otevřeně (až rebelsky) píše věci, které jsou pravda, ale &#8222;neříkaly se&#8220;.
 

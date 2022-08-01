@@ -4,7 +4,7 @@ title: Válka proti drogám
 date: 2017-03-01T10:21:15+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2780
+guid: https://misantrop.eu/?p=2780
 permalink: /valka-proti-drogam/
 mashsb_timestamp:
   - "1574982647"

@@ -4,7 +4,7 @@ title: Chvála překračování hranice
 date: 2013-09-10T12:20:24+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1461
+guid: https://misantrop.eu/?p=1461
 permalink: /chvala-prekracovani-hranice/
 mashsb_timestamp:
   - "1546098822"

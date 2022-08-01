@@ -4,7 +4,7 @@ title: Babičko, povídej
 date: 2015-06-09T16:32:13+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2293
+guid: https://misantrop.eu/?p=2293
 permalink: /babicko-povidej/
 mashsb_timestamp:
   - "1576171011"
@@ -42,7 +42,7 @@ Ono to nebylo tak, že byste dělali to, co umíte, že byste třeba pekli housk
 
 Do svých 35 let jsem se nesetkala s bezdomovcem (režim je všechny ukryl do psychiatrických léčeben a léčeben dlouhodobě nemocných), s nezaměstnaným (když někdo nepracoval 3 dny, odsoudili ho a zavřeli, proto všichni chodili do práce, i když třeba neměla žádný smysl), s tím, že by v nemocnici nebo v lékárně rodiče a později ani já jsme něco platili – jen za recept 1,- Kč. Zato jste měli jen jeden druh sádry a jeden lék a pokud jste chtěli lepší, nešlo to. Nemohli jste si doplatit. Museli jste ho přes známého lékárníka sehnat, říkalo se tomu &#8222;mít pod pultem&#8220;, a za to jste mu neoficiálně taky něco zaplatili. Anebo jste zase pomohli vy jemu. Jen jste museli dávat pozor, protože kdybyste někde řekli, že máte lék z dovozu, tak by vás někdo udal, a měli byste problémy vy i ten lékárník.
 
-<a href="https://misantrop.info/babicko-povidej/komunisticke-reznictvi/" rel="attachment wp-att-2294"><img class="aligncenter size-full wp-image-2294" src="https://misantrop.info/wp-content/uploads/2015/06/komunisticke-reznictvi.jpg" alt="" width="532" height="380" srcset="https://misantrop.info/wp-content/uploads/2015/06/komunisticke-reznictvi.jpg 532w, https://misantrop.info/wp-content/uploads/2015/06/komunisticke-reznictvi-200x143.jpg 200w, https://misantrop.info/wp-content/uploads/2015/06/komunisticke-reznictvi-500x357.jpg 500w" sizes="(max-width: 532px) 100vw, 532px" /></a>
+<a href="https://misantrop.eu/babicko-povidej/komunisticke-reznictvi/" rel="attachment wp-att-2294"><img class="aligncenter size-full wp-image-2294" src="https://misantrop.eu/wp-content/uploads/2015/06/komunisticke-reznictvi.jpg" alt="" width="532" height="380" srcset="https://misantrop.eu/wp-content/uploads/2015/06/komunisticke-reznictvi.jpg 532w, https://misantrop.eu/wp-content/uploads/2015/06/komunisticke-reznictvi-200x143.jpg 200w, https://misantrop.eu/wp-content/uploads/2015/06/komunisticke-reznictvi-500x357.jpg 500w" sizes="(max-width: 532px) 100vw, 532px" /></a>
 
 V obchodech bylo všechno, co jsme potřebovali, akorát to někdy neměli. Potraviny a dětské zboží bylo dotované státem, proto stát neměl peníze na jiné věci. Za 1,- byly tři rohlíky, litr kvalitního mléka, na kterém se než jsem jej přinesla domů z obchodu usadila nahoře centimetrová vrstva smetany a bylo zcela bez konzervantů stálo 3,- Kčs. Za tři dny zkyslo a byla v něm občas nějaká ta jedovatá příměs, jako PCB a podobné. Kvalitní máslo stálo 10,- a za 100,- jsem udělala nákup pro 4 člennou rodinu na tři dny. Zálohu na výplatu jsem měla 400,- a s tím jsem v pohodě vydržela 14 dnů. Dobírku dalších 400 Kčs, takže jsem brala krásných 800 Kčs, a to bylo nějakých peněz. Knihy stály kolem 20,- Kčs, Leninovy sebrané spisy i 5 Kčs, a krásná pohádková obrázková kniha 38,- Kčs, ale to už byl luxus. Některé knihy se ale nesměly prodávat vůbec. Ale hodně jsme i ušetřili, třeba když nebyl toaletní papír, tak jsme nakrájeli noviny a utírali jsme se těma. Nebo tehdy, když nebyly vložky, tak jsme si je samy šily a po použití praly. Neutráceli jsme za pomeranče, ty byly v obchodech jednou do roka, a většinou si je rozebral přímo zelinář, takže na nás nezbyly a když jsme je chtěli, museli jsme mu dát nějaký úplatek, a on nám je pak prodal.
 

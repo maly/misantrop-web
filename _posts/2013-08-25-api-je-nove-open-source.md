@@ -4,7 +4,7 @@ title: 'API je nové &#8222;open source&#8220;'
 date: 2013-08-25T11:18:54+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1418
+guid: https://misantrop.eu/?p=1418
 permalink: /api-je-nove-open-source/
 dsq_thread_id:
   - "1643107926"

@@ -4,7 +4,7 @@ title: Klademe si důležitě tytéž otázky stále dokola, jen aby se nemuselo
 date: 2012-06-23T15:56:52+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=488
+guid: https://misantrop.eu/?p=488
 permalink: /klademe-si-dulezite-tytez-otazky-stale-dokola-jen-aby-se-nemuselo-nic-delat/
 dsq_thread_id:
   - "737745902"
@@ -21,9 +21,9 @@ A margo [sivých úvah o tom, jestli odkazovat, nebo neodkazovat, kterých se do
 
 <!--more-->
 
-Před pěti lety se tehdejší šéfredaktor Lupy Aleš Miklík rozvášnil a [navrhl vytvořit etický kodex online redakcí](https://www.lupa.cz/clanky/dejme-sanci-eticke-internetove-zurnalistice/). Tento velkolepý plán mě tehdy pobavil a [vstoupil jsem do veřejné diskuse](https://misantrop.info/590071-etika-internetove-zurnalistiky-i.php) s tím, že nic takového není zapotřebí, že pro online média stačí to, co stačí ostatním, tj. obecné etické principy novinářské práce, a k tomu zdravý rozum. (Dnes už vím, že právě to druhé jaksi nebývá vždy splněno.)
+Před pěti lety se tehdejší šéfredaktor Lupy Aleš Miklík rozvášnil a [navrhl vytvořit etický kodex online redakcí](https://www.lupa.cz/clanky/dejme-sanci-eticke-internetove-zurnalistice/). Tento velkolepý plán mě tehdy pobavil a [vstoupil jsem do veřejné diskuse](https://misantrop.eu/590071-etika-internetove-zurnalistiky-i.php) s tím, že nic takového není zapotřebí, že pro online média stačí to, co stačí ostatním, tj. obecné etické principy novinářské práce, a k tomu zdravý rozum. (Dnes už vím, že právě to druhé jaksi nebývá vždy splněno.)
 
-Literární noviny tehdy chtěly zveřejnit polemiku k tomuto tématu, a tak oslovili mne jako odpůrce extrabuřtů pro online média, a Aleše jako navrhovatele. Aleš do polemiky nešel, a tak jsem místo toho polemizoval s Tomášem Bellou. <del>Polemika už asi není k dohledání</del> [Polemika](https://web.archive.org/web/20090206010841/https://literarky.cz/?p=clanek&id=4300) je na archive.org a vydal jsem i své [poznámky k Tomášovým otázkám](https://misantrop.info/590078-etika-internetove-zurnalistiky-ii.php).
+Literární noviny tehdy chtěly zveřejnit polemiku k tomuto tématu, a tak oslovili mne jako odpůrce extrabuřtů pro online média, a Aleše jako navrhovatele. Aleš do polemiky nešel, a tak jsem místo toho polemizoval s Tomášem Bellou. <del>Polemika už asi není k dohledání</del> [Polemika](https://web.archive.org/web/20090206010841/https://literarky.cz/?p=clanek&id=4300) je na archive.org a vydal jsem i své [poznámky k Tomášovým otázkám](https://misantrop.eu/590078-etika-internetove-zurnalistiky-ii.php).
 
 **Za svými odpověďmi si dodneška stojím, a to do slova a do písmene.**
 
@@ -52,7 +52,7 @@ Pamatujte si, že pro čtenáře, stejně jako pro byznys a další partnerské 
 
 Kdybych chtěl hledat paralelu &#8211; co takhle obchod s oděvama s jednostranným turniketem, kam by lidi mohli přijít, ale ne odejít, a při odchodu by museli deset minut čekat a vyplnit dotazník a podstoupit diskusi s obchodníkem na téma &#8222;Proč chcete odejít? Nepůjdete náhodou nakoupit ke konkurenci?&#8220;
 
-Těžko po takových hokynářích na mentální úrovni _prodavače hrnců důchodcům_ chtít, aby se na věc dívali třeba z jiného úhlu: **Uvést odkaz není pomáhání konkurenci, ale služba vlastním čtenářům!** Psal jsem to v té své [odpovědi](https://misantrop.info/590078-etika-internetove-zurnalistiky-ii.php), a stojím si za tím dodneška!
+Těžko po takových hokynářích na mentální úrovni _prodavače hrnců důchodcům_ chtít, aby se na věc dívali třeba z jiného úhlu: **Uvést odkaz není pomáhání konkurenci, ale služba vlastním čtenářům!** Psal jsem to v té své [odpovědi](https://misantrop.eu/590078-etika-internetove-zurnalistiky-ii.php), a stojím si za tím dodneška!
 
 Ale co: **Kdo chce, hledá způsob, kdo nechce, hledá důvod.**
 

@@ -4,7 +4,7 @@ title: Nejtěžší krok
 date: 2012-05-29T09:16:34+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=452
+guid: https://misantrop.eu/?p=452
 permalink: /nejtezsi-krok/
 dsq_thread_id:
   - "706909898"

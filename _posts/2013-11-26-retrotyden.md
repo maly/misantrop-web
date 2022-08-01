@@ -4,7 +4,7 @@ title: Retrotýden
 date: 2013-11-26T12:16:11+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1670
+guid: https://misantrop.eu/?p=1670
 permalink: /retrotyden/
 dsq_thread_id:
   - "2000770457"

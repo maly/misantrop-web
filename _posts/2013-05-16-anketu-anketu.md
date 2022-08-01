@@ -4,7 +4,7 @@ title: Anketu, anketu!
 date: 2013-05-16T14:26:21+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1290
+guid: https://misantrop.eu/?p=1290
 permalink: /anketu-anketu/
 dsq_thread_id:
   - "1292325041"

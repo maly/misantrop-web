@@ -4,7 +4,7 @@ title: 'Chleba s paštikou je jen náhražka posoleného krajíce&#8230;'
 date: 2010-02-14T19:49:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/chleba-s-pastikou-je-jen-nahrazka-posoleneho-krajice/
+guid: https://misantrop.eu/chleba-s-pastikou-je-jen-nahrazka-posoleneho-krajice/
 permalink: /chleba-s-pastikou-je-jen-nahrazka-posoleneho-krajice/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11680148"

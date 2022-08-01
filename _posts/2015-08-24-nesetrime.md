@@ -4,7 +4,7 @@ title: Nešetříme
 date: 2015-08-24T06:59:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2331
+guid: https://misantrop.eu/?p=2331
 permalink: /nesetrime/
 mashsb_timestamp:
   - "1575143768"

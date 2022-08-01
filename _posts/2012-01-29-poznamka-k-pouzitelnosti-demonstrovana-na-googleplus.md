@@ -4,7 +4,7 @@ title: 'Poznámka k použitelnosti, demonstrovaná na #Googleplus'
 date: 2012-01-29T09:49:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
+guid: https://misantrop.eu/poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
 permalink: /poznamka-k-pouzitelnosti-demonstrovana-na-googleplus/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "96733811"
@@ -22,7 +22,7 @@ categories:
 V G+ si založíte stránku, něco tam vyplníte a dál se dozvíte, že &#8222;Nyní používáte Google+ s účtem této stránky.&#8220; Fajn, a jak to přepnout zpět?
 
 <div class="p_embed p_image_embed">
-  <a href="https://misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000.png"><img src="https://misantrop.info/wp-content/uploads/2012/01/googleplus.png.scaled1000-500x224.png" alt="Googleplus" width="500" height="224" /></a>
+  <a href="https://misantrop.eu/wp-content/uploads/2012/01/googleplus.png.scaled1000.png"><img src="https://misantrop.eu/wp-content/uploads/2012/01/googleplus.png.scaled1000-500x224.png" alt="Googleplus" width="500" height="224" /></a>
 </div>
 
 Nahoře v liště je text, kde je napsaný název stránky a který naznačuje, že TAM by se mohlo změnit. Ne, tam to není správné. Správné to je vlevo, ta roletka, kde je napsáno &#8222;1 stránka&#8220;. Nepřišel jsem na to, musel mi poradit @Medvidekpu:

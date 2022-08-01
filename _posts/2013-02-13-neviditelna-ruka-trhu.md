@@ -4,7 +4,7 @@ title: Neviditelná ruka trhu
 date: 2013-02-13T14:30:35+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=838
+guid: https://misantrop.eu/?p=838
 permalink: /neviditelna-ruka-trhu/
 mashsb_timestamp:
   - "1575610547"

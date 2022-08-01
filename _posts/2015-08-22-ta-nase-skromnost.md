@@ -4,7 +4,7 @@ title: 'Ta naše skromnost&#8230;'
 date: 2015-08-22T06:49:31+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1577
+guid: https://misantrop.eu/?p=1577
 permalink: /ta-nase-skromnost/
 mashsb_timestamp:
   - "1575524713"

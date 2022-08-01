@@ -4,7 +4,7 @@ title: Oprava pluginu pro Sublime Text 2
 date: 2013-07-14T14:31:08+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1379
+guid: https://misantrop.eu/?p=1379
 permalink: /oprava-pluginu-pro-sublime-text-2/
 dsq_thread_id:
   - "1499967303"

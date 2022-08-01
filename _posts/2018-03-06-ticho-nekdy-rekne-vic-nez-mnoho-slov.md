@@ -4,7 +4,7 @@ title: Ticho někdy řekne víc než mnoho slov.
 date: 2018-03-06T23:25:01+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=2891
+guid: https://misantrop.eu/?p=2891
 permalink: /ticho-nekdy-rekne-vic-nez-mnoho-slov/
 mashsb_timestamp:
   - ""

@@ -4,7 +4,7 @@ title: Windows Phone 7.5
 date: 2012-01-15T16:59:03+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=48
+guid: https://misantrop.eu/?p=48
 permalink: /windows-phone-7-5/
 dsq_thread_id:
   - "540160230"
@@ -46,7 +46,7 @@ Ptáte se, jak je možné, že stařičká 6502 na 1MHz uměla stejné věci jak
 
 Já vám řeknu, **proč jsem si WP7.5 vybral já**.
 
-<a href="https://misantrop.info/windows-phone-7-5/6701382721_7605f2b07c/" rel="attachment wp-att-49"><img class="aligncenter size-full wp-image-49" title="Win Phone 7.5" src="https://misantrop.info/wp-content/uploads/2012/01/6701382721_7605f2b07c.jpg" alt="" width="500" height="375" srcset="https://misantrop.info/wp-content/uploads/2012/01/6701382721_7605f2b07c.jpg 500w, https://misantrop.info/wp-content/uploads/2012/01/6701382721_7605f2b07c-200x150.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+<a href="https://misantrop.eu/windows-phone-7-5/6701382721_7605f2b07c/" rel="attachment wp-att-49"><img class="aligncenter size-full wp-image-49" title="Win Phone 7.5" src="https://misantrop.eu/wp-content/uploads/2012/01/6701382721_7605f2b07c.jpg" alt="" width="500" height="375" srcset="https://misantrop.eu/wp-content/uploads/2012/01/6701382721_7605f2b07c.jpg 500w, https://misantrop.eu/wp-content/uploads/2012/01/6701382721_7605f2b07c-200x150.jpg 200w" sizes="(max-width: 500px) 100vw, 500px" /></a>
 
 V létě 2011 jsem začal zkoušet WP7.5, tehdy ještě v neoficiální dev verzi na HTC HD7. Na rovinu: WP7(.0) bylo něco strašlivého a nepoužitelného. Vážně. Po několika desítkách minut jsem přeflashl na verzi 7.5 a používal tu. Jedna věc mi vadí: česká klávesnice je QWERTZ, nazdar bazar, přepnout do QWERTY je snad nemožné.
 
@@ -56,7 +56,7 @@ Po několika dnech používání jsem si uvědomil jednu věc: **Windows Phone 7
 
 Měl jsem v ruce iPhony a Androidy a Symbiany a Maema a kdejakou jinou verbež. Všechno to je cool a s miliardama aplikací (až na Maemo, to je skvělý systém pro geeky, co ho vlastní matka Nokie zařízla jak podsvinče na dvorku za svítání, _sorráč&#8230;_) a _kustomizací ad nauseam_. Proti tomu jsou Windows Phone, kde si zvolíte, jestli budou dlaždice zelené, hnědé nebo v jiné dramatické barvě z palety osmibitového ZX Spectra, a jestli chcete pozadí světlé, nebo tmavé. Tím se systém v možnostech nastavení vyčerpá a nastane okamžik, kdy se duše votunistova rozpláče a jde se prohrabat nabídkou aplikací. No, nepomůže si. Jsou tam. Ale není jich tam padesát pro každou věc, co byste kdy chtěli s telefonem dělat.
 
-Není to pro votunisty. Není to pro _mne z roku 2008_. Po [smrti vnitřního geeka](https://strucny.misantrop.info/umrel-mi-geek-cest-jeho-pamatce), toho co ladil, nastavoval, taktoval a počítal megahertzy a megabajty a dostupná API a množství _čehokoli_, je to naopak ideální systém. Je to [opinionated software](https://www.google.com/search?hl=en&num=100&q=%22opinionated+software%22) v nejlepším smyslu toho slova. (Jo, nastavení občas připomíná známý screenshot [redesignu aplikace Twitterific](https://dlanham.com/ui/twitterrific/settings.jpg).)
+Není to pro votunisty. Není to pro _mne z roku 2008_. Po [smrti vnitřního geeka](https://strucny.misantrop.eu/umrel-mi-geek-cest-jeho-pamatce), toho co ladil, nastavoval, taktoval a počítal megahertzy a megabajty a dostupná API a množství _čehokoli_, je to naopak ideální systém. Je to [opinionated software](https://www.google.com/search?hl=en&num=100&q=%22opinionated+software%22) v nejlepším smyslu toho slova. (Jo, nastavení občas připomíná známý screenshot [redesignu aplikace Twitterific](https://dlanham.com/ui/twitterrific/settings.jpg).)
 
 Koupil jsem si ho. Který? No, vzhledem ke striktně daným požadavkům, co MS klade na výrobce hardware pro WP7.5, je to vlastně _úplně jedno_, protože jsou všechny plusmínus stejné, ale dobrá: [HTC Radar](https://www.mobilmania.cz/katalog-mobilu/htc-radar/sc-63-c-1-ci-31737/default.aspx). Jak se to liší od Lumie 800, o které [psal Radek](https://smartmania.mobilmania.cz/recenze/nokia-lumia-800-finsky-klenot-s-modernim-systemem-recenze-1686)? V zásadě hlavně tím, že já jsem s Radarem při vybalování [nefláknul o stůl](https://youtu.be/4Z4BovPbvOI?t=30s). Technicky pak [nějakýma prkotinama](https://www.mobilmania.cz/default.aspx?catcomp=1&catalog=1&itemlist=31737%2c32367), desetinka palce sem, gramy tam, AMOLED vs S-LCD, ale jestli chcete provozovat _brand flame_, tak se vám budou hodit. Z hlediska používání je to egál.
 

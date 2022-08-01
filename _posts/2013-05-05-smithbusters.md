@@ -4,7 +4,7 @@ title: 'Smithbusters&#8230;'
 date: 2013-05-05T21:49:58+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1269
+guid: https://misantrop.eu/?p=1269
 permalink: /smithbusters/
 dsq_thread_id:
   - "1264602021"
@@ -28,4 +28,4 @@ Tak jako změřit skálu, to asi jo, zasadit obilí a spíchnout oblečení z k�
 
 Milí čtenářové, je tu mezi vámi nějaký chemik se smyslem pro experiment? 😉 Já bych totiž strašně rád věděl, jestli to je alespoň principiálně možné. Tedy získat sodu pálením chaluh, tou sodou pak zmýdelnatit tuk, vyrobit kyselinu sírovou pálením pyritu a následnou &#8222;destilací&#8220; síranu, tu pak proměnit na kyselinu dusičnou reakcí s ledkem, a tuhle kyselinu dusičnou použít k nitrování glycerínu?
 
-Díky moc.<a href="https://misantrop.info/smithbusters/verne38-038/" rel="attachment wp-att-1270"><br /> </a>
+Díky moc.<a href="https://misantrop.eu/smithbusters/verne38-038/" rel="attachment wp-att-1270"><br /> </a>

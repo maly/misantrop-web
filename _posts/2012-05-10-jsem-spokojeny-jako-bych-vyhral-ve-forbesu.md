@@ -4,7 +4,7 @@ title: 'Jsem spokojený, jako bych vyhrál ve Forbesu&#8230;'
 date: 2012-05-10T09:14:44+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=350
+guid: https://misantrop.eu/?p=350
 permalink: /jsem-spokojeny-jako-bych-vyhral-ve-forbesu/
 mashsb_timestamp:
   - "1558258514"
@@ -15,7 +15,7 @@ mashsb_jsonshares:
 categories:
   - Nezařazené
 ---
-Tuhle mi povídal jeden člověk z [druhé skupiny](https://misantrop.info/az-budu/), že mu připadám jiný. Mnohem sebejistější než dřív, s větší sebedůvěrou, otevřený&#8230; &#8222;Ty Státy a John tě musely hodně nakopnout.&#8220;
+Tuhle mi povídal jeden člověk z [druhé skupiny](https://misantrop.eu/az-budu/), že mu připadám jiný. Mnohem sebejistější než dřív, s větší sebedůvěrou, otevřený&#8230; &#8222;Ty Státy a John tě musely hodně nakopnout.&#8220;
 
 <!--more-->
 

@@ -4,7 +4,7 @@ title: Na okraj rozhovoru Radka Johna s Jankem Kroupou o neúplatnosti
 date: 2010-06-04T20:14:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
+guid: https://misantrop.eu/na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
 permalink: /na-okraj-rozhovoru-radka-johna-s-jankem-kroupou-o-neuplatnosti/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "19713792"

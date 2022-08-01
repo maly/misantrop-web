@@ -4,7 +4,7 @@ title: Comedia Script
 date: 2013-02-25T11:34:11+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1088
+guid: https://misantrop.eu/?p=1088
 permalink: /comedia-script/
 wpgplus_message:
   - ""

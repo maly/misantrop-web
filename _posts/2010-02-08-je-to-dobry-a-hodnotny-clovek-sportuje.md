@@ -4,7 +4,7 @@ title: '&#8222;Je to dobrý a hodnotný člověk&#8230; Sportuje!&#8220;'
 date: 2010-02-08T21:06:11+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/je-to-dobry-a-hodnotny-clovek-sportuje/
+guid: https://misantrop.eu/je-to-dobry-a-hodnotny-clovek-sportuje/
 permalink: /je-to-dobry-a-hodnotny-clovek-sportuje/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "11352580"

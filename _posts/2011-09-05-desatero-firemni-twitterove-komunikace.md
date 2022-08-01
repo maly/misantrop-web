@@ -4,7 +4,7 @@ title: Desatero firemní twitterové komunikace
 date: 2011-09-05T11:14:00+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/desatero-firemni-twitterove-komunikace/
+guid: https://misantrop.eu/desatero-firemni-twitterove-komunikace/
 permalink: /desatero-firemni-twitterove-komunikace/
 posterous_869f584d59a8506ee6c71421743d2e0f_post_id:
   - "68506895"

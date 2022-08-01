@@ -4,7 +4,7 @@ title: Pan Ix a funkční prokrastinace
 date: 2013-06-05T20:59:52+01:00
 author: Martin Malý
 layout: post
-guid: https://misantrop.info/?p=1320
+guid: https://misantrop.eu/?p=1320
 permalink: /pan-ix-a-funkcni-prokrastinace/
 dsq_thread_id:
   - "1366470347"
